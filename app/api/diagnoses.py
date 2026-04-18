@@ -599,4 +599,11 @@ async def submit_feedback(
     )
     await db.commit()
 
+    # Refresh feedback weights so the knowledge graph uses updated accuracy data
+    try:
+        from app.services.feedback_weights import compute_and_cache_weights
+        await compute_and_cache_weights(db)
+    except Exception:
+        pass  # Non-critical, weights refresh hourly anyway
+
     return DiagnosisFeedbackResponse.model_validate(feedback)

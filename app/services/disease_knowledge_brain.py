@@ -34,12 +34,47 @@ _AIIMS_SYLLABUS_PATH = _PROJECT_ROOT / "disease_books" / "knowledge_index_aiims_
 _CACHE: dict[str, str] | None = None
 
 
+def _load_index_from_gcs() -> dict[str, str] | None:
+    """Try loading knowledge indexes from GCS bucket."""
+    try:
+        from app.core.config import get_settings
+        settings = get_settings()
+        if not settings.GCS_BUCKET:
+            return None
+        from google.cloud import storage
+        client = storage.Client()
+        bucket = client.bucket(settings.GCS_BUCKET)
+        merged: dict[str, str] = {}
+        for blob_name in [
+            "knowledge_graph/knowledge_index.json",
+            "knowledge_graph/knowledge_index_aiims.json",
+            "knowledge_graph/knowledge_index_aiims_syllabus.json",
+        ]:
+            blob = bucket.blob(blob_name)
+            if blob.exists():
+                data = json.loads(blob.download_as_text())
+                merged.update(data)
+        if merged:
+            logger.info("Loaded %d conditions from GCS", len(merged))
+            return merged
+    except Exception as e:
+        logger.debug("GCS index load failed (will try local): %s", e)
+    return None
+
+
 def _load_index() -> dict[str, str]:
-    """Load the disease knowledge index. Cached after first load.
-    Merges Wikipedia, AIIMS/StatPearls, and official AIIMS syllabus when available."""
+    """Load the disease knowledge index. Priority: GCS → local files. Cached after first load."""
     global _CACHE
     if _CACHE is not None:
         return _CACHE
+
+    # Try GCS first (updateable without redeploy)
+    gcs_data = _load_index_from_gcs()
+    if gcs_data:
+        _CACHE = gcs_data
+        return _CACHE
+
+    # Fall back to local files
     merged: dict[str, str] = {}
     try:
         if _KNOWLEDGE_INDEX_PATH.exists():
@@ -52,7 +87,7 @@ def _load_index() -> dict[str, str]:
             with open(_AIIMS_SYLLABUS_PATH) as f:
                 merged.update(json.load(f))
         _CACHE = merged
-        logger.info("Loaded disease knowledge for %d conditions (incl. AIIMS syllabus)", len(_CACHE))
+        logger.info("Loaded disease knowledge for %d conditions from local files", len(_CACHE))
         return _CACHE
     except Exception as e:
         logger.warning("Failed to load disease knowledge: %s", e)

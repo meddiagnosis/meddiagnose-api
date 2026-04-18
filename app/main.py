@@ -68,8 +68,10 @@ async def lifespan(app: FastAPI):
 
     logger.info(f"MedDiagnose API started (v{settings.APP_VERSION}, debug={settings.DEBUG})")
 
-    # Start periodic BigQuery sync (every 15 minutes)
-    bq_task = None
+    # Start periodic background tasks
+    bg_tasks = []
+
+    # BigQuery sync (every 15 minutes)
     if settings.BQ_EXPORT_ENABLED:
         async def _bq_sync_loop():
             from app.tasks.bq_sync import sync_pending_feedback
@@ -77,13 +79,26 @@ async def lifespan(app: FastAPI):
                 await asyncio.sleep(900)
                 await sync_pending_feedback()
 
-        bq_task = asyncio.create_task(_bq_sync_loop())
+        bg_tasks.append(asyncio.create_task(_bq_sync_loop()))
         logger.info("BigQuery periodic sync started (every 15 min)")
+
+    # Feedback weights refresh (every hour)
+    async def _weights_loop():
+        from app.services.feedback_weights import refresh_weights
+        while True:
+            await asyncio.sleep(3600)
+            try:
+                await refresh_weights()
+            except Exception as e:
+                logger.debug("Feedback weights refresh failed: %s", e)
+
+    bg_tasks.append(asyncio.create_task(_weights_loop()))
+    logger.info("Feedback weights refresh started (every 1 hour)")
 
     yield
 
-    if bq_task:
-        bq_task.cancel()
+    for t in bg_tasks:
+        t.cancel()
     await close_producer()
     await close_redis()
     await engine.dispose()
