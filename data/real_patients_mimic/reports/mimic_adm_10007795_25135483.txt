@@ -1,0 +1,61 @@
+Laboratory Report - MIMIC-IV Demo (De-identified)
+Patient ID: 10007795 | Admission: 25135483 | Age: 53 | Gender: F
+Source: Beth Israel Deaconess Medical Center (de-identified)
+
+Laboratory Results
+--------------------------------------------------
+MCHC: 30.4 % (Ref: 31-35) [abnormal]
+MCH: 25.5 pg (Ref: 27-32) [abnormal]
+Neutrophils: 87.9 % (Ref: 50-70) [abnormal]
+Platelet Count: 515 K/uL (Ref: 150-440) [abnormal]
+Red Blood Cells: 2.92 m/uL (Ref: 4.2-5.4) [abnormal]
+Hematocrit: 24.5 % (Ref: 36-48) [abnormal]
+RDW: 15.9 % (Ref: 10.5-15.5) [abnormal]
+Monocytes: 4.7 % (Ref: 2-11)
+MCV: 84 fL (Ref: 82-98)
+Eosinophils: 0.7 % (Ref: 0-4)
+Lymphocytes: 6.3 % (Ref: 18-42) [abnormal]
+White Blood Cells: 17.6 K/uL (Ref: 4-11) [abnormal]
+Hemoglobin: 7.5 g/dL (Ref: 12-16) [abnormal]
+Basophils: 0.3 % (Ref: 0-2)
+Anion Gap: 14 mEq/L (Ref: 8-20)
+Albumin: 3.3 g/dL (Ref: 3.5-5.2) [abnormal]
+Lactate Dehydrogenase (LD): 109 IU/L (Ref: 94-250)
+Potassium: 3.7 mEq/L (Ref: 3.3-5.1)
+Magnesium: 1.6 mg/dL (Ref: 1.6-2.6)
+Bicarbonate: 28 mEq/L (Ref: 22-32)
+Calcium, Total: 8.9 mg/dL (Ref: 8.4-10.3)
+Alkaline Phosphatase: 152 IU/L (Ref: 35-105) [abnormal]
+Amylase: 17 IU/L (Ref: 0-100)
+Sodium: 133 mEq/L (Ref: 133-145)
+Urea Nitrogen: 8 mg/dL (Ref: 6-20)
+Asparate Aminotransferase (AST): 12 IU/L (Ref: 0-40)
+Glucose: ___ mg/dL (Ref: 70-100) [abnormal]
+Chloride: 95 mEq/L (Ref: 96-108) [abnormal]
+Phosphate: 3.8 mg/dL (Ref: 2.7-4.5)
+Lipase: 18 IU/L (Ref: 0-60)
+Estimated GFR (MDRD equation):
+Alanine Aminotransferase (ALT): 13 IU/L (Ref: 0-40)
+Creatinine: 0.6 mg/dL (Ref: 0.4-1.1)
+Bilirubin, Total: 0.2 mg/dL (Ref: 0-1.5)
+INR(PT): 1.5  (Ref: 0.9-1.1) [abnormal]
+PT: 16.0 sec (Ref: 9.4-12.5) [abnormal]
+PTT: 27.8 sec (Ref: 25-36.5)
+Length of Urine Collection:
+Urine tube, held: HOLD.  SPECIMEN TO BE HELD 48 HOURS AND DISCARDED.
+Urobilinogen:  mg/dL (Ref: 0.2-1)
+Leukocytes:
+Blood:
+Protein:  mg/dL
+pH: 5.5 units (Ref: 5-8)
+Ketone:  mg/dL
+Specific Gravity: 1.003   (Ref: 1.001-1.035)
+Glucose:  mg/dL
+Urine Appearance:
+Bilirubin:  mg/dL
+Nitrite:
+Urine Color:
+Vancomycin: 7.7 ug/mL (Ref: 10-20) [abnormal]
+Amylase, Ascites: 2 IU/L
+
+Discharge diagnoses (ICD): 1179, 2859, 2720, V4571, V8741

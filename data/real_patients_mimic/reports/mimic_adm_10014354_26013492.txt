@@ -1,0 +1,61 @@
+Laboratory Report - MIMIC-IV Demo (De-identified)
+Patient ID: 10014354 | Admission: 26013492 | Age: 60 | Gender: M
+Source: Beth Israel Deaconess Medical Center (de-identified)
+
+Laboratory Results
+--------------------------------------------------
+Thyroid Stimulating Hormone: 4.0 uIU/mL (Ref: 0.27-4.2)
+Creatinine: 0.9 mg/dL (Ref: 0.5-1.2)
+Chloride: 105 mEq/L (Ref: 96-108)
+Anion Gap: 14 mEq/L (Ref: 8-20)
+Sodium: 140 mEq/L (Ref: 133-145)
+L: 15
+Bicarbonate: 25 mEq/L (Ref: 22-32)
+Phosphate: 3.7 mg/dL (Ref: 2.7-4.5)
+Urea Nitrogen: 27 mg/dL (Ref: 6-20) [abnormal]
+Calcium, Total: 8.1 mg/dL (Ref: 8.4-10.3) [abnormal]
+Potassium: 3.5 mEq/L (Ref: 3.3-5.1)
+Glucose: ___ mg/dL (Ref: 70-100)
+H: 7
+Amylase: 96 IU/L (Ref: 0-100)
+Magnesium: 2.0 mg/dL (Ref: 1.6-2.6)
+I: 0
+Lipase: 111 IU/L (Ref: 0-60) [abnormal]
+RDW: 17.9 % (Ref: 10.5-15.5) [abnormal]
+Hemoglobin: 8.0 g/dL (Ref: 13.7-17.5) [abnormal]
+Red Blood Cells: 3.05 m/uL (Ref: 4.6-6.1) [abnormal]
+Hematocrit: 24.7 % (Ref: 40-51) [abnormal]
+MCH: 26.2 pg (Ref: 26-32)
+MCHC: 32.4 g/dL (Ref: 32-37)
+Platelet Count: 226 K/uL (Ref: 150-400)
+MCV: 81 fL (Ref: 82-98) [abnormal]
+White Blood Cells: 40.9 K/uL (Ref: 4-10) [abnormal]
+RDW-SD: 47.3 fL (Ref: 35.1-46.3) [abnormal]
+Absolute Neutrophil Count: 35.58 K/uL (Ref: 1.6-6.1) [abnormal]
+Myelocytes: 0 % (Ref: 0-0)
+Absolute Monocyte Count: 0.41 K/uL (Ref: 0.2-0.8)
+Neutrophils: 87 % (Ref: 34-71) [abnormal]
+Monocytes: 1 % (Ref: 5-13) [abnormal]
+Eosinophils: 0 % (Ref: 1-7)
+Absolute Eosinophil Count: 0.00 K/uL (Ref: 0.04-0.54) [abnormal]
+Lymphocytes: 12 % (Ref: 19-53) [abnormal]
+Atypical Lymphocytes: 0 % (Ref: 0-0)
+Absolute Lymphocyte Count: 4.91 K/uL (Ref: 1.2-3.7) [abnormal]
+Bands: 0 % (Ref: 0-5)
+Metamyelocytes: 0 % (Ref: 0-0)
+Absolute Basophil Count: 0.00 K/uL (Ref: 0.01-0.08) [abnormal]
+Basophils: 0 % (Ref: 0-1)
+Poikilocytosis:
+Bite Cells:
+Basophilic Stippling:
+Ovalocytes:
+Elliptocytes:
+Macrocytes:
+Polychromasia:
+Hypochromia:
+Teardrop Cells:
+Microcytes:
+Anisocytosis:
+Estimated GFR (MDRD equation):
+
+Discharge diagnoses (ICD): N179, E1121, E861, C6212, I480

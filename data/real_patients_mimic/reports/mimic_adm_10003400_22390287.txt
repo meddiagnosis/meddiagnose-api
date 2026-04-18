@@ -1,0 +1,55 @@
+Laboratory Report - MIMIC-IV Demo (De-identified)
+Patient ID: 10003400 | Admission: 22390287 | Age: 72 | Gender: F
+Source: Beth Israel Deaconess Medical Center (de-identified)
+
+Laboratory Results
+--------------------------------------------------
+MCH: 29.7 pg (Ref: 27-32)
+White Blood Cells: 2.5 K/uL (Ref: 4-11) [abnormal]
+MCV: 89 fL (Ref: 82-98)
+Hemoglobin: 9.8 g/dL (Ref: 12-16) [abnormal]
+Platelet Count: 149 K/uL (Ref: 150-440) [abnormal]
+Hematocrit: 29.2 % (Ref: 36-48) [abnormal]
+RDW: 17.6 % (Ref: 10.5-15.5) [abnormal]
+MCHC: 33.5 % (Ref: 31-35)
+Red Blood Cells: 3.30 m/uL (Ref: 4.2-5.4) [abnormal]
+Magnesium: 2.1 mg/dL (Ref: 1.6-2.6)
+Chloride: 109 mEq/L (Ref: 96-108) [abnormal]
+Bicarbonate: 28 mEq/L (Ref: 22-32)
+Potassium: 3.7 mEq/L (Ref: 3.3-5.1)
+Phosphate: 2.1 mg/dL (Ref: 2.7-4.5) [abnormal]
+Sodium: 142 mEq/L (Ref: 133-145)
+Creatinine: 0.7 mg/dL (Ref: 0.4-1.1)
+Urea Nitrogen: 17 mg/dL (Ref: 6-20)
+Glucose: ___ mg/dL (Ref: 70-100)
+Calcium, Total: 8.1 mg/dL (Ref: 8.4-10.3) [abnormal]
+Anion Gap: 9 mEq/L (Ref: 8-20)
+PTT: 29.6 sec (Ref: 25-36.5)
+INR(PT): 1.7  (Ref: 0.9-1.1) [abnormal]
+PT: 19.1 sec (Ref: 9.4-12.5) [abnormal]
+Monocytes: 16.1 % (Ref: 2-11) [abnormal]
+Basophils: 0.5 % (Ref: 0-2)
+Eosinophils: 3.3 % (Ref: 0-4)
+Lymphocytes: 28.8 % (Ref: 18-42)
+Neutrophils: 51.2 % (Ref: 50-70)
+Atypical Lymphocytes: 1 % (Ref: 0-0) [abnormal]
+Myelocytes: 0 % (Ref: 0-0)
+Metamyelocytes: 0 % (Ref: 0-0)
+Bands: 2 % (Ref: 0-5)
+Microcytes:
+Platelet Smear:
+Anisocytosis:
+Polychromasia:
+Hypochromia:
+Poikilocytosis:
+Macrocytes:
+Estimated GFR (MDRD equation):
+Albumin: 2.8 g/dL (Ref: 3.5-5.2) [abnormal]
+Parathyroid Hormone: 308 pg/mL (Ref: 15-65) [abnormal]
+25-OH Vitamin D: ___ ng/mL (Ref: 30-60) [abnormal]
+Alanine Aminotransferase (ALT): 14 IU/L (Ref: 0-40)
+Bilirubin, Total: 0.2 mg/dL (Ref: 0-1.5)
+Alkaline Phosphatase: 78 IU/L (Ref: 35-105)
+Asparate Aminotransferase (AST): 13 IU/L (Ref: 0-40)
+
+Discharge diagnoses (ICD): 40390, 5921, 5853, 3383, 42731

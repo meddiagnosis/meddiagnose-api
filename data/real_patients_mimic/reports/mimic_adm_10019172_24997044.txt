@@ -1,0 +1,77 @@
+Laboratory Report - MIMIC-IV Demo (De-identified)
+Patient ID: 10019172 | Admission: 24997044 | Age: 63 | Gender: F
+Source: Beth Israel Deaconess Medical Center (de-identified)
+
+Laboratory Results
+--------------------------------------------------
+Alkaline Phosphatase: 121 IU/L (Ref: 35-105) [abnormal]
+Alanine Aminotransferase (ALT): 22 IU/L (Ref: 0-40)
+Asparate Aminotransferase (AST): 18 IU/L (Ref: 0-40)
+Sodium: 144 mEq/L (Ref: 133-145)
+Amylase: 73 IU/L (Ref: 0-100)
+Potassium: 4.0 mEq/L (Ref: 3.3-5.1)
+Bilirubin, Total: 0.2 mg/dL (Ref: 0-1.5)
+Creatinine: 0.7 mg/dL (Ref: 0.4-1.1)
+Urea Nitrogen: 21 mg/dL (Ref: 6-20) [abnormal]
+Chloride: 103 mEq/L (Ref: 96-108)
+Estimated GFR (MDRD equation):
+Anion Gap: 15 mEq/L (Ref: 8-20)
+Lipase: 27 IU/L (Ref: 0-60)
+Albumin: 4.6 g/dL (Ref: 3.5-5.2)
+Glucose: ___ mg/dL (Ref: 70-100)
+Lactate Dehydrogenase (LD): 163 IU/L (Ref: 94-250)
+Magnesium: 2.0 mg/dL (Ref: 1.6-2.6)
+Bicarbonate: 30 mEq/L (Ref: 22-32)
+Platelet Count: 307 K/uL (Ref: 150-440)
+MCHC: 32.6 % (Ref: 31-35)
+White Blood Cells: 8.3 K/uL (Ref: 4-11)
+Hematocrit: 40.5 % (Ref: 36-48)
+MCH: 29.1 pg (Ref: 27-32)
+MCV: 89 fL (Ref: 82-98)
+Hemoglobin: 13.2 g/dL (Ref: 12-16)
+RDW: 14.6 % (Ref: 10.5-15.5)
+Red Blood Cells: 4.53 m/uL (Ref: 4.2-5.4)
+INR(PT): 1.0  (Ref: 0.9-1.1)
+PTT: 22.4 sec (Ref: 22-35)
+PT: 11.6 sec (Ref: 10.4-13.4)
+eAG: ___ mg/dL (Ref: 91-123) [abnormal]
+% Hemoglobin A1c: ___ % (Ref: 4.8-5.9) [abnormal]
+Bacteria: RARE
+RBC: 0-2 #/hpf (Ref: 0-2)
+WBC: 0-2 #/hpf (Ref: 0-5)
+Yeast: NONE
+Epithelial Cells: 0-2 #/hpf
+Bilirubin: NEG mg/dL
+Leukocytes: TR
+Protein: NEG mg/dL
+Urine Color: Yellow
+pH: 5.0 units (Ref: 5-8)
+Urobilinogen: NEG mg/dL (Ref: 0.2-1)
+Nitrite: NEG
+Glucose: NEG mg/dL
+Ketone: NEG mg/dL
+Blood: TR
+Urine Appearance: Clear
+Specific Gravity: 1.029   (Ref: 1.001-1.035)
+Ventilator: CONTROLLED.
+Specimen Type: ART.
+Intubated: INTUBATED.
+pCO2: ___ mm Hg (Ref: 35-45) [abnormal]
+Potassium, Whole Blood: 4.2 mEq/L (Ref: 3.5-5.3)
+Calculated Total CO2: 29 mEq/L (Ref: 21-30)
+Hematocrit, Calculated: 37 %
+Hemoglobin: 12.2 g/dL (Ref: 12-16)
+Glucose: 108 mg/dL (Ref: 70-105) [abnormal]
+Base Excess: -1 mEq/L
+Lactate: 1.0 mmol/L (Ref: 0.5-2)
+Chloride, Whole Blood: 105 mEq/L (Ref: 100-112)
+Sodium, Whole Blood: 142 mEq/L (Ref: 135-148)
+pH: ___ units (Ref: 7.35-7.45) [abnormal]
+pO2: 223 mm Hg (Ref: 85-105) [abnormal]
+Free Calcium: 1.21 mmol/L (Ref: 1.12-1.32)
+Fibrinogen, Functional: 207 mg/dL (Ref: 150-400)
+Oxygen Saturation: 71 %
+Transitional Epithelial Cells: 0-2 #/hpf
+Red Top Hold:
+
+Discharge diagnoses (ICD): 42731, 4271, 3051, 4241, 4019

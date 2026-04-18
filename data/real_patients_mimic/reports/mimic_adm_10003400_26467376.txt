@@ -1,0 +1,64 @@
+Laboratory Report - MIMIC-IV Demo (De-identified)
+Patient ID: 10003400 | Admission: 26467376 | Age: 72 | Gender: F
+Source: Beth Israel Deaconess Medical Center (de-identified)
+
+Laboratory Results
+--------------------------------------------------
+Troponin T: ___ ng/mL (Ref: 0-0.01)
+Lactate: ___ mmol/L (Ref: 0.5-2)
+Urobilinogen:  mg/dL (Ref: 0.2-1)
+Leukocytes:
+Nitrite:
+pH: 6.0 units (Ref: 5-8)
+Protein: 600 mg/dL
+Urine Color: DkAmb
+Ketone:  mg/dL
+Glucose:  mg/dL
+Blood:
+Urine Appearance:
+Specific Gravity: >=1.035   (Ref: 1.001-1.035)
+Bilirubin:  mg/dL
+Epithelial Cells: 7 #/hpf
+Yeast: MOD
+Bacteria:
+RBC: 67 #/hpf (Ref: 0-2) [abnormal]
+WBC:  #/hpf (Ref: 0-5)
+Cortisol: ___ ug/dL (Ref: 2-20) [abnormal]
+INR(PT): ___  (Ref: 0.9-1.1) [abnormal]
+PTT: 43.3 sec (Ref: 25-36.5) [abnormal]
+PT: 68.5 sec (Ref: 9.4-12.5) [abnormal]
+Urea Nitrogen: 15 mg/dL (Ref: 6-20)
+Magnesium: 1.8 mg/dL (Ref: 1.6-2.6)
+Phosphate: 2.1 mg/dL (Ref: 2.7-4.5) [abnormal]
+Anion Gap: 12 mEq/L (Ref: 8-20)
+Creatinine: 0.8 mg/dL (Ref: 0.4-1.1)
+Glucose: ___ mg/dL (Ref: 70-100)
+Calcium, Total: 7.5 mg/dL (Ref: 8.4-10.3) [abnormal]
+Sodium: 136 mEq/L (Ref: 133-145)
+Bicarbonate: 23 mEq/L (Ref: 22-32)
+Chloride: 104 mEq/L (Ref: 96-108)
+Potassium: 3.0 mEq/L (Ref: 3.3-5.1) [abnormal]
+Eosinophils: 2.1 % (Ref: 0-4)
+Lymphocytes: 15.4 % (Ref: 18-42) [abnormal]
+Neutrophils: 69.2 % (Ref: 50-70)
+Basophils: 0.1 % (Ref: 0-2)
+Monocytes: 13.2 % (Ref: 2-11) [abnormal]
+Hemoglobin: 7.6 g/dL (Ref: 12-16) [abnormal]
+MCHC: 33.4 % (Ref: 31-35)
+Hematocrit: 22.8 % (Ref: 36-48) [abnormal]
+MCV: 87 fL (Ref: 82-98)
+RDW: 19.3 % (Ref: 10.5-15.5) [abnormal]
+MCH: 29.1 pg (Ref: 27-32)
+White Blood Cells: 2.9 K/uL (Ref: 4-11) [abnormal]
+Red Blood Cells: 2.62 m/uL (Ref: 4.2-5.4) [abnormal]
+Platelet Count: 159 K/uL (Ref: 150-440)
+WBC Clumps:
+Urine Mucous:
+Hyaline Casts: 8 #/lpf (Ref: 0-0) [abnormal]
+Bilirubin, Total: 0.5 mg/dL (Ref: 0-1.5)
+Alkaline Phosphatase: 77 IU/L (Ref: 35-105)
+Asparate Aminotransferase (AST): 16 IU/L (Ref: 0-40)
+Alanine Aminotransferase (ALT): 12 IU/L (Ref: 0-40)
+Fibrinogen, Functional: 430 mg/dL (Ref: 180-400) [abnormal]
+
+Discharge diagnoses (ICD): 5853, E9320, V5861, 7905, 5934

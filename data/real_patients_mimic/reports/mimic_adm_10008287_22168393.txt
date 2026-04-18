@@ -1,0 +1,47 @@
+Laboratory Report - MIMIC-IV Demo (De-identified)
+Patient ID: 10008287 | Admission: 22168393 | Age: 43 | Gender: F
+Source: Beth Israel Deaconess Medical Center (de-identified)
+
+Laboratory Results
+--------------------------------------------------
+pCO2: 33 mm Hg (Ref: 35-45) [abnormal]
+Calculated Total CO2: 22 mEq/L (Ref: 21-30)
+pH: 7.41 units (Ref: 7.35-7.45)
+Base Excess: -2 mEq/L
+Specimen Type: ART.
+pO2: 348 mm Hg (Ref: 85-105) [abnormal]
+Chloride, Whole Blood: 103 mEq/L (Ref: 96-108)
+Hematocrit, Calculated: 37 %
+Hemoglobin: 12.2 g/dL (Ref: 12-16)
+Potassium, Whole Blood: 3.5 mEq/L (Ref: 3.3-5.1)
+Free Calcium: 1.01 mmol/L (Ref: 1.12-1.32) [abnormal]
+Sodium, Whole Blood: 133 mEq/L (Ref: 133-145)
+Glucose: 98 mg/dL (Ref: 70-105)
+Lactate: 0.6 mmol/L (Ref: 0.5-2)
+RDW: 12.6 % (Ref: 10.5-15.5)
+MCV: 81 fL (Ref: 82-98) [abnormal]
+Red Blood Cells: 4.38 m/uL (Ref: 3.9-5.2)
+White Blood Cells: 14.2 K/uL (Ref: 4-10) [abnormal]
+Hemoglobin: 11.6 g/dL (Ref: 11.2-15.7)
+MCHC: 32.8 g/dL (Ref: 32-37)
+Platelet Count: 201 K/uL (Ref: 150-400)
+MCH: 26.5 pg (Ref: 26-32)
+Hematocrit: 35.4 % (Ref: 34-45)
+RDW-SD: 36.6 fL (Ref: 35.1-46.3)
+Glucose: ___ mg/dL (Ref: 70-100) [abnormal]
+Urea Nitrogen: 8 mg/dL (Ref: 6-20)
+Creatinine: 0.5 mg/dL (Ref: 0.4-1.1)
+Chloride: 107 mEq/L (Ref: 96-108)
+Calcium, Total: 8.3 mg/dL (Ref: 8.4-10.3) [abnormal]
+Bicarbonate: 24 mEq/L (Ref: 22-32)
+Phosphate: 3.0 mg/dL (Ref: 2.7-4.5)
+Anion Gap: 14 mEq/L (Ref: 8-20)
+Potassium: 3.7 mEq/L (Ref: 3.3-5.1)
+Sodium: 141 mEq/L (Ref: 133-145)
+Magnesium: 1.9 mg/dL (Ref: 1.6-2.6)
+Estimated GFR (MDRD equation):
+PT: 13.0 sec (Ref: 9.4-12.5) [abnormal]
+INR(PT): 1.2  (Ref: 0.9-1.1) [abnormal]
+PTT: 27.6 sec (Ref: 25-36.5)
+
+Discharge diagnoses (ICD): G40909, Z85850, D1802

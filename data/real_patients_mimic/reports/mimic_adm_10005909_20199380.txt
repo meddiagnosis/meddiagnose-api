@@ -1,0 +1,61 @@
+Laboratory Report - MIMIC-IV Demo (De-identified)
+Patient ID: 10005909 | Admission: 20199380 | Age: 40 | Gender: F
+Source: Beth Israel Deaconess Medical Center (de-identified)
+
+Laboratory Results
+--------------------------------------------------
+PTT: 87.3 sec (Ref: 25-36.5) [abnormal]
+Hematocrit: 33.7 % (Ref: 34-45) [abnormal]
+Platelet Count: 198 K/uL (Ref: 150-400)
+RDW: 13.2 % (Ref: 10.5-15.5)
+White Blood Cells: 11.9 K/uL (Ref: 4-10) [abnormal]
+RDW-SD: 44.8 fL (Ref: 35.1-46.3)
+Red Blood Cells: 3.82 m/uL (Ref: 3.9-5.2) [abnormal]
+Hemoglobin: 11.8 g/dL (Ref: 11.2-15.7)
+MCHC: 33.4 g/dL (Ref: 32-37)
+MCH: 30.9 pg (Ref: 26-32)
+MCV: 92 fL (Ref: 82-98)
+INR(PT): 1.1  (Ref: 0.9-1.1)
+PT: 11.7 sec (Ref: 9.4-12.5)
+Fibrinogen, Functional: 316 mg/dL (Ref: 180-400)
+Anion Gap: 9 mEq/L (Ref: 8-20)
+Phosphate: 3.4 mg/dL (Ref: 2.7-4.5)
+Magnesium: 2.0 mg/dL (Ref: 1.6-2.6)
+Glucose: ___ mg/dL (Ref: 70-100) [abnormal]
+Potassium: 3.4 mEq/L (Ref: 3.3-5.1)
+Chloride: 102 mEq/L (Ref: 96-108)
+Creatinine: 0.6 mg/dL (Ref: 0.4-1.1)
+Calcium, Total: 8.4 mg/dL (Ref: 8.4-10.3)
+Urea Nitrogen: 11 mg/dL (Ref: 6-20)
+Sodium: 136 mEq/L (Ref: 133-145)
+Bicarbonate: 28 mEq/L (Ref: 22-32)
+Lactate: 0.9 mmol/L (Ref: 0.5-2)
+I: 1
+H: 1
+L: 5
+Estimated GFR (MDRD equation):
+pH: 7.37 units (Ref: 7.35-7.45)
+Specimen Type: VEN.
+Potassium, Whole Blood: 4.1 mEq/L (Ref: 3.3-5.1)
+Glucose: 137 mg/dL (Ref: 70-105) [abnormal]
+Free Calcium: 1.04 mmol/L (Ref: 1.12-1.32) [abnormal]
+Blood:
+Urobilinogen: 2 mg/dL (Ref: 0.2-1) [abnormal]
+Specific Gravity: 1.016   (Ref: 1.001-1.035)
+Ketone: 40 mg/dL
+RBC: 3 #/hpf (Ref: 0-2) [abnormal]
+Urine Mucous:
+Leukocytes:
+Yeast: NONE
+Epithelial Cells: 0 #/hpf
+Nitrite:
+Urine Color:
+Urine Appearance:
+pH: 6.5 units (Ref: 5-8)
+Protein:  mg/dL
+Bacteria:
+Bilirubin:  mg/dL
+WBC: 1 #/hpf (Ref: 0-5)
+Glucose:  mg/dL
+
+Discharge diagnoses (ICD): I9751, I871, Y838, Y92234, I82422

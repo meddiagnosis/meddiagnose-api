@@ -1,0 +1,105 @@
+Laboratory Report - MIMIC-IV Demo (De-identified)
+Patient ID: 10014354 | Admission: 29757856 | Age: 60 | Gender: M
+Source: Beth Israel Deaconess Medical Center (de-identified)
+
+Laboratory Results
+--------------------------------------------------
+Blue Top Hold: HOLD.  DISCARD GREATER THAN 24 HRS OLD.
+Green Top Hold (plasma): HOLD.  DISCARD GREATER THAN 4 HOURS OLD.
+Albumin: 3.7 g/dL (Ref: 3.5-5.2)
+Alanine Aminotransferase (ALT): 57 IU/L (Ref: 0-40) [abnormal]
+Urea Nitrogen: 17 mg/dL (Ref: 6-20)
+Anion Gap: 14 mEq/L (Ref: 10-18)
+Lipase: 25 IU/L (Ref: 0-60)
+Creatinine: 1.0 mg/dL (Ref: 0.5-1.2)
+H: 31
+Potassium: 4.3 mEq/L (Ref: 3.5-5.4)
+I: 1
+Sodium: 133 mEq/L (Ref: 135-147) [abnormal]
+L: 61
+Bilirubin, Total: 0.2 mg/dL (Ref: 0-1.5)
+Alkaline Phosphatase: 115 IU/L (Ref: 40-130)
+Asparate Aminotransferase (AST): 42 IU/L (Ref: 0-40) [abnormal]
+Estimated GFR (MDRD equation):
+Chloride: 98 mEq/L (Ref: 96-108)
+Glucose: ___ mg/dL (Ref: 70-100) [abnormal]
+Bicarbonate: 21 mEq/L (Ref: 22-32) [abnormal]
+Troponin T:  ng/mL (Ref: 0-0.01)
+Lymphocytes: 52 % (Ref: 19-53)
+Absolute Monocyte Count: 0.32 K/uL (Ref: 0.2-0.8)
+Poikilocytosis:  N/A [abnormal]
+Absolute Eosinophil Count: 0.00 K/uL (Ref: 0.04-0.54) [abnormal]
+Absolute Neutrophil Count: 4.77 K/uL (Ref: 1.6-6.1)
+Polychromasia:  N/A [abnormal]
+Neutrophils: 45 % (Ref: 34-71)
+Ovalocytes:  N/A [abnormal]
+Teardrop Cells:  N/A [abnormal]
+Absolute Basophil Count: 0.00 K/uL (Ref: 0.01-0.08) [abnormal]
+Absolute Lymphocyte Count: 5.51 K/uL (Ref: 1.2-3.7) [abnormal]
+Basophils: 0 % (Ref: 0-1)
+Platelet Smear:  N/A [abnormal]
+Basophilic Stippling:  N/A [abnormal]
+Eosinophils: 0 % (Ref: 1-7) [abnormal]
+RBC Morphology:  N/A [abnormal]
+Monocytes: 3 % (Ref: 5-13) [abnormal]
+Uric Acid: 7.0 mg/dL (Ref: 3.4-7)
+Hematocrit: 32.8 % (Ref: 40-51) [abnormal]
+MCH: 25.4 pg (Ref: 26-32) [abnormal]
+RDW: 15.7 % (Ref: 10.5-15.5) [abnormal]
+Platelet Count: 149 K/uL (Ref: 150-400) [abnormal]
+MCV: 84 fL (Ref: 82-98)
+RDW-SD: 47.3 fL (Ref: 35.1-46.3) [abnormal]
+Hemoglobin: 10.0 g/dL (Ref: 13.7-17.5) [abnormal]
+MCHC: 30.5 g/dL (Ref: 32-37) [abnormal]
+White Blood Cells: 10.6 K/uL (Ref: 4-10) [abnormal]
+Red Blood Cells: 3.93 m/uL (Ref: 4.6-6.1) [abnormal]
+Uhold: HOLD.
+Length of Urine Collection:
+Ketone:  mg/dL (Ref: 0-0)
+Bilirubin:  N/A
+Urobilinogen:  mg/dL (Ref: 0.2-1)
+Nitrite:  N/A
+Specific Gravity: 1.015   (Ref: 1.001-1.035)
+pH: 7.5 units (Ref: 5-8)
+Urine Color:  N/A
+Urine Appearance:  N/A
+Glucose: 1000 mg/dL (Ref: 0-0) [abnormal]
+Leukocytes:  N/A
+Protein:  mg/dL (Ref: 0-0)
+Blood:  N/A
+Schistocytes:  N/A [abnormal]
+Other Cells: ___ % (Ref: 0-0) [abnormal]
+Hypochromia:  N/A [abnormal]
+Microcytes:  N/A [abnormal]
+Anisocytosis:  N/A [abnormal]
+Lactate Dehydrogenase (LD): 216 IU/L (Ref: 94-250)
+Calcium, Total: 8.9 mg/dL (Ref: 8.4-10.3)
+Magnesium: 1.9 mg/dL (Ref: 1.6-2.6)
+Phosphate: 3.5 mg/dL (Ref: 2.7-4.5)
+Amylase: 15 IU/L (Ref: 0-100)
+Lactate: 2.2 mmol/L (Ref: 0.5-2) [abnormal]
+Macrocytes:  N/A [abnormal]
+INR(PT): 1.1  (Ref: 0.9-1.1)
+PTT: 33.6 sec (Ref: 25-36.5)
+PT: 11.6 sec (Ref: 9.4-12.5)
+Folate: 14 ng/mL (Ref: 2-20)
+25-OH Vitamin D: 13 ng/mL (Ref: 30-60) [abnormal]
+Vitamin B12: 551 pg/mL (Ref: 240-900)
+Spherocytes:  N/A [abnormal]
+XUCU: DONE
+Urine Mucous:  /hpf [abnormal]
+RBC: 1 #/hpf (Ref: 0-2)
+Yeast: NONE /hpf
+Hyaline Casts: 17 #/lpf (Ref: 0-0) [abnormal]
+Transitional Epithelial Cells:  #/hpf
+UCU2:
+WBC: 2 #/hpf (Ref: 0-5)
+Bacteria:  /hpf
+Epithelial Cells: 1 #/hpf
+Creatinine, Urine: 145 mg/dL
+Sodium, Urine: 34 mEq/L
+Osmolality, Urine: 486 mOsm/kg
+Metamyelocytes: 1 % (Ref: 0-0) [abnormal]
+Blood, Occult:  N/A
+
+Discharge diagnoses (ICD): Z8547, N183, I252, E781, I69344

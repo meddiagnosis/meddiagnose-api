@@ -1,0 +1,51 @@
+Laboratory Report - MIMIC-IV Demo (De-identified)
+Patient ID: 10018845 | Admission: 21101111 | Age: 91 | Gender: M
+Source: Beth Israel Deaconess Medical Center (de-identified)
+
+Laboratory Results
+--------------------------------------------------
+Urobilinogen:  mg/dL (Ref: 0.2-1)
+Bilirubin:  mg/dL
+Epithelial Cells: 0 #/hpf
+Urine Mucous:
+pH: 6.0 units (Ref: 5-8)
+Ketone: 10 mg/dL
+Yeast: NONE
+WBC: 13 #/hpf (Ref: 0-5) [abnormal]
+RBC: 2 #/hpf (Ref: 0-2)
+Leukocytes:
+Urine Appearance:
+Protein: 30 mg/dL
+Glucose: 100 mg/dL
+Bacteria:
+Blood:
+Specific Gravity: 1.013   (Ref: 1.001-1.035)
+Nitrite:
+Urine Color:
+PT: 11.9 sec (Ref: 9.4-12.5)
+INR(PT): 1.1  (Ref: 0.9-1.1)
+PTT: 30.3 sec (Ref: 25-36.5)
+Glucose: ___ mg/dL (Ref: 70-100)
+Creatinine: 5.1 mg/dL (Ref: 0.5-1.2) [abnormal]
+Anion Gap: 15 mEq/L (Ref: 8-20)
+Urea Nitrogen: 57 mg/dL (Ref: 6-20) [abnormal]
+Calcium, Total: 8.3 mg/dL (Ref: 8.4-10.3) [abnormal]
+Albumin: 3.4 g/dL (Ref: 3.5-5.2) [abnormal]
+Sodium: 139 mEq/L (Ref: 133-145)
+Bicarbonate: 17 mEq/L (Ref: 22-32) [abnormal]
+Chloride: 111 mEq/L (Ref: 96-108) [abnormal]
+Phosphate: 5.6 mg/dL (Ref: 2.7-4.5) [abnormal]
+Potassium: 4.3 mEq/L (Ref: 3.3-5.1)
+Phenytoin: 1.5 ug/mL (Ref: 10-20) [abnormal]
+Magnesium: 2.2 mg/dL (Ref: 1.6-2.6)
+Platelet Count: 191 K/uL (Ref: 150-440)
+Hemoglobin: 7.8 g/dL (Ref: 14-18) [abnormal]
+Red Blood Cells: 2.48 m/uL (Ref: 4.6-6.2) [abnormal]
+White Blood Cells: 8.8 K/uL (Ref: 4-11)
+Hematocrit: 24.2 % (Ref: 40-52) [abnormal]
+MCH: 31.5 pg (Ref: 27-32)
+MCV: 97 fL (Ref: 82-98)
+MCHC: 32.4 % (Ref: 31-35)
+RDW: 12.3 % (Ref: 10.5-15.5)
+
+Discharge diagnoses (ICD): 5855, 85220, 78451, V4365, 7843

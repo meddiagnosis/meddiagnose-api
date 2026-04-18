@@ -1,0 +1,33 @@
+Laboratory Report - MIMIC-IV Demo (De-identified)
+Patient ID: 10003400 | Admission: 27296885 | Age: 72 | Gender: F
+Source: Beth Israel Deaconess Medical Center (de-identified)
+
+Laboratory Results
+--------------------------------------------------
+Sodium: 143 mEq/L (Ref: 133-145)
+Calcium, Total: 8.1 mg/dL (Ref: 8.4-10.3) [abnormal]
+Creatinine: 0.6 mg/dL (Ref: 0.4-1.1)
+Potassium: 3.0 mEq/L (Ref: 3.3-5.1) [abnormal]
+Bicarbonate: 33 mEq/L (Ref: 22-32) [abnormal]
+Anion Gap: 7 mEq/L (Ref: 8-20) [abnormal]
+Chloride: 106 mEq/L (Ref: 96-108)
+Glucose: ___ mg/dL (Ref: 70-100)
+Urea Nitrogen: 6 mg/dL (Ref: 6-20)
+Phosphate: 2.1 mg/dL (Ref: 2.7-4.5) [abnormal]
+Magnesium: 1.7 mg/dL (Ref: 1.6-2.6)
+MCH: 28.4 pg (Ref: 27-32)
+White Blood Cells: 2.7 K/uL (Ref: 4-11) [abnormal]
+MCHC: 32.7 % (Ref: 31-35)
+Red Blood Cells: 2.87 m/uL (Ref: 4.2-5.4) [abnormal]
+Hemoglobin: 8.1 g/dL (Ref: 12-16) [abnormal]
+Hematocrit: 24.9 % (Ref: 36-48) [abnormal]
+Platelet Count: 116 K/uL (Ref: 150-440) [abnormal]
+MCV: 87 fL (Ref: 82-98)
+RDW: 20.7 % (Ref: 10.5-15.5) [abnormal]
+INR(PT): 3.4  (Ref: 0.9-1.1) [abnormal]
+PT: 37.7 sec (Ref: 9.4-12.5) [abnormal]
+PTT: 33.4 sec (Ref: 25-36.5)
+Thyroid Stimulating Hormone: 2.6 uIU/mL (Ref: 0.27-4.2)
+Vitamin B12: 471 pg/mL (Ref: 240-900)
+
+Discharge diagnoses (ICD): 71536, 40390, 27800, V5861, 20300

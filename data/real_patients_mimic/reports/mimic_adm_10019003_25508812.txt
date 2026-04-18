@@ -1,0 +1,88 @@
+Laboratory Report - MIMIC-IV Demo (De-identified)
+Patient ID: 10019003 | Admission: 25508812 | Age: 65 | Gender: F
+Source: Beth Israel Deaconess Medical Center (de-identified)
+
+Laboratory Results
+--------------------------------------------------
+Alkaline Phosphatase: 60 IU/L (Ref: 35-105)
+Phosphate: 4.8 mg/dL (Ref: 2.7-4.5) [abnormal]
+Glucose: ___ mg/dL (Ref: 70-100)
+Asparate Aminotransferase (AST): 35 IU/L (Ref: 0-40)
+Sodium: ___ mEq/L (Ref: 135-147)
+Potassium: ___ mEq/L (Ref: 3.5-5.4)
+Magnesium: 1.9 mg/dL (Ref: 1.6-2.6)
+Urea Nitrogen: 16 mg/dL (Ref: 6-20)
+Uric Acid: 8.0 mg/dL (Ref: 2.4-5.7) [abnormal]
+H: 0
+Alanine Aminotransferase (ALT): 7 IU/L (Ref: 0-40)
+Chloride: 103 mEq/L (Ref: 96-108)
+L: 19
+Bilirubin, Total: 0.4 mg/dL (Ref: 0-1.5)
+Bicarbonate: 22 mEq/L (Ref: 22-32)
+Anion Gap: ___ mEq/L (Ref: 10-18)
+Creatinine: 1.1 mg/dL (Ref: 0.4-1.1)
+Calcium, Total: 8.2 mg/dL (Ref: 8.4-10.3) [abnormal]
+I: 0
+Albumin: 3.4 g/dL (Ref: 3.5-5.2) [abnormal]
+Creatine Kinase, MB Isoenzyme:  ng/mL (Ref: 0-10)
+Troponin T:  ng/mL (Ref: 0-0.01)
+MCV: 114 fL (Ref: 82-98) [abnormal]
+MCH: 32.6 pg (Ref: 26-32) [abnormal]
+Hemoglobin: 7.6 g/dL (Ref: 11.2-15.7) [abnormal]
+Red Blood Cells: 2.33 m/uL (Ref: 3.9-5.2) [abnormal]
+Platelet Count: 29 K/uL (Ref: 150-400) [abnormal]
+MCHC: 28.7 g/dL (Ref: 32-37) [abnormal]
+RDW-SD: 94.3 fL (Ref: 35.1-46.3) [abnormal]
+RDW: 22.8 % (Ref: 10.5-15.5) [abnormal]
+Hematocrit: 26.5 % (Ref: 34-45) [abnormal]
+White Blood Cells: 90.8 K/uL (Ref: 4-10) [abnormal]
+INR(PT): 1.3  (Ref: 0.9-1.1) [abnormal]
+PTT: 29.6 sec (Ref: 25-36.5)
+Fibrinogen, Functional: 206 mg/dL (Ref: 180-400)
+PT: 14.2 sec (Ref: 9.4-12.5) [abnormal]
+Lactate Dehydrogenase (LD): 1040 IU/L (Ref: 94-250) [abnormal]
+Blasts: ___ % (Ref: 0-0) [abnormal]
+Neutrophils: ___ % (Ref: 34-71)
+Absolute Neutrophil Count: 58.11 K/uL (Ref: 1.6-6.1) [abnormal]
+Basophils: 7 % (Ref: 0-1) [abnormal]
+Lymphocytes: 5 % (Ref: 19-53) [abnormal]
+Absolute Monocyte Count: 15.44 K/uL (Ref: 0.2-0.8) [abnormal]
+Bands: 1 % (Ref: 0-5)
+Metamyelocytes: 0 % (Ref: 0-0)
+Atypical Lymphocytes: 0 % (Ref: 0-0)
+Absolute Lymphocyte Count: 4.54 K/uL (Ref: 1.2-3.7) [abnormal]
+Absolute Eosinophil Count: 1.82 K/uL (Ref: 0.04-0.54) [abnormal]
+Myelocytes: 1 % (Ref: 0-0) [abnormal]
+Absolute Basophil Count: 6.36 K/uL (Ref: 0.01-0.08) [abnormal]
+Nucleated Red Cells: 1 % (Ref: 0-0) [abnormal]
+Eosinophils: 2 % (Ref: 1-7)
+Promyelocytes: 1 % (Ref: 0-0) [abnormal]
+Monocytes: ___ % (Ref: 5-13) [abnormal]
+Platelet Smear:  N/A [abnormal]
+Microcytes:  N/A [abnormal]
+Basophilic Stippling:  N/A [abnormal]
+Hypochromia:  N/A
+Anisocytosis:  N/A [abnormal]
+Poikilocytosis:  N/A [abnormal]
+Teardrop Cells:  N/A [abnormal]
+Macrocytes:  N/A
+Polychromasia:  N/A [abnormal]
+Ovalocytes:  N/A [abnormal]
+Schistocytes:  N/A [abnormal]
+Influenza A by PCR:
+Influenza B by PCR:
+NTproBNP: ___ pg/mL (Ref: 0-353) [abnormal]
+Estimated GFR (MDRD equation):
+Eosinophils: 3 % (Ref: 0-0) [abnormal]
+Basophils: 3 % (Ref: 0-0) [abnormal]
+Monos: 0 % (Ref: 0-0)
+Macrophage: 37 % (Ref: 0-0) [abnormal]
+Polys: 44 % (Ref: 0-0) [abnormal]
+Lymphocytes: 11 % (Ref: 0-0) [abnormal]
+Other Cell: ___ % (Ref: 0-0) [abnormal]
+Blue Top Hold: HOLD.  DISCARD GREATER THAN 24 HRS OLD.
+EDTA Hold:
+Red Top Hold:
+Elliptocytes:  N/A [abnormal]
+
+Discharge diagnoses (ICD): D735, E119, J811, R0902, J9811

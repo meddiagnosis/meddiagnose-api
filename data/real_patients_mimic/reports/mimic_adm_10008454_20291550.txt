@@ -1,0 +1,100 @@
+Laboratory Report - MIMIC-IV Demo (De-identified)
+Patient ID: 10008454 | Admission: 20291550 | Age: 26 | Gender: F
+Source: Beth Israel Deaconess Medical Center (de-identified)
+
+Laboratory Results
+--------------------------------------------------
+Calculated Total CO2: 23 mEq/L (Ref: 21-30)
+Base Excess: -5 mEq/L
+pO2: 86 mm Hg (Ref: 85-105)
+pH: 7.26 units (Ref: 7.35-7.45) [abnormal]
+pCO2: 48 mm Hg (Ref: 35-45) [abnormal]
+Chloride, Whole Blood: 104 mEq/L (Ref: 100-112)
+Lactate: ___ mmol/L (Ref: 0.5-2) [abnormal]
+Hematocrit, Calculated: 33 %
+Sodium, Whole Blood: 138 mEq/L (Ref: 135-148)
+Potassium, Whole Blood: 4.4 mEq/L (Ref: 3.5-5.3)
+Free Calcium: 1.17 mmol/L (Ref: 1.12-1.32)
+Hemoglobin: 11.1 g/dL (Ref: 12-16) [abnormal]
+Glucose: 226 mg/dL (Ref: 70-105) [abnormal]
+PTT: 21.1 sec (Ref: 22-35) [abnormal]
+PT: 12.8 sec (Ref: 10.4-13.4)
+INR(PT): 1.1  (Ref: 0.9-1.1)
+Platelet Smear:
+Myelocytes: 0 % (Ref: 0-0)
+Monocytes: 5 % (Ref: 2-11)
+Bands: 2 % (Ref: 0-5)
+Eosinophils: 0 % (Ref: 0-4)
+Lymphocytes: 6 % (Ref: 18-42) [abnormal]
+Basophils: 0 % (Ref: 0-2)
+Atypical Lymphocytes: 0 % (Ref: 0-0)
+Metamyelocytes: 0 % (Ref: 0-0)
+Neutrophils: 87 % (Ref: 50-70) [abnormal]
+Polychromasia:
+Poikilocytosis:
+Macrocytes:
+Hypochromia:
+Anisocytosis:
+Microcytes:
+Alkaline Phosphatase: 79 IU/L (Ref: 35-105)
+Sodium: 138 mEq/L (Ref: 133-145)
+Lipase: 20 IU/L (Ref: 0-60)
+Asparate Aminotransferase (AST): 197 IU/L (Ref: 0-40) [abnormal]
+Phosphate: 4.5 mg/dL (Ref: 2.7-4.5)
+Creatinine: 0.7 mg/dL (Ref: 0.4-1.1)
+Amylase: 25 IU/L (Ref: 0-100)
+Anion Gap: 16 mEq/L (Ref: 8-20)
+Calcium, Total: 8.3 mg/dL (Ref: 8.4-10.3) [abnormal]
+Glucose: ___ mg/dL (Ref: 70-100) [abnormal]
+Potassium: 4.2 mEq/L (Ref: 3.3-5.1)
+Bicarbonate: 22 mEq/L (Ref: 22-32)
+Alanine Aminotransferase (ALT): 189 IU/L (Ref: 0-40) [abnormal]
+Magnesium: 1.7 mg/dL (Ref: 1.6-2.6)
+Troponin T:  ng/mL (Ref: 0-0.01)
+Chloride: 104 mEq/L (Ref: 96-108)
+Urea Nitrogen: 11 mg/dL (Ref: 6-20)
+RDW: 13.8 % (Ref: 10.5-15.5)
+Platelet Count: 248 K/uL (Ref: 150-440)
+Red Blood Cells: 4.25 m/uL (Ref: 4.2-5.4)
+MCHC: 34.7 % (Ref: 31-35)
+MCH: 28.9 pg (Ref: 27-32)
+Hematocrit: 35.4 % (Ref: 36-48) [abnormal]
+White Blood Cells: 12.5 K/uL (Ref: 4-11) [abnormal]
+Hemoglobin: 12.3 g/dL (Ref: 12-16)
+MCV: 83 fL (Ref: 82-98)
+Creatine Kinase (CK): ___ IU/L (Ref: 29-201) [abnormal]
+Bilirubin:  mg/dL
+Glucose: 300 mg/dL
+Hyaline Casts: 9 #/lpf (Ref: 0-0) [abnormal]
+Urine Appearance:
+Urobilinogen:  mg/dL (Ref: 0.2-1)
+RBC: 16 #/hpf (Ref: 0-2) [abnormal]
+Nitrite:
+Yeast: NONE
+WBC: 3 #/hpf (Ref: 0-5)
+Ketone: 10 mg/dL
+Urine Color:
+Protein: 30 mg/dL
+pH: 5.5 units (Ref: 5-8)
+Urine Mucous:
+Blood:
+Leukocytes:
+Specific Gravity: 1.025   (Ref: 1.001-1.035)
+Epithelial Cells: 1 #/hpf
+Bacteria:
+Temperature: 36.2
+Intubated: NOT INTUBATED.
+Ventilator: SPONTANEOUS.
+Ventilation Rate: /20.
+Specimen Type: ART.
+CK-MB Index: 0.3 % (Ref: 0-6)
+Lactate Dehydrogenase (LD): 384 IU/L (Ref: 94-250) [abnormal]
+Bilirubin, Total: 0.7 mg/dL (Ref: 0-1.5)
+Creatine Kinase, MB Isoenzyme: 14 ng/mL (Ref: 0-10) [abnormal]
+Oxygen Saturation: 88 %
+O2 Flow: 100 L/min
+Transitional Epithelial Cells:  #/hpf
+eAG: ___ mg/dL (Ref: 91-123) [abnormal]
+% Hemoglobin A1c: ___ % (Ref: 4.8-5.9) [abnormal]
+
+Discharge diagnoses (ICD): 80704, V5861, 5990, 5184, 27800

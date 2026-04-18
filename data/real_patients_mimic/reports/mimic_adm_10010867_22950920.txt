@@ -1,0 +1,64 @@
+Laboratory Report - MIMIC-IV Demo (De-identified)
+Patient ID: 10010867 | Admission: 22950920 | Age: 28 | Gender: F
+Source: Beth Israel Deaconess Medical Center (de-identified)
+
+Laboratory Results
+--------------------------------------------------
+Creatinine: 0.7 mg/dL (Ref: 0.4-1.1)
+Sodium: 141 mEq/L (Ref: 133-145)
+Bicarbonate: 25 mEq/L (Ref: 22-32)
+Anion Gap: 18 mEq/L (Ref: 8-20)
+Potassium: 4.2 mEq/L (Ref: 3.3-5.1)
+Chloride: 102 mEq/L (Ref: 96-108)
+Glucose: ___ mg/dL (Ref: 70-100)
+Urea Nitrogen: 15 mg/dL (Ref: 6-20)
+RDW-SD: 45.0 fL (Ref: 35.1-46.3)
+White Blood Cells: 6.3 K/uL (Ref: 4-10)
+MCH: 26.9 pg (Ref: 26-32)
+Platelet Count: 295 K/uL (Ref: 150-400)
+Hemoglobin: 11.5 g/dL (Ref: 11.2-15.7)
+Hematocrit: 38.1 % (Ref: 34-45)
+MCHC: 30.2 g/dL (Ref: 32-37) [abnormal]
+RDW: 13.9 % (Ref: 10.5-15.5)
+Red Blood Cells: 4.27 m/uL (Ref: 3.9-5.2)
+MCV: 89 fL (Ref: 82-98)
+Protein:  mg/dL
+Urine Color:
+Urobilinogen:  mg/dL (Ref: 0.2-1)
+Yeast: NONE
+Specific Gravity: 1.016   (Ref: 1.001-1.035)
+Transitional Epithelial Cells:  #/hpf
+Bacteria:
+Glucose:  mg/dL
+Nitrite:
+pH: 6.5 units (Ref: 5-8)
+Leukocytes:
+RBC: 1 #/hpf (Ref: 0-2)
+Blood:
+Urine Mucous:
+Ketone:  mg/dL
+Epithelial Cells: 1 #/hpf
+WBC: 2 #/hpf (Ref: 0-5)
+Bilirubin:  mg/dL
+Urine Appearance:
+Amorphous Crystals:
+Specimen Type: ART.
+Base Excess: 1 mEq/L
+Calculated Total CO2: 24 mEq/L (Ref: 21-30)
+Lactate: 1.2 mmol/L (Ref: 0.5-2)
+Free Calcium: 1.12 mmol/L (Ref: 1.12-1.32)
+pCO2: 32 mm Hg (Ref: 35-45) [abnormal]
+Potassium, Whole Blood: 3.7 mEq/L (Ref: 3.3-5.1)
+Sodium, Whole Blood: 137 mEq/L (Ref: 133-145)
+Oxygen Saturation: 99 %
+Glucose: 89 mg/dL (Ref: 70-105)
+Hemoglobin: 10.5 g/dL (Ref: 12-16) [abnormal]
+pO2: 324 mm Hg (Ref: 85-105) [abnormal]
+Chloride, Whole Blood: 106 mEq/L (Ref: 96-108)
+Hematocrit, Calculated: 32 %
+pH: 7.47 units (Ref: 7.35-7.45) [abnormal]
+Phosphate: 4.5 mg/dL (Ref: 2.7-4.5)
+Calcium, Total: 9.6 mg/dL (Ref: 8.4-10.3)
+Magnesium: 2.0 mg/dL (Ref: 1.6-2.6)
+
+Discharge diagnoses (ICD): Z981, V499XXA, Z6833, Y929, J45909

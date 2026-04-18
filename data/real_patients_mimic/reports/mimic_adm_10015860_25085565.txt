@@ -1,0 +1,94 @@
+Laboratory Report - MIMIC-IV Demo (De-identified)
+Patient ID: 10015860 | Admission: 25085565 | Age: 53 | Gender: M
+Source: Beth Israel Deaconess Medical Center (de-identified)
+
+Laboratory Results
+--------------------------------------------------
+Troponin T:  ng/mL (Ref: 0-0.01)
+Urea Nitrogen: 16 mg/dL (Ref: 6-20)
+Creatine Kinase (CK): ___ IU/L (Ref: 47-322) [abnormal]
+Magnesium: 2.0 mg/dL (Ref: 1.6-2.6)
+Chloride: 96 mEq/L (Ref: 96-108)
+Glucose: ___ mg/dL (Ref: 70-100) [abnormal]
+Phosphate: 2.7 mg/dL (Ref: 2.7-4.5)
+Calcium, Total: 8.4 mg/dL (Ref: 8.4-10.3)
+Bicarbonate: 23 mEq/L (Ref: 22-32)
+Sodium: 129 mEq/L (Ref: 133-145) [abnormal]
+Potassium: 4.6 mEq/L (Ref: 3.3-5.1)
+Creatine Kinase, MB Isoenzyme: 1 ng/mL (Ref: 0-10)
+Creatinine: 0.8 mg/dL (Ref: 0.5-1.2)
+Anion Gap: 15 mEq/L (Ref: 8-20)
+White Blood Cells: 18.0 K/uL (Ref: 4-11) [abnormal]
+Platelet Count: 339 K/uL (Ref: 150-440)
+Hemoglobin: 10.8 g/dL (Ref: 14-18) [abnormal]
+Hematocrit: 29.9 % (Ref: 40-52) [abnormal]
+RDW: 12.2 % (Ref: 10.5-15.5)
+MCHC: 36.0 % (Ref: 31-35) [abnormal]
+Red Blood Cells: 3.73 m/uL (Ref: 4.6-6.2) [abnormal]
+MCV: 80 fL (Ref: 82-98) [abnormal]
+MCH: 28.9 pg (Ref: 27-32)
+Iron: 14 ug/dL (Ref: 45-160) [abnormal]
+Iron Binding Capacity, Total: 204 ug/dL (Ref: 260-470) [abnormal]
+Transferrin: 157 mg/dL (Ref: 200-360) [abnormal]
+eAG: ___ mg/dL (Ref: 91-123) [abnormal]
+% Hemoglobin A1c: ___ % (Ref: 4.8-5.9) [abnormal]
+Lipase: 38 IU/L (Ref: 0-60)
+Amylase: 42 IU/L (Ref: 0-100)
+Ferritin: 1075 ng/mL (Ref: 30-400) [abnormal]
+Lactate: 1.1 mmol/L (Ref: 0.5-2)
+Cholesterol, LDL, Calculated: 70 mg/dL (Ref: 0-129)
+Cholesterol Ratio (Total/HDL): 4.4 Ratio
+Cholesterol, HDL: 26 mg/dL
+Triglycerides: ___ mg/dL (Ref: 0-149)
+Cholesterol, Total: 114 mg/dL (Ref: 0-199)
+C-Reactive Protein: ___ mg/L (Ref: 0-5) [abnormal]
+Monocytes: 5.1 % (Ref: 2-11)
+Neutrophils: 80.1 % (Ref: 50-70) [abnormal]
+Eosinophils: 0.4 % (Ref: 0-4)
+Lymphocytes: 14.1 % (Ref: 18-42) [abnormal]
+Basophils: 0.3 % (Ref: 0-2)
+Sedimentation Rate: 87 mm/hr (Ref: 0-15) [abnormal]
+PTT: 26.4 sec (Ref: 25-36.5)
+PT: 14.8 sec (Ref: 9.4-12.5) [abnormal]
+INR(PT): 1.4  (Ref: 0.9-1.1) [abnormal]
+Protein: 30 mg/dL
+pH: 5.5 units (Ref: 5-8)
+Glucose: 300 mg/dL
+Epithelial Cells:  #/hpf
+Bacteria:
+Leukocytes:
+Urobilinogen: 4 mg/dL (Ref: 0.2-1) [abnormal]
+Nitrite:
+Urine Appearance:
+Specific Gravity: 1.020   (Ref: 1.001-1.035)
+Yeast: NONE
+RBC: 3 #/hpf (Ref: 0-2) [abnormal]
+Ketone:  mg/dL
+Urine Mucous:
+Urine Color:
+Granular Casts: 4 #/lpf (Ref: 0-0) [abnormal]
+Blood:
+WBC: 1 #/hpf (Ref: 0-5)
+Bilirubin:  mg/dL
+Vancomycin: 6.2 ug/mL (Ref: 10-20) [abnormal]
+Alanine Aminotransferase (ALT): 44 IU/L (Ref: 0-40) [abnormal]
+Alkaline Phosphatase: 233 IU/L (Ref: 40-130) [abnormal]
+Asparate Aminotransferase (AST): 33 IU/L (Ref: 0-40)
+Bilirubin, Total: 0.4 mg/dL (Ref: 0-1.5)
+Blue Top Hold: HOLD.  DISCARD GREATER THAN 24 HRS OLD.
+Myelocytes: 0 % (Ref: 0-0)
+Atypical Lymphocytes: 0 % (Ref: 0-0)
+Metamyelocytes: 1 % (Ref: 0-0) [abnormal]
+Bands: 0 % (Ref: 0-5)
+Anisocytosis:
+Microcytes:
+Platelet Smear:
+Poikilocytosis:
+Hypochromia:
+Polychromasia:
+Macrocytes:
+Estimated GFR (MDRD equation):
+Red Top Hold:
+EDTA Hold:
+
+Discharge diagnoses (ICD): 0380, 28529, V707, 2761, 25062

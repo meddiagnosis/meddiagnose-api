@@ -1,0 +1,120 @@
+Laboratory Report - MIMIC-IV Demo (De-identified)
+Patient ID: 10019003 | Admission: 29279905 | Age: 65 | Gender: F
+Source: Beth Israel Deaconess Medical Center (de-identified)
+
+Laboratory Results
+--------------------------------------------------
+INR(PT): 1.2  (Ref: 0.9-1.1) [abnormal]
+PT: 13.5 sec (Ref: 9.4-12.5) [abnormal]
+PTT: 29.1 sec (Ref: 25-36.5)
+Eosinophils: 0 % (Ref: 1-7)
+Absolute Monocyte Count: 4.64 K/uL (Ref: 0.2-0.8) [abnormal]
+Monocytes: 4 % (Ref: 5-13) [abnormal]
+Absolute Lymphocyte Count: 2.32 K/uL (Ref: 1.2-3.7)
+Bands: 4 % (Ref: 0-5)
+Absolute Eosinophil Count: 0.00 K/uL (Ref: 0.04-0.54) [abnormal]
+Basophils: 0 % (Ref: 0-1)
+Atypical Lymphocytes: 0 % (Ref: 0-0)
+Promyelocytes: 1 % (Ref: 0-0) [abnormal]
+Absolute Basophil Count: 0.00 K/uL (Ref: 0.01-0.08) [abnormal]
+Lymphocytes: 2 % (Ref: 19-53) [abnormal]
+Metamyelocytes: 7 % (Ref: 0-0) [abnormal]
+Neutrophils: ___ % (Ref: 34-71) [abnormal]
+Absolute Neutrophil Count: 97.52 K/uL (Ref: 1.6-6.1) [abnormal]
+Myelocytes: 2 % (Ref: 0-0) [abnormal]
+Platelet Smear:
+Hypochromia:
+Macrocytes:
+Microcytes:
+Anisocytosis:
+Poikilocytosis:
+Polychromasia:
+Other Cells: 0 % (Ref: 0-0)
+Anion Gap: 20 mEq/L (Ref: 8-20)
+Potassium: 3.7 mEq/L (Ref: 3.3-5.1)
+Alanine Aminotransferase (ALT): 40 IU/L (Ref: 0-40)
+Asparate Aminotransferase (AST): 37 IU/L (Ref: 0-40)
+Sodium: 138 mEq/L (Ref: 133-145)
+Magnesium: 1.5 mg/dL (Ref: 1.6-2.6) [abnormal]
+Bicarbonate: 15 mEq/L (Ref: 22-32) [abnormal]
+Bilirubin, Total: 0.3 mg/dL (Ref: 0-1.5)
+Urea Nitrogen: 35 mg/dL (Ref: 6-20) [abnormal]
+Creatinine: 2.5 mg/dL (Ref: 0.4-1.1) [abnormal]
+Alkaline Phosphatase: 67 IU/L (Ref: 35-105)
+Glucose: ___ mg/dL (Ref: 70-100) [abnormal]
+Chloride: 107 mEq/L (Ref: 96-108)
+Calcium, Total: 7.2 mg/dL (Ref: 8.4-10.3) [abnormal]
+Phosphate: 3.5 mg/dL (Ref: 2.7-4.5)
+Lactate Dehydrogenase (LD): 790 IU/L (Ref: 94-250) [abnormal]
+Protein, Total: 4.7 g/dL (Ref: 6.4-8.3) [abnormal]
+Globulin: 1.9 g/dL (Ref: 2-4) [abnormal]
+Albumin: 2.8 g/dL (Ref: 3.5-5.2) [abnormal]
+MCV: 92 fL (Ref: 82-98)
+Platelet Count: 234 K/uL (Ref: 150-400)
+Hematocrit: 30.9 % (Ref: 34-45) [abnormal]
+Hemoglobin: 10.1 g/dL (Ref: 11.2-15.7) [abnormal]
+RDW: 18.7 % (Ref: 10.5-15.5) [abnormal]
+MCHC: 32.7 g/dL (Ref: 32-37)
+White Blood Cells: 116.1 K/uL (Ref: 4-10) [abnormal]
+MCH: 30.1 pg (Ref: 26-32)
+RDW-SD: 62.1 fL (Ref: 35.1-46.3) [abnormal]
+Red Blood Cells: 3.36 m/uL (Ref: 3.9-5.2) [abnormal]
+Immunoglobulin A: 85 mg/dL (Ref: 70-400)
+Immunoglobulin G: 548 mg/dL (Ref: 700-1600) [abnormal]
+Immunoglobulin M: 178 mg/dL (Ref: 40-230)
+Protein Electrophoresis:
+Immunofixation:
+Specimen Type: VEN.
+pO2: ___ mm Hg (Ref: 85-105) [abnormal]
+Calculated Total CO2: 17 mEq/L (Ref: 21-30) [abnormal]
+pH: 7.36 units (Ref: 7.35-7.45)
+Lactate: 3.7 mmol/L (Ref: 0.5-2) [abnormal]
+pCO2: 29 mm Hg (Ref: 35-45) [abnormal]
+Base Excess: -7 mEq/L
+Temperature: 36.7
+Potassium, Whole Blood: 3.5 mEq/L (Ref: 3.3-5.1)
+Sodium, Whole Blood: 138 mEq/L (Ref: 133-145)
+Free Calcium: 1.03 mmol/L (Ref: 1.12-1.32) [abnormal]
+Intubated: NOT INTUBATED.
+Ventilator: SPONTANEOUS.
+Oxygen: 21 %
+Influenza B by PCR:
+Influenza A by PCR:
+H/O Smear:
+Ketone:  mg/dL
+Urine Appearance:
+pH: 5.0 units (Ref: 5-8)
+Amorphous Crystals:
+Bilirubin:  mg/dL
+Specific Gravity: 1.015   (Ref: 1.001-1.035)
+Granular Casts: 4 #/lpf (Ref: 0-0) [abnormal]
+Urobilinogen:  mg/dL (Ref: 0.2-1)
+Epithelial Cells: 1 #/hpf
+Bacteria:
+Glucose:  mg/dL
+Protein: 30 mg/dL
+Nitrite:
+RBC: 4 #/hpf (Ref: 0-2) [abnormal]
+Leukocytes:
+Yeast: NONE
+Urine Color:
+Transitional Epithelial Cells:  #/hpf
+WBC: 7 #/hpf (Ref: 0-5) [abnormal]
+Blood:
+Urine Mucous:
+Uric Acid: 7.3 mg/dL (Ref: 2.4-5.7) [abnormal]
+Schistocytes:
+Reticulocyte Count, Automated: 6.4 % (Ref: 0.4-2) [abnormal]
+Reticulocyte Count, Absolute: 0.14 m/uL (Ref: 0.02-0.1) [abnormal]
+Haptoglobin: 140 mg/dL (Ref: 30-200)
+Iron: 69 ug/dL (Ref: 30-160)
+Iron Binding Capacity, Total: 196 ug/dL (Ref: 260-470) [abnormal]
+Transferrin: 151 mg/dL (Ref: 200-360) [abnormal]
+Ferritin: 481 ng/mL (Ref: 13-150) [abnormal]
+Fibrinogen, Functional: 390 mg/dL (Ref: 180-400)
+Teardrop Cells:
+Basophilic Stippling:
+Echinocytes:
+Estimated GFR (MDRD equation):
+
+Discharge diagnoses (ICD): K259, K264, Z87891, E6601, T504X5A

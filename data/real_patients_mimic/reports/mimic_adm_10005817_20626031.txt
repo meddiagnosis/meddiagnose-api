@@ -1,0 +1,85 @@
+Laboratory Report - MIMIC-IV Demo (De-identified)
+Patient ID: 10005817 | Admission: 20626031 | Age: 66 | Gender: M
+Source: Beth Israel Deaconess Medical Center (de-identified)
+
+Laboratory Results
+--------------------------------------------------
+Blood:
+Urobilinogen:  mg/dL (Ref: 0.2-1)
+Urine Mucous:
+pH: 6.0 units (Ref: 5-8)
+Ketone:  mg/dL
+Urine Appearance:
+WBC: 28 #/hpf (Ref: 0-5) [abnormal]
+Urine Color:
+Epithelial Cells: 0 #/hpf
+Bilirubin:  mg/dL
+Glucose:  mg/dL
+RBC:  #/hpf (Ref: 0-2)
+Protein: 30 mg/dL
+Yeast: NONE
+Bacteria:
+Leukocytes:
+Specific Gravity: 1.033   (Ref: 1.001-1.035)
+Nitrite:
+Hematocrit: 25.7 % (Ref: 40-52) [abnormal]
+Platelet Count: 414 K/uL (Ref: 150-440)
+MCHC: 33.4 % (Ref: 31-35)
+Hemoglobin: 8.6 g/dL (Ref: 14-18) [abnormal]
+RDW: 14.1 % (Ref: 10.5-15.5)
+Red Blood Cells: 2.70 m/uL (Ref: 4.6-6.2) [abnormal]
+White Blood Cells: 9.4 K/uL (Ref: 4-11)
+MCV: 95 fL (Ref: 82-98)
+MCH: 31.7 pg (Ref: 27-32)
+% Hemoglobin A1c: ___ % (Ref: 4.8-5.9) [abnormal]
+eAG: ___ mg/dL (Ref: 91-123) [abnormal]
+Estimated GFR (MDRD equation):
+Albumin: 3.2 g/dL (Ref: 3.5-5.2) [abnormal]
+Bilirubin, Total: 0.3 mg/dL (Ref: 0-1.5)
+Creatinine: 1.0 mg/dL (Ref: 0.5-1.2)
+Urea Nitrogen: 25 mg/dL (Ref: 6-20) [abnormal]
+Asparate Aminotransferase (AST): 30 IU/L (Ref: 0-40)
+Bicarbonate: 32 mEq/L (Ref: 22-32)
+Amylase: 30 IU/L (Ref: 0-100)
+Lactate Dehydrogenase (LD): 252 IU/L (Ref: 94-250) [abnormal]
+Lipase: 18 IU/L (Ref: 0-60)
+Sodium: 139 mEq/L (Ref: 133-145)
+Glucose: ___ mg/dL (Ref: 70-100) [abnormal]
+Alkaline Phosphatase: 146 IU/L (Ref: 40-130) [abnormal]
+Alanine Aminotransferase (ALT): 40 IU/L (Ref: 0-40)
+Chloride: 99 mEq/L (Ref: 96-108)
+Anion Gap: 11 mEq/L (Ref: 8-20)
+Potassium: ___ mEq/L (Ref: 3.3-5.1) [abnormal]
+INR(PT): 1.1  (Ref: 0.9-1.1)
+PT: 12.2 sec (Ref: 9.4-12.5)
+PTT: 52.1 sec (Ref: 25-36.5) [abnormal]
+Phosphate: 2.7 mg/dL (Ref: 2.7-4.5)
+Calcium, Total: 8.2 mg/dL (Ref: 8.4-10.3) [abnormal]
+Magnesium: 2.2 mg/dL (Ref: 1.6-2.6)
+Specimen Type: ART.
+pCO2: 30 mm Hg (Ref: 35-45) [abnormal]
+pH: ___ units (Ref: 7.35-7.45) [abnormal]
+Calculated Total CO2: 28 mEq/L (Ref: 21-30)
+Base Excess: 4 mEq/L
+pO2: 71 mm Hg (Ref: 85-105) [abnormal]
+Ventilator: CONTROLLED.
+Intubated: INTUBATED.
+Chloride, Whole Blood: 100 mEq/L (Ref: 96-108)
+Free Calcium: 1.04 mmol/L (Ref: 1.12-1.32) [abnormal]
+Lactate: 1.0 mmol/L (Ref: 0.5-2)
+Sodium, Whole Blood: 134 mEq/L (Ref: 133-145)
+Glucose: 226 mg/dL (Ref: 70-105) [abnormal]
+Potassium, Whole Blood: 3.9 mEq/L (Ref: 3.3-5.1)
+Hematocrit, Calculated: 29 %
+Hemoglobin: 9.5 g/dL (Ref: 14-18) [abnormal]
+Neutrophils: 83.9 % (Ref: 50-70) [abnormal]
+Lymphocytes: 9.2 % (Ref: 18-42) [abnormal]
+Eosinophils: 0.8 % (Ref: 0-4)
+Basophils: 0.3 % (Ref: 0-2)
+Monocytes: 5.8 % (Ref: 2-11)
+Fibrinogen, Functional: 233 mg/dL (Ref: 180-400)
+Oxygen Saturation: 97 %
+Hyaline Casts: 12 #/lpf (Ref: 0-0) [abnormal]
+Troponin T: ___ ng/mL (Ref: 0-0.01) [abnormal]
+
+Discharge diagnoses (ICD): V707, V8741, 42732, V4582, 4400

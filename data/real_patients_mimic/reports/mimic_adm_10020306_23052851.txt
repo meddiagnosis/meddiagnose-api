@@ -1,0 +1,111 @@
+Laboratory Report - MIMIC-IV Demo (De-identified)
+Patient ID: 10020306 | Admission: 23052851 | Age: 74 | Gender: F
+Source: Beth Israel Deaconess Medical Center (de-identified)
+
+Laboratory Results
+--------------------------------------------------
+White Blood Cells: 3.3 K/uL (Ref: 4-10) [abnormal]
+MCV: 89 fL (Ref: 82-98)
+MCH: 26.7 pg (Ref: 26-32)
+Platelet Count: 212 K/uL (Ref: 150-400)
+Red Blood Cells: 4.65 m/uL (Ref: 3.9-5.2)
+RDW-SD: 54.7 fL (Ref: 35.1-46.3) [abnormal]
+Hematocrit: 41.4 % (Ref: 34-45)
+Hemoglobin: 12.4 g/dL (Ref: 11.2-15.7)
+RDW: 16.8 % (Ref: 10.5-15.5) [abnormal]
+MCHC: 30.0 g/dL (Ref: 32-37) [abnormal]
+Anion Gap: 24 mEq/L (Ref: 10-18) [abnormal]
+Magnesium: 1.4 mg/dL (Ref: 1.6-2.6) [abnormal]
+Glucose: ___ mg/dL (Ref: 70-100) [abnormal]
+Creatinine: 1.1 mg/dL (Ref: 0.4-1.1)
+Chloride: 99 mEq/L (Ref: 96-108)
+I: 1
+Sodium: 146 mEq/L (Ref: 135-147)
+Phosphate: 3.6 mg/dL (Ref: 2.7-4.5)
+Urea Nitrogen: 19 mg/dL (Ref: 6-20)
+Potassium: 4.3 mEq/L (Ref: 3.5-5.4)
+L: 8
+Calcium, Total: 10.3 mg/dL (Ref: 8.4-10.3)
+H: 45
+Bicarbonate: 23 mEq/L (Ref: 22-32)
+PT: 16.5 sec (Ref: 9.4-12.5) [abnormal]
+PTT: 38.4 sec (Ref: 25-36.5) [abnormal]
+INR(PT): 1.5  (Ref: 0.9-1.1) [abnormal]
+C-Reactive Protein: 7.0 mg/L (Ref: 0-5) [abnormal]
+Calculated Total CO2: 32 mEq/L (Ref: 21-30) [abnormal]
+pO2: ___ mm Hg (Ref: 85-105) [abnormal]
+Base Excess: 2 mEq/L
+pH: 7.32 units (Ref: 7.35-7.45) [abnormal]
+pCO2: 60 mm Hg (Ref: 35-45) [abnormal]
+Lactate: 2.0 mmol/L (Ref: 0.5-2)
+Specimen Type: VEN.
+Bilirubin:  N/A [abnormal]
+Ketone: 10 mg/dL (Ref: 0-0) [abnormal]
+Glucose:  mg/dL (Ref: 0-0)
+Urobilinogen: 2 mg/dL (Ref: 0.2-1) [abnormal]
+Leukocytes:  N/A [abnormal]
+pH: 5.5 units (Ref: 5-8)
+Blood:  N/A
+Urine Color:  N/A
+Specific Gravity: 1.024   (Ref: 1.001-1.035)
+Protein: 30 mg/dL (Ref: 0-0) [abnormal]
+Urine Appearance:  N/A [abnormal]
+Nitrite:  N/A
+Red Top Hold:
+Blue Top Hold: HOLD.  DISCARD GREATER THAN 24 HRS OLD.
+Green Top Hold (plasma): HOLD.  DISCARD GREATER THAN 4 HOURS OLD.
+Vitamin B12: 339 pg/mL (Ref: 240-900)
+Treponema pallidum (Syphilis) Ab: ___
+Treponema pallidum (syphilis) value: 0.02
+Bilirubin, Total: 1.0 mg/dL (Ref: 0-1.5)
+Alkaline Phosphatase: ___ IU/L (Ref: 35-105)
+Alanine Aminotransferase (ALT): ___ IU/L (Ref: 0-40)
+Asparate Aminotransferase (AST): ___ IU/L (Ref: 0-40) [abnormal]
+Albumin: 3.1 g/dL (Ref: 3.5-5.2) [abnormal]
+Thyroid Stimulating Hormone: 1.8 uIU/mL (Ref: 0.27-4.2)
+Absolute Eosinophil Count: 0.01 K/uL (Ref: 0.04-0.54) [abnormal]
+Absolute Monocyte Count: 0.54 K/uL (Ref: 0.2-0.8)
+Neutrophils: 63.7 % (Ref: 34-71)
+Nucleated Red Cells: 0.8 % (Ref: 0-0) [abnormal]
+Absolute Neutrophil Count: 3.25 K/uL (Ref: 1.6-6.1)
+Monocytes: 10.6 % (Ref: 5-13)
+Absolute Basophil Count: 0.02 K/uL (Ref: 0.01-0.08)
+Lymphocytes: 24.7 % (Ref: 19-53)
+Absolute Lymphocyte Count: 1.26 K/uL (Ref: 1.2-3.7)
+Eosinophils: 0.2 % (Ref: 1-7) [abnormal]
+Basophils: 0.4 % (Ref: 0-1)
+Creatine Kinase, MB Isoenzyme: 2 ng/mL (Ref: 0-10)
+Troponin T: ___ ng/mL (Ref: 0-0.01) [abnormal]
+NTproBNP: ___ pg/mL (Ref: 0-624) [abnormal]
+Creatine Kinase (CK): ___ IU/L (Ref: 29-201)
+Glucose: 158 mg/dL (Ref: 70-105) [abnormal]
+Potassium, Whole Blood: 3.8 mEq/L (Ref: 3.5-5.4)
+Free Calcium: 1.22 mmol/L (Ref: 1.12-1.32)
+Temperature: 36.1
+O2 Flow: 4 L/min
+Intubated: NOT INTUBATED.
+Cortisol: ___ ug/dL (Ref: 2-20)
+Length of Urine Collection:
+Hyaline Casts: 43 #/lpf (Ref: 0-0) [abnormal]
+Bacteria:  /hpf
+Yeast: NONE /hpf
+WBC: 22 #/hpf (Ref: 0-5) [abnormal]
+Epithelial Cells: 9 #/hpf
+RBC: 42 #/hpf (Ref: 0-2) [abnormal]
+Urine Mucous:  /hpf [abnormal]
+Creatinine, Urine: 332 mg/dL
+Total Protein, Urine: 118 mg/dL
+Protein/Creatinine Ratio: 0.4 mg/mg (Ref: 0-0.2) [abnormal]
+Sodium, Urine:  mEq/L
+Osmolality, Urine: 529 mOsm/kg
+Oxygen Saturation: 33 %
+Estimated GFR (MDRD equation):
+Problem Specimen:
+Voided Specimen:
+Voided Specimen:
+Immature Granulocytes: ___ % (Ref: 0-0.6)
+Sodium, Whole Blood: 142 mEq/L (Ref: 135-147)
+Lactate Dehydrogenase (LD): 265 IU/L (Ref: 94-250) [abnormal]
+Thyroxine (T4), Free: 1.2 ng/dL (Ref: 0.93-1.7)
+
+Discharge diagnoses (ICD): N170, L0591, G4733, Z6824, E43

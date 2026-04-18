@@ -1,0 +1,45 @@
+Laboratory Report - MIMIC-IV Demo (De-identified)
+Patient ID: 10002930 | Admission: 28697806 | Age: 48 | Gender: F
+Source: Beth Israel Deaconess Medical Center (de-identified)
+
+Laboratory Results
+--------------------------------------------------
+Green Top Hold (plasma): HOLD.  DISCARD GREATER THAN 4 HOURS OLD.
+Blue Top Hold: HOLD.  DISCARD GREATER THAN 24 HRS OLD.
+Absolute Basophil Count: 0.01 K/uL (Ref: 0.01-0.08)
+Monocytes: 8.5 % (Ref: 5-13)
+Basophils: 0.2 % (Ref: 0-1)
+Absolute Monocyte Count: 0.40 K/uL (Ref: 0.2-0.8)
+Hematocrit: 27.9 % (Ref: 34-45) [abnormal]
+Immature Granulocytes: ___ % (Ref: 0-0.6)
+Neutrophils: 57.3 % (Ref: 34-71)
+Platelet Count: 118 K/uL (Ref: 150-400) [abnormal]
+White Blood Cells: 4.7 K/uL (Ref: 4-10)
+Lymphocytes: 33.6 % (Ref: 19-53)
+MCH: 28.3 pg (Ref: 26-32)
+Eosinophils: 0.2 % (Ref: 1-7) [abnormal]
+Hemoglobin: 8.5 g/dL (Ref: 11.2-15.7) [abnormal]
+Absolute Eosinophil Count: 0.01 K/uL (Ref: 0.04-0.54) [abnormal]
+RDW: 19.2 % (Ref: 10.5-15.5) [abnormal]
+Red Blood Cells: 3.00 m/uL (Ref: 3.9-5.2) [abnormal]
+MCV: 93 fL (Ref: 82-98)
+Absolute Neutrophil Count: 2.71 K/uL (Ref: 1.6-6.1)
+RDW-SD: 65.2 fL (Ref: 35.1-46.3) [abnormal]
+Absolute Lymphocyte Count: 1.59 K/uL (Ref: 1.2-3.7)
+MCHC: 30.5 g/dL (Ref: 32-37) [abnormal]
+Sodium: ___ mEq/L (Ref: 135-147)
+Chloride: 108 mEq/L (Ref: 96-108)
+H: 316
+I: 1
+Glucose: ___ mg/dL (Ref: 70-100) [abnormal]
+Urea Nitrogen: 12 mg/dL (Ref: 6-20)
+Anion Gap: ___ mEq/L (Ref: 10-18)
+Creatinine: 0.8 mg/dL (Ref: 0.4-1.1)
+Potassium: ___ mEq/L (Ref: 3.5-5.4)
+L: 8
+Estimated GFR (MDRD equation):
+Bicarbonate: 22 mEq/L (Ref: 22-32)
+Ethanol: ___ mg/dL (Ref: 10-10) [abnormal]
+STX2: 219
+
+Discharge diagnoses (ICD): E162, Z21, B1920, F10129, R4182

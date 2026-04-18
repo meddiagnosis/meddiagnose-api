@@ -1,0 +1,53 @@
+{
+  "patients": [
+    {
+      "user_email": "patient1@gmail.com",
+      "lab_report": "patient1_ananya_gupta/lab_cbc_2025-03-15.txt",
+      "symptoms": "Fever for 3 days, fatigue, body ache, mild headache. No cough or cold.",
+      "clinical_notes": "Blood sugar slightly elevated in recent checkup. Allergies: Penicillin, Sulfa drugs.",
+      "expected_diagnosis": "Upper Respiratory Tract Infection / Viral illness"
+    },
+    {
+      "user_email": "patient2@gmail.com",
+      "lab_report": "patient2_vikram_singh/lab_lipid_renal_2025-03-12.txt",
+      "symptoms": "Headache, dizziness, occasional nosebleeds, chest tightness",
+      "clinical_notes": "History of hypertension. Allergies: Aspirin.",
+      "expected_diagnosis": "Hypertension / Dyslipidemia"
+    },
+    {
+      "user_email": "patient3@gmail.com",
+      "lab_report": "patient3_meera_krishnan/lab_anemia_panel_2025-03-14.txt",
+      "symptoms": "Extreme fatigue, pale skin, shortness of breath, brittle nails, cold hands",
+      "clinical_notes": "No known allergies.",
+      "expected_diagnosis": "Iron Deficiency Anemia"
+    },
+    {
+      "user_email": "patient4@gmail.com",
+      "lab_report": "patient4_rohan_desai/lab_diabetes_panel_2025-03-10.txt",
+      "symptoms": "Frequent urination, increased thirst, blurred vision, fatigue",
+      "clinical_notes": "Allergies: Ibuprofen.",
+      "expected_diagnosis": "Type 2 Diabetes Mellitus"
+    },
+    {
+      "user_email": "patient5@gmail.com",
+      "lab_report": "patient5_sanya_joshi/lab_urine_culture_2025-03-16.txt",
+      "symptoms": "Burning urination, frequent urge to urinate, lower abdominal pain, cloudy urine",
+      "clinical_notes": "No known allergies.",
+      "expected_diagnosis": "Urinary Tract Infection"
+    },
+    {
+      "user_email": "patient6@gmail.com",
+      "lab_report": "patient6_kabir_malhotra/lab_gerd_2025-03-11.txt",
+      "symptoms": "Heartburn after meals, acid regurgitation, chest discomfort, bloating",
+      "clinical_notes": "Allergies: Codeine, Morphine.",
+      "expected_diagnosis": "Gastroesophageal Reflux Disease (GERD)"
+    },
+    {
+      "user_email": "patient7@gmail.com",
+      "lab_report": "patient7_nisha_reddy/lab_migraine_2025-03-13.txt",
+      "symptoms": "Severe headache on one side, nausea, sensitivity to light and sound",
+      "clinical_notes": "No known allergies.",
+      "expected_diagnosis": "Migraine"
+    }
+  ]
+}

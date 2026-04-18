@@ -1,0 +1,88 @@
+Laboratory Report - MIMIC-IV Demo (De-identified)
+Patient ID: 10010867 | Admission: 22429197 | Age: 28 | Gender: F
+Source: Beth Israel Deaconess Medical Center (de-identified)
+
+Laboratory Results
+--------------------------------------------------
+PEEP: 5
+Ventilator: CONTROLLED.
+Tidal Volume: 450
+pO2: 308 mm Hg (Ref: 85-105) [abnormal]
+Specimen Type: ART.
+Required O2: 66
+Intubated: INTUBATED.
+Oxygen: 100 %
+pH: 7.34 units (Ref: 7.35-7.45) [abnormal]
+Ventilation Rate: 16/.
+Calculated Total CO2: 20 mEq/L (Ref: 21-30) [abnormal]
+Base Excess: -5 mEq/L
+Alveolar-arterial Gradient: 369 mm Hg
+pCO2: 35 mm Hg (Ref: 35-45)
+Length of Urine Collection:
+Hematocrit: 32.4 % (Ref: 34-45) [abnormal]
+White Blood Cells: 9.2 K/uL (Ref: 4-10)
+Platelet Count: 215 K/uL (Ref: 150-400)
+MCV: 91 fL (Ref: 82-98)
+Hemoglobin: 10.1 g/dL (Ref: 11.2-15.7) [abnormal]
+Red Blood Cells: 3.55 m/uL (Ref: 3.9-5.2) [abnormal]
+RDW: 14.0 % (Ref: 10.5-15.5)
+MCH: 28.5 pg (Ref: 26-32)
+MCHC: 31.2 g/dL (Ref: 32-37) [abnormal]
+RDW-SD: 46.2 fL (Ref: 35.1-46.3)
+Amphetamine Screen, Urine: POS
+Barbiturate Screen, Urine: NEG
+Oxycodone: NEG
+Cocaine, Urine: NEG
+Opiate Screen, Urine: NEG
+Benzodiazepine Screen, Urine: NEG
+Methadone, Urine: NEG
+Calcium, Total: 8.0 mg/dL (Ref: 8.4-10.3) [abnormal]
+Magnesium: 1.8 mg/dL (Ref: 1.6-2.6)
+Creatinine: 0.7 mg/dL (Ref: 0.4-1.1)
+Phosphate: 3.6 mg/dL (Ref: 2.7-4.5)
+Urea Nitrogen: 8 mg/dL (Ref: 6-20)
+Sodium: 141 mEq/L (Ref: 133-145)
+Bicarbonate: 25 mEq/L (Ref: 22-32)
+Anion Gap: 10 mEq/L (Ref: 8-20)
+Glucose: ___ mg/dL (Ref: 70-100) [abnormal]
+Chloride: 110 mEq/L (Ref: 96-108) [abnormal]
+Potassium: 4.1 mEq/L (Ref: 3.3-5.1)
+PTT: 25.7 sec (Ref: 25-36.5)
+INR(PT): 1.1  (Ref: 0.9-1.1)
+PT: 12.3 sec (Ref: 9.4-12.5)
+HCG, Urine, Qualitative:  +/-
+Temperature: 38.6
+Leukocytes:
+Bilirubin:  mg/dL
+Nitrite:
+Protein:  mg/dL
+Urine Appearance:
+Urine Color:
+Ketone: 40 mg/dL
+Urobilinogen:  mg/dL (Ref: 0.2-1)
+pH: 6.5 units (Ref: 5-8)
+Glucose:  mg/dL
+Blood:
+Specific Gravity: 1.005   (Ref: 1.001-1.035)
+Lactate: 0.8 mmol/L (Ref: 0.5-2)
+Free Calcium: 1.07 mmol/L (Ref: 1.12-1.32) [abnormal]
+Thyroid Stimulating Hormone: 1.6 uIU/mL (Ref: 0.27-4.2)
+Thyroxine (T4): 5.9 ug/dL (Ref: 4.6-12)
+Blue Top Hold: HOLD.  DISCARD GREATER THAN 24 HRS OLD.
+Glucose: 120 mg/dL (Ref: 70-105) [abnormal]
+Neutrophils: 71.3 % (Ref: 34-71) [abnormal]
+Absolute Eosinophil Count: 0.13 K/uL (Ref: 0.04-0.54)
+Immature Granulocytes: 0.9 %
+Monocytes: 9.0 % (Ref: 5-13)
+Absolute Basophil Count: 0.02 K/uL (Ref: 0.01-0.08)
+Basophils: 0.2 % (Ref: 0-1)
+Absolute Neutrophil Count: 6.43 K/uL (Ref: 1.6-6.1) [abnormal]
+Lymphocytes: 17.2 % (Ref: 19-53) [abnormal]
+Absolute Lymphocyte Count: 1.55 K/uL (Ref: 1.2-3.7)
+Absolute Monocyte Count: 0.81 K/uL (Ref: 0.2-0.8) [abnormal]
+Eosinophils: 1.4 % (Ref: 1-7)
+Vancomycin: 23.9 ug/mL (Ref: 10-20) [abnormal]
+Estimated GFR (MDRD equation):
+Urine tube, held: HOLD.  SPECIMEN TO BE HELD 48 HOURS AND DISCARDED.
+
+Discharge diagnoses (ICD): J95851, S22049A, Z781, R339, Y848

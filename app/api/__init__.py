@@ -1,0 +1,20 @@
+from fastapi import APIRouter
+from app.api import auth, patients, diagnoses, batches, uploads, symptoms, chat, admin, medications, pharmacies, health_tracker, fitness, wearables, health_alerts, insurance, doctors
+
+router = APIRouter(prefix="/api/v1")
+router.include_router(auth.router)
+router.include_router(doctors.router)
+router.include_router(patients.router)
+router.include_router(diagnoses.router)
+router.include_router(batches.router)
+router.include_router(uploads.router)
+router.include_router(symptoms.router)
+router.include_router(chat.router)
+router.include_router(admin.router)
+router.include_router(medications.router)
+router.include_router(pharmacies.router)
+router.include_router(health_tracker.router)
+router.include_router(fitness.router)
+router.include_router(wearables.router)
+router.include_router(health_alerts.router)
+router.include_router(insurance.router)

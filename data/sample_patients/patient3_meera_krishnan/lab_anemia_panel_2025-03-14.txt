@@ -1,0 +1,24 @@
+Iron Studies & Complete Blood Count
+Patient: Meera Krishnan | DOB: 2000-09-12 | Female
+Lab: Apollo Diagnostics | Date: 2025-03-14
+Referring: Dr. Priya Mehta
+
+=== IRON STUDIES ===
+Serum Iron: 42 mcg/dL (Ref: 60-170) [LOW]
+TIBC: 485 mcg/dL (Ref: 250-370) [HIGH]
+Transferrin Saturation: 9% (Ref: 20-50) [LOW]
+Ferritin: 8 ng/mL (Ref: 12-150) [LOW]
+
+=== COMPLETE BLOOD COUNT ===
+Hemoglobin (Hb): 9.2 g/dL (Ref: 12-16) [LOW]
+RBC: 3.8 M/uL (Ref: 4.5-5.5) [LOW]
+MCV: 78 fL (Ref: 80-100) [LOW - Microcytic]
+MCH: 24 pg (Ref: 27-33) [LOW]
+MCHC: 30 g/dL (Ref: 32-36) [LOW]
+RDW: 16.5% (Ref: 11.5-14.5) [HIGH]
+Platelets: 310,000 /uL
+WBC: 6,200 /uL
+
+Impression: Iron deficiency anemia - microcytic hypochromic picture.
+Clinical: Extreme fatigue, pale skin, shortness of breath, brittle nails.
+Recommend: Iron supplementation, dietary modification, rule out blood loss.

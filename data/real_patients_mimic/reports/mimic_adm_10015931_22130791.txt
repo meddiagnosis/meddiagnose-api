@@ -1,0 +1,100 @@
+Laboratory Report - MIMIC-IV Demo (De-identified)
+Patient ID: 10015931 | Admission: 22130791 | Age: 87 | Gender: M
+Source: Beth Israel Deaconess Medical Center (de-identified)
+
+Laboratory Results
+--------------------------------------------------
+Creatine Kinase (CK): ___ IU/L (Ref: 47-322)
+Creatine Kinase, MB Isoenzyme: 3 ng/mL (Ref: 0-10)
+Calcium, Total: 7.7 mg/dL (Ref: 8.4-10.3) [abnormal]
+Urea Nitrogen: 48 mg/dL (Ref: 6-20) [abnormal]
+I: 1
+Phosphate: 5.6 mg/dL (Ref: 2.7-4.5) [abnormal]
+Creatinine: 2.6 mg/dL (Ref: 0.5-1.2) [abnormal]
+Magnesium: 2.1 mg/dL (Ref: 1.6-2.6)
+Anion Gap: 18 mEq/L (Ref: 8-20)
+L: 7
+Sodium: 135 mEq/L (Ref: 133-145)
+Potassium: 5.2 mEq/L (Ref: 3.3-5.1) [abnormal]
+Chloride: 103 mEq/L (Ref: 96-108)
+Estimated GFR (MDRD equation):
+Bicarbonate: 19 mEq/L (Ref: 22-32) [abnormal]
+Glucose: ___ mg/dL (Ref: 70-100) [abnormal]
+H: 15
+Fibrinogen, Functional: 150 mg/dL (Ref: 180-400) [abnormal]
+Troponin T: ___ ng/mL (Ref: 0-0.01) [abnormal]
+INR(PT): 1.4  (Ref: 0.9-1.1) [abnormal]
+PTT: 28.3 sec (Ref: 25-36.5)
+PT: 15.5 sec (Ref: 9.4-12.5) [abnormal]
+Platelet Count: 52 K/uL (Ref: 150-400) [abnormal]
+Absolute Basophil Count: 0.04 K/uL (Ref: 0.01-0.08)
+Hematocrit: 22.3 % (Ref: 40-51) [abnormal]
+Immature Granulocytes: ___ %
+Neutrophils: 68.9 % (Ref: 34-71)
+Absolute Neutrophil Count: 6.70 K/uL (Ref: 1.6-6.1) [abnormal]
+Absolute Eosinophil Count: 0.18 K/uL (Ref: 0.04-0.54)
+Reticulocyte Count, Automated: 4.3 % (Ref: 0.4-2) [abnormal]
+RDW-SD: 45.5 fL (Ref: 35.1-46.3)
+MCH: 30.6 pg (Ref: 26-32)
+Absolute Monocyte Count: 1.32 K/uL (Ref: 0.2-0.8) [abnormal]
+RDW: 14.6 % (Ref: 10.5-15.5)
+Monocytes: 13.6 % (Ref: 5-13) [abnormal]
+Lymphocytes: 14.7 % (Ref: 19-53) [abnormal]
+White Blood Cells: 9.7 K/uL (Ref: 4-10)
+Red Blood Cells: 2.48 m/uL (Ref: 4.6-6.1) [abnormal]
+Absolute Lymphocyte Count: 1.43 K/uL (Ref: 1.2-3.7)
+Basophils: 0.4 % (Ref: 0-1)
+MCHC: 34.1 g/dL (Ref: 32-37)
+Nucleated Red Cells: 0.2 % (Ref: 0-0) [abnormal]
+Eosinophils: 1.9 % (Ref: 1-7)
+MCV: ___ fL (Ref: 82-98)
+Hemoglobin: 7.6 g/dL (Ref: 13.7-17.5) [abnormal]
+Reticulocyte Count, Absolute: 0.11 m/uL (Ref: 0.02-0.1) [abnormal]
+Specimen Type: VEN.
+pH: 7.37 units (Ref: 7.35-7.45)
+pO2: ___ mm Hg (Ref: 85-105) [abnormal]
+Oxygen Saturation: 51 %
+Lactate: 2.8 mmol/L (Ref: 0.5-2) [abnormal]
+pCO2: 34 mm Hg (Ref: 35-45) [abnormal]
+Base Excess: -5 mEq/L
+Calculated Total CO2: 20 mEq/L (Ref: 21-30) [abnormal]
+Alkaline Phosphatase: 28 IU/L (Ref: 40-130) [abnormal]
+Lactate Dehydrogenase (LD): 160 IU/L (Ref: 94-250)
+Albumin: 2.3 g/dL (Ref: 3.5-5.2) [abnormal]
+Bilirubin, Total: 0.6 mg/dL (Ref: 0-1.5)
+Asparate Aminotransferase (AST): 13 IU/L (Ref: 0-40)
+Alanine Aminotransferase (ALT): 11 IU/L (Ref: 0-40)
+Free Calcium: 1.05 mmol/L (Ref: 1.12-1.32) [abnormal]
+Urine Color:
+Urine Appearance:
+Yeast: NONE
+RBC: 6 #/hpf (Ref: 0-2) [abnormal]
+Leukocytes:
+Blood:
+Glucose:  mg/dL
+pH: 5.5 units (Ref: 5-8)
+Nitrite:
+Hyaline Casts: 21 #/lpf (Ref: 0-0) [abnormal]
+Ketone:  mg/dL
+Specific Gravity: 1.029   (Ref: 1.001-1.035)
+Epithelial Cells: 0 #/hpf
+Protein:  mg/dL
+Bilirubin:  mg/dL
+Urobilinogen:  mg/dL (Ref: 0.2-1)
+WBC: 10 #/hpf (Ref: 0-5) [abnormal]
+Bacteria:
+Temperature: 37.2
+Intubated: INTUBATED.
+Glucose: 164 mg/dL (Ref: 70-105) [abnormal]
+Potassium, Whole Blood: 5.2 mEq/L (Ref: 3.3-5.1) [abnormal]
+Sodium, Whole Blood: 136 mEq/L (Ref: 133-145)
+Chloride, Whole Blood: 111 mEq/L (Ref: 96-108) [abnormal]
+Hematocrit, Calculated: 26 %
+Hemoglobin: 8.6 g/dL (Ref: 14-18) [abnormal]
+Length of Urine Collection:
+Sodium, Urine: 75 mEq/L
+Creatinine, Urine: 21 mg/dL
+Osmolality, Urine: 333 mOsm/kg
+Vancomycin: 7.9 ug/mL (Ref: 10-20) [abnormal]
+
+Discharge diagnoses (ICD): I4891, Z953, Z7901, N184, N170

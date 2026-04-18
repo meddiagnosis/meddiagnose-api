@@ -1,0 +1,127 @@
+Laboratory Report - MIMIC-IV Demo (De-identified)
+Patient ID: 10014354 | Admission: 26486158 | Age: 60 | Gender: M
+Source: Beth Israel Deaconess Medical Center (de-identified)
+
+Laboratory Results
+--------------------------------------------------
+Platelet Count: 278 K/uL (Ref: 150-400)
+MCH: 26.5 pg (Ref: 26-32)
+Hematocrit: 26.1 % (Ref: 40-51) [abnormal]
+MCV: 85 fL (Ref: 82-98)
+Red Blood Cells: 3.06 m/uL (Ref: 4.6-6.1) [abnormal]
+RDW-SD: 47.3 fL (Ref: 35.1-46.3) [abnormal]
+RDW: 15.3 % (Ref: 10.5-15.5)
+MCHC: 31.0 g/dL (Ref: 32-37) [abnormal]
+White Blood Cells: 20.8 K/uL (Ref: 4-10) [abnormal]
+Hemoglobin: 8.1 g/dL (Ref: 13.7-17.5) [abnormal]
+Phosphate: 3.5 mg/dL (Ref: 2.7-4.5)
+Creatinine: 1.1 mg/dL (Ref: 0.5-1.2)
+Alkaline Phosphatase: 72 IU/L (Ref: 40-130)
+Bicarbonate: 22 mEq/L (Ref: 22-32)
+Alanine Aminotransferase (ALT): 11 IU/L (Ref: 0-40)
+Calcium, Total: 8.1 mg/dL (Ref: 8.4-10.3) [abnormal]
+Magnesium: 1.7 mg/dL (Ref: 1.6-2.6)
+Potassium: 4.5 mEq/L (Ref: 3.3-5.1)
+I: 0
+Uric Acid: 4.7 mg/dL (Ref: 3.4-7)
+Bilirubin, Total: 0.2 mg/dL (Ref: 0-1.5)
+Asparate Aminotransferase (AST): 16 IU/L (Ref: 0-40)
+Urea Nitrogen: 11 mg/dL (Ref: 6-20)
+Lactate Dehydrogenase (LD): 264 IU/L (Ref: 94-250) [abnormal]
+H: 3
+Glucose: ___ mg/dL (Ref: 70-100)
+Albumin: 2.9 g/dL (Ref: 3.5-5.2) [abnormal]
+L: 11
+Chloride: 87 mEq/L (Ref: 96-108) [abnormal]
+INR(PT): 1.7  (Ref: 0.9-1.1) [abnormal]
+Fibrinogen, Functional: 525 mg/dL (Ref: 180-400) [abnormal]
+PTT: 40.3 sec (Ref: 25-36.5) [abnormal]
+PT: 18.2 sec (Ref: 9.4-12.5) [abnormal]
+Sodium: ___ mEq/L (Ref: 135-147) [abnormal]
+Anion Gap: ___ mEq/L (Ref: 10-18)
+Absolute Neutrophil Count: 6.86 K/uL (Ref: 1.6-6.1) [abnormal]
+Absolute Eosinophil Count: 0.42 K/uL (Ref: 0.04-0.54)
+Eosinophils: 2 % (Ref: 1-7)
+Myelocytes: 0 % (Ref: 0-0)
+Monocytes: 5 % (Ref: 5-13)
+Absolute Basophil Count: 0.00 K/uL (Ref: 0.01-0.08) [abnormal]
+Neutrophils: 33 % (Ref: 34-71) [abnormal]
+Platelet Smear:  N/A
+Metamyelocytes: 0 % (Ref: 0-0)
+Basophils: 0 % (Ref: 0-1)
+Absolute Monocyte Count: 1.04 K/uL (Ref: 0.2-0.8) [abnormal]
+Bands: 0 % (Ref: 0-5)
+Absolute Lymphocyte Count: 12.48 K/uL (Ref: 1.2-3.7) [abnormal]
+Lymphocytes: 56 % (Ref: 19-53) [abnormal]
+Atypical Lymphocytes: 4 % (Ref: 0-0) [abnormal]
+Hypochromia:  N/A
+Microcytes:  N/A
+Poikilocytosis:  N/A
+Anisocytosis:  N/A
+Macrocytes:  N/A
+Polychromasia:  N/A
+Estimated GFR (MDRD equation):
+Other Cells: ___ % (Ref: 0-0) [abnormal]
+Ovalocytes:  N/A [abnormal]
+Leukocytes:  N/A
+Urobilinogen:  mg/dL (Ref: 0.2-1)
+Blood:  N/A
+Specific Gravity: 1.004   (Ref: 1.001-1.035)
+Urine Color:  N/A
+Bilirubin:  N/A
+Nitrite:  N/A
+Glucose:  mg/dL (Ref: 0-0)
+Protein:  mg/dL (Ref: 0-0)
+Ketone:  mg/dL (Ref: 0-0)
+Urine Appearance:  N/A
+pH: 7.0 units (Ref: 5-8)
+Schistocytes:  N/A [abnormal]
+Length of Urine Collection:
+Creatinine, Urine: 63 mg/dL
+Urea Nitrogen, Urine: 277 mg/dL
+Sodium, Urine: 35 mEq/L
+Osmolality, Urine: 255 mOsm/kg
+Osmolality, Measured: 256 mOsm/kg (Ref: 275-310) [abnormal]
+Teardrop Cells:  N/A [abnormal]
+Thyroxine (T4), Free: 1.0 ng/dL (Ref: 0.93-1.7)
+Thyroid Stimulating Hormone: 19 uIU/mL (Ref: 0.27-4.2) [abnormal]
+Sodium, Whole Blood: ___ mEq/L (Ref: 133-145) [abnormal]
+Red Top Hold:
+Cortisol: ___ ug/dL (Ref: 2-20)
+Spherocytes:  N/A [abnormal]
+RBC: 3 #/hpf (Ref: 0-2) [abnormal]
+WBC: 33 #/hpf (Ref: 0-5) [abnormal]
+Bacteria:  /hpf [abnormal]
+Yeast: FEW /hpf [abnormal]
+Epithelial Cells: 0 #/hpf
+Hyaline Casts: 21 #/lpf (Ref: 0-0) [abnormal]
+Amorphous Crystals:  /hpf [abnormal]
+Potassium, Urine: 44 mEq/L
+UTX9: -202
+Opiate Screen, Urine:  N/A [abnormal]
+Amphetamine Screen, Urine:  N/A
+UTX4: -422
+UTX5: -268
+Marijuana:  N/A
+UTX2: -653
+Benzodiazepine Screen, Urine:  N/A
+UTX3: 549
+UTX1: -326
+Cocaine, Urine:  N/A
+Barbiturate Screen, Urine:  N/A
+Acetaminophen:  ug/mL (Ref: 10-30)
+STX3:
+Benzodiazepine Screen:  N/A
+STX4: -37
+Heparin, LMW: ___ IU/mL
+G6PD, Qualitative: NORMAL N/A
+Reticulocyte Count, Absolute: 0.05 m/uL (Ref: 0.02-0.1)
+Reticulocyte Count, Automated: 1.8 % (Ref: 0.4-2)
+Echinocytes:  N/A [abnormal]
+Phosphate, Urine: ___ mg/dL
+Immature Granulocytes: ___ % (Ref: 0-0.6) [abnormal]
+Potassium, Whole Blood: 4.0 mEq/L (Ref: 3.3-5.1)
+Heparin: 1.03 IU/mL (Ref: 0.3-0.7) [abnormal]
+Basophilic Stippling:  N/A [abnormal]
+
+Discharge diagnoses (ICD): Z955, Z7901, M7989, F259, I5023

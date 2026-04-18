@@ -1,0 +1,95 @@
+Laboratory Report - MIMIC-IV Demo (De-identified)
+Patient ID: 10005866 | Admission: 27167814 | Age: 57 | Gender: M
+Source: Beth Israel Deaconess Medical Center (de-identified)
+
+Laboratory Results
+--------------------------------------------------
+Oxygen: 50 %
+Ventilator: SPONTANEOUS.
+Intubated: INTUBATED.
+PEEP: 8
+Temperature: 37.1
+Tidal Volume: 720
+Specimen Type: ART.
+Ventilation Rate: /17.
+pH: 7.42 units (Ref: 7.35-7.45)
+pCO2: 40 mm Hg (Ref: 35-45)
+Base Excess: 1 mEq/L
+Calculated Total CO2: 27 mEq/L (Ref: 21-30)
+pO2: 122 mm Hg (Ref: 85-105) [abnormal]
+Free Calcium: 1.04 mmol/L (Ref: 1.12-1.32) [abnormal]
+PTT: 50.2 sec (Ref: 25-36.5) [abnormal]
+PT: 18.1 sec (Ref: 9.4-12.5) [abnormal]
+INR(PT): 1.6  (Ref: 0.9-1.1) [abnormal]
+Platelet Count: ___ K/uL (Ref: 150-400) [abnormal]
+Platelet Smear:
+Albumin: 2.6 g/dL (Ref: 3.5-5.2) [abnormal]
+Potassium: 3.3 mEq/L (Ref: 3.3-5.1)
+Sodium: 133 mEq/L (Ref: 133-145)
+Phosphate: 2.8 mg/dL (Ref: 2.7-4.5)
+Alkaline Phosphatase: 59 IU/L (Ref: 40-130)
+Glucose: ___ mg/dL (Ref: 70-100) [abnormal]
+Chloride: 102 mEq/L (Ref: 96-108)
+Magnesium: 2.2 mg/dL (Ref: 1.6-2.6)
+Bicarbonate: 23 mEq/L (Ref: 22-32)
+Calcium, Total: 7.7 mg/dL (Ref: 8.4-10.3) [abnormal]
+Urea Nitrogen: 15 mg/dL (Ref: 6-20)
+Alanine Aminotransferase (ALT): 16 IU/L (Ref: 0-40)
+Anion Gap: 11 mEq/L (Ref: 8-20)
+Creatinine: 0.6 mg/dL (Ref: 0.5-1.2)
+Bilirubin, Total: 3.6 mg/dL (Ref: 0-1.5) [abnormal]
+Asparate Aminotransferase (AST): 42 IU/L (Ref: 0-40) [abnormal]
+MCHC: 33.3 g/dL (Ref: 32-37)
+RDW-SD: 61.4 fL (Ref: 35.1-46.3) [abnormal]
+MCV: 103 fL (Ref: 82-98) [abnormal]
+Red Blood Cells: 2.97 m/uL (Ref: 4.6-6.1) [abnormal]
+Hemoglobin: 10.2 g/dL (Ref: 13.7-17.5) [abnormal]
+White Blood Cells: 9.6 K/uL (Ref: 4-10)
+Hematocrit: 30.6 % (Ref: 40-51) [abnormal]
+MCH: 34.3 pg (Ref: 26-32) [abnormal]
+RDW: 16.5 % (Ref: 10.5-15.5) [abnormal]
+Urine Appearance:
+Protein:  mg/dL
+Urine Color:
+Bilirubin:  mg/dL
+Nitrite:
+Bacteria:
+Yeast: NONE
+Ketone:  mg/dL
+Blood:
+WBC:  #/hpf (Ref: 0-5)
+pH: 7.0 units (Ref: 5-8)
+Epithelial Cells: 1 #/hpf
+Glucose:  mg/dL
+Specific Gravity: 1.030   (Ref: 1.001-1.035)
+Leukocytes:
+Urobilinogen: 8 mg/dL (Ref: 0.2-1) [abnormal]
+RBC: 3 #/hpf (Ref: 0-2) [abnormal]
+Urine Mucous:
+Basophils: 0.2 % (Ref: 0-1)
+Eosinophils: 3.0 % (Ref: 1-7)
+Absolute Monocyte Count: 1.42 K/uL (Ref: 0.2-0.8) [abnormal]
+Absolute Neutrophil Count: 5.09 K/uL (Ref: 1.6-6.1)
+Immature Granulocytes: 2.0 %
+Absolute Lymphocyte Count: 1.26 K/uL (Ref: 1.2-3.7)
+Neutrophils: 62.1 % (Ref: 34-71)
+Absolute Basophil Count: 0.02 K/uL (Ref: 0.01-0.08)
+Lymphocytes: 15.4 % (Ref: 19-53) [abnormal]
+Absolute Eosinophil Count: 0.25 K/uL (Ref: 0.04-0.54)
+Monocytes: 17.3 % (Ref: 5-13) [abnormal]
+Total Nucleated Cells, Ascites: 113 #/uL (Ref: 0-0) [abnormal]
+RBC, Ascites: 8675 #/uL (Ref: 0-0) [abnormal]
+Polys: 37 % (Ref: 0-0) [abnormal]
+Lymphocytes: 35 % (Ref: 0-0) [abnormal]
+Macrophage: 3 % (Ref: 0-0) [abnormal]
+Monocytes: 25 % (Ref: 0-0) [abnormal]
+Vancomycin: 10.1 ug/mL (Ref: 10-20)
+Lactate Dehydrogenase (LD): 220 IU/L (Ref: 94-250)
+Estimated GFR (MDRD equation):
+Amylase: 71 IU/L (Ref: 0-100)
+Transferrin: 94 mg/dL (Ref: 200-360) [abnormal]
+Iron: 37 ug/dL (Ref: 45-160) [abnormal]
+Ferritin: 474 ng/mL (Ref: 30-400) [abnormal]
+Iron Binding Capacity, Total: 122 ug/dL (Ref: 260-470) [abnormal]
+
+Discharge diagnoses (ICD): R339, D62, T17990A, K565, T814XXA

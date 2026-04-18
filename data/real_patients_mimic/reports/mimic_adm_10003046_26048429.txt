@@ -1,0 +1,50 @@
+Laboratory Report - MIMIC-IV Demo (De-identified)
+Patient ID: 10003046 | Admission: 26048429 | Age: 64 | Gender: M
+Source: Beth Israel Deaconess Medical Center (de-identified)
+
+Laboratory Results
+--------------------------------------------------
+Intubated: INTUBATED.
+Specimen Type: ART.
+Hematocrit, Calculated: 44 %
+pCO2: 44 mm Hg (Ref: 35-45)
+Potassium, Whole Blood: 3.5 mEq/L (Ref: 3.5-5.3)
+Free Calcium: 1.15 mmol/L (Ref: 1.12-1.32)
+Sodium, Whole Blood: 137 mEq/L (Ref: 135-148)
+Oxygen Saturation: 98 %
+Chloride, Whole Blood: 106 mEq/L (Ref: 100-112)
+Base Excess: -2 mEq/L
+Glucose: 159 mg/dL (Ref: 70-105) [abnormal]
+Hemoglobin: 14.5 g/dL (Ref: 14-18)
+pO2: 176 mm Hg (Ref: 85-105) [abnormal]
+Calculated Total CO2: 24 mEq/L (Ref: 21-30)
+pH: 7.33 units (Ref: 7.35-7.45) [abnormal]
+Lactate: 1.3 mmol/L (Ref: 0.5-2)
+Hematocrit: 38.8 % (Ref: 40-52) [abnormal]
+Chloride: 106 mEq/L (Ref: 96-108)
+Magnesium: 1.5 mg/dL (Ref: 1.6-2.6) [abnormal]
+Sodium: 139 mEq/L (Ref: 133-145)
+Calcium, Total: 8.1 mg/dL (Ref: 8.4-10.3) [abnormal]
+Potassium: 4.3 mEq/L (Ref: 3.3-5.1)
+Anion Gap: 14 mEq/L (Ref: 8-20)
+Creatinine: 0.9 mg/dL (Ref: 0.5-1.2)
+Estimated GFR (MDRD equation):
+Urea Nitrogen: 17 mg/dL (Ref: 6-20)
+Glucose: ___ mg/dL (Ref: 70-100) [abnormal]
+Phosphate: 3.6 mg/dL (Ref: 2.7-4.5)
+Bicarbonate: 26 mEq/L (Ref: 22-32)
+Hemoglobin: 13.6 g/dL (Ref: 14-18) [abnormal]
+Platelet Count: 243 K/uL (Ref: 150-440)
+RDW: 13.9 % (Ref: 10.5-15.5)
+Red Blood Cells: 4.50 m/uL (Ref: 4.6-6.2) [abnormal]
+MCHC: 35.0 % (Ref: 31-35)
+White Blood Cells: 14.8 K/uL (Ref: 4-11) [abnormal]
+MCV: 86 fL (Ref: 82-98)
+MCH: 30.2 pg (Ref: 27-32)
+Temperature: ___
+Ventilation Rate: /10.
+INR(PT): 1.3  (Ref: 0.9-1.1) [abnormal]
+PT: 14.8 sec (Ref: 10.4-13.4) [abnormal]
+PTT: 32.2 sec (Ref: 22-35)
+
+Discharge diagnoses (ICD): 1505, 53081, 53085, 2762

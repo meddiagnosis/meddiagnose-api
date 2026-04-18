@@ -1,0 +1,107 @@
+Laboratory Report - MIMIC-IV Demo (De-identified)
+Patient ID: 10014354 | Admission: 29780751 | Age: 60 | Gender: M
+Source: Beth Israel Deaconess Medical Center (de-identified)
+
+Laboratory Results
+--------------------------------------------------
+Light Green Top Hold: ___
+Blue Top Hold: HOLD.  DISCARD GREATER THAN 24 HRS OLD.
+PTT: 30.6 sec (Ref: 25-36.5)
+INR(PT): 1.0  (Ref: 0.9-1.1)
+PT: 10.3 sec (Ref: 9.4-12.5)
+Creatinine: 0.9 mg/dL (Ref: 0.5-1.2)
+Chloride: 104 mEq/L (Ref: 96-108)
+Estimated GFR (MDRD equation):
+Absolute Neutrophil Count: 26.01 K/uL (Ref: 1.6-6.1) [abnormal]
+L: 54
+Monocytes: 3 % (Ref: 5-13) [abnormal]
+Sodium: 140 mEq/L (Ref: 133-145)
+Eosinophils: 2 % (Ref: 1-7)
+Nucleated Red Cells: 2 % (Ref: 0-0) [abnormal]
+Absolute Monocyte Count: 1.13 K/uL (Ref: 0.2-0.8) [abnormal]
+Glucose: ___ mg/dL (Ref: 70-100) [abnormal]
+Basophils: 1 % (Ref: 0-1)
+Absolute Eosinophil Count: 0.75 K/uL (Ref: 0.04-0.54) [abnormal]
+Lymphocytes: 22 % (Ref: 19-53)
+Absolute Basophil Count: 0.38 K/uL (Ref: 0.01-0.08) [abnormal]
+Urea Nitrogen: 8 mg/dL (Ref: 6-20)
+Metamyelocytes: 2 % (Ref: 0-0) [abnormal]
+Myelocytes: 1 % (Ref: 0-0) [abnormal]
+H: 10
+I: 0
+Anion Gap: 15 mEq/L (Ref: 8-20)
+Potassium: 3.5 mEq/L (Ref: 3.3-5.1)
+Bicarbonate: 25 mEq/L (Ref: 22-32)
+Bands: 12 % (Ref: 0-5) [abnormal]
+Neutrophils: 57 % (Ref: 34-71)
+Platelet Smear:
+Absolute Lymphocyte Count: 8.29 K/uL (Ref: 1.2-3.7) [abnormal]
+Atypical Lymphocytes: 0 % (Ref: 0-0)
+Anisocytosis:
+Microcytes:
+Teardrop Cells:
+Acanthocytes:
+Elliptocytes:
+Ovalocytes:
+Schistocytes:
+Poikilocytosis:
+Macrocytes:
+Hypochromia:
+Polychromasia:
+Basophilic Stippling:
+Platelet Count: ___ K/uL (Ref: 150-400) [abnormal]
+RDW-SD: 61.8 fL (Ref: 35.1-46.3) [abnormal]
+RDW: 20.5 % (Ref: 10.5-15.5) [abnormal]
+Hematocrit: ___ % (Ref: 40-51) [abnormal]
+MCHC: 32.9 g/dL (Ref: 32-37)
+White Blood Cells: ___ K/uL (Ref: 4-10) [abnormal]
+Red Blood Cells: 2.77 m/uL (Ref: 4.6-6.1) [abnormal]
+MCH: 28.2 pg (Ref: 26-32)
+Hemoglobin: 7.8 g/dL (Ref: 13.7-17.5) [abnormal]
+MCV: 86 fL (Ref: 82-98)
+Lactate: ___ mmol/L (Ref: 0.5-2)
+Influenza A by PCR:
+Influenza B by PCR:
+Uhold: HOLD.
+Length of Urine Collection:
+RBC:  #/hpf (Ref: 0-2)
+Blood:
+Epithelial Cells: 0 #/hpf
+Yeast: NONE
+Glucose: 150 mg/dL
+Specific Gravity: 1.007   (Ref: 1.001-1.035)
+WBC: 1 #/hpf (Ref: 0-5)
+pH: 6.5 units (Ref: 5-8)
+Urine Appearance:
+Protein:  mg/dL
+Leukocytes:
+Nitrite:
+Urine Color:
+Bacteria:
+Bilirubin:  mg/dL
+Ketone:  mg/dL
+Urobilinogen:  mg/dL (Ref: 0.2-1)
+Bilirubin, Total: 0.2 mg/dL (Ref: 0-1.5)
+Calcium, Total: 8.5 mg/dL (Ref: 8.4-10.3)
+Alanine Aminotransferase (ALT): 15 IU/L (Ref: 0-40)
+Asparate Aminotransferase (AST): 22 IU/L (Ref: 0-40)
+Phosphate: 3.8 mg/dL (Ref: 2.7-4.5)
+Alkaline Phosphatase: 122 IU/L (Ref: 40-130)
+Magnesium: 1.4 mg/dL (Ref: 1.6-2.6) [abnormal]
+Immunoglobulin A: 101 mg/dL (Ref: 70-400)
+Immunoglobulin G: 544 mg/dL (Ref: 700-1600) [abnormal]
+Immunoglobulin M: 28 mg/dL (Ref: 40-230) [abnormal]
+Spherocytes:
+Amylase: 39 IU/L (Ref: 0-100)
+Lipase: 20 IU/L (Ref: 0-60)
+Lactate Dehydrogenase (LD): 476 IU/L (Ref: 94-250) [abnormal]
+Uric Acid: 5.4 mg/dL (Ref: 3.4-7)
+Creatine Kinase, MB Isoenzyme: 2 ng/mL (Ref: 0-10)
+Troponin T:  ng/mL (Ref: 0-0.01)
+Creatine Kinase (CK): ___ IU/L (Ref: 47-322)
+Osmolality, Measured: 272 mOsm/kg (Ref: 275-310) [abnormal]
+Albumin: 3.2 g/dL (Ref: 3.5-5.2) [abnormal]
+Sodium, Urine: 34 mEq/L
+Osmolality, Urine: 154 mOsm/kg
+
+Discharge diagnoses (ICD): Z8673, C6292, Z955, D6481, M7989

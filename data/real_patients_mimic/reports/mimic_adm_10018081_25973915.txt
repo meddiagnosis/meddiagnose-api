@@ -1,0 +1,72 @@
+Laboratory Report - MIMIC-IV Demo (De-identified)
+Patient ID: 10018081 | Admission: 25973915 | Age: 79 | Gender: M
+Source: Beth Israel Deaconess Medical Center (de-identified)
+
+Laboratory Results
+--------------------------------------------------
+Length of Urine Collection:
+Urine tube, held: HOLD.  SPECIMEN TO BE HELD 48 HOURS AND DISCARDED.
+Light Green Top Hold: ___
+Uhold: HOLD.
+PTT: 19.0 sec (Ref: 25-36.5) [abnormal]
+INR(PT): 1.3  (Ref: 0.9-1.1) [abnormal]
+PT: 13.9 sec (Ref: 9.4-12.5) [abnormal]
+Sodium: 146 mEq/L (Ref: 133-145) [abnormal]
+Chloride: 106 mEq/L (Ref: 96-108)
+Glucose: ___ mg/dL (Ref: 70-100) [abnormal]
+Creatinine: 0.9 mg/dL (Ref: 0.5-1.2)
+Anion Gap: 15 mEq/L (Ref: 8-20)
+Albumin: 2.9 g/dL (Ref: 3.5-5.2) [abnormal]
+Bicarbonate: 30 mEq/L (Ref: 22-32)
+Lipase: 35 IU/L (Ref: 0-60)
+Potassium: ___ mEq/L (Ref: 3.3-5.1)
+Alkaline Phosphatase: 118 IU/L (Ref: 40-130)
+Troponin T: ___ ng/mL (Ref: 0-0.01) [abnormal]
+Urea Nitrogen: 32 mg/dL (Ref: 6-20) [abnormal]
+NTproBNP: ___ pg/mL (Ref: 0-852) [abnormal]
+Estimated GFR (MDRD equation):
+Alanine Aminotransferase (ALT): ___ IU/L (Ref: 0-40)
+Asparate Aminotransferase (AST): ___ IU/L (Ref: 0-40)
+Bilirubin, Total: 0.5 mg/dL (Ref: 0-1.5)
+MCV: 97 fL (Ref: 82-98)
+MCH: 30.8 pg (Ref: 27-32)
+Hemoglobin: 10.6 g/dL (Ref: 14-18) [abnormal]
+Neutrophils: 79.6 % (Ref: 50-70) [abnormal]
+Basophils: 0.3 % (Ref: 0-2)
+Red Blood Cells: 3.44 m/uL (Ref: 4.6-6.2) [abnormal]
+Monocytes: 6.9 % (Ref: 2-11)
+Eosinophils: 1.6 % (Ref: 0-4)
+Lymphocytes: 11.6 % (Ref: 18-42) [abnormal]
+Platelet Count: 318 K/uL (Ref: 150-440)
+Hematocrit: 33.4 % (Ref: 40-52) [abnormal]
+White Blood Cells: 9.8 K/uL (Ref: 4-11)
+MCHC: 31.8 % (Ref: 31-35)
+RDW: 16.4 % (Ref: 10.5-15.5) [abnormal]
+Urine Appearance:
+WBC: 13 #/hpf (Ref: 0-5) [abnormal]
+Epithelial Cells: 0 #/hpf
+Bilirubin:  mg/dL
+Urine Mucous:
+Glucose:  mg/dL
+Blood:
+Urine Color:
+Ketone:  mg/dL
+Nitrite:
+Urobilinogen:  mg/dL (Ref: 0.2-1)
+Bacteria:
+RBC: 13 #/hpf (Ref: 0-2) [abnormal]
+Protein: 30 mg/dL
+Specific Gravity: 1.017   (Ref: 1.001-1.035)
+Yeast: NONE
+pH: 6.0 units (Ref: 5-8)
+Leukocytes:
+Lactate: ___ mmol/L (Ref: 0.5-2)
+Magnesium: 1.9 mg/dL (Ref: 1.6-2.6)
+Phosphate: 3.4 mg/dL (Ref: 2.7-4.5)
+Calcium, Total: 8.9 mg/dL (Ref: 8.4-10.3)
+Thyroid Stimulating Hormone: 3.1 uIU/mL (Ref: 0.27-4.2)
+Vitamin B12: 324 pg/mL (Ref: 240-900)
+Folate: 16.0 ng/mL (Ref: 2-20)
+Voided Specimen:
+
+Discharge diagnoses (ICD): 2760, 78451, 4240, 2859, 42833

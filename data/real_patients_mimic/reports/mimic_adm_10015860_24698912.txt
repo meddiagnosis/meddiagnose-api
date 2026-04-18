@@ -1,0 +1,108 @@
+Laboratory Report - MIMIC-IV Demo (De-identified)
+Patient ID: 10015860 | Admission: 24698912 | Age: 53 | Gender: M
+Source: Beth Israel Deaconess Medical Center (de-identified)
+
+Laboratory Results
+--------------------------------------------------
+Light Green Top Hold: ___
+Absolute Monocyte Count: 1.68 K/uL (Ref: 0.2-0.8) [abnormal]
+Neutrophils: 89.8 % (Ref: 34-71) [abnormal]
+Absolute Eosinophil Count: 0.01 K/uL (Ref: 0.04-0.54) [abnormal]
+Hematocrit: 26.4 % (Ref: 40-51) [abnormal]
+Lymphocytes: 1.7 % (Ref: 19-53) [abnormal]
+Monocytes: 6.4 % (Ref: 5-13)
+Absolute Neutrophil Count: 23.71 K/uL (Ref: 1.6-6.1) [abnormal]
+MCHC: 33.7 g/dL (Ref: 32-37)
+Eosinophils: 0.0 % (Ref: 1-7) [abnormal]
+RDW: 14.0 % (Ref: 10.5-15.5)
+Platelet Count: 360 K/uL (Ref: 150-400)
+MCH: 28.3 pg (Ref: 26-32)
+Red Blood Cells: 3.14 m/uL (Ref: 4.6-6.1) [abnormal]
+Absolute Lymphocyte Count: 0.46 K/uL (Ref: 1.2-3.7) [abnormal]
+RDW-SD: 42.8 fL (Ref: 35.1-46.3)
+Basophils: 0.2 % (Ref: 0-1)
+Hemoglobin: 8.9 g/dL (Ref: 13.7-17.5) [abnormal]
+White Blood Cells: 26.4 K/uL (Ref: 4-10) [abnormal]
+MCV: 84 fL (Ref: 82-98)
+Absolute Basophil Count: 0.04 K/uL (Ref: 0.01-0.08)
+Immature Granulocytes: ___ % (Ref: 0-0.6) [abnormal]
+Alanine Aminotransferase (ALT): 12 IU/L (Ref: 0-40)
+Sodium: ___ mEq/L (Ref: 135-147) [abnormal]
+Anion Gap: ___ mEq/L (Ref: 10-18) [abnormal]
+Potassium: 4.2 mEq/L (Ref: 3.3-5.1)
+Chloride: 87 mEq/L (Ref: 96-108) [abnormal]
+PTT: 27.1 sec (Ref: 25-36.5)
+INR(PT): 1.3  (Ref: 0.9-1.1) [abnormal]
+PT: 13.7 sec (Ref: 9.4-12.5) [abnormal]
+Bicarbonate: ___ mEq/L (Ref: 22-32) [abnormal]
+Bilirubin, Total: 0.3 mg/dL (Ref: 0-1.5)
+Urea Nitrogen: 82 mg/dL (Ref: 6-20) [abnormal]
+Phosphate: 4.9 mg/dL (Ref: 2.7-4.5) [abnormal]
+I: 0
+Alkaline Phosphatase: 103 IU/L (Ref: 40-130)
+Asparate Aminotransferase (AST): 11 IU/L (Ref: 0-40)
+L: 4
+Estimated GFR (MDRD equation):
+Glucose: ___ mg/dL (Ref: 70-100) [abnormal]
+Calcium, Total: 8.9 mg/dL (Ref: 8.4-10.3)
+Lipase: 32 IU/L (Ref: 0-60)
+Creatinine: 9.1 mg/dL (Ref: 0.5-1.2) [abnormal]
+Magnesium: 1.4 mg/dL (Ref: 1.6-2.6) [abnormal]
+Albumin: 3.5 g/dL (Ref: 3.5-5.2)
+H: 1
+Potassium, Whole Blood: 4.0 mEq/L (Ref: 3.3-5.1)
+Lactate: 1.1 mmol/L (Ref: 0.5-2)
+Length of Urine Collection:
+Uhold: HOLD.
+Urine tube, held: HOLD.  SPECIMEN TO BE HELD 48 HOURS AND DISCARDED.
+Creatinine, Urine: 64 mg/dL
+Sodium, Urine: 48 mEq/L
+Total Protein, Urine: 335 mg/dL
+Protein/Creatinine Ratio: 5.2 mg/mg (Ref: 0-0.2) [abnormal]
+Osmolality, Urine: 335 mOsm/kg
+Urine Color:  N/A
+Specific Gravity: 1.012   (Ref: 1.001-1.035)
+Epithelial Cells: 0 #/hpf
+Yeast: NONE /hpf
+Glucose: 300 mg/dL (Ref: 0-0) [abnormal]
+Urine Mucous:  /hpf [abnormal]
+Bacteria:  /hpf [abnormal]
+WBC: 1 #/hpf (Ref: 0-5)
+Protein: 300 mg/dL (Ref: 0-0) [abnormal]
+Ketone:  mg/dL (Ref: 0-0)
+RBC: 1 #/hpf (Ref: 0-2)
+Blood:  N/A [abnormal]
+Nitrite:  N/A
+pH: 6.0 units (Ref: 5-8)
+Bilirubin:  N/A
+Urobilinogen:  mg/dL (Ref: 0.2-1)
+Leukocytes:  N/A
+Urine Appearance:  N/A
+Green Top Hold (plasma): HOLD.  DISCARD GREATER THAN 4 HOURS OLD.
+Intubated: NOT INTUBATED.
+Specimen Type: VEN.
+pO2: ___ mm Hg (Ref: 85-105) [abnormal]
+Base Excess: -11 mEq/L
+pH: 7.31 units (Ref: 7.35-7.45) [abnormal]
+pCO2: 25 mm Hg (Ref: 35-45) [abnormal]
+Calculated Total CO2: ___ mEq/L (Ref: 21-30) [abnormal]
+Free Calcium: 1.10 mmol/L (Ref: 1.12-1.32) [abnormal]
+Creatine Kinase (CK): ___ IU/L (Ref: 47-322)
+Iron Binding Capacity, Total: 153 ug/dL (Ref: 260-470) [abnormal]
+Iron: 17 ug/dL (Ref: 45-160) [abnormal]
+Transferrin: 118 mg/dL (Ref: 200-360) [abnormal]
+Ferritin: 699 ng/mL (Ref: 30-400) [abnormal]
+Vitamin B12: 420 pg/mL (Ref: 240-900)
+Vancomycin: 13.3 ug/mL (Ref: 10-20)
+C-Reactive Protein: 149.1 mg/L (Ref: 0-5) [abnormal]
+HPE2: 8.83
+HPE3: 1.83
+Hepatitis B Surface Antibody:  N/A
+Hepatitis B Virus Core Antibody:  N/A
+Hepatitis C Virus Antibody:  N/A
+Hepatitis B Surface Antigen:  N/A
+HPE1: 0.453
+HPE7: 0.064
+Red Top Hold:
+
+Discharge diagnoses (ICD): D329, E1122, E1165, R6520, Z87891

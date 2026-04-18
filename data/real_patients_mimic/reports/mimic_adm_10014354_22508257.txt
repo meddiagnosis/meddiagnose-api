@@ -1,0 +1,40 @@
+Laboratory Report - MIMIC-IV Demo (De-identified)
+Patient ID: 10014354 | Admission: 22508257 | Age: 60 | Gender: M
+Source: Beth Israel Deaconess Medical Center (de-identified)
+
+Laboratory Results
+--------------------------------------------------
+RDW-SD: 42.2 fL (Ref: 35.1-46.3)
+White Blood Cells: 37.1 K/uL (Ref: 4-10) [abnormal]
+MCH: 28.4 pg (Ref: 26-32)
+RDW: 13.7 % (Ref: 10.5-15.5)
+MCHC: 33.0 g/dL (Ref: 32-37)
+Red Blood Cells: 3.63 m/uL (Ref: 4.6-6.1) [abnormal]
+Platelet Count: 163 K/uL (Ref: 150-400)
+Hematocrit: 31.2 % (Ref: 40-51) [abnormal]
+MCV: 86 fL (Ref: 82-98)
+Hemoglobin: 10.3 g/dL (Ref: 13.7-17.5) [abnormal]
+Magnesium: 2.0 mg/dL (Ref: 1.6-2.6)
+Chloride: 100 mEq/L (Ref: 96-108)
+Sodium: ___ mEq/L (Ref: 135-147)
+H: 3
+Urea Nitrogen: 18 mg/dL (Ref: 6-20)
+Creatinine: 1.1 mg/dL (Ref: 0.5-1.2)
+L: 9
+I: 0
+Anion Gap: ___ mEq/L (Ref: 10-18)
+Phosphate: 4.6 mg/dL (Ref: 2.7-4.5) [abnormal]
+Potassium: 3.7 mEq/L (Ref: 3.3-5.1)
+Calcium, Total: 8.8 mg/dL (Ref: 8.4-10.3)
+Bicarbonate: 26 mEq/L (Ref: 22-32)
+Glucose: ___ mg/dL (Ref: 70-100) [abnormal]
+Red Top Hold:
+Cortisol: ___ ug/dL (Ref: 2-20)
+Osmolality, Measured: 266 mOsm/kg (Ref: 275-310) [abnormal]
+Albumin: 3.7 g/dL (Ref: 3.5-5.2)
+Length of Urine Collection:
+Osmolality, Urine: 134 mOsm/kg
+Sodium, Urine: 41 mEq/L
+Estimated GFR (MDRD equation):
+
+Discharge diagnoses (ICD): H409, F419, E039, Z6835, E1136

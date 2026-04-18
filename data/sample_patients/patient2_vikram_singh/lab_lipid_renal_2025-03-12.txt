@@ -1,0 +1,24 @@
+Lipid Profile & Renal Function Panel
+Patient: Vikram Singh | DOB: 1988-06-10 | Male
+Lab: Metro Path Labs | Date: 2025-03-12
+Referring: Dr. Arjun Patel
+
+=== LIPID PROFILE ===
+Total Cholesterol: 245 mg/dL (Ref: <200) [HIGH]
+LDL: 165 mg/dL (Ref: <100) [HIGH]
+HDL: 38 mg/dL (Ref: >40) [LOW]
+Triglycerides: 195 mg/dL (Ref: <150) [HIGH]
+VLDL: 39 mg/dL (Ref: 5-40)
+
+=== RENAL FUNCTION ===
+Creatinine: 1.2 mg/dL (Ref: 0.7-1.3)
+eGFR: 78 mL/min/1.73m2 (Ref: >90) [Mild reduction]
+BUN: 22 mg/dL (Ref: 7-20) [HIGH]
+Uric Acid: 7.2 mg/dL (Ref: 3.5-7.2)
+
+=== BLOOD PRESSURE (Clinic) ===
+BP: 148/94 mmHg (Elevated - Stage 1 Hypertension)
+
+Impression: Dyslipidemia, Stage 1 hypertension. Mild renal function reduction.
+Clinical: Headache, dizziness, occasional nosebleeds.
+Allergies: Aspirin - AVOID NSAIDs.

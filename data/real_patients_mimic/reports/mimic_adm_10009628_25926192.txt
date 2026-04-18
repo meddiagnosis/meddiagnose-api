@@ -1,0 +1,78 @@
+Laboratory Report - MIMIC-IV Demo (De-identified)
+Patient ID: 10009628 | Admission: 25926192 | Age: 58 | Gender: M
+Source: Beth Israel Deaconess Medical Center (de-identified)
+
+Laboratory Results
+--------------------------------------------------
+Hematocrit: 39.5 % (Ref: 40-52) [abnormal]
+MCH: 30.4 pg (Ref: 27-32)
+MCHC: 35.3 % (Ref: 31-35) [abnormal]
+MCV: 86 fL (Ref: 82-98)
+White Blood Cells: 8.4 K/uL (Ref: 4-11)
+Red Blood Cells: 4.58 m/uL (Ref: 4.6-6.2) [abnormal]
+Hemoglobin: 14.0 g/dL (Ref: 14-18)
+RDW: 12.2 % (Ref: 10.5-15.5)
+Platelet Count: 230 K/uL (Ref: 150-440)
+PTT: ___ sec (Ref: 25-36.5) [abnormal]
+PT: ___ sec (Ref: 9.4-12.5)
+INR(PT): 1.0  (Ref: 0.9-1.1)
+Creatine Kinase, MB Isoenzyme: 2 ng/mL (Ref: 0-10)
+Bilirubin, Total: 0.3 mg/dL (Ref: 0-1.5)
+Creatinine: 0.9 mg/dL (Ref: 0.5-1.2)
+Estimated GFR (MDRD equation):
+Potassium: 4.0 mEq/L (Ref: 3.3-5.1)
+Glucose: ___ mg/dL (Ref: 70-100) [abnormal]
+Magnesium: 2.2 mg/dL (Ref: 1.6-2.6)
+Lactate Dehydrogenase (LD): 199 IU/L (Ref: 94-250)
+Bicarbonate: 24 mEq/L (Ref: 22-32)
+Urea Nitrogen: 14 mg/dL (Ref: 6-20)
+Albumin: 4.2 g/dL (Ref: 3.5-5.2)
+Alkaline Phosphatase: 85 IU/L (Ref: 40-130)
+Chloride: 104 mEq/L (Ref: 96-108)
+Sodium: 138 mEq/L (Ref: 133-145)
+Anion Gap: 14 mEq/L (Ref: 8-20)
+Alanine Aminotransferase (ALT): 23 IU/L (Ref: 0-40)
+Asparate Aminotransferase (AST): 24 IU/L (Ref: 0-40)
+Troponin T: ___ ng/mL (Ref: 0-0.01) [abnormal]
+Nitrite:
+Urine Mucous:
+WBC: 1 #/hpf (Ref: 0-5)
+Leukocytes:
+Protein:  mg/dL
+Urobilinogen:  mg/dL (Ref: 0.2-1)
+Urine Color:
+Bilirubin:  mg/dL
+Urine Appearance:
+Bacteria:
+Glucose: 70 mg/dL
+Ketone:  mg/dL
+RBC: 1 #/hpf (Ref: 0-2)
+Specific Gravity: 1.021   (Ref: 1.001-1.035)
+Yeast: NONE
+Epithelial Cells: 0 #/hpf
+pH: 5.5 units (Ref: 5-8)
+Blood:
+Hyaline Casts: 6 #/lpf (Ref: 0-0) [abnormal]
+Specimen Type: ART.
+Intubated: INTUBATED.
+Ventilator: CONTROLLED.
+Sodium, Whole Blood: 135 mEq/L (Ref: 133-145)
+Glucose: 149 mg/dL (Ref: 70-105) [abnormal]
+Hematocrit, Calculated: 38 %
+pCO2: 35 mm Hg (Ref: 35-45)
+Calculated Total CO2: 26 mEq/L (Ref: 21-30)
+Base Excess: 2 mEq/L
+pO2: 348 mm Hg (Ref: 85-105) [abnormal]
+Potassium, Whole Blood: 3.7 mEq/L (Ref: 3.3-5.1)
+Hemoglobin: 12.5 g/dL (Ref: 14-18) [abnormal]
+pH: 7.46 units (Ref: 7.35-7.45) [abnormal]
+Chloride, Whole Blood: 102 mEq/L (Ref: 96-108)
+Lactate: 2.7 mmol/L (Ref: 0.5-2) [abnormal]
+Free Calcium: 1.12 mmol/L (Ref: 1.12-1.32)
+Fibrinogen, Functional: 182 mg/dL (Ref: 180-400)
+Green Top Hold (plasma): HOLD.  DISCARD GREATER THAN 4 HOURS OLD.
+Oxygen Saturation: 99 %
+Calcium, Total: 7.5 mg/dL (Ref: 8.4-10.3) [abnormal]
+Phosphate: 3.9 mg/dL (Ref: 2.7-4.5)
+
+Discharge diagnoses (ICD): 36201, 2724, 42731, V5867, 25050

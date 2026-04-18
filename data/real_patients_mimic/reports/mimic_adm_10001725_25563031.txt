@@ -1,0 +1,54 @@
+Laboratory Report - MIMIC-IV Demo (De-identified)
+Patient ID: 10001725 | Admission: 25563031 | Age: 46 | Gender: F
+Source: Beth Israel Deaconess Medical Center (de-identified)
+
+Laboratory Results
+--------------------------------------------------
+Hemoglobin: 13.9 g/dL (Ref: 12-16)
+Platelet Count: 330 K/uL (Ref: 150-440)
+RDW: 11.8 % (Ref: 10.5-15.5)
+Red Blood Cells: 4.33 m/uL (Ref: 4.2-5.4)
+Hematocrit: 39.1 % (Ref: 36-48)
+MCV: 90 fL (Ref: 82-98)
+MCHC: 35.6 % (Ref: 31-35) [abnormal]
+White Blood Cells: 17.0 K/uL (Ref: 4-11) [abnormal]
+MCH: 32.2 pg (Ref: 27-32) [abnormal]
+Monocytes: 0.7 % (Ref: 2-11) [abnormal]
+Lymphocytes: 4.3 % (Ref: 18-42) [abnormal]
+Eosinophils: 0.1 % (Ref: 0-4)
+Basophils: 0.3 % (Ref: 0-2)
+Neutrophils: 94.5 % (Ref: 50-70) [abnormal]
+INR(PT): 1.0  (Ref: 0.9-1.1)
+PT: 11.3 sec (Ref: 9.4-12.5)
+PTT: 31.8 sec (Ref: 25-36.5)
+Anion Gap: 14 mEq/L (Ref: 8-20)
+Potassium: 3.9 mEq/L (Ref: 3.3-5.1)
+Urea Nitrogen: 16 mg/dL (Ref: 6-20)
+Bicarbonate: 24 mEq/L (Ref: 22-32)
+Phosphate: 3.1 mg/dL (Ref: 2.7-4.5)
+Creatinine: 0.8 mg/dL (Ref: 0.4-1.1)
+Calcium, Total: 9.1 mg/dL (Ref: 8.4-10.3)
+Chloride: 106 mEq/L (Ref: 96-108)
+Estimated GFR (MDRD equation):
+Magnesium: 1.5 mg/dL (Ref: 1.6-2.6) [abnormal]
+Sodium: 140 mEq/L (Ref: 133-145)
+Glucose: ___ mg/dL (Ref: 70-100) [abnormal]
+Bilirubin:  mg/dL
+Nitrite:
+WBC: 4 #/hpf (Ref: 0-5)
+Urobilinogen:  mg/dL (Ref: 0.2-1)
+Yeast: NONE
+Specific Gravity: 1.008   (Ref: 1.001-1.035)
+pH: 7.5 units (Ref: 5-8)
+RBC: 2 #/hpf (Ref: 0-2)
+Epithelial Cells: 1 #/hpf
+Protein:  mg/dL
+Bacteria:
+Urine Appearance:
+Blood:
+Ketone:  mg/dL
+Urine Color:
+Leukocytes:
+Glucose:  mg/dL
+
+Discharge diagnoses (ICD): 49390, 7291, 6185, 56400, 5641

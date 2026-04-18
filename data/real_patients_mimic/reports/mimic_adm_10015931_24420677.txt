@@ -1,0 +1,98 @@
+Laboratory Report - MIMIC-IV Demo (De-identified)
+Patient ID: 10015931 | Admission: 24420677 | Age: 87 | Gender: M
+Source: Beth Israel Deaconess Medical Center (de-identified)
+
+Laboratory Results
+--------------------------------------------------
+MCH: 32.8 pg (Ref: 26-32) [abnormal]
+MCHC: 32.0 g/dL (Ref: 32-37)
+White Blood Cells: 5.7 K/uL (Ref: 4-10)
+Hematocrit: 33.4 % (Ref: 40-51) [abnormal]
+Red Blood Cells: 3.26 m/uL (Ref: 4.6-6.1) [abnormal]
+RDW-SD: 65.3 fL (Ref: 35.1-46.3) [abnormal]
+Hemoglobin: 10.7 g/dL (Ref: 13.7-17.5) [abnormal]
+RDW: 17.7 % (Ref: 10.5-15.5) [abnormal]
+Platelet Count: 86 K/uL (Ref: 150-400) [abnormal]
+MCV: 103 fL (Ref: 82-98) [abnormal]
+Reticulocyte Count, Automated: 2.7 % (Ref: 0.4-2) [abnormal]
+Reticulocyte Count, Absolute: 0.09 m/uL (Ref: 0.02-0.1)
+I: 1
+H: 5
+L: 9
+Alkaline Phosphatase: 55 IU/L (Ref: 40-130)
+Calcium, Total: 8.7 mg/dL (Ref: 8.4-10.3)
+Sodium: 139 mEq/L (Ref: 133-145)
+Lactate Dehydrogenase (LD): 278 IU/L (Ref: 94-250) [abnormal]
+Magnesium: 1.9 mg/dL (Ref: 1.6-2.6)
+Anion Gap: 13 mEq/L (Ref: 8-20)
+Alanine Aminotransferase (ALT): 9 IU/L (Ref: 0-40)
+Bicarbonate: 33 mEq/L (Ref: 22-32) [abnormal]
+Glucose: ___ mg/dL (Ref: 70-100) [abnormal]
+Chloride: 97 mEq/L (Ref: 96-108)
+Creatinine: 1.7 mg/dL (Ref: 0.5-1.2) [abnormal]
+Potassium: 4.0 mEq/L (Ref: 3.3-5.1)
+Phosphate: 4.2 mg/dL (Ref: 2.7-4.5)
+Asparate Aminotransferase (AST): 17 IU/L (Ref: 0-40)
+Bilirubin, Total: 0.6 mg/dL (Ref: 0-1.5)
+Urea Nitrogen: 33 mg/dL (Ref: 6-20) [abnormal]
+Echinocytes:
+Teardrop Cells:
+Basophilic Stippling:
+Acanthocytes:
+Polychromasia:
+Macrocytes:
+Poikilocytosis:
+Schistocytes:
+Anisocytosis:
+Hypochromia:
+Microcytes:
+INR(PT): 2.5  (Ref: 0.9-1.1) [abnormal]
+PTT: 41.5 sec (Ref: 25-36.5) [abnormal]
+PT: 27.1 sec (Ref: 9.4-12.5) [abnormal]
+Haptoglobin: 21 mg/dL (Ref: 30-200) [abnormal]
+Thyroxine (T4): 5.4 ug/dL (Ref: 4.6-12)
+Bilirubin, Direct: 0.3 mg/dL (Ref: 0-0.3)
+Bilirubin, Indirect: 0.5 mg/dL
+Albumin: 3.3 g/dL (Ref: 3.5-5.2) [abnormal]
+% Hemoglobin A1c: ___ % (Ref: 4-6) [abnormal]
+eAG: ___ mg/dL (Ref: 68-126) [abnormal]
+Lymphocytes: 21.6 % (Ref: 19-53)
+Absolute Neutrophil Count: 2.59 K/uL (Ref: 1.6-6.1)
+Basophils: 0.7 % (Ref: 0-1)
+Absolute Basophil Count: 0.03 K/uL (Ref: 0.01-0.08)
+Absolute Lymphocyte Count: 0.96 K/uL (Ref: 1.2-3.7) [abnormal]
+Immature Granulocytes: 0.5 %
+Monocytes: 14.4 % (Ref: 5-13) [abnormal]
+Absolute Eosinophil Count: 0.20 K/uL (Ref: 0.04-0.54)
+Absolute Monocyte Count: 0.64 K/uL (Ref: 0.2-0.8)
+Eosinophils: 4.5 % (Ref: 1-7)
+Neutrophils: 58.3 % (Ref: 34-71)
+Lactate: ___ mmol/L (Ref: 0.5-2) [abnormal]
+Specific Gravity: 1.015   (Ref: 1.001-1.035)
+Blood: TR
+Protein: NEG mg/dL
+Urobilinogen: 0.2 mg/dL (Ref: 0.2-1)
+Leukocytes: NEG
+Urine Color: Yellow
+Ketone: NEG mg/dL
+Urine Appearance: Clear
+Bilirubin: NEG mg/dL
+Nitrite: NEG
+pH: 7.5 units (Ref: 5-8)
+Glucose: NEG mg/dL
+Yeast: NONE
+Epithelial Cells:  #/hpf
+RBC: 1 #/hpf (Ref: 0-2)
+WBC: 12 #/hpf (Ref: 0-5) [abnormal]
+Bacteria:
+Oxygen Saturation: 51 %
+Specimen Type: VEN.
+Estimated GFR (MDRD equation):
+Length of Urine Collection:
+Uhold: HOLD.
+Hyaline Casts: 3 #/lpf (Ref: 0-0) [abnormal]
+Urine Mucous:
+Urea Nitrogen, Urine: 487 mg/dL
+Creatinine, Urine: 61 mg/dL
+
+Discharge diagnoses (ICD): Z794, N400, Z7902, N184, R5381

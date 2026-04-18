@@ -1,0 +1,35 @@
+Laboratory Report - MIMIC-IV Demo (De-identified)
+Patient ID: 10002428 | Admission: 25797028 | Age: 80 | Gender: F
+Source: Beth Israel Deaconess Medical Center (de-identified)
+
+Laboratory Results
+--------------------------------------------------
+Urea Nitrogen: 12 mg/dL (Ref: 6-20)
+Chloride: 101 mEq/L (Ref: 96-108)
+Troponin T:  ng/mL (Ref: 0-0.01)
+Bicarbonate: 28 mEq/L (Ref: 22-32)
+Anion Gap: 11 mEq/L (Ref: 8-20)
+Creatinine: 0.8 mg/dL (Ref: 0.4-1.1)
+Calcium, Total: 9.3 mg/dL (Ref: 8.4-10.3)
+Glucose: ___ mg/dL (Ref: 70-100)
+Phosphate: 3.3 mg/dL (Ref: 2.7-4.5)
+Potassium: 4.4 mEq/L (Ref: 3.3-5.1)
+Magnesium: 1.9 mg/dL (Ref: 1.6-2.6)
+Sodium: 136 mEq/L (Ref: 133-145)
+RDW: 13.3 % (Ref: 10.5-15.5)
+Hematocrit: 34.1 % (Ref: 36-48) [abnormal]
+Red Blood Cells: 3.62 m/uL (Ref: 4.2-5.4) [abnormal]
+MCH: 32.7 pg (Ref: 27-32) [abnormal]
+Platelet Count: 308 K/uL (Ref: 150-440)
+MCV: 94 fL (Ref: 82-98)
+White Blood Cells: 6.0 K/uL (Ref: 4-11)
+Hemoglobin: 11.8 g/dL (Ref: 12-16) [abnormal]
+MCHC: 34.7 % (Ref: 31-35)
+Iron: 98 ug/dL (Ref: 30-160)
+Vitamin B12: 1270 pg/mL (Ref: 240-900) [abnormal]
+Transferrin: 272 mg/dL (Ref: 200-360)
+Folate:  ng/mL (Ref: 2-20)
+Ferritin: 80 ng/mL (Ref: 13-150)
+Iron Binding Capacity, Total: 354 ug/dL (Ref: 260-470)
+
+Discharge diagnoses (ICD): 5990, 7102, 2449, 4241, 2859

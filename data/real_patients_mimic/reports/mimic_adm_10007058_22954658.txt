@@ -1,0 +1,49 @@
+Laboratory Report - MIMIC-IV Demo (De-identified)
+Patient ID: 10007058 | Admission: 22954658 | Age: 48 | Gender: M
+Source: Beth Israel Deaconess Medical Center (de-identified)
+
+Laboratory Results
+--------------------------------------------------
+Length of Urine Collection:
+Uhold: HOLD.
+Cocaine, Urine: NEG
+Amphetamine Screen, Urine: NEG
+CK-MB Index: 6.9 % (Ref: 0-6) [abnormal]
+Creatine Kinase (CK): ___ IU/L (Ref: 47-322) [abnormal]
+Chloride: 102 mEq/L (Ref: 96-108)
+Magnesium: 2.0 mg/dL (Ref: 1.6-2.6)
+Potassium: 3.5 mEq/L (Ref: 3.3-5.1)
+Glucose: ___ mg/dL (Ref: 70-100) [abnormal]
+Bicarbonate: 22 mEq/L (Ref: 22-32)
+Creatinine: 0.8 mg/dL (Ref: 0.5-1.2)
+Urea Nitrogen: 11 mg/dL (Ref: 6-20)
+Sodium: 137 mEq/L (Ref: 133-145)
+Anion Gap: 17 mEq/L (Ref: 8-20)
+Calcium, Total: 8.8 mg/dL (Ref: 8.4-10.3)
+Phosphate: 2.9 mg/dL (Ref: 2.7-4.5)
+Troponin T: ___ ng/mL (Ref: 0-0.01) [abnormal]
+INR(PT): 1.1  (Ref: 0.9-1.1)
+PT: 11.6 sec (Ref: 9.4-12.5)
+PTT: 32.1 sec (Ref: 25-36.5)
+Creatine Kinase, MB Isoenzyme: 157 ng/mL (Ref: 0-10) [abnormal]
+MCV: 88 fL (Ref: 82-98)
+Hemoglobin: 12.5 g/dL (Ref: 13.7-17.5) [abnormal]
+Hematocrit: 37.8 % (Ref: 40-51) [abnormal]
+Platelet Count: 205 K/uL (Ref: 150-400)
+MCH: 28.9 pg (Ref: 26-32)
+RDW: 13.0 % (Ref: 10.5-15.5)
+MCHC: 33.1 g/dL (Ref: 32-37)
+RDW-SD: 41.0 fL (Ref: 35.1-46.3)
+Red Blood Cells: 4.32 m/uL (Ref: 4.6-6.1) [abnormal]
+White Blood Cells: 12.5 K/uL (Ref: 4-10) [abnormal]
+C-Reactive Protein: ___ mg/L (Ref: 0-5)
+eAG: ___ mg/dL (Ref: 91-123)
+% Hemoglobin A1c: ___ % (Ref: 4.8-5.9)
+Red Top Hold:
+Cholesterol, LDL, Measured: 73 mg/dL (Ref: 0-129)
+Cholesterol, Total: 172 mg/dL (Ref: 0-199)
+Triglycerides: ___ mg/dL (Ref: 0-149) [abnormal]
+Cholesterol Ratio (Total/HDL): 2.6 Ratio
+Cholesterol, HDL: 65 mg/dL
+
+Discharge diagnoses (ICD): Z23, I214, K219, Z7982, Z7902

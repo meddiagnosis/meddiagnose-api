@@ -1,0 +1,71 @@
+Laboratory Report - MIMIC-IV Demo (De-identified)
+Patient ID: 10005348 | Admission: 29496232 | Age: 76 | Gender: M
+Source: Beth Israel Deaconess Medical Center (de-identified)
+
+Laboratory Results
+--------------------------------------------------
+Calculated Total CO2: 28 mEq/L (Ref: 21-30)
+Specimen Type: ART.
+pO2: 85 mm Hg (Ref: 85-105)
+Base Excess: 2 mEq/L
+pCO2: 40 mm Hg (Ref: 35-45)
+pH: 7.44 units (Ref: 7.35-7.45)
+Lactate: 0.6 mmol/L (Ref: 0.5-2)
+Potassium, Whole Blood: 3.5 mEq/L (Ref: 3.3-5.1)
+Hemoglobin: 11.4 g/dL (Ref: 14-18) [abnormal]
+Glucose: 89 mg/dL (Ref: 70-105)
+Chloride, Whole Blood: 106 mEq/L (Ref: 96-108)
+Hematocrit, Calculated: 34 %
+Free Calcium: 1.16 mmol/L (Ref: 1.12-1.32)
+Sodium, Whole Blood: 137 mEq/L (Ref: 133-145)
+Hematocrit: 32.5 % (Ref: 40-52) [abnormal]
+Chloride: 98 mEq/L (Ref: 96-108)
+Glucose: ___ mg/dL (Ref: 70-100) [abnormal]
+Sodium: 135 mEq/L (Ref: 133-145)
+Magnesium: 1.8 mg/dL (Ref: 1.6-2.6)
+Phosphate: 3.1 mg/dL (Ref: 2.7-4.5)
+Anion Gap: 12 mEq/L (Ref: 8-20)
+Creatinine: 0.8 mg/dL (Ref: 0.5-1.2)
+Calcium, Total: 8.3 mg/dL (Ref: 8.4-10.3) [abnormal]
+Urea Nitrogen: 13 mg/dL (Ref: 6-20)
+Potassium: 3.7 mEq/L (Ref: 3.3-5.1)
+Bicarbonate: 29 mEq/L (Ref: 22-32)
+MCHC: 33.2 % (Ref: 31-35)
+MCH: 30.3 pg (Ref: 27-32)
+Red Blood Cells: 3.90 m/uL (Ref: 4.6-6.2) [abnormal]
+RDW: 13.1 % (Ref: 10.5-15.5)
+Hemoglobin: 11.8 g/dL (Ref: 14-18) [abnormal]
+Platelet Count: 229 K/uL (Ref: 150-440)
+White Blood Cells: 7.8 K/uL (Ref: 4-11)
+MCV: 92 fL (Ref: 82-98)
+Estimated GFR (MDRD equation):
+Protein:  mg/dL
+Bilirubin:  mg/dL
+Yeast: NONE
+Nitrite:
+WBC: 0 #/hpf (Ref: 0-5)
+Ketone:  mg/dL
+Glucose:  mg/dL
+Blood:
+pH: 7.0 units (Ref: 5-8)
+Bacteria:
+Urine Color:
+Urobilinogen:  mg/dL (Ref: 0.2-1)
+RBC: 0 #/hpf (Ref: 0-2)
+Leukocytes:
+Urine Appearance:
+Specific Gravity: 1.006   (Ref: 1.001-1.035)
+Epithelial Cells:  #/hpf
+Vitamin B12: 709 pg/mL (Ref: 240-900)
+Thyroid Stimulating Hormone: 1.2 uIU/mL (Ref: 0.27-4.2)
+% Hemoglobin A1c: ___ % (Ref: 4.8-5.9) [abnormal]
+eAG: ___ mg/dL (Ref: 91-123) [abnormal]
+Cortisol: ___ ug/dL (Ref: 2-20) [abnormal]
+Red Top Hold:
+Eosinophils: 1.0 % (Ref: 0-4)
+Basophils: 0.2 % (Ref: 0-2)
+Monocytes: 7.4 % (Ref: 2-11)
+Lymphocytes: 10.2 % (Ref: 18-42) [abnormal]
+Neutrophils: 81.3 % (Ref: 50-70) [abnormal]
+
+Discharge diagnoses (ICD): 2752, 78820, 4580, 2768, 79022

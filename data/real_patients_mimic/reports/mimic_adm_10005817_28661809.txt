@@ -1,0 +1,124 @@
+Laboratory Report - MIMIC-IV Demo (De-identified)
+Patient ID: 10005817 | Admission: 28661809 | Age: 66 | Gender: M
+Source: Beth Israel Deaconess Medical Center (de-identified)
+
+Laboratory Results
+--------------------------------------------------
+RDW: 14.0 % (Ref: 10.5-15.5)
+RDW-SD: 46.3 fL (Ref: 35.1-46.3)
+Platelet Count: 359 K/uL (Ref: 150-400)
+MCHC: 32.6 g/dL (Ref: 32-37)
+Hematocrit: 33.4 % (Ref: 40-51) [abnormal]
+White Blood Cells: 12.1 K/uL (Ref: 4-10) [abnormal]
+Red Blood Cells: 3.67 m/uL (Ref: 4.6-6.1) [abnormal]
+Hemoglobin: 10.9 g/dL (Ref: 13.7-17.5) [abnormal]
+MCH: 29.7 pg (Ref: 26-32)
+MCV: 91 fL (Ref: 82-98)
+Fibrinogen, Functional: 456 mg/dL (Ref: 180-400) [abnormal]
+PTT: 27.1 sec (Ref: 25-36.5)
+INR(PT): 1.1  (Ref: 0.9-1.1)
+PT: 12.2 sec (Ref: 9.4-12.5)
+Alkaline Phosphatase: 96 IU/L (Ref: 40-130)
+H: 2
+Creatinine: 1.6 mg/dL (Ref: 0.5-1.2) [abnormal]
+Alanine Aminotransferase (ALT): 15 IU/L (Ref: 0-40)
+Bicarbonate: 23 mEq/L (Ref: 22-32)
+Potassium: 4.5 mEq/L (Ref: 3.3-5.1)
+Glucose: ___ mg/dL (Ref: 70-100) [abnormal]
+Calcium, Total: 9.0 mg/dL (Ref: 8.4-10.3)
+Estimated GFR (MDRD equation):
+Asparate Aminotransferase (AST): 54 IU/L (Ref: 0-40) [abnormal]
+Anion Gap: 19 mEq/L (Ref: 8-20)
+L: 8
+Phosphate: 3.1 mg/dL (Ref: 2.7-4.5)
+Bilirubin, Total: 0.3 mg/dL (Ref: 0-1.5)
+I: 0
+Magnesium: 2.4 mg/dL (Ref: 1.6-2.6)
+Sodium: 138 mEq/L (Ref: 133-145)
+Chloride: 101 mEq/L (Ref: 96-108)
+Uric Acid: 8.3 mg/dL (Ref: 3.4-7) [abnormal]
+Urea Nitrogen: 48 mg/dL (Ref: 6-20) [abnormal]
+Lactate Dehydrogenase (LD): 1322 IU/L (Ref: 94-250) [abnormal]
+Intubated: NOT INTUBATED.
+Specimen Type: VEN.
+O2 Flow: 6 L/min
+Temperature: 36.5
+Base Excess: 0 mEq/L
+pCO2: 37 mm Hg (Ref: 35-45)
+Oxygen Saturation: 39 %
+Calculated Total CO2: 26 mEq/L (Ref: 21-30)
+pO2: ___ mm Hg (Ref: 85-105) [abnormal]
+pH: 7.44 units (Ref: 7.35-7.45)
+Lactate: 2.3 mmol/L (Ref: 0.5-2) [abnormal]
+Free Calcium: 1.11 mmol/L (Ref: 1.12-1.32) [abnormal]
+EDTA Hold:
+Schistocytes:
+Echinocytes:
+Anisocytosis:
+Polychromasia:
+Poikilocytosis:
+Elliptocytes:
+Microcytes:
+Hypochromia:
+Macrocytes:
+Total Nucleated Cells, Pleural: 235 #/uL (Ref: 0-0) [abnormal]
+Cholesterol, Pleural: 56 mg/dL
+Albumin, Pleural: 2.4 g/dL
+Total Protein, Pleural: 3.4 g/dL
+Glucose, Pleural: 229 mg/dL
+Lactate Dehydrogenase, Pleural: 1067 IU/L
+RBC, Pleural: 34750 #/uL (Ref: 0-0) [abnormal]
+Lymphocytes: 80 % (Ref: 0-0) [abnormal]
+Monos: 3 % (Ref: 0-0) [abnormal]
+Polys: 4 % (Ref: 0-0) [abnormal]
+Macrophages: 8 % (Ref: 0-0) [abnormal]
+Mesothelial Cells: 5 % (Ref: 0-0) [abnormal]
+pH: ___ units
+Oxygen: 70 %
+Protein, Total: 5.9 g/dL (Ref: 6.4-8.3) [abnormal]
+Vancomycin: 6.9 ug/mL (Ref: 10-20) [abnormal]
+PEEP: 5
+Ventilator: CONTROLLED.
+Albumin: 2.9 g/dL (Ref: 3.5-5.2) [abnormal]
+Macrophage: 2 % (Ref: 0-0) [abnormal]
+Other Cell: ___ % (Ref: 0-0) [abnormal]
+Polys: 73 % (Ref: 0-0) [abnormal]
+Lymphocytes: 3 % (Ref: 0-0) [abnormal]
+Monos: 11 % (Ref: 0-0) [abnormal]
+Tidal Volume: 450
+Ventilation Rate: 14/16.
+Length of Urine Collection:
+Osmolality, Urine: 401 mOsm/kg
+Potassium, Urine: 58 mEq/L
+Creatinine, Urine: 116 mg/dL
+Chloride, Urine:  mEq/L
+Sodium, Urine:  mEq/L
+Assist/Control:
+Problem Specimen:
+Yeast: NONE
+Leukocytes:
+Glucose: 70 mg/dL
+Urine Mucous:
+Bacteria:
+Amorphous Crystals:
+Urine Color:
+Ketone:  mg/dL
+Hyaline Casts: 7 #/lpf (Ref: 0-0) [abnormal]
+WBC: 9 #/hpf (Ref: 0-5) [abnormal]
+Urine Appearance:
+Granular Casts: 17 #/lpf (Ref: 0-0) [abnormal]
+Nitrite:
+Protein: 30 mg/dL
+Blood:
+RBC: 2 #/hpf (Ref: 0-2)
+Specific Gravity: 1.019   (Ref: 1.001-1.035)
+Urobilinogen:  mg/dL (Ref: 0.2-1)
+Epithelial Cells: 0 #/hpf
+pH: 6.0 units (Ref: 5-8)
+Bilirubin:  mg/dL
+Red Top Hold:
+Other: ___ % (Ref: 0-0) [abnormal]
+Potassium, Whole Blood: 4.2 mEq/L (Ref: 3.3-5.1)
+Glucose: 223 mg/dL (Ref: 70-105) [abnormal]
+
+Discharge diagnoses (ICD): C7B8, Z9981, I129, Z515, I4891

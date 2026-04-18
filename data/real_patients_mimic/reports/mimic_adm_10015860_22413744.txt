@@ -1,0 +1,110 @@
+Laboratory Report - MIMIC-IV Demo (De-identified)
+Patient ID: 10015860 | Admission: 22413744 | Age: 53 | Gender: M
+Source: Beth Israel Deaconess Medical Center (de-identified)
+
+Laboratory Results
+--------------------------------------------------
+MCHC: 32.0 g/dL (Ref: 32-37)
+White Blood Cells: 22.0 K/uL (Ref: 4-10) [abnormal]
+Red Blood Cells: 2.80 m/uL (Ref: 4.6-6.1) [abnormal]
+Hemoglobin: 7.3 g/dL (Ref: 13.7-17.5) [abnormal]
+MCV: 81 fL (Ref: 82-98) [abnormal]
+RDW: 15.0 % (Ref: 10.5-15.5)
+RDW-SD: 45.2 fL (Ref: 35.1-46.3)
+Hematocrit: 22.8 % (Ref: 40-51) [abnormal]
+Platelet Count: 560 K/uL (Ref: 150-400) [abnormal]
+MCH: 26.1 pg (Ref: 26-32)
+H: 56
+Ferritin: 1105 ng/mL (Ref: 30-400) [abnormal]
+I: 0
+L: 0
+Iron Binding Capacity, Total: 126 ug/dL (Ref: 260-470) [abnormal]
+Transferrin: 97 mg/dL (Ref: 200-360) [abnormal]
+Iron: 9 ug/dL (Ref: 45-160) [abnormal]
+C-Reactive Protein:  mg/L (Ref: 0-5)
+Sodium: 130 mEq/L (Ref: 133-145) [abnormal]
+Chloride: 99 mEq/L (Ref: 96-108)
+Alkaline Phosphatase: 338 IU/L (Ref: 40-130) [abnormal]
+Alanine Aminotransferase (ALT): 60 IU/L (Ref: 0-40) [abnormal]
+Asparate Aminotransferase (AST): 39 IU/L (Ref: 0-40)
+Bilirubin, Total: 0.2 mg/dL (Ref: 0-1.5)
+Urea Nitrogen: 62 mg/dL (Ref: 6-20) [abnormal]
+Calcium, Total: 8.8 mg/dL (Ref: 8.4-10.3)
+Glucose: ___ mg/dL (Ref: 70-100) [abnormal]
+Anion Gap: 22 mEq/L (Ref: 8-20) [abnormal]
+Potassium: 4.4 mEq/L (Ref: 3.3-5.1)
+Creatinine: 5.2 mg/dL (Ref: 0.5-1.2) [abnormal]
+Phosphate: 4.5 mg/dL (Ref: 2.7-4.5)
+Haptoglobin: 414 mg/dL (Ref: 30-200) [abnormal]
+Reticulocyte Count, Absolute: 0.03 m/uL (Ref: 0.02-0.1)
+Reticulocyte Count, Automated: 1.1 % (Ref: 0.4-2)
+PTT: 29.1 sec (Ref: 25-36.5)
+PT: 15.7 sec (Ref: 9.4-12.5) [abnormal]
+INR(PT): 1.4  (Ref: 0.9-1.1) [abnormal]
+Magnesium: 1.5 mg/dL (Ref: 1.6-2.6) [abnormal]
+Bicarbonate: ___ mEq/L (Ref: 22-32) [abnormal]
+Specimen Type: VEN.
+pH: ___ units (Ref: 7.35-7.45) [abnormal]
+Calculated Total CO2: 15 mEq/L (Ref: 21-30) [abnormal]
+Base Excess: -12 mEq/L
+pCO2: 34 mm Hg (Ref: 35-45) [abnormal]
+pO2: 97 mm Hg (Ref: 85-105)
+Length of Urine Collection:
+Osmolality, Urine: 345 mOsm/kg
+Creatinine, Urine: 79 mg/dL
+Sodium, Urine: 44 mEq/L
+Ketone:  mg/dL
+Urobilinogen:  mg/dL (Ref: 0.2-1)
+Bilirubin:  mg/dL
+Leukocytes:
+Urine Appearance:
+Urine Color:
+pH: 6.0 units (Ref: 5-8)
+Glucose: 300 mg/dL
+Specific Gravity: 1.014   (Ref: 1.001-1.035)
+Nitrite:
+Blood:
+Protein: 300 mg/dL
+Lactate: 1.6 mmol/L (Ref: 0.5-2)
+Green Top Hold (plasma): HOLD.  DISCARD GREATER THAN 4 HOURS OLD.
+Estimated GFR (MDRD equation):
+Lactate Dehydrogenase (LD): ___ IU/L (Ref: 94-250)
+Creatine Kinase (CK): ___ IU/L (Ref: 47-322) [abnormal]
+Gamma Glutamyltransferase: 93 IU/L (Ref: 8-61) [abnormal]
+RBC, Joint Fluid: 3350 #/uL (Ref: 0-0) [abnormal]
+Total Nucleated Cells, Joint: 29875 #/uL (Ref: 0-150) [abnormal]
+Joint Crystals, Number: NONE
+Polys: 94 % (Ref: 0-25) [abnormal]
+Lymphocytes: 0 % (Ref: 0-75)
+Monocytes: 4 % (Ref: 0-70)
+Macrophage: 2 % (Ref: 0-70)
+Absolute Basophil Count: 0.00 K/uL (Ref: 0.01-0.08) [abnormal]
+Absolute Neutrophil Count: 10.45 K/uL (Ref: 1.6-6.1) [abnormal]
+Poikilocytosis:
+Metamyelocytes: 1 % (Ref: 0-0) [abnormal]
+Absolute Eosinophil Count: 0.26 K/uL (Ref: 0.04-0.54)
+Bands: 0 % (Ref: 0-5)
+Microcytes:
+Neutrophils: 81 % (Ref: 34-71) [abnormal]
+Absolute Monocyte Count: 1.03 K/uL (Ref: 0.2-0.8) [abnormal]
+Polychromasia:
+Basophils: 0 % (Ref: 0-1)
+Atypical Lymphocytes: 0 % (Ref: 0-0)
+Absolute Lymphocyte Count: 1.03 K/uL (Ref: 1.2-3.7) [abnormal]
+Anisocytosis:
+Lymphocytes: 8 % (Ref: 19-53) [abnormal]
+Myelocytes: 0 % (Ref: 0-0)
+Hypochromia:
+Macrocytes:
+Eosinophils: 2 % (Ref: 1-7)
+Platelet Smear:
+Monocytes: 8 % (Ref: 5-13)
+25-OH Vitamin D: ___ ng/mL (Ref: 30-60) [abnormal]
+Albumin: 2.4 g/dL (Ref: 3.5-5.2) [abnormal]
+Parathyroid Hormone: 89 pg/mL (Ref: 15-65) [abnormal]
+Total Protein, Urine: 294 mg/dL
+Protein/Creatinine Ratio: 5.8 mg/mg (Ref: 0-0.2) [abnormal]
+Albumin/Creatinine, Urine: 3043.1 mg/g (Ref: 0-30) [abnormal]
+Albumin, Urine: 155.2 mg/dL
+
+Discharge diagnoses (ICD): I129, B356, E11621, D649, E1140

@@ -1,0 +1,41 @@
+Laboratory Report - MIMIC-IV Demo (De-identified)
+Patient ID: 10015272 | Admission: 27993466 | Age: 78 | Gender: F
+Source: Beth Israel Deaconess Medical Center (de-identified)
+
+Laboratory Results
+--------------------------------------------------
+Potassium, Whole Blood: ___ mEq/L (Ref: 3.3-5.1)
+MCHC: 31.8 g/dL (Ref: 32-37) [abnormal]
+Hematocrit: 29.2 % (Ref: 34-45) [abnormal]
+MCH: 35.5 pg (Ref: 26-32) [abnormal]
+Platelet Count: 140 K/uL (Ref: 150-400) [abnormal]
+Hemoglobin: 9.3 g/dL (Ref: 11.2-15.7) [abnormal]
+White Blood Cells: 7.4 K/uL (Ref: 4-10)
+Red Blood Cells: 2.62 m/uL (Ref: 3.9-5.2) [abnormal]
+RDW: 17.7 % (Ref: 10.5-15.5) [abnormal]
+MCV: 112 fL (Ref: 82-98) [abnormal]
+RDW-SD: 70.8 fL (Ref: 35.1-46.3) [abnormal]
+Alanine Aminotransferase (ALT): 33 IU/L (Ref: 0-40)
+Asparate Aminotransferase (AST): 45 IU/L (Ref: 0-40) [abnormal]
+Alkaline Phosphatase: 102 IU/L (Ref: 35-105)
+Bilirubin, Total: 0.2 mg/dL (Ref: 0-1.5)
+Potassium: 5.1 mEq/L (Ref: 3.3-5.1)
+Anion Gap: 19 mEq/L (Ref: 8-20)
+Glucose: ___ mg/dL (Ref: 70-100) [abnormal]
+Bicarbonate: 18 mEq/L (Ref: 22-32) [abnormal]
+Phosphate: 3.6 mg/dL (Ref: 2.7-4.5)
+Creatinine: 0.9 mg/dL (Ref: 0.4-1.1)
+Urea Nitrogen: 29 mg/dL (Ref: 6-20) [abnormal]
+Magnesium: 2.0 mg/dL (Ref: 1.6-2.6)
+Calcium, Total: 8.9 mg/dL (Ref: 8.4-10.3)
+Sodium: 132 mEq/L (Ref: 133-145) [abnormal]
+Creatine Kinase (CK): ___ IU/L (Ref: 29-201) [abnormal]
+Chloride: 100 mEq/L (Ref: 96-108)
+PTT: ___ sec (Ref: 25-36.5) [abnormal]
+INR(PT): 1.5  (Ref: 0.9-1.1) [abnormal]
+PT: 16.1 sec (Ref: 9.4-12.5) [abnormal]
+Lactate: 3.0 mmol/L (Ref: 0.5-2) [abnormal]
+Green Top Hold (plasma): HOLD.  DISCARD GREATER THAN 4 HOURS OLD.
+Lipase: 57 IU/L (Ref: 0-60)
+
+Discharge diagnoses (ICD): I82412, Z9181, I82432, I272, Z951

@@ -1,0 +1,80 @@
+Laboratory Report - MIMIC-IV Demo (De-identified)
+Patient ID: 10005866 | Admission: 22589518 | Age: 57 | Gender: M
+Source: Beth Israel Deaconess Medical Center (de-identified)
+
+Laboratory Results
+--------------------------------------------------
+PTT: ___ sec (Ref: 25-36.5) [abnormal]
+Alkaline Phosphatase: 138 IU/L (Ref: 40-130) [abnormal]
+Sodium: 132 mEq/L (Ref: 133-145) [abnormal]
+Alanine Aminotransferase (ALT): 24 IU/L (Ref: 0-40)
+Urea Nitrogen: 8 mg/dL (Ref: 6-20)
+Chloride: 99 mEq/L (Ref: 96-108)
+Bicarbonate: 20 mEq/L (Ref: 22-32) [abnormal]
+Glucose: ___ mg/dL (Ref: 70-100)
+Bilirubin, Total: 3.7 mg/dL (Ref: 0-1.5) [abnormal]
+H: 1
+Potassium: 3.7 mEq/L (Ref: 3.3-5.1)
+Creatinine: 0.7 mg/dL (Ref: 0.5-1.2)
+Anion Gap: 17 mEq/L (Ref: 8-20)
+Asparate Aminotransferase (AST): 69 IU/L (Ref: 0-40) [abnormal]
+I: 4
+L: 15
+Phosphate: 2.9 mg/dL (Ref: 2.7-4.5)
+Calcium, Total: 7.7 mg/dL (Ref: 8.4-10.3) [abnormal]
+Magnesium: 1.4 mg/dL (Ref: 1.6-2.6) [abnormal]
+PT: 17.1 sec (Ref: 9.4-12.5) [abnormal]
+INR(PT): 1.6  (Ref: 0.9-1.1) [abnormal]
+MCH: 35.2 pg (Ref: 26-32) [abnormal]
+Red Blood Cells: 3.61 m/uL (Ref: 4.6-6.1) [abnormal]
+RDW-SD: 55.0 fL (Ref: 35.1-46.3) [abnormal]
+Hematocrit: 38.0 % (Ref: 40-51) [abnormal]
+White Blood Cells: 5.7 K/uL (Ref: 4-10)
+MCHC: 33.4 g/dL (Ref: 32-37)
+RDW: 14.0 % (Ref: 10.5-15.5)
+Hemoglobin: 12.7 g/dL (Ref: 13.7-17.5) [abnormal]
+Platelet Count: 160 K/uL (Ref: 150-400)
+MCV: 105 fL (Ref: 82-98) [abnormal]
+Length of Urine Collection:
+Urea Nitrogen, Urine: 1156 mg/dL
+Sodium, Urine:  mEq/L
+Nitrite:
+Urobilinogen:  mg/dL (Ref: 0.2-1)
+Bilirubin:  mg/dL
+Bacteria:
+Urine Color:
+Glucose:  mg/dL
+Leukocytes:
+WBC: 8 #/hpf (Ref: 0-5) [abnormal]
+Transitional Epithelial Cells:  #/hpf
+Specific Gravity: 1.036   (Ref: 1.001-1.035) [abnormal]
+Protein: 30 mg/dL
+Ketone: 10 mg/dL
+pH: 6.5 units (Ref: 5-8)
+Urine Mucous:
+Urine Appearance:
+Blood:
+Epithelial Cells: 2 #/hpf
+Yeast: NONE
+RBC: 25 #/hpf (Ref: 0-2) [abnormal]
+Bicarbonate, Urine:  mEq/L
+Creatinine, Urine: 280 mg/dL
+Osmolality, Urine: 784 mOsm/kg
+Norovirus Genogroup II:
+Norovirus Genogroup I:
+Albumin: 2.1 g/dL (Ref: 3.5-5.2) [abnormal]
+RBC, Ascites: 650 #/uL (Ref: 0-0) [abnormal]
+Total Nucleated Cells, Ascites: 64 #/uL (Ref: 0-0) [abnormal]
+Total Protein, Ascites: 1.7 g/dL
+Albumin, Ascites: 0.7 g/dL
+Glucose, Ascites: 103 mg/dL
+Lactate Dehydrogenase, Ascites: 104 IU/L
+Cholesterol, Ascites: 19 mg/dL
+Lymphocytes: 48 % (Ref: 0-0) [abnormal]
+Mesothelial Cell: 2 % (Ref: 0-0) [abnormal]
+Macrophage: ___ % (Ref: 0-0) [abnormal]
+Polys: 1 % (Ref: 0-0) [abnormal]
+Monocytes: 6 % (Ref: 0-0) [abnormal]
+Other: ___ % (Ref: 0-0)
+
+Discharge diagnoses (ICD): E872, R188, E871, Z720, K7290

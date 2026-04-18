@@ -1,0 +1,34 @@
+Laboratory Report - MIMIC-IV Demo (De-identified)
+Patient ID: 10002428 | Admission: 28295257 | Age: 80 | Gender: F
+Source: Beth Israel Deaconess Medical Center (de-identified)
+
+Laboratory Results
+--------------------------------------------------
+MCV: 96 fL (Ref: 82-98)
+MCH: 31.5 pg (Ref: 26-32)
+Platelet Count: 281 K/uL (Ref: 150-400)
+RDW: 13.3 % (Ref: 10.5-15.5)
+MCHC: 33.0 g/dL (Ref: 32-37)
+Red Blood Cells: 3.52 m/uL (Ref: 3.9-5.2) [abnormal]
+Hemoglobin: 11.1 g/dL (Ref: 11.2-15.7) [abnormal]
+Hematocrit: 33.6 % (Ref: 34-45) [abnormal]
+White Blood Cells: 11.3 K/uL (Ref: 4-10) [abnormal]
+RDW-SD: 46.7 fL (Ref: 35.1-46.3) [abnormal]
+Potassium: 3.7 mEq/L (Ref: 3.3-5.1)
+Chloride: 96 mEq/L (Ref: 96-108)
+Sodium: 135 mEq/L (Ref: 133-145)
+Alanine Aminotransferase (ALT): 12 IU/L (Ref: 0-40)
+Estimated GFR (MDRD equation):
+Calcium, Total: 9.4 mg/dL (Ref: 8.4-10.3)
+Bicarbonate: 29 mEq/L (Ref: 22-32)
+Anion Gap: 13 mEq/L (Ref: 8-20)
+Asparate Aminotransferase (AST): 19 IU/L (Ref: 0-40)
+Alkaline Phosphatase: 81 IU/L (Ref: 35-105)
+Magnesium: 1.6 mg/dL (Ref: 1.6-2.6)
+Bilirubin, Total: 0.3 mg/dL (Ref: 0-1.5)
+Creatinine: 0.7 mg/dL (Ref: 0.4-1.1)
+Glucose: ___ mg/dL (Ref: 70-100)
+Urea Nitrogen: 17 mg/dL (Ref: 6-20)
+Phosphate: 3.3 mg/dL (Ref: 2.7-4.5)
+
+Discharge diagnoses (ICD): M8008XA, E43, Z681, K922, I10

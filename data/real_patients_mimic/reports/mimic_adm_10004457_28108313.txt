@@ -1,0 +1,36 @@
+Laboratory Report - MIMIC-IV Demo (De-identified)
+Patient ID: 10004457 | Admission: 28108313 | Age: 65 | Gender: M
+Source: Beth Israel Deaconess Medical Center (de-identified)
+
+Laboratory Results
+--------------------------------------------------
+Urea Nitrogen: 13 mg/dL (Ref: 6-20)
+Estimated GFR (MDRD equation):
+L: 5
+Magnesium: 1.8 mg/dL (Ref: 1.6-2.6)
+Chloride: 105 mEq/L (Ref: 96-108)
+H: 40
+I: 1
+Calcium, Total: 7.8 mg/dL (Ref: 8.4-10.3) [abnormal]
+Potassium: ___ mEq/L (Ref: 3.5-5.4)
+Creatinine: 0.9 mg/dL (Ref: 0.5-1.2)
+Bicarbonate: 26 mEq/L (Ref: 22-32)
+Glucose: ___ mg/dL (Ref: 70-100)
+Phosphate: 3.4 mg/dL (Ref: 2.7-4.5)
+Anion Gap: ___ mEq/L (Ref: 10-18)
+Sodium: ___ mEq/L (Ref: 135-147)
+PTT:  sec (Ref: 25-36.5)
+PT:  sec (Ref: 9.4-12.5)
+INR(PT):   (Ref: 0.9-1.1)
+RDW: 15.6 % (Ref: 10.5-15.5) [abnormal]
+MCV: 100 fL (Ref: 82-98) [abnormal]
+Platelet Count: 139 K/uL (Ref: 150-400) [abnormal]
+MCH: 32.3 pg (Ref: 26-32) [abnormal]
+Hematocrit: 37.8 % (Ref: 40-51) [abnormal]
+Red Blood Cells: 3.78 m/uL (Ref: 4.6-6.1) [abnormal]
+MCHC: 32.3 g/dL (Ref: 32-37)
+White Blood Cells: 8.0 K/uL (Ref: 4-10)
+RDW-SD: 57.1 fL (Ref: 35.1-46.3) [abnormal]
+Hemoglobin: 12.2 g/dL (Ref: 13.7-17.5) [abnormal]
+
+Discharge diagnoses (ICD): Z8546, I2510, E785, Z951, I6521

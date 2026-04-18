@@ -1,0 +1,53 @@
+Laboratory Report - MIMIC-IV Demo (De-identified)
+Patient ID: 10014729 | Admission: 28889419 | Age: 21 | Gender: F
+Source: Beth Israel Deaconess Medical Center (de-identified)
+
+Laboratory Results
+--------------------------------------------------
+Free Calcium: 1.28 mmol/L (Ref: 1.12-1.32)
+Calculated Total CO2: 24 mEq/L (Ref: 21-30)
+pCO2: 37 mm Hg (Ref: 35-45)
+pO2: 498 mm Hg (Ref: 85-105) [abnormal]
+Base Excess: 0 mEq/L
+Glucose: 93 mg/dL (Ref: 70-105)
+Hemoglobin: 12.9 g/dL (Ref: 12-16)
+Sodium, Whole Blood: 138 mEq/L (Ref: 133-145)
+Chloride, Whole Blood: 96 mEq/L (Ref: 96-108)
+Lactate: 1.8 mmol/L (Ref: 0.5-2)
+Hematocrit, Calculated: 39 %
+Potassium, Whole Blood: 4.0 mEq/L (Ref: 3.3-5.1)
+pH: 7.40 units (Ref: 7.35-7.45)
+Specimen Type: ART.
+Intubated: INTUBATED.
+INR(PT): 1.5  (Ref: 0.9-1.1) [abnormal]
+PT: 16.1 sec (Ref: 9.4-12.5) [abnormal]
+Hemoglobin: 8.6 g/dL (Ref: 12-16) [abnormal]
+MCV: 87 fL (Ref: 82-98)
+Platelet Count: 139 K/uL (Ref: 150-440) [abnormal]
+White Blood Cells: 17.2 K/uL (Ref: 4-11) [abnormal]
+Red Blood Cells: 2.89 m/uL (Ref: 4.2-5.4) [abnormal]
+RDW: 11.7 % (Ref: 10.5-15.5)
+MCH: 29.8 pg (Ref: 27-32)
+Hematocrit: 25.2 % (Ref: 36-48) [abnormal]
+MCHC: 34.2 % (Ref: 31-35)
+PTT: 28.0 sec (Ref: 25-36.5)
+Magnesium: 1.4 mg/dL (Ref: 1.6-2.6) [abnormal]
+Creatinine: 0.7 mg/dL (Ref: 0.4-1.1)
+Glucose: ___ mg/dL (Ref: 70-100)
+Urea Nitrogen: 14 mg/dL (Ref: 6-20)
+Phosphate: 3.7 mg/dL (Ref: 2.7-4.5)
+Oxygen Saturation: ___ %
+Tidal Volume: 514
+Ventilation Rate: /21.
+Ventilator: SPONTANEOUS.
+Oxygen: 40 %
+Temperature: 37.5
+Sodium: 136 mEq/L (Ref: 133-145)
+Potassium: 4.0 mEq/L (Ref: 3.3-5.1)
+Chloride: 108 mEq/L (Ref: 96-108)
+Calcium, Total: 8.1 mg/dL (Ref: 8.4-10.3) [abnormal]
+Bicarbonate: 24 mEq/L (Ref: 22-32)
+Anion Gap: 11 mEq/L (Ref: 8-20)
+Estimated GFR (MDRD equation):
+
+Discharge diagnoses (ICD): E8495, 49390, E8798, 9962, 9010

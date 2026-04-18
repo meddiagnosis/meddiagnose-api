@@ -1,0 +1,92 @@
+Laboratory Report - MIMIC-IV Demo (De-identified)
+Patient ID: 10014354 | Admission: 27494880 | Age: 60 | Gender: M
+Source: Beth Israel Deaconess Medical Center (de-identified)
+
+Laboratory Results
+--------------------------------------------------
+Light Green Top Hold: ___
+Green Top Hold (plasma): HOLD.  DISCARD GREATER THAN 4 HOURS OLD.
+Alkaline Phosphatase: 45 IU/L (Ref: 40-130)
+Magnesium: 1.6 mg/dL (Ref: 1.6-2.6)
+Lipase: 62 IU/L (Ref: 0-60) [abnormal]
+Asparate Aminotransferase (AST): 18 IU/L (Ref: 0-40)
+Calcium, Total: 8.9 mg/dL (Ref: 8.4-10.3)
+Albumin: 3.6 g/dL (Ref: 3.5-5.2)
+Troponin T:  ng/mL (Ref: 0-0.01)
+Bilirubin, Total:  mg/dL (Ref: 0-1.5)
+Alanine Aminotransferase (ALT): 17 IU/L (Ref: 0-40)
+Phosphate: 4.6 mg/dL (Ref: 2.7-4.5) [abnormal]
+Eosinophils: 1.4 % (Ref: 1-7)
+Absolute Basophil Count: 0.06 K/uL (Ref: 0.01-0.08)
+Neutrophils: 45.0 % (Ref: 34-71)
+Monocytes: 7.0 % (Ref: 5-13)
+Absolute Lymphocyte Count: 5.41 K/uL (Ref: 1.2-3.7) [abnormal]
+Absolute Neutrophil Count: 5.36 K/uL (Ref: 1.6-6.1)
+Absolute Eosinophil Count: 0.17 K/uL (Ref: 0.04-0.54)
+Absolute Monocyte Count: 0.83 K/uL (Ref: 0.2-0.8) [abnormal]
+Basophils: 0.5 % (Ref: 0-1)
+Lymphocytes: 45.5 % (Ref: 19-53)
+Immature Granulocytes: ___ %
+Platelet Smear:
+Teardrop Cells:
+Polychromasia:
+Hypochromia:
+Anisocytosis:
+Ovalocytes:
+Macrocytes:
+Microcytes:
+Poikilocytosis:
+Acanthocytes:
+Creatinine: 0.9 mg/dL (Ref: 0.5-1.2)
+L: 15
+Urea Nitrogen: 9 mg/dL (Ref: 6-20)
+Glucose: ___ mg/dL (Ref: 70-100) [abnormal]
+Potassium: 3.9 mEq/L (Ref: 3.3-5.1)
+H: 8
+Estimated GFR (MDRD equation):
+Chloride: 91 mEq/L (Ref: 96-108) [abnormal]
+Bicarbonate: 23 mEq/L (Ref: 22-32)
+Anion Gap: 18 mEq/L (Ref: 8-20)
+Sodium: 128 mEq/L (Ref: 133-145) [abnormal]
+I: 0
+Hematocrit: 27.1 % (Ref: 40-51) [abnormal]
+MCHC: 32.8 g/dL (Ref: 32-37)
+RDW-SD: 42.9 fL (Ref: 35.1-46.3)
+White Blood Cells: 11.9 K/uL (Ref: 4-10) [abnormal]
+Hemoglobin: 8.9 g/dL (Ref: 13.7-17.5) [abnormal]
+Red Blood Cells: 3.25 m/uL (Ref: 4.6-6.1) [abnormal]
+MCH: 27.4 pg (Ref: 26-32)
+Platelet Count: 208 K/uL (Ref: 150-400)
+RDW: 14.2 % (Ref: 10.5-15.5)
+MCV: 83 fL (Ref: 82-98)
+Osmolality, Measured: 263 mOsm/kg (Ref: 275-310) [abnormal]
+PTT: 38.7 sec (Ref: 25-36.5) [abnormal]
+INR(PT): 1.0  (Ref: 0.9-1.1)
+PT: 10.5 sec (Ref: 9.4-12.5)
+Length of Urine Collection:
+Creatinine, Urine: 87 mg/dL
+Sodium, Urine: 31 mEq/L
+Osmolality, Urine: 257 mOsm/kg
+Epithelial Cells: 0 #/hpf
+Urine Appearance:
+Specific Gravity: 1.011   (Ref: 1.001-1.035)
+Leukocytes:
+Hyaline Casts: 3 #/lpf (Ref: 0-0) [abnormal]
+Glucose:  mg/dL
+Ketone:  mg/dL
+Bacteria:
+Protein:  mg/dL
+Urobilinogen:  mg/dL (Ref: 0.2-1)
+WBC: 1 #/hpf (Ref: 0-5)
+Blood:
+Nitrite:
+Bilirubin:  mg/dL
+Urine Color:
+Yeast: NONE
+pH: 6.0 units (Ref: 5-8)
+Transitional Epithelial Cells:  #/hpf
+RBC: 0 #/hpf (Ref: 0-2)
+Creatine Kinase (CK): ___ IU/L (Ref: 47-322)
+Creatine Kinase, MB Isoenzyme: 3 ng/mL (Ref: 0-10)
+
+Discharge diagnoses (ICD): Z7902, G4733, Z950, E119, M7071

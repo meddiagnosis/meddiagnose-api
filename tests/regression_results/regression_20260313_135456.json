@@ -1,0 +1,2662 @@
+{
+  "meta": {
+    "model": "alibayram/medgemma:4b",
+    "dataset": "dux-tecblic/symptom-disease-dataset",
+    "sample_size": 150,
+    "testable": 138,
+    "timestamp": "20260313_135456",
+    "total_time_s": 57542.3
+  },
+  "accuracy": {
+    "exact_match": 76,
+    "exact_pct": 55.07,
+    "fuzzy_match": 55,
+    "primary_combined_pct": 94.93,
+    "differential_match": 2,
+    "top3_pct": 96.38
+  },
+  "per_disease": {
+    "Arthritis": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Periodontitis": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Kleptomania": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Yips": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "High Blood Cholesterol": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Congenital Adrenal Hyperplasia": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "(Vertigo) Paroymsal  Positional Vertigo": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Trichotillomania": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Allergies": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Hirschsprungs Disease": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Fuchs Dystrophy": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Adrenal Cancer": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Endocarditis": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Broken Collarbone": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Incompetent Cervix": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Neck Pain": {
+      "correct_primary": 0,
+      "correct_top3": 0,
+      "total": 1
+    },
+    "Brain Avm": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Bone Spurs": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Low Sex Drive In Women": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Laryngitis": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Albinism": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Acute Sinusitis": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Sickle Cell Anemia": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Bee Stings": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Male Infertility": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Bedbugs": {
+      "correct_primary": 0,
+      "correct_top3": 0,
+      "total": 1
+    },
+    "Plague": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Dermatomyositis": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Dystonia": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Frontal Lobe Seizures": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Ruptured Spleen": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Dry Skin": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Gerd": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Erectile Dysfunction": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Patellofemoral Pain Syndrome": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Myofascial Pain Syndrome": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Blood In Urine": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Peripheral Neuropathy": {
+      "correct_primary": 0,
+      "correct_top3": 0,
+      "total": 1
+    },
+    "Cystitis": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Tmj": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Diphtheria": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Painful Intercourse": {
+      "correct_primary": 0,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Roseola": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Restless Legs Syndrome": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Kidney Cysts": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Dsrct": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Carbon Monoxide": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Idiopathic Thrombocytopenic Purpura": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Brain Tumor": {
+      "correct_primary": 0,
+      "correct_top3": 0,
+      "total": 1
+    },
+    "Ectopic Pregnancy": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Melanoma": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Strep Throat": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Mesenteric Ischemia": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Kawasaki Disease": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Gastroenteritis": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Castleman Disease": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Central Sleep Apnea": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Rectal Prolapse": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Type 2 Diabetes": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Gingivitis": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Undescended Testicle": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Priapism": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Cushing Syndrome": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Blepharitis": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Bronchiolitis": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Hypertrophic Cardiomyopathy": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Baby Acne": {
+      "correct_primary": 0,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Spinal Stenosis": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Gilberts Syndrome": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Orchitis": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Adenomyosis": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Pemphigus": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Guillain Barre Syndrome": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Premature Ejaculation": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Esophagitis": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Ehlers Danlos Syndrome": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Encephalitis": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Sprained Ankle": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Syphilis": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Testicular Cancer Care": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Adjustment Disorders": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Hand Foot And Mouth Disease": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Antisocial Personality Disorder": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Male Hypogonadism": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Familial Mediterranean Fever": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Tooth Abscess": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Undifferentiated Pleomorphic Sarcoma": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Seborrheic Keratosis": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Broken Leg": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Vertigo": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Dissociative Disorders": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Anorgasmia": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Anal Fissure": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Wet Macular Degeneration": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Typhoid": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Ventricular Fibrillation": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Oppositional Defiant Disorder": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Cataracts": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Pagets Disease Of The Breast": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Nearsightedness": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Burns": {
+      "correct_primary": 0,
+      "correct_top3": 0,
+      "total": 1
+    },
+    "Respiratory Syncytial Virus": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Liposarcoma": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Bunions": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Personality Disorders": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Epilepsy": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Ewing Sarcoma": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Transverse Myelitis": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Hair Loss": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Hemangioma": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Thrombocytosis": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Sjogrens Syndrome": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Pubic Lice Crabs": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Angelman Syndrome": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Mitral Valve Prolapse": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Chlamydia": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Tricuspid Atresia": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Postpartum Preeclampsia": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Type 2 Diabetes In Children": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Congenital Heart Defects Children": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Throat Cancer": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Iron Deficiency Anemia": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Corticobasal Degeneration": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Aortic Dissection": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Hemochromatosis": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Pneumonitis": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Hives And Angioedema": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Conversion Disorder": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Mild Cognitive Impairment": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Enterocele": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Travelers Diarrhea": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Cyclic Vomiting Syndrome": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Scleroderma": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Alcoholic Hepatitis": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Reactive Arthritis": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Concussion": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Ameloblastoma": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    },
+    "Hiatal Hernia": {
+      "correct_primary": 1,
+      "correct_top3": 1,
+      "total": 1
+    }
+  },
+  "cases": [
+    {
+      "case": 1,
+      "symptoms": "muscle_weakness,stiff_neck,swelling_joints,movement_stiffness,painful_walking",
+      "expected": "Arthritis",
+      "predicted": "Polymyalgia Rheumatica",
+      "differentials": [
+        "Rheumatoid Arthritis",
+        "Giant Cell Arteritis"
+      ],
+      "diff_hit": "",
+      "confidence": 0.9,
+      "status": "FUZZY",
+      "time_s": 43.2
+    },
+    {
+      "case": 2,
+      "symptoms": "Healthy gums are firm and fit snugly around teeth. The color of healthy gums can vary. They may range from light pink in some people to dark pink and ",
+      "expected": "Periodontitis",
+      "predicted": "Periodontitis",
+      "differentials": [
+        "Gingivitis",
+        "Oral Cancer"
+      ],
+      "diff_hit": "",
+      "confidence": 0.95,
+      "status": "EXACT",
+      "time_s": 38.0
+    },
+    {
+      "case": 3,
+      "symptoms": "Kleptomania symptoms may include:  Inability to resist powerful urges to steal items that you don't need Feeling increased tension, anxiety or arousal",
+      "expected": "Kleptomania",
+      "predicted": "Kleptomania",
+      "differentials": [
+        "Shoplifting",
+        "Compulsive Buying Disorder"
+      ],
+      "diff_hit": "",
+      "confidence": 0.95,
+      "status": "EXACT",
+      "time_s": 66.7
+    },
+    {
+      "case": 4,
+      "symptoms": "The most common symptom associated with the yips is an involuntary muscle jerk, although some people experience tremors, twitches, spasms or freezing.",
+      "expected": "Yips",
+      "predicted": "Yips",
+      "differentials": [
+        "Focal Dystonia",
+        "Anxiety Disorder"
+      ],
+      "diff_hit": "",
+      "confidence": 0.95,
+      "status": "EXACT",
+      "time_s": 68.7
+    },
+    {
+      "case": 5,
+      "symptoms": "High cholesterol has no symptoms. A blood test is the only way to detect if you have it.",
+      "expected": "High Blood Cholesterol",
+      "predicted": "Hypercholesterolemia",
+      "differentials": [],
+      "diff_hit": "",
+      "confidence": 0.95,
+      "status": "FUZZY",
+      "time_s": 65.4
+    },
+    {
+      "case": 6,
+      "symptoms": "Signs and symptoms of CAH vary, depending on which gene is affected and the level of enzyme deficiency. The imbalance of hormones the body needs to fu",
+      "expected": "Congenital Adrenal Hyperplasia",
+      "predicted": "Congenital Adrenal Hyperplasia",
+      "differentials": [],
+      "diff_hit": "",
+      "confidence": 0.99,
+      "status": "EXACT",
+      "time_s": 64.0
+    },
+    {
+      "case": 7,
+      "symptoms": "vomiting,headache,nausea,spinning_movements,loss_of_balance,unsteadiness",
+      "expected": "(Vertigo) Paroymsal  Positional Vertigo",
+      "predicted": "Vertigo",
+      "differentials": [
+        "Meniere's Disease",
+        "Vestibular Neuritis",
+        "Migraine"
+      ],
+      "diff_hit": "",
+      "confidence": 0.9,
+      "status": "FUZZY",
+      "time_s": 57.8
+    },
+    {
+      "case": 8,
+      "symptoms": "Signs and symptoms of trichotillomania often include:  Repeatedly pulling your hair out, typically from your scalp, eyebrows or eyelashes, but sometim",
+      "expected": "Trichotillomania",
+      "predicted": "Trichotillomania",
+      "differentials": [],
+      "diff_hit": "",
+      "confidence": 0.99,
+      "status": "EXACT",
+      "time_s": 66.5
+    },
+    {
+      "case": 9,
+      "symptoms": "Allergy symptoms, which depend on the substance involved, can affect your airways, sinuses and nasal passages, skin, and digestive system. Allergic re",
+      "expected": "Allergies",
+      "predicted": "Allergic Rhinitis",
+      "differentials": [
+        "Atopic Dermatitis",
+        "Contact Dermatitis"
+      ],
+      "diff_hit": "",
+      "confidence": 0.95,
+      "status": "FUZZY",
+      "time_s": 72.9
+    },
+    {
+      "case": 10,
+      "symptoms": "Signs and symptoms of Hirschsprung's disease vary with the severity of the condition. Usually signs and symptoms appear shortly after birth, but somet",
+      "expected": "Hirschsprungs Disease",
+      "predicted": "Hirschsprung's Disease",
+      "differentials": [],
+      "diff_hit": "",
+      "confidence": 0.99,
+      "status": "EXACT",
+      "time_s": 53.8
+    },
+    {
+      "case": 11,
+      "symptoms": "As the disease progresses, Fuchs' dystrophy symptoms, which usually affect both eyes, might include:  Blurred or cloudy vision, sometimes described as",
+      "expected": "Fuchs Dystrophy",
+      "predicted": "Fuchs' Dystrophy",
+      "differentials": [],
+      "diff_hit": "",
+      "confidence": 0.99,
+      "status": "EXACT",
+      "time_s": 67.5
+    },
+    {
+      "case": 12,
+      "symptoms": "Signs and symptoms of adrenal cancer include:  Weight gain Muscle weakness Pink or purple stretch marks on the skin Hormone changes in women that migh",
+      "expected": "Adrenal Cancer",
+      "predicted": "Adrenal Cancer",
+      "differentials": [],
+      "diff_hit": "",
+      "confidence": 0.99,
+      "status": "EXACT",
+      "time_s": 1258.3
+    },
+    {
+      "case": 13,
+      "symptoms": "Symptoms of endocarditis can vary from person to person. Endocarditis may develop slowly or suddenly. It depends on the type of germs causing the infe",
+      "expected": "Endocarditis",
+      "predicted": "Endocarditis",
+      "differentials": [
+        "Infective Endocarditis",
+        "Sepsis",
+        "Viral Infection"
+      ],
+      "diff_hit": "",
+      "confidence": 0.9,
+      "status": "EXACT",
+      "time_s": 84.0
+    },
+    {
+      "case": 14,
+      "symptoms": "Symptoms of a broken collarbone include:  Pain that increases when moving the shoulder. Swelling, tenderness or bruising. Skin over the break might lo",
+      "expected": "Broken Collarbone",
+      "predicted": "Fracture of the Clavicle",
+      "differentials": [],
+      "diff_hit": "",
+      "confidence": 0.99,
+      "status": "FUZZY",
+      "time_s": 1137.0
+    },
+    {
+      "case": 15,
+      "symptoms": "If you have an incompetent cervix, you may not have any signs or symptoms during early pregnancy. Some women have mild discomfort or spotting over the",
+      "expected": "Incompetent Cervix",
+      "predicted": "Incompetent Cervix",
+      "differentials": [],
+      "diff_hit": "",
+      "confidence": 0.95,
+      "status": "EXACT",
+      "time_s": 299.1
+    },
+    {
+      "case": 16,
+      "symptoms": "Symptoms include:  Pain that's often worsened by holding the head in one place for long periods, such as when driving or working at a computer Muscle ",
+      "expected": "Neck Pain",
+      "predicted": "Torticollis",
+      "differentials": [
+        "Cervical Dystonia",
+        "Cervical Myelopathy"
+      ],
+      "diff_hit": "",
+      "confidence": 0.85,
+      "status": "MISS",
+      "time_s": 1329.9
+    },
+    {
+      "case": 17,
+      "symptoms": "A brain arteriovenous malformation may not cause any signs or symptoms until the AVM ruptures, resulting in hemorrhage. In about half of all brain AVM",
+      "expected": "Brain Avm",
+      "predicted": "```json\n{\n  \"diagnosis\": \"Brain Arteriovenous Malformation\",\n  \"differential_diagnoses\": [\n    {\"diagnosis\": \"Brain Tumor\", \"confidence\": 0.15, \"reasoning\": \"Brain tumors can cause similar symptoms li",
+      "differentials": [],
+      "diff_hit": "",
+      "confidence": 0.0,
+      "status": "FUZZY",
+      "time_s": 2928.5
+    },
+    {
+      "case": 18,
+      "symptoms": "Osteoarthritis of the hip       Open pop-up dialog box          Close    Osteoarthritis of the hip   Osteoarthritis of the hip The hip joint shown on ",
+      "expected": "Bone Spurs",
+      "predicted": "Osteoarthritis of the Hip",
+      "differentials": [
+        "Hip Impingement",
+        "Avascular Necrosis"
+      ],
+      "diff_hit": "",
+      "confidence": 0.95,
+      "status": "FUZZY",
+      "time_s": 1019.3
+    },
+    {
+      "case": 19,
+      "symptoms": "If you want to have sex less often than your partner does, neither one of you is necessarily outside the norm for people at your stage in life \u2014 altho",
+      "expected": "Low Sex Drive In Women",
+      "predicted": "Hypoactive Sexual Desire Disorder",
+      "differentials": [],
+      "diff_hit": "",
+      "confidence": 0.95,
+      "status": "FUZZY",
+      "time_s": 4103.6
+    },
+    {
+      "case": 20,
+      "symptoms": "In most cases laryngitis symptoms last less than a couple of weeks and are caused by something minor, such as a virus. Less often, laryngitis symptoms",
+      "expected": "Laryngitis",
+      "predicted": "Laryngitis",
+      "differentials": [],
+      "diff_hit": "",
+      "confidence": 0.95,
+      "status": "EXACT",
+      "time_s": 62.3
+    },
+    {
+      "case": 21,
+      "symptoms": "Symptoms of albinism involve skin, hair and eye color, as well as vision. Skin The easiest form of albinism to see results in white hair and very ligh",
+      "expected": "Albinism",
+      "predicted": "Albinism",
+      "differentials": [],
+      "diff_hit": "",
+      "confidence": 0.99,
+      "status": "EXACT",
+      "time_s": 57.9
+    },
+    {
+      "case": 22,
+      "symptoms": "Acute sinusitis signs and symptoms often include:  Thick, yellow or greenish mucus from the nose (runny nose) or down the back of the throat (postnasa",
+      "expected": "Acute Sinusitis",
+      "predicted": "Acute Sinusitis",
+      "differentials": [
+        "Viral Upper Respiratory Infection",
+        "Allergic Rhinitis",
+        "Fungal Sinusitis"
+      ],
+      "diff_hit": "",
+      "confidence": 0.95,
+      "status": "EXACT",
+      "time_s": 62.5
+    },
+    {
+      "case": 23,
+      "symptoms": "Signs and symptoms of sickle cell anemia usually appear around 6 months of age. They vary from person to person and may change over time. Signs and sy",
+      "expected": "Sickle Cell Anemia",
+      "predicted": "Sickle Cell Anemia",
+      "differentials": [
+        "Thalassemia",
+        "Autoimmune Hemolytic Anemia"
+      ],
+      "diff_hit": "",
+      "confidence": 0.95,
+      "status": "EXACT",
+      "time_s": 83.5
+    },
+    {
+      "case": 24,
+      "symptoms": "Bee stings can produce different reactions, ranging from temporary pain and discomfort to a severe allergic reaction. Having one type of reaction does",
+      "expected": "Bee Stings",
+      "predicted": "Local Reaction to Insect Sting",
+      "differentials": [
+        "Anaphylaxis",
+        "Toxic Reaction to Multiple Stings"
+      ],
+      "diff_hit": "",
+      "confidence": 0.85,
+      "status": "FUZZY",
+      "time_s": 81.0
+    },
+    {
+      "case": 25,
+      "symptoms": "The main sign of male infertility is the inability to conceive a child. There may be no other obvious signs or symptoms. In some cases, however, an un",
+      "expected": "Male Infertility",
+      "predicted": "Male Infertility",
+      "differentials": [
+        "Erectile Dysfunction",
+        "Hypospadias",
+        "Cryptorchidism"
+      ],
+      "diff_hit": "",
+      "confidence": 0.95,
+      "status": "EXACT",
+      "time_s": 73.7
+    },
+    {
+      "case": 26,
+      "symptoms": "Bedbug bites       Open pop-up dialog box          Close    Bedbug bites   Bedbug bites It can be difficult to tell bedbug bites from other types of i",
+      "expected": "Bedbugs",
+      "predicted": "Bed Bug Infestation",
+      "differentials": [],
+      "diff_hit": "",
+      "confidence": 0.95,
+      "status": "MISS",
+      "time_s": 66.9
+    },
+    {
+      "case": 27,
+      "symptoms": "Plague is divided into three main types \u2014 bubonic, septicemic and pneumonic \u2014 depending on which part of your body is involved. Signs and symptoms var",
+      "expected": "Plague",
+      "predicted": "Bubonic Plague",
+      "differentials": [
+        "Septicemic Plague",
+        "Pneumonic Plague"
+      ],
+      "diff_hit": "",
+      "confidence": 0.95,
+      "status": "FUZZY",
+      "time_s": 5276.0
+    },
+    {
+      "case": 28,
+      "symptoms": "The signs and symptoms of dermatomyositis can appear suddenly or develop gradually over time. The most common signs and symptoms include:  Skin change",
+      "expected": "Dermatomyositis",
+      "predicted": "Dermatomyositis",
+      "differentials": [
+        "Polymyositis",
+        "Inclusion Body Myositis"
+      ],
+      "diff_hit": "",
+      "confidence": 0.95,
+      "status": "EXACT",
+      "time_s": 7729.6
+    },
+    {
+      "case": 29,
+      "symptoms": "Dystonia affects different people in different ways. Muscle spasms might:  Begin in a single area, such as your leg, neck or arm. Focal dystonia that ",
+      "expected": "Dystonia",
+      "predicted": "Cervical Dystonia",
+      "differentials": [
+        "Blepharospasm",
+        "Orromandibular Dystonia",
+        "Laryngeal Dystonia"
+      ],
+      "diff_hit": "",
+      "confidence": 0.9,
+      "status": "FUZZY",
+      "time_s": 10961.3
+    },
+    {
+      "case": 30,
+      "symptoms": "Frontal lobe seizures often last less than 30 seconds. In some cases, recovery is immediate. Signs and symptoms of frontal lobe seizures might include",
+      "expected": "Frontal Lobe Seizures",
+      "predicted": "Frontal Lobe Seizure",
+      "differentials": [
+        "Temporal Lobe Seizure",
+        "Generalized Tonic-Clonic Seizure",
+        "Status Epilepticus"
+      ],
+      "diff_hit": "",
+      "confidence": 0.95,
+      "status": "FUZZY",
+      "time_s": 11051.7
+    },
+    {
+      "case": 31,
+      "symptoms": "Signs and symptoms of a ruptured spleen include:  Pain in the upper left abdomen Tenderness when you touch the upper left abdomen Left shoulder pain C",
+      "expected": "Ruptured Spleen",
+      "predicted": "Splenic Rupture",
+      "differentials": [
+        "Splenic Contusion",
+        "Splenic Infarction"
+      ],
+      "diff_hit": "",
+      "confidence": 0.95,
+      "status": "FUZZY",
+      "time_s": 2453.1
+    },
+    {
+      "case": 32,
+      "symptoms": "Dry skin is often temporary or seasonal \u2014 you might get it only in winter, for example \u2014 or you might need to treat it long term. Signs and symptoms o",
+      "expected": "Dry Skin",
+      "predicted": "Xerosis Cutis",
+      "differentials": [
+        "Atopic Dermatitis",
+        "Psoriasis"
+      ],
+      "diff_hit": "",
+      "confidence": 0.85,
+      "status": "FUZZY",
+      "time_s": 71.4
+    },
+    {
+      "case": 33,
+      "symptoms": "stomach_pain,acidity,ulcers_on_tongue,vomiting,cough,chest_pain",
+      "expected": "Gerd",
+      "predicted": "Gastroesophageal Reflux Disease",
+      "differentials": [
+        "Peptic Ulcer Disease",
+        "Esophagitis"
+      ],
+      "diff_hit": "",
+      "confidence": 0.85,
+      "status": "FUZZY",
+      "time_s": 71.6
+    },
+    {
+      "case": 34,
+      "symptoms": "Erectile dysfunction symptoms might include persistent:  Trouble getting an erection Trouble keeping an erection Reduced sexual desire",
+      "expected": "Erectile Dysfunction",
+      "predicted": "Erectile Dysfunction",
+      "differentials": [
+        "Hypogonadism",
+        "Depression",
+        "Cardiovascular Disease"
+      ],
+      "diff_hit": "",
+      "confidence": 0.9,
+      "status": "EXACT",
+      "time_s": 64.2
+    },
+    {
+      "case": 35,
+      "symptoms": "Patellofemoral pain syndrome usually causes a dull, aching pain in the front of the knee. The following can increase the pain:  Walking up or down sta",
+      "expected": "Patellofemoral Pain Syndrome",
+      "predicted": "Patellofemoral Pain Syndrome",
+      "differentials": [],
+      "diff_hit": "",
+      "confidence": 0.95,
+      "status": "EXACT",
+      "time_s": 69.2
+    },
+    {
+      "case": 36,
+      "symptoms": "Signs and symptoms of myofascial pain syndrome may include:  Deep, aching pain in a muscle Pain that persists or worsens A tender knot in a muscle Dif",
+      "expected": "Myofascial Pain Syndrome",
+      "predicted": "Myofascial Pain Syndrome",
+      "differentials": [
+        "Fibromyalgia",
+        "Musculoskeletal Strain"
+      ],
+      "diff_hit": "",
+      "confidence": 0.9,
+      "status": "EXACT",
+      "time_s": 48.7
+    },
+    {
+      "case": 37,
+      "symptoms": "Blood in the urine can look pink, red or cola-colored. Red blood cells cause the urine to change color. It takes only a small amount of blood to turn ",
+      "expected": "Blood In Urine",
+      "predicted": "Hematuria",
+      "differentials": [
+        "Urinary Tract Infection",
+        "Kidney Stones",
+        "Bladder Cancer"
+      ],
+      "diff_hit": "",
+      "confidence": 0.9,
+      "status": "FUZZY",
+      "time_s": 52.1
+    },
+    {
+      "case": 38,
+      "symptoms": "Every nerve in your peripheral system has a specific function, so symptoms depend on the type of nerves affected. Nerves are classified into:  Sensory",
+      "expected": "Peripheral Neuropathy",
+      "predicted": "Polyneuropathy",
+      "differentials": [
+        "Mononeuropathy",
+        "Carpal Tunnel Syndrome"
+      ],
+      "diff_hit": "",
+      "confidence": 0.95,
+      "status": "MISS",
+      "time_s": 56.6
+    },
+    {
+      "case": 39,
+      "symptoms": "Cystitis signs and symptoms may include:  A strong, persistent urge to urinate Pain or a burning feeling when urinating Passing frequent, small amount",
+      "expected": "Cystitis",
+      "predicted": "Cystitis",
+      "differentials": [],
+      "diff_hit": "",
+      "confidence": 0.95,
+      "status": "EXACT",
+      "time_s": 61.6
+    },
+    {
+      "case": 40,
+      "symptoms": "Signs and symptoms of TMJ disorders may include:  Pain or tenderness of your jaw Pain in one or both of the temporomandibular joints Aching pain in an",
+      "expected": "Tmj",
+      "predicted": "Temporomandibular Joint Disorder",
+      "differentials": [],
+      "diff_hit": "",
+      "confidence": 0.95,
+      "status": "FUZZY",
+      "time_s": 69.7
+    },
+    {
+      "case": 41,
+      "symptoms": "Diphtheria signs and symptoms usually begin 2 to 5 days after a person becomes infected. Signs and symptoms may include:  A thick, gray membrane cover",
+      "expected": "Diphtheria",
+      "predicted": "Diphtheria",
+      "differentials": [],
+      "diff_hit": "",
+      "confidence": 0.95,
+      "status": "EXACT",
+      "time_s": 64.4
+    },
+    {
+      "case": 42,
+      "symptoms": "If you have painful intercourse, you might feel:  Pain only at sexual entry (penetration) Pain with every penetration, including putting in a tampon D",
+      "expected": "Painful Intercourse",
+      "predicted": "Vaginismus",
+      "differentials": [
+        "Endometriosis",
+        "Vulvodynia"
+      ],
+      "diff_hit": "Vulvodynia",
+      "confidence": 0.9,
+      "status": "DIFF",
+      "time_s": 59.1
+    },
+    {
+      "case": 43,
+      "symptoms": "Roseola       Open pop-up dialog box          Close    Roseola   Roseola Roseola is a childhood illness caused by two strains of the herpes virus. Com",
+      "expected": "Roseola",
+      "predicted": "Roseola",
+      "differentials": [],
+      "diff_hit": "",
+      "confidence": 0.95,
+      "status": "EXACT",
+      "time_s": 60.1
+    },
+    {
+      "case": 44,
+      "symptoms": "The chief symptom is an urge to move the legs. Common accompanying characteristics of RLS include: RLS  Sensations that begin while resting. The sensa",
+      "expected": "Restless Legs Syndrome",
+      "predicted": "Restless Legs Syndrome",
+      "differentials": [
+        "Periodic Limb Movement Disorder (PLMD)",
+        "Peripheral Neuropathy",
+        "Medication-Induced Restless Legs"
+      ],
+      "diff_hit": "",
+      "confidence": 0.95,
+      "status": "EXACT",
+      "time_s": 68.6
+    },
+    {
+      "case": 45,
+      "symptoms": "Simple kidney cysts typically don't cause symptoms. But if a simple kidney cyst grows large enough, symptoms may include:  Dull pain in the back or si",
+      "expected": "Kidney Cysts",
+      "predicted": "Simple Kidney Cyst",
+      "differentials": [],
+      "diff_hit": "",
+      "confidence": 0.95,
+      "status": "FUZZY",
+      "time_s": 51.2
+    },
+    {
+      "case": 46,
+      "symptoms": "Desmoplastic small round cell tumor symptoms vary depending on where the cancer begins. Most often it begins in the abdomen. Signs and symptoms of des",
+      "expected": "Dsrct",
+      "predicted": "Desmoplastic Small Round Cell Tumor",
+      "differentials": [],
+      "diff_hit": "",
+      "confidence": 0.95,
+      "status": "FUZZY",
+      "time_s": 58.0
+    },
+    {
+      "case": 47,
+      "symptoms": "Signs and symptoms of carbon monoxide poisoning may include:  Dull headache Weakness Dizziness Nausea or vomiting Shortness of breath Confusion Blurre",
+      "expected": "Carbon Monoxide",
+      "predicted": "Carbon Monoxide Poisoning",
+      "differentials": [],
+      "diff_hit": "",
+      "confidence": 1.0,
+      "status": "FUZZY",
+      "time_s": 51.6
+    },
+    {
+      "case": 48,
+      "symptoms": "Petechiae       Open pop-up dialog box          Close    Petechiae   Petechiae Petechiae may look like a rash and usually appear in clusters. Here the",
+      "expected": "Idiopathic Thrombocytopenic Purpura",
+      "predicted": "Immune Thrombocytopenia",
+      "differentials": [],
+      "diff_hit": "",
+      "confidence": 0.95,
+      "status": "FUZZY",
+      "time_s": 57.5
+    },
+    {
+      "case": 49,
+      "symptoms": "The signs and symptoms of a brain tumor depend on the brain tumor's size and location. Symptoms also might depend on how fast the brain tumor is growi",
+      "expected": "Brain Tumor",
+      "predicted": "Headache",
+      "differentials": [
+        "Tension Headache",
+        "Migraine",
+        "Sinusitis"
+      ],
+      "diff_hit": "",
+      "confidence": 0.75,
+      "status": "MISS",
+      "time_s": 64.0
+    },
+    {
+      "case": 50,
+      "symptoms": "You may not notice any symptoms at first. However, some women who have an ectopic pregnancy have the usual early signs or symptoms of pregnancy \u2014 a mi",
+      "expected": "Ectopic Pregnancy",
+      "predicted": "Ectopic Pregnancy",
+      "differentials": [
+        "Normal Pregnancy",
+        "Miscarriage"
+      ],
+      "diff_hit": "",
+      "confidence": 0.9,
+      "status": "EXACT",
+      "time_s": 56.0
+    },
+    {
+      "case": 51,
+      "symptoms": "Moles       Open pop-up dialog box          Close    Moles   Moles Moles are usually harmless. They may contain hairs or become raised or wrinkled. Ta",
+      "expected": "Melanoma",
+      "predicted": "Melanoma",
+      "differentials": [
+        "Moles",
+        "Skin Cancer"
+      ],
+      "diff_hit": "",
+      "confidence": 0.9,
+      "status": "EXACT",
+      "time_s": 72.2
+    },
+    {
+      "case": 52,
+      "symptoms": "Strep throat infection       Open pop-up dialog box          Close    Strep throat infection   Strep throat infection Strep throat usually causes thro",
+      "expected": "Strep Throat",
+      "predicted": "Strep Throat",
+      "differentials": [],
+      "diff_hit": "",
+      "confidence": 0.95,
+      "status": "EXACT",
+      "time_s": 56.6
+    },
+    {
+      "case": 53,
+      "symptoms": "Acute mesenteric ischemia Signs and symptoms of the acute form of mesenteric ischemia include:  Abrupt, severe abdominal pain Urgent need to have a bo",
+      "expected": "Mesenteric Ischemia",
+      "predicted": "Acute Mesenteric Ischemia",
+      "differentials": [],
+      "diff_hit": "",
+      "confidence": 0.95,
+      "status": "FUZZY",
+      "time_s": 89.2
+    },
+    {
+      "case": 54,
+      "symptoms": "Many people who have fibromuscular dysplasia don't have any symptoms. For those who do, signs or symptoms of the disease depend on which artery or art",
+      "expected": "Fibromuscular Dysplasia",
+      "predicted": "ERROR: ",
+      "differentials": [],
+      "diff_hit": "",
+      "confidence": 0.0,
+      "status": "ERROR",
+      "time_s": 0
+    },
+    {
+      "case": 55,
+      "symptoms": "Signs and symptoms of rhabdomyosarcoma depend on where the cancer is located. For example, if the cancer is in the head or neck area, signs and sympto",
+      "expected": "Rhabdomyosarcoma",
+      "predicted": "ERROR: ",
+      "differentials": [],
+      "diff_hit": "",
+      "confidence": 0.0,
+      "status": "ERROR",
+      "time_s": 0
+    },
+    {
+      "case": 56,
+      "symptoms": "The symptoms of narcolepsy may get worse during the first few years of the disorder. Then they continue for life. They include:   Excessive daytime sl",
+      "expected": "Narcolepsy",
+      "predicted": "ERROR: ",
+      "differentials": [],
+      "diff_hit": "",
+      "confidence": 0.0,
+      "status": "ERROR",
+      "time_s": 0
+    },
+    {
+      "case": 57,
+      "symptoms": "To receive a diagnosis of Kawasaki disease, a child usually will have a fever greater than 102.2 F (39 C) for five or more days and at least four of t",
+      "expected": "Kawasaki Disease",
+      "predicted": "Kawasaki Disease",
+      "differentials": [
+        "Multisystem Inflammatory Syndrome in Children (MIS-C)",
+        "Infectious Mononucleosis"
+      ],
+      "diff_hit": "",
+      "confidence": 0.9,
+      "status": "EXACT",
+      "time_s": 74.6
+    },
+    {
+      "case": 58,
+      "symptoms": "vomiting,sunken_eyes,dehydration,diarrhoea",
+      "expected": "Gastroenteritis",
+      "predicted": "Dehydration",
+      "differentials": [
+        "Diarrheal Illness",
+        "Viral Gastroenteritis",
+        "Food Poisoning"
+      ],
+      "diff_hit": "",
+      "confidence": 0.9,
+      "status": "FUZZY",
+      "time_s": 78.6
+    },
+    {
+      "case": 59,
+      "symptoms": "Many people with unicentric Castleman disease don't notice any signs or symptoms. The enlarged lymph node may be found during a physical exam or an im",
+      "expected": "Castleman Disease",
+      "predicted": "Unicentric Castleman Disease",
+      "differentials": [
+        "Multicentric Castleman Disease",
+        "Lymphoma"
+      ],
+      "diff_hit": "",
+      "confidence": 0.9,
+      "status": "FUZZY",
+      "time_s": 63.8
+    },
+    {
+      "case": 60,
+      "symptoms": "Common signs and symptoms of central sleep apnea include:  Observed episodes of not breathing or abnormal breathing patterns during sleep Abrupt awake",
+      "expected": "Central Sleep Apnea",
+      "predicted": "Central Sleep Apnea",
+      "differentials": [
+        "Obstructive Sleep Apnea",
+        "Idiopathic Hypersomnia",
+        "Narcolepsy"
+      ],
+      "diff_hit": "",
+      "confidence": 0.95,
+      "status": "EXACT",
+      "time_s": 69.8
+    },
+    {
+      "case": 61,
+      "symptoms": "If you have rectal prolapse, you may notice a reddish mass that comes out of the anus, often while straining during a bowel movement. The mass may sli",
+      "expected": "Rectal Prolapse",
+      "predicted": "Rectal Prolapse",
+      "differentials": [
+        "Hemorrhoids",
+        "Anal Fissure"
+      ],
+      "diff_hit": "",
+      "confidence": 0.95,
+      "status": "EXACT",
+      "time_s": 155.6
+    },
+    {
+      "case": 62,
+      "symptoms": "Symptoms of type 2 diabetes often develop slowly. In fact, you can be living with type 2 diabetes for years and not know it. When symptoms are present",
+      "expected": "Type 2 Diabetes",
+      "predicted": "Type 2 Diabetes Mellitus",
+      "differentials": [],
+      "diff_hit": "",
+      "confidence": 0.99,
+      "status": "FUZZY",
+      "time_s": 64.9
+    },
+    {
+      "case": 63,
+      "symptoms": "Gingivitis       Open pop-up dialog box          Close    Gingivitis   Gingivitis Gingivitis can cause dusky red, swollen, tender gums that bleed easi",
+      "expected": "Gingivitis",
+      "predicted": "Gingivitis",
+      "differentials": [],
+      "diff_hit": "",
+      "confidence": 0.99,
+      "status": "EXACT",
+      "time_s": 70.4
+    },
+    {
+      "case": 64,
+      "symptoms": "Not seeing or feeling a testicle where you would expect it to be in the scrotum is the main sign of an undescended testicle. Testicles form in the abd",
+      "expected": "Undescended Testicle",
+      "predicted": "Undescended Testicle",
+      "differentials": [
+        "Inguinal Hernia",
+        "Hydrocele"
+      ],
+      "diff_hit": "",
+      "confidence": 0.95,
+      "status": "EXACT",
+      "time_s": 105.6
+    },
+    {
+      "case": 65,
+      "symptoms": "Symptoms of Eisenmenger syndrome include:  Blue or gray skin color due to low oxygen levels (cyanosis) Chest pain or tightness Coughing up blood Dizzi",
+      "expected": "Eisenmenger Syndrome",
+      "predicted": "ERROR: ",
+      "differentials": [],
+      "diff_hit": "",
+      "confidence": 0.0,
+      "status": "ERROR",
+      "time_s": 0
+    },
+    {
+      "case": 66,
+      "symptoms": "Valley fever is the initial form of coccidioidomycosis infection. This initial, acute illness can develop into a more serious disease, including chron",
+      "expected": "Valley Fever",
+      "predicted": "ERROR: ",
+      "differentials": [],
+      "diff_hit": "",
+      "confidence": 0.0,
+      "status": "ERROR",
+      "time_s": 0
+    },
+    {
+      "case": 67,
+      "symptoms": "Many people with peripheral artery disease have mild or no symptoms. Some people have leg pain when walking (claudication). Claudication symptoms incl",
+      "expected": "Peripheral Artery Disease",
+      "predicted": "ERROR: ",
+      "differentials": [],
+      "diff_hit": "",
+      "confidence": 0.0,
+      "status": "ERROR",
+      "time_s": 0
+    },
+    {
+      "case": 68,
+      "symptoms": "Typically, there's no outward sign of this condition, such as a lump. Instead, you may experience the following symptoms:  A feeling as if you're stan",
+      "expected": "Mortons Neuroma",
+      "predicted": "ERROR: ",
+      "differentials": [],
+      "diff_hit": "",
+      "confidence": 0.0,
+      "status": "ERROR",
+      "time_s": 0
+    },
+    {
+      "case": 69,
+      "symptoms": "Some people with heart valve disease might not have symptoms for many years. When signs and symptoms occur, they might include:  Whooshing sound (hear",
+      "expected": "Heart Valve Disease",
+      "predicted": "ERROR: ",
+      "differentials": [],
+      "diff_hit": "",
+      "confidence": 0.0,
+      "status": "ERROR",
+      "time_s": 0
+    },
+    {
+      "case": 70,
+      "symptoms": "Molar pregnancy       Open pop-up dialog box          Close    Molar pregnancy   Molar pregnancy During a molar pregnancy, the placenta doesn't form t",
+      "expected": "Molar Pregnancy",
+      "predicted": "ERROR: ",
+      "differentials": [],
+      "diff_hit": "",
+      "confidence": 0.0,
+      "status": "ERROR",
+      "time_s": 0
+    },
+    {
+      "case": 71,
+      "symptoms": "Mild atherosclerosis usually doesn't have any symptoms. Atherosclerosis symptoms usually don't happen until an artery is so narrowed or clogged that i",
+      "expected": "Arteriosclerosis Atherosclerosis",
+      "predicted": "ERROR: ",
+      "differentials": [],
+      "diff_hit": "",
+      "confidence": 0.0,
+      "status": "ERROR",
+      "time_s": 0
+    },
+    {
+      "case": 72,
+      "symptoms": "If you're allergic to latex, you're likely to have symptoms after touching latex rubber products, such as gloves or balloons. You also can have sympto",
+      "expected": "Latex Allergy",
+      "predicted": "ERROR: ",
+      "differentials": [],
+      "diff_hit": "",
+      "confidence": 0.0,
+      "status": "ERROR",
+      "time_s": 0
+    },
+    {
+      "case": 73,
+      "symptoms": "joint_pain,neck_pain,knee_pain,hip_joint_pain,swelling_joints,painful_walking",
+      "expected": "Osteoarthristis",
+      "predicted": "ERROR: ",
+      "differentials": [],
+      "diff_hit": "",
+      "confidence": 0.0,
+      "status": "ERROR",
+      "time_s": 0
+    },
+    {
+      "case": 74,
+      "symptoms": "Priapism symptoms vary depending on the type of priapism. The two main types of priapism are ischemic priapism and nonischemic priapism. Ischemic pria",
+      "expected": "Priapism",
+      "predicted": "Ischemic Priapism",
+      "differentials": [
+        "Nonischemic Priapism",
+        "Sickle Cell Disease"
+      ],
+      "diff_hit": "",
+      "confidence": 0.95,
+      "status": "FUZZY",
+      "time_s": 85.0
+    },
+    {
+      "case": 75,
+      "symptoms": "The signs and symptoms of Cushing syndrome can vary depending on the levels of excess cortisol. Common signs and symptoms of Cushing syndrome  Weight ",
+      "expected": "Cushing Syndrome",
+      "predicted": "Cushing Syndrome",
+      "differentials": [
+        "Adrenal Adenoma",
+        "Ectopic ACTH Production",
+        "Pituitary Adenoma (Cushing's Disease)"
+      ],
+      "diff_hit": "",
+      "confidence": 0.95,
+      "status": "EXACT",
+      "time_s": 81.0
+    },
+    {
+      "case": 76,
+      "symptoms": "Blepharitis signs and symptoms are typically worse in the morning. They include:  Watery eyes Red eyes A gritty, burning or stinging sensation in the ",
+      "expected": "Blepharitis",
+      "predicted": "Blepharitis",
+      "differentials": [
+        "Conjunctivitis",
+        "Allergic Conjunctivitis"
+      ],
+      "diff_hit": "",
+      "confidence": 0.95,
+      "status": "EXACT",
+      "time_s": 71.3
+    },
+    {
+      "case": 77,
+      "symptoms": "For the first few days, the symptoms of bronchiolitis are much like a cold:  Runny nose. Stuffy nose. Cough. Sometimes a slight fever.  Later, your ch",
+      "expected": "Bronchiolitis",
+      "predicted": "Bronchiolitis",
+      "differentials": [
+        "Viral Upper Respiratory Infection",
+        "Otitis Media"
+      ],
+      "diff_hit": "",
+      "confidence": 0.95,
+      "status": "EXACT",
+      "time_s": 77.1
+    },
+    {
+      "case": 78,
+      "symptoms": "Signs and symptoms of hypertrophic cardiomyopathy might include one or more of the following:  Chest pain, especially during exercise Fainting, especi",
+      "expected": "Hypertrophic Cardiomyopathy",
+      "predicted": "Hypertrophic Cardiomyopathy",
+      "differentials": [],
+      "diff_hit": "",
+      "confidence": 0.99,
+      "status": "EXACT",
+      "time_s": 81.0
+    },
+    {
+      "case": 79,
+      "symptoms": "Baby acne is small, inflamed bumps on a baby's face, neck, back or chest. It often develops within 2 to 4 weeks of birth.  Many babies also develop ti",
+      "expected": "Baby Acne",
+      "predicted": "Milia",
+      "differentials": [
+        "Acne Neonatorum",
+        "Seborrheic Dermatitis"
+      ],
+      "diff_hit": "Acne Neonatorum",
+      "confidence": 0.9,
+      "status": "DIFF",
+      "time_s": 63.9
+    },
+    {
+      "case": 80,
+      "symptoms": "Spinal stenosis often causes no symptoms. When symptoms do occur, they start slowly and get worse over time. Symptoms depend on which part of the spin",
+      "expected": "Spinal Stenosis",
+      "predicted": "Spinal Stenosis",
+      "differentials": [
+        "Spondylolisthesis",
+        "Herniated Disc"
+      ],
+      "diff_hit": "",
+      "confidence": 0.9,
+      "status": "EXACT",
+      "time_s": 66.4
+    },
+    {
+      "case": 81,
+      "symptoms": "The most frequent sign of Gilbert syndrome is an occasional yellowish tinge of the skin and the whites of the eyes as a result of slightly higher leve",
+      "expected": "Gilberts Syndrome",
+      "predicted": "Gilbert Syndrome",
+      "differentials": [],
+      "diff_hit": "",
+      "confidence": 0.95,
+      "status": "FUZZY",
+      "time_s": 61.7
+    },
+    {
+      "case": 82,
+      "symptoms": "Orchitis signs and symptoms usually develop suddenly and can include:  Swelling in one or both testicles Pain ranging from mild to severe Fever Nausea",
+      "expected": "Orchitis",
+      "predicted": "Orchitis",
+      "differentials": [
+        "Epididymitis",
+        "Testicular Torsion",
+        "Inguinal Hernia"
+      ],
+      "diff_hit": "",
+      "confidence": 0.95,
+      "status": "EXACT",
+      "time_s": 65.3
+    },
+    {
+      "case": 83,
+      "symptoms": "Sometimes, adenomyosis causes no signs or symptoms or only mild discomfort. However, adenomyosis can cause:  Heavy or prolonged menstrual bleeding Sev",
+      "expected": "Adenomyosis",
+      "predicted": "Adenomyosis",
+      "differentials": [
+        "Endometriosis",
+        "Uterine Fibroids"
+      ],
+      "diff_hit": "",
+      "confidence": 0.9,
+      "status": "EXACT",
+      "time_s": 57.2
+    },
+    {
+      "case": 84,
+      "symptoms": "Pemphigus causes blisters on your skin and mucous membranes. The blisters rupture easily, leaving open sores, which may ooze and become infected. The ",
+      "expected": "Pemphigus",
+      "predicted": "Pemphigus Vulgaris",
+      "differentials": [
+        "Pemphigus Foliaceus",
+        "Bullous Pemphigoid"
+      ],
+      "diff_hit": "",
+      "confidence": 0.9,
+      "status": "FUZZY",
+      "time_s": 61.5
+    },
+    {
+      "case": 85,
+      "symptoms": "Guillain-Barre syndrome often begins with tingling and weakness starting in your feet and legs and spreading to your upper body and arms. Some people ",
+      "expected": "Guillain Barre Syndrome",
+      "predicted": "Guillain-Barre Syndrome",
+      "differentials": [
+        "Miller Fisher Syndrome",
+        "Acute Motor Axonal Neuropathy (AMAN)",
+        "Acute Motor-Sensory Axonal Neuropathy (AMSAN)"
+      ],
+      "diff_hit": "",
+      "confidence": 0.95,
+      "status": "EXACT",
+      "time_s": 69.3
+    },
+    {
+      "case": 86,
+      "symptoms": "The main symptom of premature ejaculation is not being able to delay ejaculation for more than three minutes after penetration. But it might occur in ",
+      "expected": "Premature Ejaculation",
+      "predicted": "Premature Ejaculation",
+      "differentials": [],
+      "diff_hit": "",
+      "confidence": 0.95,
+      "status": "EXACT",
+      "time_s": 56.7
+    },
+    {
+      "case": 87,
+      "symptoms": "Common symptoms of esophagitis include:  Difficulty swallowing. Painful swallowing. Swallowed food becoming stuck in the esophagus, also known as food",
+      "expected": "Esophagitis",
+      "predicted": "Esophagitis",
+      "differentials": [
+        "Gastroesophageal Reflux Disease",
+        "Eosinophilic Esophagitis",
+        "Esophageal Stricture"
+      ],
+      "diff_hit": "",
+      "confidence": 0.9,
+      "status": "EXACT",
+      "time_s": 76.6
+    },
+    {
+      "case": 88,
+      "symptoms": "There are many different types of Ehlers-Danlos syndrome, but the most common signs and symptoms include:  Overly flexible joints. Because the connect",
+      "expected": "Ehlers Danlos Syndrome",
+      "predicted": "Hypermobile Ehlers-Danlos Syndrome",
+      "differentials": [],
+      "diff_hit": "",
+      "confidence": 0.99,
+      "status": "FUZZY",
+      "time_s": 61.1
+    },
+    {
+      "case": 89,
+      "symptoms": "Bulging fontanel       Open pop-up dialog box          Close    Bulging fontanel   Bulging fontanel One of the major signs of encephalitis in infants ",
+      "expected": "Encephalitis",
+      "predicted": "Encephalitis",
+      "differentials": [
+        "Meningitis",
+        "Intracranial Hemorrhage"
+      ],
+      "diff_hit": "",
+      "confidence": 0.95,
+      "status": "EXACT",
+      "time_s": 73.5
+    },
+    {
+      "case": 90,
+      "symptoms": "Signs and symptoms of a sprained ankle vary depending on the severity of the injury. They may include:  Pain, especially when you bear weight on the a",
+      "expected": "Sprained Ankle",
+      "predicted": "Ankle Sprain",
+      "differentials": [
+        "Fracture",
+        "Tendonitis"
+      ],
+      "diff_hit": "",
+      "confidence": 0.9,
+      "status": "FUZZY",
+      "time_s": 67.2
+    },
+    {
+      "case": 91,
+      "symptoms": "Primary syphilis       Open pop-up dialog box          Close    Primary syphilis   Primary syphilis Primary syphilis causes painless sores (chancres) ",
+      "expected": "Syphilis",
+      "predicted": "Primary Syphilis",
+      "differentials": [
+        "Secondary Syphilis",
+        "Tertiary Syphilis",
+        "Early Latent Syphilis"
+      ],
+      "diff_hit": "",
+      "confidence": 0.95,
+      "status": "FUZZY",
+      "time_s": 43.7
+    },
+    {
+      "case": 92,
+      "symptoms": "Testicular lumps       Open pop-up dialog box          Close    Testicular lumps   Testicular lumps Pain, swelling or lumps in your testicle or groin ",
+      "expected": "Testicular Cancer Care",
+      "predicted": "Testicular Lumps",
+      "differentials": [],
+      "diff_hit": "",
+      "confidence": 0.95,
+      "status": "FUZZY",
+      "time_s": 35.9
+    },
+    {
+      "case": 93,
+      "symptoms": "Signs and symptoms depend on the type of adjustment disorder and can vary from person to person. You experience more stress than would normally be exp",
+      "expected": "Adjustment Disorders",
+      "predicted": "Adjustment Disorder",
+      "differentials": [],
+      "diff_hit": "",
+      "confidence": 0.95,
+      "status": "FUZZY",
+      "time_s": 16.5
+    },
+    {
+      "case": 94,
+      "symptoms": "Hand-foot-and-mouth disease on the hand       Open pop-up dialog box          Close    Hand-foot-and-mouth disease on the hand   Hand-foot-and-mouth d",
+      "expected": "Hand Foot And Mouth Disease",
+      "predicted": "Hand-foot-and-mouth disease",
+      "differentials": [
+        "Herpangina",
+        "Coxsackievirus infection"
+      ],
+      "diff_hit": "",
+      "confidence": 0.95,
+      "status": "EXACT",
+      "time_s": 25.9
+    },
+    {
+      "case": 95,
+      "symptoms": "Symptoms of antisocial personality disorder include repeatedly:  Ignoring right and wrong. Telling lies to take advantage of others. Not being sensiti",
+      "expected": "Antisocial Personality Disorder",
+      "predicted": "Antisocial Personality Disorder",
+      "differentials": [
+        "Conduct Disorder",
+        "Borderline Personality Disorder",
+        "Narcissistic Personality Disorder"
+      ],
+      "diff_hit": "",
+      "confidence": 0.95,
+      "status": "EXACT",
+      "time_s": 23.8
+    },
+    {
+      "case": 96,
+      "symptoms": "Male reproductive system       Open pop-up dialog box          Close    Male reproductive system   Male reproductive system The male reproductive syst",
+      "expected": "Male Hypogonadism",
+      "predicted": "Hypogonadism",
+      "differentials": [
+        "Testicular Failure",
+        "Pituitary Gland Disorder",
+        "Klinefelter Syndrome"
+      ],
+      "diff_hit": "",
+      "confidence": 0.95,
+      "status": "FUZZY",
+      "time_s": 29.1
+    },
+    {
+      "case": 97,
+      "symptoms": "Signs and symptoms of familial Mediterranean fever usually begin during childhood. They occur in bouts called attacks that last 1-3 days. Arthritic at",
+      "expected": "Familial Mediterranean Fever",
+      "predicted": "Familial Mediterranean Fever",
+      "differentials": [
+        "Inflammatory Bowel Disease",
+        "Reactive Arthritis"
+      ],
+      "diff_hit": "",
+      "confidence": 0.95,
+      "status": "EXACT",
+      "time_s": 21.8
+    },
+    {
+      "case": 98,
+      "symptoms": "Signs and symptoms of a tooth abscess include:  Severe, constant, throbbing toothache that can spread to your jawbone, neck or ear Pain or discomfort ",
+      "expected": "Tooth Abscess",
+      "predicted": "Periapical Abscess",
+      "differentials": [
+        "Periodontal Abscess",
+        "Gingival Abscess"
+      ],
+      "diff_hit": "",
+      "confidence": 0.95,
+      "status": "FUZZY",
+      "time_s": 22.1
+    },
+    {
+      "case": 99,
+      "symptoms": "Undifferentiated pleomorphic sarcoma symptoms depend on where the cancer occurs. It most often happens in the arms and legs, but it can happen anywher",
+      "expected": "Undifferentiated Pleomorphic Sarcoma",
+      "predicted": "Undifferentiated Pleomorphic Sarcoma",
+      "differentials": [
+        "Liposarcoma",
+        "Osteosarcoma",
+        "Fibrosarcoma"
+      ],
+      "diff_hit": "",
+      "confidence": 0.9,
+      "status": "EXACT",
+      "time_s": 22.9
+    },
+    {
+      "case": 100,
+      "symptoms": "A seborrheic keratosis grows gradually. Signs and symptoms might include:  A round or oval-shaped waxy or rough bump, typically on the face, chest, a ",
+      "expected": "Seborrheic Keratosis",
+      "predicted": "Seborrheic Keratosis",
+      "differentials": [
+        "Actinic Keratosis",
+        "Melanoma"
+      ],
+      "diff_hit": "",
+      "confidence": 0.95,
+      "status": "EXACT",
+      "time_s": 19.7
+    },
+    {
+      "case": 101,
+      "symptoms": "The thighbone (femur) is the strongest bone in the body. It is usually obvious when the thighbone is broken because it takes so much force to break. B",
+      "expected": "Broken Leg",
+      "predicted": "Fracture of the Tibia",
+      "differentials": [
+        "Fracture of the Fibula",
+        "Fracture of the Femur"
+      ],
+      "diff_hit": "",
+      "confidence": 0.95,
+      "status": "FUZZY",
+      "time_s": 25.5
+    },
+    {
+      "case": 102,
+      "symptoms": "The signs and symptoms of benign paroxysmal positional vertigo (BPPV) may include:  Dizziness A sense that you or your surroundings are spinning or mo",
+      "expected": "Vertigo",
+      "predicted": "Benign Paroxysmal Positional Vertigo",
+      "differentials": [
+        "Vestibular Neuritis",
+        "Meniere's Disease"
+      ],
+      "diff_hit": "",
+      "confidence": 0.95,
+      "status": "FUZZY",
+      "time_s": 18.3
+    },
+    {
+      "case": 103,
+      "symptoms": "Signs and symptoms depend on the type of dissociative disorders you have, but may include:  Memory loss (amnesia) of certain time periods, events, peo",
+      "expected": "Dissociative Disorders",
+      "predicted": "Dissociative Identity Disorder",
+      "differentials": [
+        "Dissociative Amnesia",
+        "Depersonalization-Derealization Disorder"
+      ],
+      "diff_hit": "",
+      "confidence": 0.95,
+      "status": "FUZZY",
+      "time_s": 20.7
+    },
+    {
+      "case": 104,
+      "symptoms": "An orgasm is a peak feeling of intense pleasure in response to stimulating sexual activity. Vaginal penetration during sex indirectly stimulates the c",
+      "expected": "Anorgasmia",
+      "predicted": "Anorgasmia",
+      "differentials": [
+        "Delayed Orgasm",
+        "Situational Anorgasmia",
+        "Generalized Anorgasmia"
+      ],
+      "diff_hit": "",
+      "confidence": 0.85,
+      "status": "EXACT",
+      "time_s": 19.3
+    },
+    {
+      "case": 105,
+      "symptoms": "Symptoms of an anal fissure include:  Pain during bowel movements. Pain after bowel movements that can last up to several hours. Bright red blood on t",
+      "expected": "Anal Fissure",
+      "predicted": "Anal Fissure",
+      "differentials": [
+        "Hemorrhoids",
+        "Proctitis"
+      ],
+      "diff_hit": "",
+      "confidence": 0.95,
+      "status": "EXACT",
+      "time_s": 20.2
+    },
+    {
+      "case": 106,
+      "symptoms": "Wet macular degeneration symptoms usually appear suddenly and worsen quickly. They may include:  Visual distortions, such as straight lines seeming be",
+      "expected": "Wet Macular Degeneration",
+      "predicted": "Macular Degeneration",
+      "differentials": [
+        "Diabetic Retinopathy",
+        "Age-Related Macular Degeneration (AMD)"
+      ],
+      "diff_hit": "",
+      "confidence": 0.95,
+      "status": "FUZZY",
+      "time_s": 22.1
+    },
+    {
+      "case": 107,
+      "symptoms": "chills,vomiting,fatigue,high_fever,headache,nausea,constipation,abdominal_pain,diarrhoea,toxic_look_(typhos),belly_pain",
+      "expected": "Typhoid",
+      "predicted": "Typhoid Fever",
+      "differentials": [
+        "Paratyphoid Fever",
+        "Viral Gastroenteritis",
+        "Influenza"
+      ],
+      "diff_hit": "",
+      "confidence": 0.95,
+      "status": "FUZZY",
+      "time_s": 22.7
+    },
+    {
+      "case": 108,
+      "symptoms": "Collapse and loss of consciousness are the most common symptoms of ventricular fibrillation. Before a ventricular fibrillation episode, you may have s",
+      "expected": "Ventricular Fibrillation",
+      "predicted": "Ventricular Fibrillation",
+      "differentials": [
+        "Atrial Fibrillation",
+        "Sinus Tachycardia"
+      ],
+      "diff_hit": "",
+      "confidence": 0.95,
+      "status": "EXACT",
+      "time_s": 16.3
+    },
+    {
+      "case": 109,
+      "symptoms": "Sometimes it's difficult to recognize the difference between a strong-willed or emotional child and one with oppositional defiant disorder. It's commo",
+      "expected": "Oppositional Defiant Disorder",
+      "predicted": "Oppositional Defiant Disorder",
+      "differentials": [
+        "Conduct Disorder",
+        "Attention-Deficit/Hyperactivity Disorder",
+        "Anxiety Disorders"
+      ],
+      "diff_hit": "",
+      "confidence": 0.95,
+      "status": "EXACT",
+      "time_s": 22.6
+    },
+    {
+      "case": 110,
+      "symptoms": "Signs and symptoms of cataracts include:  Clouded, blurred or dim vision Increasing difficulty with vision at night Sensitivity to light and glare Nee",
+      "expected": "Cataracts",
+      "predicted": "Cataract",
+      "differentials": [
+        "Macular Degeneration",
+        "Glaucoma"
+      ],
+      "diff_hit": "",
+      "confidence": 0.95,
+      "status": "FUZZY",
+      "time_s": 16.7
+    },
+    {
+      "case": 111,
+      "symptoms": "Nipple changes       Open pop-up dialog box          Close    Nipple changes   Nipple changes Breast and nipple changes can be a sign of breast cancer",
+      "expected": "Pagets Disease Of The Breast",
+      "predicted": "Paget's Disease of the Breast",
+      "differentials": [],
+      "diff_hit": "",
+      "confidence": 0.95,
+      "status": "EXACT",
+      "time_s": 21.9
+    },
+    {
+      "case": 112,
+      "symptoms": "Nearsightedness signs or symptoms may include:  Blurry vision when looking at distant objects The need to squint or partially close the eyelids to see",
+      "expected": "Nearsightedness",
+      "predicted": "Myopia",
+      "differentials": [],
+      "diff_hit": "",
+      "confidence": 0.95,
+      "status": "FUZZY",
+      "time_s": 13.7
+    },
+    {
+      "case": 113,
+      "symptoms": "Skin anatomy       Open pop-up dialog box          Close    Skin anatomy   Skin anatomy Your skin has three layers that house your sweat and oil gland",
+      "expected": "Burns",
+      "predicted": "Radiation Burn",
+      "differentials": [],
+      "diff_hit": "",
+      "confidence": 0.95,
+      "status": "MISS",
+      "time_s": 18.5
+    },
+    {
+      "case": 114,
+      "symptoms": "Signs and symptoms of respiratory syncytial virus infection most commonly appear about four to six days after exposure to the virus. In adults and old",
+      "expected": "Respiratory Syncytial Virus",
+      "predicted": "Respiratory Syncytial Virus Infection",
+      "differentials": [
+        "COVID-19",
+        "Influenza"
+      ],
+      "diff_hit": "",
+      "confidence": 0.9,
+      "status": "FUZZY",
+      "time_s": 20.9
+    },
+    {
+      "case": 115,
+      "symptoms": "Liposarcoma signs and symptoms vary depending on the part of the body where the cancer forms. Liposarcoma that forms in the arms and legs can cause:  ",
+      "expected": "Liposarcoma",
+      "predicted": "Liposarcoma",
+      "differentials": [
+        "Benign Lipoma",
+        "Fibrosarcoma"
+      ],
+      "diff_hit": "",
+      "confidence": 0.95,
+      "status": "EXACT",
+      "time_s": 22.2
+    },
+    {
+      "case": 116,
+      "symptoms": "The signs and symptoms of a bunion include:  A bulging bump on the outside of the base of your big toe Swelling, redness or soreness around your big t",
+      "expected": "Bunions",
+      "predicted": "Hallux Valgus",
+      "differentials": [
+        "Bunion Exostosis",
+        "Gout"
+      ],
+      "diff_hit": "",
+      "confidence": 0.95,
+      "status": "FUZZY",
+      "time_s": 21.1
+    },
+    {
+      "case": 117,
+      "symptoms": "Types of personality disorders are grouped into three clusters, based on similar characteristics and symptoms. Many people with one personality disord",
+      "expected": "Personality Disorders",
+      "predicted": "Avoidant Personality Disorder",
+      "differentials": [
+        "Dependent Personality Disorder",
+        "Generalized Anxiety Disorder"
+      ],
+      "diff_hit": "",
+      "confidence": 0.9,
+      "status": "FUZZY",
+      "time_s": 20.6
+    },
+    {
+      "case": 118,
+      "symptoms": "Because epilepsy is caused by abnormal activity in the brain, seizures can affect any process your brain coordinates. Seizure signs and symptoms may i",
+      "expected": "Epilepsy",
+      "predicted": "Epilepsy",
+      "differentials": [
+        "Migraine",
+        "Narcolepsy",
+        "Psychiatric Disorder"
+      ],
+      "diff_hit": "",
+      "confidence": 0.95,
+      "status": "EXACT",
+      "time_s": 28.2
+    },
+    {
+      "case": 119,
+      "symptoms": "Signs and symptoms of Ewing sarcoma include:  Pain, swelling or tenderness near the affected area Bone pain Unexplained tiredness Fever with no known ",
+      "expected": "Ewing Sarcoma",
+      "predicted": "Ewing Sarcoma",
+      "differentials": [
+        "Osteosarcoma",
+        "Osteomyelitis"
+      ],
+      "diff_hit": "",
+      "confidence": 0.95,
+      "status": "EXACT",
+      "time_s": 18.7
+    },
+    {
+      "case": 120,
+      "symptoms": "Signs and symptoms of transverse myelitis usually develop over a few hours to a few days and may sometimes progress gradually over several weeks. Tran",
+      "expected": "Transverse Myelitis",
+      "predicted": "Transverse Myelitis",
+      "differentials": [
+        "Spinal Cord Compression",
+        "Multiple Sclerosis"
+      ],
+      "diff_hit": "",
+      "confidence": 0.95,
+      "status": "EXACT",
+      "time_s": 21.3
+    },
+    {
+      "case": 121,
+      "symptoms": "Male-pattern baldness       Open pop-up dialog box          Close    Male-pattern baldness   Male-pattern baldness Male-pattern baldness typically app",
+      "expected": "Hair Loss",
+      "predicted": "",
+      "differentials": [],
+      "diff_hit": "",
+      "confidence": 0.0,
+      "status": "FUZZY",
+      "time_s": 35.2
+    },
+    {
+      "case": 122,
+      "symptoms": "A hemangioma may be present at birth, but more often appears during the first several months of life. It starts as a flat red mark anywhere on the bod",
+      "expected": "Hemangioma",
+      "predicted": "Hemangioma",
+      "differentials": [],
+      "diff_hit": "",
+      "confidence": 0.95,
+      "status": "EXACT",
+      "time_s": 12.9
+    },
+    {
+      "case": 123,
+      "symptoms": "People with high platelet levels often don't have signs or symptoms. When symptoms occur, they're often related to blood clots. Examples include:  Hea",
+      "expected": "Thrombocytosis",
+      "predicted": "Thrombocytosis",
+      "differentials": [
+        "Essential Thrombocythemia",
+        "Reactive Thrombocytosis",
+        "Myelofibrosis"
+      ],
+      "diff_hit": "",
+      "confidence": 0.95,
+      "status": "EXACT",
+      "time_s": 22.9
+    },
+    {
+      "case": 124,
+      "symptoms": "Salivary glands       Open pop-up dialog box          Close    Salivary glands   Salivary glands There are three pairs of major salivary glands \u2014 paro",
+      "expected": "Sjogrens Syndrome",
+      "predicted": "Sjogren's Syndrome",
+      "differentials": [],
+      "diff_hit": "",
+      "confidence": 0.95,
+      "status": "EXACT",
+      "time_s": 22.9
+    },
+    {
+      "case": 125,
+      "symptoms": "If you have pubic lice (crabs), you may experience intense itching in your genital region. Pubic lice can spread to other areas with coarse body hair,",
+      "expected": "Pubic Lice Crabs",
+      "predicted": "Pediculosis Pubis",
+      "differentials": [
+        "Scabies",
+        "Allergic Reaction"
+      ],
+      "diff_hit": "",
+      "confidence": 0.95,
+      "status": "FUZZY",
+      "time_s": 18.1
+    },
+    {
+      "case": 126,
+      "symptoms": "Angelman syndrome signs and symptoms include:  Developmental delays, including no crawling or babbling at 6 to 12 months Intellectual disability No sp",
+      "expected": "Angelman Syndrome",
+      "predicted": "Angelman Syndrome",
+      "differentials": [],
+      "diff_hit": "",
+      "confidence": 0.99,
+      "status": "EXACT",
+      "time_s": 22.4
+    },
+    {
+      "case": 127,
+      "symptoms": "Signs and symptoms of mitral valve prolapse are due to the amount of blood leaking backward through the valve. Mitral valve prolapse symptoms can vary",
+      "expected": "Mitral Valve Prolapse",
+      "predicted": "Mitral Valve Prolapse",
+      "differentials": [],
+      "diff_hit": "",
+      "confidence": 0.95,
+      "status": "EXACT",
+      "time_s": 12.4
+    },
+    {
+      "case": 128,
+      "symptoms": "Early-stage Chlamydia trachomatis infections often cause few or no signs and symptoms. Even when signs and symptoms occur, they're often mild, making ",
+      "expected": "Chlamydia",
+      "predicted": "Chlamydia trachomatis",
+      "differentials": [],
+      "diff_hit": "",
+      "confidence": 0.95,
+      "status": "FUZZY",
+      "time_s": 19.8
+    },
+    {
+      "case": 129,
+      "symptoms": "Tricuspid atresia symptoms are usually seen soon after birth. Symptoms of tricuspid atresia may include:  Blue or gray skin and lips due to low blood ",
+      "expected": "Tricuspid Atresia",
+      "predicted": "Tricuspid Atresia",
+      "differentials": [],
+      "diff_hit": "",
+      "confidence": 0.99,
+      "status": "EXACT",
+      "time_s": 16.7
+    },
+    {
+      "case": 130,
+      "symptoms": "Postpartum preeclampsia can be difficult to detect on your own. Many women who experience postpartum preeclampsia show no signs or symptoms during pre",
+      "expected": "Postpartum Preeclampsia",
+      "predicted": "Postpartum Preeclampsia",
+      "differentials": [],
+      "diff_hit": "",
+      "confidence": 0.95,
+      "status": "EXACT",
+      "time_s": 23.2
+    },
+    {
+      "case": 131,
+      "symptoms": "Type 2 diabetes in children may develop so gradually that there are no noticeable symptoms. Sometimes, the disorder is diagnosed during a routine chec",
+      "expected": "Type 2 Diabetes In Children",
+      "predicted": "Type 2 Diabetes Mellitus",
+      "differentials": [
+        "Type 1 Diabetes Mellitus",
+        "Gestational Diabetes Mellitus",
+        "Insulin Resistance"
+      ],
+      "diff_hit": "",
+      "confidence": 0.95,
+      "status": "FUZZY",
+      "time_s": 33.7
+    },
+    {
+      "case": 132,
+      "symptoms": "Serious congenital heart defects usually are noticed soon after birth or during the first few months of life. Signs and symptoms could include:  Pale ",
+      "expected": "Congenital Heart Defects Children",
+      "predicted": "Congenital Heart Disease",
+      "differentials": [
+        "Tetralogy of Fallot",
+        "Transposition of the Great Arteries",
+        "Atrial Septal Defect"
+      ],
+      "diff_hit": "",
+      "confidence": 0.9,
+      "status": "FUZZY",
+      "time_s": 19.1
+    },
+    {
+      "case": 133,
+      "symptoms": "Signs and symptoms of throat cancer may include:  A cough Changes in your voice, such as hoarseness or not speaking clearly Difficulty swallowing Ear ",
+      "expected": "Throat Cancer",
+      "predicted": "Laryngeal Cancer",
+      "differentials": [
+        "Pharyngeal Cancer",
+        "Thyroid Cancer"
+      ],
+      "diff_hit": "",
+      "confidence": 0.9,
+      "status": "FUZZY",
+      "time_s": 16.7
+    },
+    {
+      "case": 134,
+      "symptoms": "Initially, iron deficiency anemia can be so mild that it goes unnoticed. But as the body becomes more deficient in iron and anemia worsens, the signs ",
+      "expected": "Iron Deficiency Anemia",
+      "predicted": "Iron Deficiency Anemia",
+      "differentials": [],
+      "diff_hit": "",
+      "confidence": 0.99,
+      "status": "EXACT",
+      "time_s": 24.0
+    },
+    {
+      "case": 135,
+      "symptoms": "Signs and symptoms of corticobasal degeneration (corticobasal syndrome) include:  Difficulty moving on one or both sides of the body, which gets worse",
+      "expected": "Corticobasal Degeneration",
+      "predicted": "Corticobasal Degeneration",
+      "differentials": [],
+      "diff_hit": "",
+      "confidence": 0.99,
+      "status": "EXACT",
+      "time_s": 20.5
+    },
+    {
+      "case": 136,
+      "symptoms": "Aortic dissection symptoms may be similar to those of other heart problems, such as a heart attack. Typical signs and symptoms include:  Sudden severe",
+      "expected": "Aortic Dissection",
+      "predicted": "Aortic Dissection",
+      "differentials": [
+        "Myocardial Infarction",
+        "Stroke",
+        "Pericarditis"
+      ],
+      "diff_hit": "",
+      "confidence": 0.95,
+      "status": "EXACT",
+      "time_s": 33.3
+    },
+    {
+      "case": 137,
+      "symptoms": "Some people with hemochromatosis never have symptoms. Early symptoms often overlap with those of other common conditions. Symptoms may include:  Joint",
+      "expected": "Hemochromatosis",
+      "predicted": "Hemochromatosis",
+      "differentials": [],
+      "diff_hit": "",
+      "confidence": 0.95,
+      "status": "EXACT",
+      "time_s": 22.7
+    },
+    {
+      "case": 138,
+      "symptoms": "The most common symptom of pneumonitis is shortness of breath, which may be accompanied by a dry cough. If pneumonitis is undetected or left untreated",
+      "expected": "Pneumonitis",
+      "predicted": "Pneumonitis",
+      "differentials": [],
+      "diff_hit": "",
+      "confidence": 0.95,
+      "status": "EXACT",
+      "time_s": 14.6
+    },
+    {
+      "case": 139,
+      "symptoms": "Hives The welts associated with hives can be:  Skin-colored, reddish on white skin, or purplish on black and brown skin Itchy, ranging from mild to in",
+      "expected": "Hives And Angioedema",
+      "predicted": "Urticaria",
+      "differentials": [
+        "Angioedema",
+        "Allergic Reaction"
+      ],
+      "diff_hit": "",
+      "confidence": 0.9,
+      "status": "FUZZY",
+      "time_s": 19.9
+    },
+    {
+      "case": 140,
+      "symptoms": "Signs and symptoms of functional neurologic disorder may vary, depending on the type of functional neurological symptoms, and they're significant enou",
+      "expected": "Conversion Disorder",
+      "predicted": "Functional Neurological Disorder",
+      "differentials": [
+        "Conversion Disorder",
+        "Migraine",
+        "Multiple Sclerosis"
+      ],
+      "diff_hit": "",
+      "confidence": 0.95,
+      "status": "FUZZY",
+      "time_s": 28.0
+    },
+    {
+      "case": 141,
+      "symptoms": "The brain, like the rest of the body, changes with age. Many people notice they become more forgetful as they age. It may take longer to think of a wo",
+      "expected": "Mild Cognitive Impairment",
+      "predicted": "Mild Cognitive Impairment",
+      "differentials": [
+        "Alzheimer's Disease",
+        "Vascular Dementia",
+        "Depression"
+      ],
+      "diff_hit": "",
+      "confidence": 0.85,
+      "status": "EXACT",
+      "time_s": 21.7
+    },
+    {
+      "case": 142,
+      "symptoms": "Mild small bowel prolapse may produce no signs or symptoms. However, if you have significant prolapse, you might experience:  A pulling sensation in y",
+      "expected": "Enterocele",
+      "predicted": "Small Bowel Prolapse",
+      "differentials": [],
+      "diff_hit": "",
+      "confidence": 0.95,
+      "status": "FUZZY",
+      "time_s": 17.7
+    },
+    {
+      "case": 143,
+      "symptoms": "Traveler's diarrhea may begin abruptly during your trip or shortly after you return home. Most people improve within 1 to 2 days without treatment and",
+      "expected": "Travelers Diarrhea",
+      "predicted": "Traveler's Diarrhea",
+      "differentials": [
+        "Infectious Colitis",
+        "Food Poisoning",
+        "Irritable Bowel Syndrome (IBS)"
+      ],
+      "diff_hit": "",
+      "confidence": 0.95,
+      "status": "EXACT",
+      "time_s": 29.6
+    },
+    {
+      "case": 144,
+      "symptoms": "The symptoms of cyclic vomiting syndrome often begin in the morning. Signs and symptoms include:  Three or more recurrent episodes of vomiting that st",
+      "expected": "Cyclic Vomiting Syndrome",
+      "predicted": "Cyclic Vomiting Syndrome",
+      "differentials": [
+        "Migraine",
+        "Gastroparesis"
+      ],
+      "diff_hit": "",
+      "confidence": 0.95,
+      "status": "EXACT",
+      "time_s": 20.3
+    },
+    {
+      "case": 145,
+      "symptoms": "Scleroderma's signs and symptoms vary from person to person, depending on which parts of the body are affected. Skin-related signs and symptoms Nearly",
+      "expected": "Scleroderma",
+      "predicted": "Scleroderma",
+      "differentials": [
+        "Systemic Lupus Erythematosus",
+        "Mixed Connective Tissue Disease"
+      ],
+      "diff_hit": "",
+      "confidence": 0.95,
+      "status": "EXACT",
+      "time_s": 21.4
+    },
+    {
+      "case": 146,
+      "symptoms": "vomiting,yellowish_skin,abdominal_pain,swelling_of_stomach,distention_of_abdomen,history_of_alcohol_consumption,fluid_overload",
+      "expected": "Alcoholic Hepatitis",
+      "predicted": "Ascites",
+      "differentials": [
+        "Cirrhosis",
+        "Heart Failure",
+        "Nephrotic Syndrome"
+      ],
+      "diff_hit": "",
+      "confidence": 0.95,
+      "status": "FUZZY",
+      "time_s": 27.0
+    },
+    {
+      "case": 147,
+      "symptoms": "Inflammation sites       Open pop-up dialog box          Close    Inflammation sites   Inflammation sites Inflammation often affects these sites in pe",
+      "expected": "Reactive Arthritis",
+      "predicted": "Reactive Arthritis",
+      "differentials": [
+        "Arthritis",
+        "Septic Arthritis",
+        "Psoriatic Arthritis"
+      ],
+      "diff_hit": "",
+      "confidence": 0.95,
+      "status": "EXACT",
+      "time_s": 32.3
+    },
+    {
+      "case": 148,
+      "symptoms": "The signs and symptoms of a concussion can be subtle and may not show up immediately. Symptoms can last for days, weeks or even longer. Common symptom",
+      "expected": "Concussion",
+      "predicted": "Concussion",
+      "differentials": [
+        "Post-Concussion Syndrome",
+        "Post-Traumatic Headache"
+      ],
+      "diff_hit": "",
+      "confidence": 0.95,
+      "status": "EXACT",
+      "time_s": 19.5
+    },
+    {
+      "case": 149,
+      "symptoms": "Ameloblastoma often causes no symptoms, but signs and symptoms may include pain and a lump or swelling in the jaw. If left untreated, the tumor can gr",
+      "expected": "Ameloblastoma",
+      "predicted": "Ameloblastoma",
+      "differentials": [
+        "Odontogenic Keratocyst",
+        "Incisor Malocclusion"
+      ],
+      "diff_hit": "",
+      "confidence": 0.9,
+      "status": "EXACT",
+      "time_s": 15.5
+    },
+    {
+      "case": 150,
+      "symptoms": "Most small hiatal hernias cause no signs or symptoms. But larger hiatal hernias can cause:  Heartburn Regurgitation of food or liquids into the mouth ",
+      "expected": "Hiatal Hernia",
+      "predicted": "Hiatal Hernia",
+      "differentials": [],
+      "diff_hit": "",
+      "confidence": 0.95,
+      "status": "EXACT",
+      "time_s": 16.1
+    }
+  ]
+}

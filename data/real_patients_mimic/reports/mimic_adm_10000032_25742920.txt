@@ -1,0 +1,36 @@
+Laboratory Report - MIMIC-IV Demo (De-identified)
+Patient ID: 10000032 | Admission: 25742920 | Age: 52 | Gender: F
+Source: Beth Israel Deaconess Medical Center (de-identified)
+
+Laboratory Results
+--------------------------------------------------
+White Blood Cells: 7.5 K/uL (Ref: 4-11)
+MCV: 103 fL (Ref: 82-98) [abnormal]
+Hematocrit: 34.6 % (Ref: 36-48) [abnormal]
+Hemoglobin: 12.1 g/dL (Ref: 12-16)
+MCH: 35.9 pg (Ref: 27-32) [abnormal]
+RDW: 16.0 % (Ref: 10.5-15.5) [abnormal]
+Red Blood Cells: 3.36 m/uL (Ref: 4.2-5.4) [abnormal]
+Platelet Count: 133 K/uL (Ref: 150-440) [abnormal]
+MCHC: 34.8 % (Ref: 31-35)
+INR(PT): 1.5  (Ref: 0.9-1.1) [abnormal]
+PTT: 32.5 sec (Ref: 25-36.5)
+PT: 15.8 sec (Ref: 9.4-12.5) [abnormal]
+Calcium, Total: 8.6 mg/dL (Ref: 8.4-10.3)
+Alanine Aminotransferase (ALT): 132 IU/L (Ref: 0-40) [abnormal]
+Creatinine: 0.6 mg/dL (Ref: 0.4-1.1)
+Albumin: 3.5 g/dL (Ref: 3.5-5.2)
+Urea Nitrogen: 37 mg/dL (Ref: 6-20) [abnormal]
+Bilirubin, Total: 1.6 mg/dL (Ref: 0-1.5) [abnormal]
+Asparate Aminotransferase (AST): 221 IU/L (Ref: 0-40) [abnormal]
+Bicarbonate: 26 mEq/L (Ref: 22-32)
+Magnesium: 2.4 mg/dL (Ref: 1.6-2.6)
+Chloride: 95 mEq/L (Ref: 96-108) [abnormal]
+Alkaline Phosphatase: 112 IU/L (Ref: 35-105) [abnormal]
+Glucose: ___ mg/dL (Ref: 70-100)
+Anion Gap: 11 mEq/L (Ref: 8-20)
+Phosphate: 3.9 mg/dL (Ref: 2.7-4.5)
+Sodium: 126 mEq/L (Ref: 133-145) [abnormal]
+Potassium: ___ mEq/L (Ref: 3.3-5.1) [abnormal]
+
+Discharge diagnoses (ICD): 3051, 78791, V08, 2767, 07054

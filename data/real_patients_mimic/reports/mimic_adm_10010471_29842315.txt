@@ -1,0 +1,57 @@
+Laboratory Report - MIMIC-IV Demo (De-identified)
+Patient ID: 10010471 | Admission: 29842315 | Age: 89 | Gender: F
+Source: Beth Israel Deaconess Medical Center (de-identified)
+
+Laboratory Results
+--------------------------------------------------
+H: 14
+I: 1
+Troponin T: ___ ng/mL (Ref: 0-0.01) [abnormal]
+L: 10
+Creatine Kinase, MB Isoenzyme: 560 ng/mL (Ref: 0-10) [abnormal]
+CK-MB Index: 18.5 % (Ref: 0-6) [abnormal]
+Creatine Kinase (CK): ___ IU/L (Ref: 29-201) [abnormal]
+PTT: 60.1 sec (Ref: 25-36.5) [abnormal]
+Thyroxine (T4): 5.2 ug/dL (Ref: 4.6-12)
+Thyroid Stimulating Hormone: 6.6 uIU/mL (Ref: 0.27-4.2) [abnormal]
+Specimen Type: VEN.
+Lactate: ___ mmol/L (Ref: 0.5-2) [abnormal]
+Anion Gap: 23 mEq/L (Ref: 8-20) [abnormal]
+Potassium: ___ mEq/L (Ref: 3.3-5.1) [abnormal]
+HPE7: 0.041
+Hepatitis B Virus Core Antibody:
+HPE3: 2.00
+Hepatitis B Surface Antibody:
+HPE2: 11.18
+Hepatitis B Surface Antigen:
+Hepatitis C Virus Antibody:
+HPE1: 0.429
+MCHC: 30.2 g/dL (Ref: 32-37) [abnormal]
+RDW-SD: 54.8 fL (Ref: 35.1-46.3) [abnormal]
+MCH: 31.9 pg (Ref: 26-32)
+Red Blood Cells: 3.54 m/uL (Ref: 3.9-5.2) [abnormal]
+Platelet Count: 141 K/uL (Ref: 150-400) [abnormal]
+MCV: 106 fL (Ref: 82-98) [abnormal]
+White Blood Cells: 13.0 K/uL (Ref: 4-10) [abnormal]
+Hemoglobin: 11.3 g/dL (Ref: 11.2-15.7)
+Hematocrit: 37.4 % (Ref: 34-45)
+RDW: 14.0 % (Ref: 10.5-15.5)
+PT: 11.9 sec (Ref: 9.4-12.5)
+INR(PT): 1.1  (Ref: 0.9-1.1)
+Bicarbonate: 26 mEq/L (Ref: 22-32)
+Magnesium: 2.4 mg/dL (Ref: 1.6-2.6)
+Sodium: 137 mEq/L (Ref: 133-145)
+Creatinine: 7.2 mg/dL (Ref: 0.4-1.1) [abnormal]
+Calcium, Total: 8.5 mg/dL (Ref: 8.4-10.3)
+Phosphate: 7.1 mg/dL (Ref: 2.7-4.5) [abnormal]
+Bilirubin, Total: 0.4 mg/dL (Ref: 0-1.5)
+Urea Nitrogen: 55 mg/dL (Ref: 6-20) [abnormal]
+Glucose: ___ mg/dL (Ref: 70-100) [abnormal]
+Alanine Aminotransferase (ALT): 76 IU/L (Ref: 0-40) [abnormal]
+Alkaline Phosphatase: 75 IU/L (Ref: 35-105)
+Asparate Aminotransferase (AST): 352 IU/L (Ref: 0-40) [abnormal]
+Chloride: 94 mEq/L (Ref: 96-108) [abnormal]
+Oxygen Saturation: 55 %
+Vancomycin: 13.2 ug/mL (Ref: 10-20)
+
+Discharge diagnoses (ICD): Z87891, I214, Z9981, J449, R7881

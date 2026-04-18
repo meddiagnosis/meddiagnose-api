@@ -1,0 +1,40 @@
+Laboratory Report - MIMIC-IV Demo (De-identified)
+Patient ID: 10007795 | Admission: 27962747 | Age: 53 | Gender: F
+Source: Beth Israel Deaconess Medical Center (de-identified)
+
+Laboratory Results
+--------------------------------------------------
+MCV: 83 fL (Ref: 82-98)
+White Blood Cells: 14.1 K/uL (Ref: 4-11) [abnormal]
+Platelet Count: 333 K/uL (Ref: 150-440)
+Hematocrit: 36.9 % (Ref: 36-48)
+MCHC: 33.7 % (Ref: 31-35)
+MCH: 28.1 pg (Ref: 27-32)
+RDW: 16.3 % (Ref: 10.5-15.5) [abnormal]
+Red Blood Cells: 4.43 m/uL (Ref: 4.2-5.4)
+Hemoglobin: 12.4 g/dL (Ref: 12-16)
+Alanine Aminotransferase (ALT): 15 IU/L (Ref: 0-40)
+Albumin: 4.0 g/dL (Ref: 3.5-5.2)
+Lipase: 14 IU/L (Ref: 0-60)
+Magnesium: 1.6 mg/dL (Ref: 1.6-2.6)
+Asparate Aminotransferase (AST): 19 IU/L (Ref: 0-40)
+Chloride: 103 mEq/L (Ref: 96-108)
+Glucose: ___ mg/dL (Ref: 70-100) [abnormal]
+Potassium: 3.8 mEq/L (Ref: 3.3-5.1)
+Phosphate: 3.0 mg/dL (Ref: 2.7-4.5)
+Urea Nitrogen: 7 mg/dL (Ref: 6-20)
+Anion Gap: 16 mEq/L (Ref: 8-20)
+Sodium: 138 mEq/L (Ref: 133-145)
+Bicarbonate: 23 mEq/L (Ref: 22-32)
+Alkaline Phosphatase: 111 IU/L (Ref: 35-105) [abnormal]
+Calcium, Total: 9.6 mg/dL (Ref: 8.4-10.3)
+Creatinine: 0.4 mg/dL (Ref: 0.4-1.1)
+Bilirubin, Total: 0.2 mg/dL (Ref: 0-1.5)
+Estimated GFR (MDRD equation):
+Basophils: 0.6 % (Ref: 0-2)
+Neutrophils: 74.6 % (Ref: 50-70) [abnormal]
+Lymphocytes: 15.2 % (Ref: 18-42) [abnormal]
+Monocytes: 7.2 % (Ref: 2-11)
+Eosinophils: 2.4 % (Ref: 0-4)
+
+Discharge diagnoses (ICD): V851, 3051, 2720, 78321, V103

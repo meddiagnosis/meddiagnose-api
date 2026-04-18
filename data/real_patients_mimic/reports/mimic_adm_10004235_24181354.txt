@@ -1,0 +1,103 @@
+Laboratory Report - MIMIC-IV Demo (De-identified)
+Patient ID: 10004235 | Admission: 24181354 | Age: 47 | Gender: M
+Source: Beth Israel Deaconess Medical Center (de-identified)
+
+Laboratory Results
+--------------------------------------------------
+MCV: 87 fL (Ref: 82-98)
+MCH: 28.3 pg (Ref: 27-32)
+Red Blood Cells: 4.19 m/uL (Ref: 4.6-6.2) [abnormal]
+Hematocrit: 36.2 % (Ref: 40-52) [abnormal]
+Hemoglobin: 11.9 g/dL (Ref: 14-18) [abnormal]
+White Blood Cells: 21.6 K/uL (Ref: 4-11) [abnormal]
+RDW: 16.7 % (Ref: 10.5-15.5) [abnormal]
+MCHC: 32.8 % (Ref: 31-35)
+PTT: 33.6 sec (Ref: 25-36.5)
+PT: 14.2 sec (Ref: 9.4-12.5) [abnormal]
+INR(PT): 1.3  (Ref: 0.9-1.1) [abnormal]
+Calcium, Total: 6.8 mg/dL (Ref: 8.4-10.3) [abnormal]
+Glucose: ___ mg/dL (Ref: 70-100) [abnormal]
+Creatinine: 7.9 mg/dL (Ref: 0.5-1.2) [abnormal]
+Urea Nitrogen: 87 mg/dL (Ref: 6-20) [abnormal]
+Magnesium: 2.3 mg/dL (Ref: 1.6-2.6)
+Phosphate: 8.7 mg/dL (Ref: 2.7-4.5) [abnormal]
+Macrocytes:
+Polychromasia:
+Eosinophils: 0 % (Ref: 0-4)
+Myelocytes: 0 % (Ref: 0-0)
+Bands: 4 % (Ref: 0-5)
+Neutrophils: 86 % (Ref: 50-70) [abnormal]
+Platelet Smear:
+Atypical Lymphocytes: 0 % (Ref: 0-0)
+Anisocytosis:
+Poikilocytosis:
+Microcytes:
+Lymphocytes: 7 % (Ref: 18-42) [abnormal]
+Basophils: 0 % (Ref: 0-2)
+Hypochromia:
+Monocytes: 2 % (Ref: 2-11)
+Metamyelocytes: 1 % (Ref: 0-0) [abnormal]
+Platelet Count: ___ K/uL (Ref: 150-440) [abnormal]
+Anion Gap: 26 mEq/L (Ref: 8-20) [abnormal]
+Bicarbonate: ___ mEq/L (Ref: 22-32) [abnormal]
+Potassium: 4.3 mEq/L (Ref: 3.3-5.1)
+Sodium: ___ mEq/L (Ref: 133-145) [abnormal]
+Chloride: 96 mEq/L (Ref: 96-108)
+Lactate Dehydrogenase (LD): 486 IU/L (Ref: 94-250) [abnormal]
+Haptoglobin: 279 mg/dL (Ref: 30-200) [abnormal]
+Bilirubin, Direct: 4.8 mg/dL (Ref: 0-0.3) [abnormal]
+Specimen Type: ART.
+Calculated Total CO2: 15 mEq/L (Ref: 21-30) [abnormal]
+Base Excess: -13 mEq/L
+pO2: 98 mm Hg (Ref: 85-105)
+pCO2: 39 mm Hg (Ref: 35-45)
+pH: ___ units (Ref: 7.35-7.45) [abnormal]
+Oxygen Saturation: 56 %
+Lactate: 3.1 mmol/L (Ref: 0.5-2) [abnormal]
+Oxygen: 90 %
+Tidal Volume: 550
+Ventilator: CONTROLLED.
+Temperature: 37.3
+Ventilation Rate: 24/.
+Intubated: INTUBATED.
+PEEP: 8
+Required O2: 73
+Alveolar-arterial Gradient: 413 mm Hg
+Assist/Control:
+Free Calcium: ___ mmol/L (Ref: 1.12-1.32) [abnormal]
+Inpatient Hematology/Oncology Smear:
+Bilirubin, Indirect: 0.5 mg/dL
+Asparate Aminotransferase (AST): 218 IU/L (Ref: 0-40) [abnormal]
+Alanine Aminotransferase (ALT): 135 IU/L (Ref: 0-40) [abnormal]
+Alkaline Phosphatase: 157 IU/L (Ref: 40-130) [abnormal]
+Bilirubin, Total: 6.5 mg/dL (Ref: 0-1.5) [abnormal]
+Creatine Kinase (CK): ___ IU/L (Ref: 47-322) [abnormal]
+Fibrinogen, Functional: ___ mg/dL (Ref: 180-400) [abnormal]
+Vancomycin: 10.0 ug/mL (Ref: 10-20)
+Uric Acid: 17.7 mg/dL (Ref: 3.4-7) [abnormal]
+Blue Top Hold: HOLD.  DISCARD GREATER THAN 24 HRS OLD.
+Red Top Hold:
+EDTA Hold:
+Albumin: 2.6 g/dL (Ref: 3.5-5.2) [abnormal]
+Protein: 30 mg/dL
+Specific Gravity: 1.011   (Ref: 1.001-1.035)
+Urine Appearance:
+WBC: 21 #/hpf (Ref: 0-5) [abnormal]
+pH: 5.5 units (Ref: 5-8)
+Urobilinogen:  mg/dL (Ref: 0.2-1)
+Bilirubin:  mg/dL
+Leukocytes:
+Urine Color:
+Bacteria:
+Urine Mucous:
+Epithelial Cells: 0 #/hpf
+Blood:
+Glucose:  mg/dL
+RBC: 8 #/hpf (Ref: 0-2) [abnormal]
+Nitrite:
+Granular Casts: 6 #/lpf (Ref: 0-0) [abnormal]
+Ketone:  mg/dL
+Yeast: NONE
+Estimated GFR (MDRD equation):
+
+Discharge diagnoses (ICD): 42731, 51881, 75169, 4254, 2749

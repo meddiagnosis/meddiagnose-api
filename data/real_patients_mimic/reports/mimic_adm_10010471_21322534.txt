@@ -1,0 +1,41 @@
+Laboratory Report - MIMIC-IV Demo (De-identified)
+Patient ID: 10010471 | Admission: 21322534 | Age: 89 | Gender: F
+Source: Beth Israel Deaconess Medical Center (de-identified)
+
+Laboratory Results
+--------------------------------------------------
+Thyroxine (T4): 4.7 ug/dL (Ref: 4.6-12)
+Thyroid Stimulating Hormone: 4.7 uIU/mL (Ref: 0.27-4.2) [abnormal]
+Creatine Kinase (CK): ___ IU/L (Ref: 29-201)
+Creatine Kinase, MB Isoenzyme: 12 ng/mL (Ref: 0-10) [abnormal]
+CK-MB Index: 11.5 % (Ref: 0-6) [abnormal]
+I: 0
+H: 11
+Troponin T: ___ ng/mL (Ref: 0-0.01) [abnormal]
+Potassium: 4.9 mEq/L (Ref: 3.3-5.1)
+L: 7
+PTT: 70.9 sec (Ref: 25-36.5) [abnormal]
+Platelet Count: 150 K/uL (Ref: 150-400)
+MCHC: 29.7 g/dL (Ref: 32-37) [abnormal]
+Red Blood Cells: 3.03 m/uL (Ref: 3.9-5.2) [abnormal]
+Hematocrit: 32.7 % (Ref: 34-45) [abnormal]
+Hemoglobin: 9.7 g/dL (Ref: 11.2-15.7) [abnormal]
+MCV: 108 fL (Ref: 82-98) [abnormal]
+MCH: 32.0 pg (Ref: 26-32)
+White Blood Cells: 8.5 K/uL (Ref: 4-10)
+RDW-SD: 53.0 fL (Ref: 35.1-46.3) [abnormal]
+RDW: 13.4 % (Ref: 10.5-15.5)
+Phosphate: 6.0 mg/dL (Ref: 2.7-4.5) [abnormal]
+Calcium, Total: 8.6 mg/dL (Ref: 8.4-10.3)
+Bicarbonate: 28 mEq/L (Ref: 22-32)
+Magnesium: 2.3 mg/dL (Ref: 1.6-2.6)
+Glucose: ___ mg/dL (Ref: 70-100) [abnormal]
+Urea Nitrogen: 58 mg/dL (Ref: 6-20) [abnormal]
+Creatinine: 7.9 mg/dL (Ref: 0.4-1.1) [abnormal]
+Sodium: 139 mEq/L (Ref: 133-145)
+Chloride: 96 mEq/L (Ref: 96-108)
+Anion Gap: 20 mEq/L (Ref: 8-20)
+PT: 12.2 sec (Ref: 9.4-12.5)
+INR(PT): 1.1  (Ref: 0.9-1.1)
+
+Discharge diagnoses (ICD): Z7682, N186, E039, D631, J449

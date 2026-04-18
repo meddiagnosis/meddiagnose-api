@@ -1,0 +1,10 @@
+{
+  "num_batches": 2,
+  "patients_per_batch": 3,
+  "total_patients": 6,
+  "upload_time_sec": 0.18,
+  "processing_time_sec": 601.93,
+  "total_time_sec": 602.12,
+  "batches_completed": 0,
+  "throughput_patients_per_min": 0.6
+}

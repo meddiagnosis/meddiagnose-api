@@ -1,0 +1,52 @@
+Laboratory Report - MIMIC-IV Demo (De-identified)
+Patient ID: 10016810 | Admission: 20973395 | Age: 66 | Gender: F
+Source: Beth Israel Deaconess Medical Center (de-identified)
+
+Laboratory Results
+--------------------------------------------------
+Light Green Top Hold: ___
+Neutrophils: 90.9 % (Ref: 50-70) [abnormal]
+RDW: 13.6 % (Ref: 10.5-15.5)
+Hemoglobin: 12.5 g/dL (Ref: 12-16)
+Eosinophils: 0.8 % (Ref: 0-4)
+Hematocrit: 35.3 % (Ref: 36-48) [abnormal]
+MCH: 32.8 pg (Ref: 27-32) [abnormal]
+White Blood Cells: 18.5 K/uL (Ref: 4-11) [abnormal]
+Basophils: 0.1 % (Ref: 0-2)
+Monocytes: 2.6 % (Ref: 2-11)
+Platelet Count: 221 K/uL (Ref: 150-440)
+Red Blood Cells: 3.82 m/uL (Ref: 4.2-5.4) [abnormal]
+MCV: 92 fL (Ref: 82-98)
+MCHC: 35.5 % (Ref: 31-35) [abnormal]
+Lymphocytes: 5.6 % (Ref: 18-42) [abnormal]
+INR(PT): 1.4  (Ref: 0.9-1.1) [abnormal]
+PT: 14.9 sec (Ref: 9.4-12.5) [abnormal]
+PTT: 27.1 sec (Ref: 25-36.5)
+Urea Nitrogen: 19 mg/dL (Ref: 6-20)
+Creatinine: 0.7 mg/dL (Ref: 0.4-1.1)
+Glucose: ___ mg/dL (Ref: 70-100) [abnormal]
+Calcium, Total: 8.1 mg/dL (Ref: 8.4-10.3) [abnormal]
+Phosphate: 1.9 mg/dL (Ref: 2.7-4.5) [abnormal]
+Sodium: 133 mEq/L (Ref: 133-145)
+Potassium: 3.0 mEq/L (Ref: 3.3-5.1) [abnormal]
+Bicarbonate: 25 mEq/L (Ref: 22-32)
+Magnesium: 1.9 mg/dL (Ref: 1.6-2.6)
+Estimated GFR (MDRD equation):
+Chloride: 98 mEq/L (Ref: 96-108)
+Anion Gap: 13 mEq/L (Ref: 8-20)
+Lactate: ___ mmol/L (Ref: 0.5-2)
+Alkaline Phosphatase: 93 IU/L (Ref: 35-105)
+Alanine Aminotransferase (ALT): 16 IU/L (Ref: 0-40)
+Asparate Aminotransferase (AST): 18 IU/L (Ref: 0-40)
+Bilirubin, Total: 0.7 mg/dL (Ref: 0-1.5)
+Carcinoembyronic Antigen (CEA): ___ ng/mL (Ref: 0-4)
+Albumin: 2.9 g/dL (Ref: 3.5-5.2) [abnormal]
+Specimen Type: ART.
+pCO2: 40 mm Hg (Ref: 35-45)
+pH: 7.36 units (Ref: 7.35-7.45)
+Base Excess: -2 mEq/L
+Calculated Total CO2: 24 mEq/L (Ref: 21-30)
+pO2: 92 mm Hg (Ref: 85-105)
+Free Calcium: 1.06 mmol/L (Ref: 1.12-1.32) [abnormal]
+
+Discharge diagnoses (ICD): 4589, V5866, 3051, 5400, 25000

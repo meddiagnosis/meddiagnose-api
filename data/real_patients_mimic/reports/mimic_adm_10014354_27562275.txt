@@ -1,0 +1,85 @@
+Laboratory Report - MIMIC-IV Demo (De-identified)
+Patient ID: 10014354 | Admission: 27562275 | Age: 60 | Gender: M
+Source: Beth Israel Deaconess Medical Center (de-identified)
+
+Laboratory Results
+--------------------------------------------------
+Light Green Top Hold: ___
+PTT: 32.1 sec (Ref: 25-36.5)
+INR(PT): 1.0  (Ref: 0.9-1.1)
+PT: 10.5 sec (Ref: 9.4-12.5)
+Anion Gap: ___ mEq/L (Ref: 10-18) [abnormal]
+Sodium: ___ mEq/L (Ref: 135-147) [abnormal]
+Basophils: 0.2 % (Ref: 0-1)
+Absolute Neutrophil Count: 5.61 K/uL (Ref: 1.6-6.1)
+Neutrophils: 33.3 % (Ref: 34-71) [abnormal]
+Absolute Basophil Count: 0.03 K/uL (Ref: 0.01-0.08)
+Lymphocytes: 57.6 % (Ref: 19-53) [abnormal]
+Monocytes: 7.2 % (Ref: 5-13)
+Absolute Eosinophil Count: 0.17 K/uL (Ref: 0.04-0.54)
+Absolute Lymphocyte Count: 9.72 K/uL (Ref: 1.2-3.7) [abnormal]
+Immature Granulocytes: ___ % (Ref: 0-0.6) [abnormal]
+Absolute Monocyte Count: 1.22 K/uL (Ref: 0.2-0.8) [abnormal]
+Eosinophils: 1.0 % (Ref: 1-7)
+Microcytes:  N/A
+Macrocytes:  N/A
+Anisocytosis:  N/A
+Poikilocytosis:  N/A
+Polychromasia:  N/A
+Platelet Smear:  N/A
+Hypochromia:  N/A
+L: 20
+Glucose: ___ mg/dL (Ref: 70-100) [abnormal]
+Bicarbonate: 23 mEq/L (Ref: 22-32)
+Potassium: 4.9 mEq/L (Ref: 3.3-5.1)
+I: 0
+Creatinine: 1.0 mg/dL (Ref: 0.5-1.2)
+Urea Nitrogen: 17 mg/dL (Ref: 6-20)
+Estimated GFR (MDRD equation):
+Chloride: 89 mEq/L (Ref: 96-108) [abnormal]
+H: 12
+MCV: 88 fL (Ref: 82-98)
+MCHC: 32.2 g/dL (Ref: 32-37)
+Platelet Count: 232 K/uL (Ref: 150-400)
+Red Blood Cells: 2.93 m/uL (Ref: 4.6-6.1) [abnormal]
+MCH: 28.3 pg (Ref: 26-32)
+Hemoglobin: 8.3 g/dL (Ref: 13.7-17.5) [abnormal]
+RDW-SD: 49.1 fL (Ref: 35.1-46.3) [abnormal]
+White Blood Cells: 16.9 K/uL (Ref: 4-10) [abnormal]
+Hematocrit: 25.8 % (Ref: 40-51) [abnormal]
+RDW: 15.5 % (Ref: 10.5-15.5)
+Troponin T:  ng/mL (Ref: 0-0.01)
+Lactate: 1.5 mmol/L (Ref: 0.5-2)
+Uhold: HOLD.
+Length of Urine Collection:
+Nitrite:  N/A
+Urine Color:  N/A
+Glucose: 1000 mg/dL (Ref: 0-0) [abnormal]
+Protein:  mg/dL (Ref: 0-0)
+Specific Gravity: 1.012   (Ref: 1.001-1.035)
+Urine Appearance:  N/A
+Ketone:  mg/dL (Ref: 0-0)
+Bilirubin:  N/A
+Urobilinogen:  mg/dL (Ref: 0.2-1)
+Blood:  N/A
+Leukocytes:  N/A
+pH: 6.0 units (Ref: 5-8)
+Creatine Kinase, MB Isoenzyme: 3 ng/mL (Ref: 0-10)
+Osmolality, Measured: 266 mOsm/kg (Ref: 275-310) [abnormal]
+Cortisol: ___ ug/dL (Ref: 2-20)
+Thyroid Stimulating Hormone: 4.9 uIU/mL (Ref: 0.27-4.2) [abnormal]
+Bilirubin, Total: 0.4 mg/dL (Ref: 0-1.5)
+Alkaline Phosphatase: 68 IU/L (Ref: 40-130)
+Albumin: 3.6 g/dL (Ref: 3.5-5.2)
+Magnesium: 1.8 mg/dL (Ref: 1.6-2.6)
+Alanine Aminotransferase (ALT): 188 IU/L (Ref: 0-40) [abnormal]
+Calcium, Total: 8.2 mg/dL (Ref: 8.4-10.3) [abnormal]
+Asparate Aminotransferase (AST): 27 IU/L (Ref: 0-40)
+Phosphate: 3.2 mg/dL (Ref: 2.7-4.5)
+Osmolality, Urine: 222 mOsm/kg
+Creatinine, Urine: 25 mg/dL
+Urea Nitrogen, Urine: 207 mg/dL
+Sodium, Urine: 43 mEq/L
+Ovalocytes:  N/A [abnormal]
+
+Discharge diagnoses (ICD): Z7901, E1165, E785, E119, E875

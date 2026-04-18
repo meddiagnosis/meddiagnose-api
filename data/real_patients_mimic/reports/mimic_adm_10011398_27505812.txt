@@ -1,0 +1,50 @@
+Laboratory Report - MIMIC-IV Demo (De-identified)
+Patient ID: 10011398 | Admission: 27505812 | Age: 67 | Gender: M
+Source: Beth Israel Deaconess Medical Center (de-identified)
+
+Laboratory Results
+--------------------------------------------------
+Intubated: INTUBATED.
+Ventilator: CONTROLLED.
+Specimen Type: ART.
+pO2: 417 mm Hg (Ref: 85-105) [abnormal]
+Base Excess: 3 mEq/L
+Calculated Total CO2: 28 mEq/L (Ref: 21-30)
+pH: 7.46 units (Ref: 7.35-7.45) [abnormal]
+pCO2: 38 mm Hg (Ref: 35-45)
+Free Calcium: 1.13 mmol/L (Ref: 1.12-1.32)
+Lactate: 1.6 mmol/L (Ref: 0.5-2)
+Hemoglobin: 13.1 g/dL (Ref: 14-18) [abnormal]
+Chloride, Whole Blood: 103 mEq/L (Ref: 96-108)
+Potassium, Whole Blood: 3.6 mEq/L (Ref: 3.3-5.1)
+Hematocrit, Calculated: 39 %
+Sodium, Whole Blood: 138 mEq/L (Ref: 133-145)
+Glucose: 97 mg/dL (Ref: 70-105)
+PT: 16.0 sec (Ref: 10.4-13.4) [abnormal]
+INR(PT): 1.4  (Ref: 0.9-1.1) [abnormal]
+RDW: 13.2 % (Ref: 10.5-15.5)
+MCH: 27.9 pg (Ref: 27-32)
+Red Blood Cells: 3.06 m/uL (Ref: 4.6-6.2) [abnormal]
+MCV: 86 fL (Ref: 82-98)
+White Blood Cells: ___ K/uL (Ref: 4-11)
+Platelet Count: 172 K/uL (Ref: 150-440)
+Hemoglobin: 8.6 g/dL (Ref: 14-18) [abnormal]
+MCHC: 32.5 % (Ref: 31-35)
+Hematocrit: 26.4 % (Ref: 40-52) [abnormal]
+Fibrinogen, Functional: 138 mg/dL (Ref: 150-400) [abnormal]
+PTT: 29.1 sec (Ref: 22-35)
+Anion Gap: 11 mEq/L (Ref: 8-20)
+Potassium: 3.9 mEq/L (Ref: 3.3-5.1)
+Creatinine: 0.6 mg/dL (Ref: 0.5-1.2)
+Chloride: 115 mEq/L (Ref: 96-108) [abnormal]
+Bicarbonate: 22 mEq/L (Ref: 22-32)
+Estimated GFR (MDRD equation):
+Urea Nitrogen: 9 mg/dL (Ref: 6-20)
+Sodium: 144 mEq/L (Ref: 133-145)
+Oxygen Saturation: 99 %
+Glucose: ___ mg/dL (Ref: 70-100) [abnormal]
+Phosphate: 3.2 mg/dL (Ref: 2.7-4.5)
+Calcium, Total: 7.8 mg/dL (Ref: 8.4-10.3) [abnormal]
+Magnesium: 2.4 mg/dL (Ref: 1.6-2.6)
+
+Discharge diagnoses (ICD): 5641, 60000, V1301, 4779, 2724

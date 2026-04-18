@@ -1,0 +1,48 @@
+Laboratory Report - MIMIC-IV Demo (De-identified)
+Patient ID: 10001217 | Admission: 24597018 | Age: 55 | Gender: F
+Source: Beth Israel Deaconess Medical Center (de-identified)
+
+Laboratory Results
+--------------------------------------------------
+Total Nucleated Cells, CSF: ___ #/uL
+RBC, CSF: 5 #/uL (Ref: 0-0) [abnormal]
+Glucose, CSF: 59 mg/dL
+Total Protein, CSF: 42 mg/dL (Ref: 15-45)
+Polys: ___ %
+Lymphs: ___ %
+Monocytes: 0 %
+Creatinine: ___ mg/dL (Ref: 0.4-1.1)
+Estimated GFR (MDRD equation):
+PTT: 36.6 sec (Ref: 25-36.5) [abnormal]
+PT: 12.1 sec (Ref: 9.4-12.5)
+INR(PT): 1.1  (Ref: 0.9-1.1)
+Anion Gap: 16 mEq/L (Ref: 8-20)
+Urea Nitrogen: 10 mg/dL (Ref: 6-20)
+Calcium, Total: 7.9 mg/dL (Ref: 8.4-10.3) [abnormal]
+Magnesium: 2.1 mg/dL (Ref: 1.6-2.6)
+Potassium: 4.2 mEq/L (Ref: 3.3-5.1)
+Bicarbonate: 22 mEq/L (Ref: 22-32)
+Phosphate: 3.6 mg/dL (Ref: 2.7-4.5)
+Glucose: ___ mg/dL (Ref: 70-100) [abnormal]
+Sodium: 142 mEq/L (Ref: 133-145)
+Chloride: 108 mEq/L (Ref: 96-108)
+MCH: 28.3 pg (Ref: 27-32)
+MCV: 86 fL (Ref: 82-98)
+Hemoglobin: 12.5 g/dL (Ref: 12-16)
+Red Blood Cells: 4.41 m/uL (Ref: 4.2-5.4)
+MCHC: 32.8 % (Ref: 31-35)
+Hematocrit: 38.1 % (Ref: 36-48)
+White Blood Cells: 15.7 K/uL (Ref: 4-11) [abnormal]
+Platelet Count: 283 K/uL (Ref: 150-440)
+RDW: 14.1 % (Ref: 10.5-15.5)
+Vancomycin: 8.0 ug/mL (Ref: 10-20) [abnormal]
+I: 0 U (Ref: 0-10)
+H: 139 U (Ref: 0-40) [abnormal]
+L: 22 U (Ref: 0-60)
+Monocytes: 6.2 % (Ref: 2-11)
+Basophils: 0.7 % (Ref: 0-2)
+Lymphocytes: 27.2 % (Ref: 18-42)
+Eosinophils: 1.5 % (Ref: 0-4)
+Neutrophils: 64.4 % (Ref: 50-70)
+
+Discharge diagnoses (ICD): V168, V161, 04109, 3485, 4019

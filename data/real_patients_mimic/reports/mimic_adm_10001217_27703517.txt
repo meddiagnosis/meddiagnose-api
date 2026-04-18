@@ -1,0 +1,62 @@
+Laboratory Report - MIMIC-IV Demo (De-identified)
+Patient ID: 10001217 | Admission: 27703517 | Age: 55 | Gender: F
+Source: Beth Israel Deaconess Medical Center (de-identified)
+
+Laboratory Results
+--------------------------------------------------
+INR(PT): 1.1  (Ref: 0.9-1.1)
+PT: 12.3 sec (Ref: 9.4-12.5)
+PTT: 32.8 sec (Ref: 25-36.5)
+Lactate Dehydrogenase (LD): 154 IU/L (Ref: 94-250)
+Glucose: ___ mg/dL (Ref: 70-100)
+Anion Gap: 12 mEq/L (Ref: 8-20)
+Calcium, Total: 9.0 mg/dL (Ref: 8.4-10.3)
+Magnesium: 2.0 mg/dL (Ref: 1.6-2.6)
+Chloride: 104 mEq/L (Ref: 96-108)
+Alkaline Phosphatase: 56 IU/L (Ref: 35-105)
+Estimated GFR (MDRD equation):
+Sodium: 142 mEq/L (Ref: 133-145)
+Alanine Aminotransferase (ALT): 12 IU/L (Ref: 0-40)
+Phosphate: 3.8 mg/dL (Ref: 2.7-4.5)
+Bilirubin, Total: 0.4 mg/dL (Ref: 0-1.5)
+Asparate Aminotransferase (AST): 17 IU/L (Ref: 0-40)
+Bicarbonate: 30 mEq/L (Ref: 22-32)
+Urea Nitrogen: 11 mg/dL (Ref: 6-20)
+Creatinine: 0.5 mg/dL (Ref: 0.4-1.1)
+Potassium: 4.1 mEq/L (Ref: 3.3-5.1)
+MCHC: 33.3 % (Ref: 31-35)
+Basophils: 1.5 % (Ref: 0-2)
+Red Blood Cells: 4.52 m/uL (Ref: 4.2-5.4)
+Neutrophils: 51.0 % (Ref: 50-70)
+Hematocrit: 37.4 % (Ref: 36-48)
+RDW: 14.0 % (Ref: 10.5-15.5)
+Lymphocytes: 35.0 % (Ref: 18-42)
+Platelet Count: 301 K/uL (Ref: 150-440)
+MCH: 27.6 pg (Ref: 27-32)
+Eosinophils: 2.7 % (Ref: 0-4)
+MCV: 83 fL (Ref: 82-98)
+Hemoglobin: 12.5 g/dL (Ref: 12-16)
+Monocytes: 9.8 % (Ref: 2-11)
+White Blood Cells: 5.4 K/uL (Ref: 4-11)
+Ketone:  mg/dL
+Bilirubin:  mg/dL
+Nitrite:
+pH: 7.0 units (Ref: 5-8)
+Specific Gravity: 1.011   (Ref: 1.001-1.035)
+Urine Appearance:
+Blood:
+Glucose:  mg/dL
+Epithelial Cells:  #/hpf
+Urine Color:
+Bacteria:
+Urobilinogen:  mg/dL (Ref: 0.2-1)
+Leukocytes:
+Protein:  mg/dL
+WBC:  #/hpf (Ref: 0-5)
+Yeast: NONE
+RBC: 2 #/hpf (Ref: 0-2)
+Length of Urine Collection:
+Urine tube, held: HOLD.  SPECIMEN TO BE HELD 48 HOURS AND DISCARDED.
+Vancomycin: 11.1 ug/mL (Ref: 10-20)
+
+Discharge diagnoses (ICD): 340, 3485, 3240, 3051, 04102

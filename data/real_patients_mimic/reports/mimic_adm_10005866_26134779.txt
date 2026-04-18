@@ -1,0 +1,74 @@
+Laboratory Report - MIMIC-IV Demo (De-identified)
+Patient ID: 10005866 | Admission: 26134779 | Age: 57 | Gender: M
+Source: Beth Israel Deaconess Medical Center (de-identified)
+
+Laboratory Results
+--------------------------------------------------
+Green Top Hold (plasma): HOLD.  DISCARD GREATER THAN 4 HOURS OLD.
+Blue Top Hold: HOLD.  DISCARD GREATER THAN 24 HRS OLD.
+Light Green Top Hold: ___
+Red Blood Cells: 3.46 m/uL (Ref: 4.6-6.1) [abnormal]
+Eosinophils: 3.9 % (Ref: 1-7)
+Absolute Monocyte Count: 0.93 K/uL (Ref: 0.2-0.8) [abnormal]
+RDW: 15.6 % (Ref: 10.5-15.5) [abnormal]
+Lymphocytes: 15.4 % (Ref: 19-53) [abnormal]
+Neutrophils: 67.3 % (Ref: 34-71)
+Absolute Neutrophil Count: 5.24 K/uL (Ref: 1.6-6.1)
+Immature Granulocytes: ___ % (Ref: 0-0.6)
+Absolute Lymphocyte Count: 1.20 K/uL (Ref: 1.2-3.7)
+Platelet Count: 167 K/uL (Ref: 150-400)
+Hemoglobin: 12.0 g/dL (Ref: 13.7-17.5) [abnormal]
+Monocytes: 12.0 % (Ref: 5-13)
+MCH: 34.7 pg (Ref: 26-32) [abnormal]
+MCV: 104 fL (Ref: 82-98) [abnormal]
+RDW-SD: 58.6 fL (Ref: 35.1-46.3) [abnormal]
+Absolute Basophil Count: 0.08 K/uL (Ref: 0.01-0.08)
+Absolute Eosinophil Count: 0.30 K/uL (Ref: 0.04-0.54)
+White Blood Cells: 7.8 K/uL (Ref: 4-10)
+Basophils: 1.0 % (Ref: 0-1)
+Hematocrit: 35.9 % (Ref: 40-51) [abnormal]
+MCHC: 33.4 g/dL (Ref: 32-37)
+I: 3
+Alanine Aminotransferase (ALT): 16 IU/L (Ref: 0-40)
+Phosphate: 2.9 mg/dL (Ref: 2.7-4.5)
+Chloride: 98 mEq/L (Ref: 96-108)
+Albumin: 2.7 g/dL (Ref: 3.5-5.2) [abnormal]
+Asparate Aminotransferase (AST): 44 IU/L (Ref: 0-40) [abnormal]
+Bilirubin, Total: 2.7 mg/dL (Ref: 0-1.5) [abnormal]
+Creatinine: 0.6 mg/dL (Ref: 0.5-1.2)
+Sodium: ___ mEq/L (Ref: 135-147) [abnormal]
+Alkaline Phosphatase: 122 IU/L (Ref: 40-130)
+Potassium: 3.6 mEq/L (Ref: 3.3-5.1)
+L: 15
+Urea Nitrogen: 5 mg/dL (Ref: 6-20) [abnormal]
+Glucose: ___ mg/dL (Ref: 70-100)
+Anion Gap: ___ mEq/L (Ref: 10-18)
+Calcium, Total: 8.1 mg/dL (Ref: 8.4-10.3) [abnormal]
+Lipase: 37 IU/L (Ref: 0-60)
+Estimated GFR (MDRD equation):
+Magnesium: 1.4 mg/dL (Ref: 1.6-2.6) [abnormal]
+Bicarbonate: 25 mEq/L (Ref: 22-32)
+H: 9
+PT: 16.0 sec (Ref: 9.4-12.5) [abnormal]
+INR(PT): 1.5  (Ref: 0.9-1.1) [abnormal]
+Lactate: 1.6 mmol/L (Ref: 0.5-2)
+Specimen Type: VEN.
+PTT: 40.7 sec (Ref: 25-36.5) [abnormal]
+Amylase, Ascites: 18 IU/L
+Bilirubin, Total, Ascites:  mg/dL
+Lactate Dehydrogenase, Ascites: 29 IU/L
+Glucose, Ascites: 95 mg/dL
+Creatinine, Ascites: 0.4 mg/dL
+Total Protein, Ascites: 0.4 g/dL
+Albumin, Ascites: 0.2 g/dL
+RBC, Ascites: 64 #/uL (Ref: 0-0) [abnormal]
+Total Nucleated Cells, Ascites: 55 #/uL (Ref: 0-0) [abnormal]
+Monocytes: 2 % (Ref: 0-0) [abnormal]
+Eosinophils: 1 % (Ref: 0-0) [abnormal]
+Lymphocytes: 21 % (Ref: 0-0) [abnormal]
+Plasma: 1 % (Ref: 0-0) [abnormal]
+Mesothelial Cell: 4 % (Ref: 0-0) [abnormal]
+Macrophage: 71 % (Ref: 0-0) [abnormal]
+Polys: 0 % (Ref: 0-0)
+
+Discharge diagnoses (ICD): F17210, K766, M47818, K56600, I8510

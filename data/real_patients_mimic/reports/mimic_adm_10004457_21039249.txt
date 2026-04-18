@@ -1,0 +1,20 @@
+Laboratory Report - MIMIC-IV Demo (De-identified)
+Patient ID: 10004457 | Admission: 21039249 | Age: 65 | Gender: M
+Source: Beth Israel Deaconess Medical Center (de-identified)
+
+Laboratory Results
+--------------------------------------------------
+Hematocrit: 39.2 % (Ref: 40-52) [abnormal]
+Platelet Count: 274 K/uL (Ref: 150-440)
+Hemoglobin: 12.9 g/dL (Ref: 14-18) [abnormal]
+Asparate Aminotransferase (AST): 18 IU/L (Ref: 0-40)
+Chloride: 104 mEq/L (Ref: 96-108)
+Sodium: 142 mEq/L (Ref: 133-145)
+Potassium: 3.9 mEq/L (Ref: 3.3-5.1)
+Creatine Kinase, MB Isoenzyme: 4 ng/mL (Ref: 0-10)
+Creatinine: 0.9 mg/dL (Ref: 0.5-1.2)
+Estimated GFR (MDRD equation):
+Alanine Aminotransferase (ALT): 18 IU/L (Ref: 0-40)
+Urea Nitrogen: 20 mg/dL (Ref: 6-20)
+
+Discharge diagnoses (ICD): V8741, V153, 4019, V1072, V1046

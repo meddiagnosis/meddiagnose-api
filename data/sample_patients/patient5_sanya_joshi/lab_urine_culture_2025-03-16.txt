@@ -1,0 +1,28 @@
+Urine Analysis & Culture Report
+Patient: Sanya Joshi | DOB: 1998-04-28 | Female
+Lab: SRL Diagnostics | Date: 2025-03-16
+Referring: Dr. Priya Mehta
+
+=== URINE ROUTINE ===
+Color: Yellow, Cloudy
+Specific Gravity: 1.018 (Ref: 1.005-1.030)
+pH: 6.0
+Protein: Trace (Ref: Negative)
+Glucose: Negative
+Ketones: Negative
+Bilirubin: Negative
+Blood: 1+ (Ref: Negative)
+Nitrite: Positive
+Leukocyte esterase: 2+ (Ref: Negative)
+WBC: 25-30/HPF (Ref: 0-5) [HIGH]
+RBC: 5-8/HPF (Ref: 0-3) [HIGH]
+Bacteria: Many
+Casts: Occasional WBC casts
+
+=== URINE CULTURE ===
+Organism: Escherichia coli
+Count: >100,000 CFU/mL (Significant bacteriuria)
+Sensitivity: Sensitive to Nitrofurantoin, Ciprofloxacin, Amoxicillin-Clavulanate
+
+Impression: Uncomplicated urinary tract infection. E. coli sensitive to first-line agents.
+Clinical: Burning urination, frequent urge, lower abdominal pain, cloudy urine.

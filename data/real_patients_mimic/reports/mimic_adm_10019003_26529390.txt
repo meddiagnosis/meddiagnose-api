@@ -1,0 +1,69 @@
+Laboratory Report - MIMIC-IV Demo (De-identified)
+Patient ID: 10019003 | Admission: 26529390 | Age: 65 | Gender: F
+Source: Beth Israel Deaconess Medical Center (de-identified)
+
+Laboratory Results
+--------------------------------------------------
+MCHC: 29.0 g/dL (Ref: 32-37) [abnormal]
+RDW-SD: 90.9 fL (Ref: 35.1-46.3) [abnormal]
+White Blood Cells: 89.4 K/uL (Ref: 4-10) [abnormal]
+Hemoglobin: 9.0 g/dL (Ref: 11.2-15.7) [abnormal]
+RDW: 22.8 % (Ref: 10.5-15.5) [abnormal]
+Red Blood Cells: 2.75 m/uL (Ref: 3.9-5.2) [abnormal]
+MCV: 113 fL (Ref: 82-98) [abnormal]
+Hematocrit: 31.0 % (Ref: 34-45) [abnormal]
+MCH: 32.7 pg (Ref: 26-32) [abnormal]
+Platelet Count: 28 K/uL (Ref: 150-400) [abnormal]
+PT: 13.7 sec (Ref: 9.4-12.5) [abnormal]
+Fibrinogen, Functional: 329 mg/dL (Ref: 180-400)
+PTT: 29.2 sec (Ref: 25-36.5)
+INR(PT): 1.3  (Ref: 0.9-1.1) [abnormal]
+L: 9
+H: 8
+Bilirubin, Total: 0.4 mg/dL (Ref: 0-1.5)
+Glucose: ___ mg/dL (Ref: 70-100)
+Potassium: ___ mEq/L (Ref: 3.5-5.4)
+Alkaline Phosphatase: 61 IU/L (Ref: 35-105)
+Alanine Aminotransferase (ALT): 7 IU/L (Ref: 0-40)
+Chloride: 106 mEq/L (Ref: 96-108)
+Lactate Dehydrogenase (LD): 889 IU/L (Ref: 94-250) [abnormal]
+Bicarbonate: 25 mEq/L (Ref: 22-32)
+Calcium, Total: 8.4 mg/dL (Ref: 8.4-10.3)
+Creatinine: 1.2 mg/dL (Ref: 0.4-1.1) [abnormal]
+Asparate Aminotransferase (AST): 30 IU/L (Ref: 0-40)
+Albumin: 4.1 g/dL (Ref: 3.5-5.2)
+Sodium: ___ mEq/L (Ref: 135-147)
+I: 1
+Magnesium: 1.9 mg/dL (Ref: 1.6-2.6)
+Phosphate: 4.5 mg/dL (Ref: 2.7-4.5)
+Urea Nitrogen: 15 mg/dL (Ref: 6-20)
+Uric Acid: 11.1 mg/dL (Ref: 2.4-5.7) [abnormal]
+Anion Gap: ___ mEq/L (Ref: 10-18)
+Nucleated Red Cells: 2 % (Ref: 0-0) [abnormal]
+Neutrophils: 59 % (Ref: 34-71)
+Metamyelocytes: 1 % (Ref: 0-0) [abnormal]
+Eosinophils: 2 % (Ref: 1-7)
+Absolute Neutrophil Count: 52.75 K/uL (Ref: 1.6-6.1) [abnormal]
+Platelet Smear:  N/A [abnormal]
+Atypical Lymphocytes: 0 % (Ref: 0-0)
+Lymphocytes: 5 % (Ref: 19-53) [abnormal]
+Absolute Monocyte Count: 21.46 K/uL (Ref: 0.2-0.8) [abnormal]
+Monocytes: 24 % (Ref: 5-13) [abnormal]
+Basophils: 0 % (Ref: 0-1)
+Bands: 0 % (Ref: 0-5)
+Absolute Eosinophil Count: 1.79 K/uL (Ref: 0.04-0.54) [abnormal]
+Myelocytes: 4 % (Ref: 0-0) [abnormal]
+Absolute Basophil Count: 0.00 K/uL (Ref: 0.01-0.08) [abnormal]
+Blasts: 5 % (Ref: 0-0) [abnormal]
+Absolute Lymphocyte Count: 4.47 K/uL (Ref: 1.2-3.7) [abnormal]
+Poikilocytosis:  N/A [abnormal]
+Microcytes:  N/A
+Echinocytes:  N/A [abnormal]
+Ovalocytes:  N/A [abnormal]
+Teardrop Cells:  N/A [abnormal]
+Anisocytosis:  N/A [abnormal]
+Hypochromia:  N/A
+Polychromasia:  N/A
+Macrocytes:  N/A [abnormal]
+
+Discharge diagnoses (ICD): F419, M351, J9811, I110, N390

@@ -1,0 +1,74 @@
+Laboratory Report - MIMIC-IV Demo (De-identified)
+Patient ID: 10018081 | Admission: 23983182 | Age: 79 | Gender: M
+Source: Beth Israel Deaconess Medical Center (de-identified)
+
+Laboratory Results
+--------------------------------------------------
+Light Green Top Hold: ___
+Alanine Aminotransferase (ALT): 12 IU/L (Ref: 0-40)
+Asparate Aminotransferase (AST): 18 IU/L (Ref: 0-40)
+Creatinine: 1.1 mg/dL (Ref: 0.5-1.2)
+Albumin: 2.7 g/dL (Ref: 3.5-5.2) [abnormal]
+Estimated GFR (MDRD equation):
+Bilirubin, Total: 0.4 mg/dL (Ref: 0-1.5)
+Urea Nitrogen: 14 mg/dL (Ref: 6-20)
+Glucose: ___ mg/dL (Ref: 70-100)
+Chloride: 105 mEq/L (Ref: 96-108)
+Sodium: 135 mEq/L (Ref: 133-145)
+Bicarbonate: 21 mEq/L (Ref: 22-32) [abnormal]
+Potassium: 4.2 mEq/L (Ref: 3.3-5.1)
+Anion Gap: 13 mEq/L (Ref: 8-20)
+Alkaline Phosphatase: 104 IU/L (Ref: 40-130)
+INR(PT): 1.2  (Ref: 0.9-1.1) [abnormal]
+PT: 13.4 sec (Ref: 9.4-12.5) [abnormal]
+PTT: 27.3 sec (Ref: 25-36.5)
+Calcium, Total: 9.0 mg/dL (Ref: 8.4-10.3)
+Magnesium: 1.7 mg/dL (Ref: 1.6-2.6)
+Phosphate: 2.6 mg/dL (Ref: 2.7-4.5) [abnormal]
+MCHC: 30.7 % (Ref: 31-35) [abnormal]
+Neutrophils: 82.9 % (Ref: 50-70) [abnormal]
+Basophils: 0.2 % (Ref: 0-2)
+MCH: 30.4 pg (Ref: 27-32)
+White Blood Cells: 12.6 K/uL (Ref: 4-11) [abnormal]
+Platelet Count: 649 K/uL (Ref: 150-440) [abnormal]
+Eosinophils: 1.1 % (Ref: 0-4)
+MCV: 99 fL (Ref: 82-98) [abnormal]
+RDW: 15.7 % (Ref: 10.5-15.5) [abnormal]
+Monocytes: 5.0 % (Ref: 2-11)
+Hematocrit: 27.3 % (Ref: 40-52) [abnormal]
+Red Blood Cells: 2.76 m/uL (Ref: 4.6-6.2) [abnormal]
+Lymphocytes: 10.7 % (Ref: 18-42) [abnormal]
+Hemoglobin: 8.4 g/dL (Ref: 14-18) [abnormal]
+Specimen Type: VEN.
+Lactate: 1.5 mmol/L (Ref: 0.5-2)
+Urine Appearance:
+Protein: 30 mg/dL
+Blood:
+Specific Gravity: 1.036   (Ref: 1.001-1.035) [abnormal]
+Yeast: NONE
+Nitrite:
+Urine Color:
+Bilirubin:  mg/dL
+WBC: 5 #/hpf (Ref: 0-5)
+Bacteria:
+Ketone:  mg/dL
+RBC: 4 #/hpf (Ref: 0-2) [abnormal]
+Urobilinogen:  mg/dL (Ref: 0.2-1)
+Leukocytes:
+Glucose:  mg/dL
+Hyaline Casts: 3 #/lpf (Ref: 0-0) [abnormal]
+Epithelial Cells: 0 #/hpf
+pH: 6.0 units (Ref: 5-8)
+Urine Mucous:
+Creatine Kinase, MB Isoenzyme: 2 ng/mL (Ref: 0-10)
+Creatine Kinase (CK): ___ IU/L (Ref: 47-322) [abnormal]
+Troponin T:  ng/mL (Ref: 0-0.01)
+Triglycerides: ___ mg/dL (Ref: 0-149)
+Thyroid Stimulating Hormone: 3.2 uIU/mL (Ref: 0.27-4.2)
+Iron: 23 ug/dL (Ref: 45-160) [abnormal]
+Ferritin: 1240 ng/mL (Ref: 30-400) [abnormal]
+Folate: 11.1 ng/mL (Ref: 2-20)
+Vitamin B12: 324 pg/mL (Ref: 240-900)
+NTproBNP: ___ pg/mL (Ref: 0-852) [abnormal]
+
+Discharge diagnoses (ICD): V1582, 99859, 56981, 2724, V4365

@@ -1,0 +1,64 @@
+Laboratory Report - MIMIC-IV Demo (De-identified)
+Patient ID: 10003400 | Admission: 26090619 | Age: 72 | Gender: F
+Source: Beth Israel Deaconess Medical Center (de-identified)
+
+Laboratory Results
+--------------------------------------------------
+Glucose: ___ mg/dL (Ref: 70-100) [abnormal]
+Potassium: 4.0 mEq/L (Ref: 3.3-5.1)
+Sodium: 135 mEq/L (Ref: 133-145)
+Chloride: 101 mEq/L (Ref: 96-108)
+Anion Gap: 15 mEq/L (Ref: 8-20)
+Bicarbonate: 23 mEq/L (Ref: 22-32)
+Creatinine: 1.0 mg/dL (Ref: 0.4-1.1)
+Urea Nitrogen: 29 mg/dL (Ref: 6-20) [abnormal]
+Estimated GFR (MDRD equation):
+Troponin T:  ng/mL (Ref: 0-0.01)
+Hematocrit: 34.8 % (Ref: 36-48) [abnormal]
+Red Blood Cells: 3.96 m/uL (Ref: 4.2-5.4) [abnormal]
+MCV: 88 fL (Ref: 82-98)
+MCH: 29.5 pg (Ref: 27-32)
+Platelet Count: 322 K/uL (Ref: 150-440)
+Neutrophils: 90.2 % (Ref: 50-70) [abnormal]
+Eosinophils: 0.2 % (Ref: 0-4)
+White Blood Cells: 3.9 K/uL (Ref: 4-11) [abnormal]
+RDW: 16.2 % (Ref: 10.5-15.5) [abnormal]
+Monocytes: 3.1 % (Ref: 2-11)
+Hemoglobin: 11.7 g/dL (Ref: 12-16) [abnormal]
+Basophils: 0.5 % (Ref: 0-2)
+Lymphocytes: 6.1 % (Ref: 18-42) [abnormal]
+MCHC: 33.6 % (Ref: 31-35)
+PTT: ___ sec (Ref: 25-36.5) [abnormal]
+INR(PT): ___  (Ref: 0.9-1.1) [abnormal]
+PT: 94.3 sec (Ref: 9.4-12.5) [abnormal]
+Lactate: ___ mmol/L (Ref: 0.5-2) [abnormal]
+Length of Urine Collection:
+Uhold: HOLD.
+WBC: 21 #/hpf (Ref: 0-5) [abnormal]
+Bilirubin:  mg/dL
+Nitrite:
+Protein:  mg/dL
+Leukocytes:
+Ketone:  mg/dL
+Blood:
+Specific Gravity: 1.011   (Ref: 1.001-1.035)
+Epithelial Cells: 0 #/hpf
+pH: 5.0 units (Ref: 5-8)
+Urine Appearance:
+Urobilinogen:  mg/dL (Ref: 0.2-1)
+Bacteria:
+Urine Color:
+Yeast: NONE
+RBC: 4 #/hpf (Ref: 0-2) [abnormal]
+Glucose:  mg/dL
+Phosphate: 3.0 mg/dL (Ref: 2.7-4.5)
+Calcium, Total: 8.5 mg/dL (Ref: 8.4-10.3)
+Magnesium: 2.0 mg/dL (Ref: 1.6-2.6)
+Alanine Aminotransferase (ALT): 28 IU/L (Ref: 0-40)
+Albumin: 2.7 g/dL (Ref: 3.5-5.2) [abnormal]
+Lactate Dehydrogenase (LD): 151 IU/L (Ref: 94-250)
+Bilirubin, Total: 0.4 mg/dL (Ref: 0-1.5)
+Asparate Aminotransferase (AST): 24 IU/L (Ref: 0-40)
+Alkaline Phosphatase: 83 IU/L (Ref: 35-105)
+
+Discharge diagnoses (ICD): V5861, E9342, 7919, 42731, 59972

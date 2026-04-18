@@ -1,0 +1,107 @@
+Laboratory Report - MIMIC-IV Demo (De-identified)
+Patient ID: 10002428 | Admission: 28662225 | Age: 80 | Gender: F
+Source: Beth Israel Deaconess Medical Center (de-identified)
+
+Laboratory Results
+--------------------------------------------------
+PTT: 26.9 sec (Ref: 25-36.5)
+PT: 15.0 sec (Ref: 9.4-12.5) [abnormal]
+INR(PT): 1.4  (Ref: 0.9-1.1) [abnormal]
+Phosphate: 2.2 mg/dL (Ref: 2.7-4.5) [abnormal]
+Urea Nitrogen: 13 mg/dL (Ref: 6-20)
+Potassium: 3.9 mEq/L (Ref: 3.3-5.1)
+Calcium, Total: 7.4 mg/dL (Ref: 8.4-10.3) [abnormal]
+Chloride: 98 mEq/L (Ref: 96-108)
+Sodium: 129 mEq/L (Ref: 133-145) [abnormal]
+Creatinine: 0.8 mg/dL (Ref: 0.4-1.1)
+Anion Gap: 15 mEq/L (Ref: 8-20)
+Estimated GFR (MDRD equation):
+Glucose: ___ mg/dL (Ref: 70-100)
+Magnesium: 1.4 mg/dL (Ref: 1.6-2.6) [abnormal]
+Bicarbonate: 20 mEq/L (Ref: 22-32) [abnormal]
+Hemoglobin: 9.3 g/dL (Ref: 12-16) [abnormal]
+MCH: 30.6 pg (Ref: 27-32)
+Platelet Count: 269 K/uL (Ref: 150-440)
+MCV: 95 fL (Ref: 82-98)
+MCHC: 32.2 % (Ref: 31-35)
+RDW: 12.8 % (Ref: 10.5-15.5)
+Hematocrit: 28.7 % (Ref: 36-48) [abnormal]
+Red Blood Cells: 3.02 m/uL (Ref: 4.2-5.4) [abnormal]
+White Blood Cells: 22.4 K/uL (Ref: 4-11) [abnormal]
+Lactate: 1.6 mmol/L (Ref: 0.5-2)
+Specimen Type: VEN.
+Oxygen Saturation: 95 %
+Length of Urine Collection:
+Urine tube, held: HOLD.  SPECIMEN TO BE HELD 48 HOURS AND DISCARDED.
+Sodium, Urine: 82 mEq/L
+Chloride, Urine: 80 mEq/L
+Potassium, Urine: 15 mEq/L
+Osmolality, Urine: 337 mOsm/kg
+Urine Appearance:
+Urobilinogen:  mg/dL (Ref: 0.2-1)
+Urine Color:
+Blood:
+Yeast: NONE
+Protein:  mg/dL
+Glucose:  mg/dL
+Ketone: 10 mg/dL
+Specific Gravity: 1.017   (Ref: 1.001-1.035)
+Bacteria:
+Leukocytes:
+pH: 5.0 units (Ref: 5-8)
+WBC: 12 #/hpf (Ref: 0-5) [abnormal]
+Urine Mucous:
+Nitrite:
+RBC: 7 #/hpf (Ref: 0-2) [abnormal]
+Epithelial Cells: 1 #/hpf
+Hyaline Casts: 34 #/lpf (Ref: 0-0) [abnormal]
+Bilirubin:  mg/dL
+Red Top Hold:
+pCO2: 49 mm Hg (Ref: 35-45) [abnormal]
+pH: 7.37 units (Ref: 7.35-7.45)
+Base Excess: 1 mEq/L
+Calculated Total CO2: 29 mEq/L (Ref: 21-30)
+pO2: ___ mm Hg (Ref: 85-105) [abnormal]
+Intubated: NOT INTUBATED.
+Lactate Dehydrogenase (LD): 319 IU/L (Ref: 94-250) [abnormal]
+Bilirubin, Total: 0.1 mg/dL (Ref: 0-1.5)
+Asparate Aminotransferase (AST): 91 IU/L (Ref: 0-40) [abnormal]
+Alanine Aminotransferase (ALT): 66 IU/L (Ref: 0-40) [abnormal]
+Alkaline Phosphatase: 163 IU/L (Ref: 35-105) [abnormal]
+Free Calcium: 1.33 mmol/L (Ref: 1.12-1.32) [abnormal]
+Troponin T: ___ ng/mL (Ref: 0-0.01) [abnormal]
+Creatine Kinase (CK): ___ IU/L (Ref: 29-201)
+Creatine Kinase, MB Isoenzyme: 5 ng/mL (Ref: 0-10)
+Temperature: 38.0
+Ventilation Rate: 22/1.
+Tidal Volume: 350
+Assist/Control:
+Oxygen: 40 %
+PEEP: 10
+Granular Casts: 9 #/lpf (Ref: 0-0) [abnormal]
+Lymphocytes: 9.5 % (Ref: 18-42) [abnormal]
+Basophils: 0.1 % (Ref: 0-2)
+Eosinophils: 3.8 % (Ref: 0-4)
+Neutrophils: 85.3 % (Ref: 50-70) [abnormal]
+Monocytes: 1.3 % (Ref: 2-11) [abnormal]
+Immunoglobulin G: 482 mg/dL (Ref: 700-1600) [abnormal]
+Immunoglobulin A: 181 mg/dL (Ref: 70-400)
+Total Nucleated Cells, Pleural: 75 #/uL (Ref: 0-0) [abnormal]
+RBC, Pleural: 2400 #/uL (Ref: 0-0) [abnormal]
+Macrophages: 5 % (Ref: 0-0) [abnormal]
+Monos: 10 % (Ref: 0-0) [abnormal]
+Polys: 41 % (Ref: 0-0) [abnormal]
+Eosinophils: 1 % (Ref: 0-0) [abnormal]
+Mesothelial Cells: 1 % (Ref: 0-0) [abnormal]
+Lymphocytes: 42 % (Ref: 0-0) [abnormal]
+Total Protein, Pleural: 1.6 g/dL
+Albumin, Pleural: 1.1 g/dL
+Lactate Dehydrogenase, Pleural: 283 IU/L
+Glucose, Pleural: 144 mg/dL
+Amorphous Crystals:
+Ventilator: CONTROLLED.
+Triglycerides: ___ mg/dL (Ref: 0-149)
+O2 Flow: 4 L/min
+Albumin: 2.1 g/dL (Ref: 3.5-5.2) [abnormal]
+
+Discharge diagnoses (ICD): E9478, 2762, 5845, 78552, 486

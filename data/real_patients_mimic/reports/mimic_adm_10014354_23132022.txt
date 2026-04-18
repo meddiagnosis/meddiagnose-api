@@ -1,0 +1,65 @@
+Laboratory Report - MIMIC-IV Demo (De-identified)
+Patient ID: 10014354 | Admission: 23132022 | Age: 60 | Gender: M
+Source: Beth Israel Deaconess Medical Center (de-identified)
+
+Laboratory Results
+--------------------------------------------------
+MCH: 29.2 pg (Ref: 26-32)
+Hematocrit: 30.1 % (Ref: 40-51) [abnormal]
+Platelet Count: 181 K/uL (Ref: 150-400)
+Red Blood Cells: 3.39 m/uL (Ref: 4.6-6.1) [abnormal]
+RDW-SD: 48.4 fL (Ref: 35.1-46.3) [abnormal]
+MCV: 89 fL (Ref: 82-98)
+Hemoglobin: 9.9 g/dL (Ref: 13.7-17.5) [abnormal]
+MCHC: 32.9 g/dL (Ref: 32-37)
+White Blood Cells: 25.9 K/uL (Ref: 4-10) [abnormal]
+RDW: 14.9 % (Ref: 10.5-15.5)
+L: 5
+H: 4
+I: 0
+Creatine Kinase, MB Isoenzyme: 1 ng/mL (Ref: 0-10)
+Bicarbonate: 26 mEq/L (Ref: 22-32)
+Magnesium: 1.8 mg/dL (Ref: 1.6-2.6)
+Potassium: 4.8 mEq/L (Ref: 3.3-5.1)
+Glucose: ___ mg/dL (Ref: 70-100) [abnormal]
+Creatinine: 1.0 mg/dL (Ref: 0.5-1.2)
+Urea Nitrogen: 14 mg/dL (Ref: 6-20)
+Chloride: 98 mEq/L (Ref: 96-108)
+Troponin T:  ng/mL (Ref: 0-0.01)
+Anion Gap: ___ mEq/L (Ref: 10-18)
+Phosphate: 3.3 mg/dL (Ref: 2.7-4.5)
+Calcium, Total: 8.8 mg/dL (Ref: 8.4-10.3)
+Sodium: ___ mEq/L (Ref: 135-147)
+Creatine Kinase (CK): ___ IU/L (Ref: 47-322)
+Length of Urine Collection:
+Osmolality, Urine: 353 mOsm/kg
+Creatinine, Urine: 102 mg/dL
+Urea Nitrogen, Urine: 457 mg/dL
+Chloride, Urine:  mEq/L
+Sodium, Urine:  mEq/L
+Poikilocytosis:  N/A [abnormal]
+Microcytes:  N/A
+Ovalocytes:  N/A [abnormal]
+Polychromasia:  N/A [abnormal]
+Anisocytosis:  N/A
+Hypochromia:  N/A
+Teardrop Cells:  N/A [abnormal]
+Echinocytes:  N/A [abnormal]
+Macrocytes:  N/A
+Metamyelocytes: 0 % (Ref: 0-0)
+Neutrophils: 43 % (Ref: 34-71)
+Platelet Smear:  N/A
+Absolute Basophil Count: 0.20 K/uL (Ref: 0.01-0.08) [abnormal]
+Monocytes: 3 % (Ref: 5-13) [abnormal]
+Basophils: 1 % (Ref: 0-1)
+Myelocytes: 0 % (Ref: 0-0)
+Absolute Neutrophil Count: 8.56 K/uL (Ref: 1.6-6.1) [abnormal]
+Bands: 0 % (Ref: 0-5)
+Eosinophils: 0 % (Ref: 1-7)
+Absolute Eosinophil Count: 0.00 K/uL (Ref: 0.04-0.54) [abnormal]
+Absolute Monocyte Count: 0.60 K/uL (Ref: 0.2-0.8)
+Atypical Lymphocytes: 0 % (Ref: 0-0)
+Absolute Lymphocyte Count: 10.55 K/uL (Ref: 1.2-3.7) [abnormal]
+Lymphocytes: ___ % (Ref: 19-53)
+
+Discharge diagnoses (ICD): I309, Z6836, Z7984, E039, G4700

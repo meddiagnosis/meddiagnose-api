@@ -1,0 +1,67 @@
+Laboratory Report - MIMIC-IV Demo (De-identified)
+Patient ID: 10012853 | Admission: 27882036 | Age: 91 | Gender: F
+Source: Beth Israel Deaconess Medical Center (de-identified)
+
+Laboratory Results
+--------------------------------------------------
+Specimen Type: ART.
+pO2: 77 mm Hg (Ref: 85-105) [abnormal]
+Calculated Total CO2: 37 mEq/L (Ref: 21-30) [abnormal]
+pCO2: ___ mm Hg (Ref: 35-45) [abnormal]
+pH: 7.29 units (Ref: 7.35-7.45) [abnormal]
+Base Excess: 5 mEq/L
+Lactate: 0.7 mmol/L (Ref: 0.5-2)
+INR(PT): 2.3  (Ref: 0.9-1.1) [abnormal]
+PT: 25.9 sec (Ref: 9.4-12.5) [abnormal]
+PTT: 77.1 sec (Ref: 25-36.5) [abnormal]
+Bicarbonate: 31 mEq/L (Ref: 22-32)
+Phosphate: 3.4 mg/dL (Ref: 2.7-4.5)
+Creatinine: 0.9 mg/dL (Ref: 0.4-1.1)
+Glucose: ___ mg/dL (Ref: 70-100) [abnormal]
+Chloride: 105 mEq/L (Ref: 96-108)
+Urea Nitrogen: 16 mg/dL (Ref: 6-20)
+Anion Gap: 11 mEq/L (Ref: 8-20)
+Magnesium: 1.9 mg/dL (Ref: 1.6-2.6)
+Sodium: 143 mEq/L (Ref: 133-145)
+Calcium, Total: 8.2 mg/dL (Ref: 8.4-10.3) [abnormal]
+Potassium: 3.8 mEq/L (Ref: 3.3-5.1)
+Triglycerides: ___ mg/dL (Ref: 0-149)
+Absolute Neutrophil Count: 3.65 K/uL (Ref: 1.6-6.1)
+Red Blood Cells: 3.79 m/uL (Ref: 3.9-5.2) [abnormal]
+Hemoglobin: 9.3 g/dL (Ref: 11.2-15.7) [abnormal]
+MCH: 24.5 pg (Ref: 26-32) [abnormal]
+MCV: 85 fL (Ref: 82-98)
+Basophils: 0.8 % (Ref: 0-1)
+RDW: 19.9 % (Ref: 10.5-15.5) [abnormal]
+Monocytes: 13.0 % (Ref: 5-13)
+Platelet Count: 355 K/uL (Ref: 150-400)
+White Blood Cells: 5.2 K/uL (Ref: 4-10)
+Absolute Eosinophil Count: 0.11 K/uL (Ref: 0.04-0.54)
+Lymphocytes: 12.6 % (Ref: 19-53) [abnormal]
+Immature Granulocytes: 0.6 %
+Hematocrit: 32.2 % (Ref: 34-45) [abnormal]
+Absolute Basophil Count: 0.04 K/uL (Ref: 0.01-0.08)
+RDW-SD: 58.3 fL (Ref: 35.1-46.3) [abnormal]
+MCHC: 28.9 g/dL (Ref: 32-37) [abnormal]
+Eosinophils: 2.1 % (Ref: 1-7)
+Absolute Lymphocyte Count: 0.65 K/uL (Ref: 1.2-3.7) [abnormal]
+Neutrophils: 70.9 % (Ref: 34-71)
+Absolute Monocyte Count: 0.67 K/uL (Ref: 0.2-0.8)
+Free Calcium: 1.16 mmol/L (Ref: 1.12-1.32)
+Lupus Anticoagulant: NEG
+Protein, Total: 6.3 g/dL (Ref: 6.4-8.3) [abnormal]
+Immunoglobulin G: 1298 mg/dL (Ref: 700-1600)
+Immunoglobulin A: 546 mg/dL (Ref: 70-400) [abnormal]
+Thrombin: 19.3 sec (Ref: 10.3-16.3) [abnormal]
+Immunofixation:
+Immunoglobulin M: 25 mg/dL (Ref: 40-230) [abnormal]
+Protein Electrophoresis:
+Immunophenotyping:
+Free Lambda: 30.9 mg/L (Ref: 5.7-26.3) [abnormal]
+Free Kappa/Free Lambda Ratio: ___  (Ref: 0.26-1.65) [abnormal]
+Free Kappa: 59.2 mg/L (Ref: 3.3-19.4) [abnormal]
+Thyroglobulin:  ng/mL (Ref: 0-55)
+Anti-Thyroglobulin Antibodies:  IU/mL (Ref: 0-40)
+Estimated GFR (MDRD equation):
+
+Discharge diagnoses (ICD): J398, M109, I82622, Z7982, D472

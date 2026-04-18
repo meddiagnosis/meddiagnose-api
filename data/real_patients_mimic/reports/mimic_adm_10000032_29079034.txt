@@ -1,0 +1,38 @@
+Laboratory Report - MIMIC-IV Demo (De-identified)
+Patient ID: 10000032 | Admission: 29079034 | Age: 52 | Gender: F
+Source: Beth Israel Deaconess Medical Center (de-identified)
+
+Laboratory Results
+--------------------------------------------------
+Calcium, Total: 9.3 mg/dL (Ref: 8.4-10.3)
+Magnesium: 2.3 mg/dL (Ref: 1.6-2.6)
+Sodium: 132 mEq/L (Ref: 133-145) [abnormal]
+Creatinine: 0.5 mg/dL (Ref: 0.4-1.1)
+Anion Gap: 14 mEq/L (Ref: 8-20)
+Glucose: ___ mg/dL (Ref: 70-100) [abnormal]
+Chloride: 102 mEq/L (Ref: 96-108)
+Potassium: 4.7 mEq/L (Ref: 3.3-5.1)
+Phosphate: 2.4 mg/dL (Ref: 2.7-4.5) [abnormal]
+Bicarbonate: 21 mEq/L (Ref: 22-32) [abnormal]
+Urea Nitrogen: 33 mg/dL (Ref: 6-20) [abnormal]
+PT: 19.5 sec (Ref: 9.4-12.5) [abnormal]
+INR(PT): 1.8  (Ref: 0.9-1.1) [abnormal]
+PTT: 34.2 sec (Ref: 25-36.5)
+White Blood Cells: 4.1 K/uL (Ref: 4-11)
+Asparate Aminotransferase (AST): 187 IU/L (Ref: 0-40) [abnormal]
+MCH: 34.9 pg (Ref: 27-32) [abnormal]
+MCV: 102 fL (Ref: 82-98) [abnormal]
+RDW: 15.8 % (Ref: 10.5-15.5) [abnormal]
+Hemoglobin: 11.9 g/dL (Ref: 12-16) [abnormal]
+Albumin: 3.8 g/dL (Ref: 3.5-5.2)
+Lactate Dehydrogenase (LD): 173 IU/L (Ref: 94-250)
+Alkaline Phosphatase: 86 IU/L (Ref: 35-105)
+Hematocrit: 34.8 % (Ref: 36-48) [abnormal]
+MCHC: 34.1 % (Ref: 31-35)
+Bilirubin, Total: 2.7 mg/dL (Ref: 0-1.5) [abnormal]
+Red Blood Cells: 3.40 m/uL (Ref: 4.2-5.4) [abnormal]
+Alanine Aminotransferase (ALT): 114 IU/L (Ref: 0-40) [abnormal]
+Platelet Count: ___ K/uL (Ref: 150-440) [abnormal]
+Platelet Smear:
+
+Discharge diagnoses (ICD): 29680, 78959, 7994, 3051, V462

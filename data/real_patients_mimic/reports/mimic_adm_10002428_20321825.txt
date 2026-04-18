@@ -1,0 +1,69 @@
+Laboratory Report - MIMIC-IV Demo (De-identified)
+Patient ID: 10002428 | Admission: 20321825 | Age: 80 | Gender: F
+Source: Beth Israel Deaconess Medical Center (de-identified)
+
+Laboratory Results
+--------------------------------------------------
+Tidal Volume: 300
+Temperature: 36.7
+PEEP: 5
+Intubated: NOT INTUBATED.
+Specimen Type: ART.
+Oxygen: 50 %
+Base Excess: 15 mEq/L
+pO2: 133 mm Hg (Ref: 85-105) [abnormal]
+pH: 7.37 units (Ref: 7.35-7.45)
+Oxygen Saturation: 97 %
+pCO2: ___ mm Hg (Ref: 35-45) [abnormal]
+Calculated Total CO2: ___ mEq/L (Ref: 21-30) [abnormal]
+Lactate: 0.8 mmol/L (Ref: 0.5-2)
+INR(PT): 0.9  (Ref: 0.9-1.1)
+PTT: 27.5 sec (Ref: 25-36.5)
+PT: 10.3 sec (Ref: 9.4-12.5)
+Bicarbonate: 37 mEq/L (Ref: 22-32) [abnormal]
+Phosphate: 3.0 mg/dL (Ref: 2.7-4.5)
+Urea Nitrogen: 14 mg/dL (Ref: 6-20)
+Potassium: 4.3 mEq/L (Ref: 3.3-5.1)
+Chloride: 93 mEq/L (Ref: 96-108) [abnormal]
+Anion Gap: 7 mEq/L (Ref: 8-20) [abnormal]
+Calcium, Total: 7.6 mg/dL (Ref: 8.4-10.3) [abnormal]
+Glucose: ___ mg/dL (Ref: 70-100)
+Sodium: 133 mEq/L (Ref: 133-145)
+Magnesium: 1.8 mg/dL (Ref: 1.6-2.6)
+Creatinine: 0.3 mg/dL (Ref: 0.4-1.1) [abnormal]
+Red Blood Cells: 2.64 m/uL (Ref: 4.2-5.4) [abnormal]
+MCV: 99 fL (Ref: 82-98) [abnormal]
+Neutrophils: 67.0 % (Ref: 50-70)
+Hemoglobin: 8.3 g/dL (Ref: 12-16) [abnormal]
+Hematocrit: 26.0 % (Ref: 36-48) [abnormal]
+Monocytes: 7.7 % (Ref: 2-11)
+Lymphocytes: 21.6 % (Ref: 18-42)
+Basophils: 0.5 % (Ref: 0-2)
+MCHC: 31.7 % (Ref: 31-35)
+MCH: 31.3 pg (Ref: 27-32)
+Eosinophils: 3.2 % (Ref: 0-4)
+White Blood Cells: 7.1 K/uL (Ref: 4-11)
+RDW: 14.6 % (Ref: 10.5-15.5)
+Platelet Count: 341 K/uL (Ref: 150-440)
+Urine Color:
+Bilirubin:  mg/dL
+Nitrite:
+pH: 6.5 units (Ref: 5-8)
+Leukocytes:
+Ketone:  mg/dL
+Blood: TR
+Glucose:  mg/dL
+Urine Appearance:
+Specific Gravity: 1.029   (Ref: 1.001-1.035)
+Urobilinogen:  mg/dL (Ref: 0.2-1)
+Protein: 30 mg/dL
+Calcium Oxalate Crystals:
+Bacteria:
+WBC Clumps:
+RBC: 19 #/hpf (Ref: 0-2) [abnormal]
+WBC:  #/hpf (Ref: 0-5)
+Urine Mucous:
+Epithelial Cells: 0 #/hpf
+Yeast: FEW
+
+Discharge diagnoses (ICD): 4019, 29281, 4240, 00845, 1122

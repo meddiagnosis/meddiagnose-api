@@ -1,0 +1,61 @@
+Laboratory Report - MIMIC-IV Demo (De-identified)
+Patient ID: 10018328 | Admission: 26706939 | Age: 83 | Gender: F
+Source: Beth Israel Deaconess Medical Center (de-identified)
+
+Laboratory Results
+--------------------------------------------------
+RBC: 4 #/hpf (Ref: 0-2) [abnormal]
+Urine Color:
+Blood:
+Leukocytes:
+Epithelial Cells:  #/hpf
+Yeast: NONE
+Urobilinogen:  mg/dL (Ref: 0.2-1)
+Bacteria:
+pH: 6.5 units (Ref: 5-8)
+Protein:  mg/dL
+Ketone: 10 mg/dL
+Urine Mucous:
+Urine Appearance:
+Specific Gravity: 1.024   (Ref: 1.001-1.035)
+Bilirubin:  mg/dL
+Glucose:  mg/dL
+WBC: 70 #/hpf (Ref: 0-5) [abnormal]
+Nitrite:
+Sodium: 138 mEq/L (Ref: 133-145)
+Magnesium: 1.8 mg/dL (Ref: 1.6-2.6)
+Phosphate: 2.7 mg/dL (Ref: 2.7-4.5)
+Bicarbonate: 23 mEq/L (Ref: 22-32)
+Glucose: ___ mg/dL (Ref: 70-100) [abnormal]
+L: 4
+I: 1
+Creatinine: 0.7 mg/dL (Ref: 0.4-1.1)
+Estimated GFR (MDRD equation):
+Urea Nitrogen: 12 mg/dL (Ref: 6-20)
+Chloride: 100 mEq/L (Ref: 96-108)
+H: 2
+Calcium, Total: 8.8 mg/dL (Ref: 8.4-10.3)
+INR(PT): 1.2  (Ref: 0.9-1.1) [abnormal]
+PT: 13.0 sec (Ref: 9.4-12.5) [abnormal]
+PTT: 26.6 sec (Ref: 25-36.5)
+Potassium: ___ mEq/L (Ref: 3.3-5.1) [abnormal]
+Anion Gap: 18 mEq/L (Ref: 8-20)
+RDW-SD: 41.0 fL (Ref: 35.1-46.3)
+White Blood Cells: 11.8 K/uL (Ref: 4-10) [abnormal]
+Platelet Count: 180 K/uL (Ref: 150-400)
+MCV: 86 fL (Ref: 82-98)
+MCH: 29.5 pg (Ref: 26-32)
+RDW: 13.2 % (Ref: 10.5-15.5)
+MCHC: 34.2 g/dL (Ref: 32-37)
+Hematocrit: 33.6 % (Ref: 34-45) [abnormal]
+Red Blood Cells: 3.90 m/uL (Ref: 3.9-5.2)
+Hemoglobin: 11.5 g/dL (Ref: 11.2-15.7)
+Length of Urine Collection:
+Osmolality, Urine: 599 mOsm/kg
+Creatinine, Urine: 75 mg/dL
+Potassium, Urine: 54 mEq/L
+Sodium, Urine: 103 mEq/L
+Urea Nitrogen, Urine: 614 mg/dL
+Troponin T:  ng/mL (Ref: 0-0.01)
+
+Discharge diagnoses (ICD): G4700, I10, W1830XA, I671, Y92512

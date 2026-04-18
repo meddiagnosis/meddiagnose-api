@@ -1,0 +1,50 @@
+Laboratory Report - MIMIC-IV Demo (De-identified)
+Patient ID: 10016742 | Admission: 27568122 | Age: 58 | Gender: F
+Source: Beth Israel Deaconess Medical Center (de-identified)
+
+Laboratory Results
+--------------------------------------------------
+Specimen Type: CENTRAL VENOUS.
+pCO2: 44 mm Hg (Ref: 35-45)
+Calculated Total CO2: 32 mEq/L (Ref: 21-30) [abnormal]
+Lactate: 1.5 mmol/L (Ref: 0.5-2)
+Base Excess: 5 mEq/L
+pH: 7.45 units (Ref: 7.35-7.45)
+pO2: ___ mm Hg (Ref: 85-105) [abnormal]
+MCH: 26.8 pg (Ref: 26-32)
+MCV: 84 fL (Ref: 82-98)
+Platelet Count: 448 K/uL (Ref: 150-400) [abnormal]
+RDW-SD: 43.8 fL (Ref: 35.1-46.3)
+MCHC: 31.8 g/dL (Ref: 32-37) [abnormal]
+RDW: 14.5 % (Ref: 10.5-15.5)
+Red Blood Cells: 3.73 m/uL (Ref: 3.9-5.2) [abnormal]
+Hemoglobin: 10.0 g/dL (Ref: 11.2-15.7) [abnormal]
+White Blood Cells: 8.5 K/uL (Ref: 4-10)
+Hematocrit: 31.4 % (Ref: 34-45) [abnormal]
+INR(PT): 1.2  (Ref: 0.9-1.1) [abnormal]
+PTT: 37.3 sec (Ref: 25-36.5) [abnormal]
+PT: 12.9 sec (Ref: 9.4-12.5) [abnormal]
+Potassium: 3.9 mEq/L (Ref: 3.3-5.1)
+Bicarbonate: 26 mEq/L (Ref: 22-32)
+Urea Nitrogen: 20 mg/dL (Ref: 6-20)
+L: 18
+Magnesium: 1.8 mg/dL (Ref: 1.6-2.6)
+Chloride: 101 mEq/L (Ref: 96-108)
+Anion Gap: 15 mEq/L (Ref: 8-20)
+Sodium: 138 mEq/L (Ref: 133-145)
+Calcium, Total: 9.3 mg/dL (Ref: 8.4-10.3)
+H: 18
+Glucose: ___ mg/dL (Ref: 70-100) [abnormal]
+I: 0
+Phosphate: 2.8 mg/dL (Ref: 2.7-4.5)
+Creatinine: 0.5 mg/dL (Ref: 0.4-1.1)
+Oxygen: 40 %
+Intubated: INTUBATED.
+Temperature: 36.4
+PEEP: 5
+Ventilation Rate: 14/.
+Tidal Volume: 400
+Free Calcium: 1.18 mmol/L (Ref: 1.12-1.32)
+Estimated GFR (MDRD equation):
+
+Discharge diagnoses (ICD): Z434, G1221, J9809, G40909, Z930

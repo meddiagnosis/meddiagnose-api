@@ -1,0 +1,51 @@
+Laboratory Report - MIMIC-IV Demo (De-identified)
+Patient ID: 10010867 | Admission: 22196214 | Age: 28 | Gender: F
+Source: Beth Israel Deaconess Medical Center (de-identified)
+
+Laboratory Results
+--------------------------------------------------
+MCV: 82 fL (Ref: 82-98)
+RDW-SD: 42.3 fL (Ref: 35.1-46.3)
+RDW: 14.2 % (Ref: 10.5-15.5)
+Hematocrit: 34.7 % (Ref: 34-45)
+Platelet Count: 353 K/uL (Ref: 150-400)
+White Blood Cells: 11.6 K/uL (Ref: 4-10) [abnormal]
+MCH: 24.6 pg (Ref: 26-32) [abnormal]
+Hemoglobin: 10.4 g/dL (Ref: 11.2-15.7) [abnormal]
+Red Blood Cells: 4.23 m/uL (Ref: 3.9-5.2)
+MCHC: 30.0 g/dL (Ref: 32-37) [abnormal]
+PTT: 29.7 sec (Ref: 25-36.5)
+PT: 12.9 sec (Ref: 9.4-12.5) [abnormal]
+INR(PT): 1.2  (Ref: 0.9-1.1) [abnormal]
+Chloride: 98 mEq/L (Ref: 96-108)
+Calcium, Total: 9.5 mg/dL (Ref: 8.4-10.3)
+Sodium: 136 mEq/L (Ref: 133-145)
+Magnesium: 1.8 mg/dL (Ref: 1.6-2.6)
+Creatinine: 0.6 mg/dL (Ref: 0.4-1.1)
+Glucose: ___ mg/dL (Ref: 70-100)
+Anion Gap: 18 mEq/L (Ref: 8-20)
+Phosphate: 4.3 mg/dL (Ref: 2.7-4.5)
+Bicarbonate: 25 mEq/L (Ref: 22-32)
+Potassium: 4.5 mEq/L (Ref: 3.3-5.1)
+Urea Nitrogen: 10 mg/dL (Ref: 6-20)
+Estimated GFR (MDRD equation):
+Miscellaneous, Pleural:
+Total Nucleated Cells, Pleural: 1311 #/uL (Ref: 0-0) [abnormal]
+Cholesterol, Pleural: 148 mg/dL
+NTproBNP:  pg/mL (Ref: 0-178)
+Mesothelial Cells: ___ % (Ref: 0-0)
+Glucose, Pleural: 94 mg/dL
+Total Protein, Pleural: 5.0 g/dL
+Lactate Dehydrogenase, Pleural: 344 IU/L
+Amylase, Pleural: 37 IU/L
+Creatinine, Pleural: 0.5 mg/dL
+Albumin, Pleural: 3.2 g/dL
+RBC, Pleural: 113889 #/uL (Ref: 0-0) [abnormal]
+Polys: 63 % (Ref: 0-0) [abnormal]
+Monos: 11 % (Ref: 0-0) [abnormal]
+Lymphocytes: 22 % (Ref: 0-0) [abnormal]
+Macrophages: 3 % (Ref: 0-0) [abnormal]
+Eosinophils: 1 % (Ref: 0-0) [abnormal]
+pH: ___ units
+
+Discharge diagnoses (ICD): E041, Y92488, V8609XS, M25511, G43909

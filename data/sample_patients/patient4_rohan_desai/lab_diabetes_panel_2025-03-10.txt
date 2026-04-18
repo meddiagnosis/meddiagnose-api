@@ -1,0 +1,28 @@
+Diabetes Screening & Metabolic Panel
+Patient: Rohan Desai | DOB: 1992-12-03 | Male
+Lab: Thyrocare | Date: 2025-03-10
+Referring: Dr. Arjun Patel
+
+=== GLUCOSE ===
+Fasting Blood Sugar (FBS): 142 mg/dL (Ref: 70-100) [HIGH]
+Post-prandial (2hr): 198 mg/dL (Ref: <140) [HIGH]
+HbA1c: 7.8% (Ref: <5.7%) [DIABETIC RANGE]
+
+=== LIPID PROFILE ===
+Total Cholesterol: 218 mg/dL (Ref: <200) [HIGH]
+LDL: 135 mg/dL (Ref: <100) [HIGH]
+HDL: 42 mg/dL (Ref: >40)
+Triglycerides: 205 mg/dL (Ref: <150) [HIGH]
+
+=== RENAL FUNCTION ===
+Creatinine: 1.0 mg/dL (Ref: 0.7-1.3)
+eGFR: 92 mL/min/1.73m2
+Microalbumin/Creatinine ratio: 45 mg/g (Ref: <30) [HIGH - Early nephropathy]
+
+=== LIVER FUNCTION ===
+ALT: 38 U/L (Ref: 7-56)
+AST: 32 U/L (Ref: 10-40)
+
+Impression: Type 2 Diabetes Mellitus, poor glycemic control. Early diabetic nephropathy.
+Clinical: Frequent urination, increased thirst, blurred vision, fatigue.
+Allergies: Ibuprofen - use with caution in diabetes.

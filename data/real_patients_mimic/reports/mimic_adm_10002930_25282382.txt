@@ -1,0 +1,39 @@
+Laboratory Report - MIMIC-IV Demo (De-identified)
+Patient ID: 10002930 | Admission: 25282382 | Age: 48 | Gender: F
+Source: Beth Israel Deaconess Medical Center (de-identified)
+
+Laboratory Results
+--------------------------------------------------
+Blue Top Hold: HOLD.  DISCARD GREATER THAN 24 HRS OLD.
+Green Top Hold (plasma): HOLD.  DISCARD GREATER THAN 4 HOURS OLD.
+Bicarbonate: 32 mEq/L (Ref: 22-32)
+Urea Nitrogen: 24 mg/dL (Ref: 6-20) [abnormal]
+Barbiturate Screen: NEG
+Glucose: ___ mg/dL (Ref: 70-100)
+Potassium: 4.1 mEq/L (Ref: 3.3-5.1)
+Anion Gap: 11 mEq/L (Ref: 8-20)
+Ethanol: ___ mg/dL (Ref: 10-10) [abnormal]
+Chloride: 101 mEq/L (Ref: 96-108)
+Estimated GFR (MDRD equation):
+Acetaminophen:  ug/mL (Ref: 10-30)
+Benzodiazepine Screen: NEG
+Creatinine: 0.6 mg/dL (Ref: 0.4-1.1)
+Tricyclic Antidepressant Screen: NEG
+Salicylate:  mg/dL (Ref: 2-25)
+Sodium: 140 mEq/L (Ref: 133-145)
+MCH: 23.6 pg (Ref: 27-32) [abnormal]
+Hematocrit: 32.8 % (Ref: 36-48) [abnormal]
+Platelet Count: 252 K/uL (Ref: 150-440)
+Eosinophils: 1.5 % (Ref: 0-4)
+MCV: 79 fL (Ref: 82-98) [abnormal]
+Basophils: 0.4 % (Ref: 0-2)
+Hemoglobin: 9.8 g/dL (Ref: 12-16) [abnormal]
+Lymphocytes: 26.8 % (Ref: 18-42)
+RDW: 17.9 % (Ref: 10.5-15.5) [abnormal]
+Monocytes: 5.1 % (Ref: 2-11)
+MCHC: 29.7 % (Ref: 31-35) [abnormal]
+Red Blood Cells: 4.13 m/uL (Ref: 4.2-5.4) [abnormal]
+White Blood Cells: 5.0 K/uL (Ref: 4-11)
+Neutrophils: 66.3 % (Ref: 50-70)
+
+Discharge diagnoses (ICD): V620, 07070, V6284, V1552, 311

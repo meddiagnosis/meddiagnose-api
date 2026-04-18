@@ -1,0 +1,43 @@
+Laboratory Report - MIMIC-IV Demo (De-identified)
+Patient ID: 10019917 | Admission: 22585261 | Age: 44 | Gender: M
+Source: Beth Israel Deaconess Medical Center (de-identified)
+
+Laboratory Results
+--------------------------------------------------
+Platelet Count: 184 K/uL (Ref: 150-440)
+Neutrophils: 67.9 % (Ref: 50-70)
+Monocytes: 4.6 % (Ref: 2-11)
+Basophils: 0.6 % (Ref: 0-2)
+Eosinophils: 2.2 % (Ref: 0-4)
+Hematocrit: 27.6 % (Ref: 40-52) [abnormal]
+MCV: 96 fL (Ref: 82-98)
+Lymphocytes: 24.7 % (Ref: 18-42)
+White Blood Cells: 6.8 K/uL (Ref: 4-11)
+MCHC: 34.9 % (Ref: 31-35)
+MCH: 33.4 pg (Ref: 27-32) [abnormal]
+Red Blood Cells: 2.88 m/uL (Ref: 4.6-6.2) [abnormal]
+Hemoglobin: 9.6 g/dL (Ref: 14-18) [abnormal]
+RDW: 13.0 % (Ref: 10.5-15.5)
+INR(PT): 1.2  (Ref: 0.9-1.1) [abnormal]
+PTT: 33.0 sec (Ref: 25-36.5)
+PT: 13.1 sec (Ref: 9.4-12.5) [abnormal]
+Potassium: 3.9 mEq/L (Ref: 3.3-5.1)
+Albumin: 3.1 g/dL (Ref: 3.5-5.2) [abnormal]
+Bilirubin, Total: 0.3 mg/dL (Ref: 0-1.5)
+Bicarbonate: 23 mEq/L (Ref: 22-32)
+Phosphate: 3.6 mg/dL (Ref: 2.7-4.5)
+Sodium: 140 mEq/L (Ref: 133-145)
+Asparate Aminotransferase (AST): 12 IU/L (Ref: 0-40)
+Chloride: 109 mEq/L (Ref: 96-108) [abnormal]
+Alkaline Phosphatase: 46 IU/L (Ref: 40-130)
+Magnesium: 2.0 mg/dL (Ref: 1.6-2.6)
+Lactate Dehydrogenase (LD): 135 IU/L (Ref: 94-250)
+Glucose: ___ mg/dL (Ref: 70-100) [abnormal]
+Calcium, Total: 8.4 mg/dL (Ref: 8.4-10.3)
+Urea Nitrogen: 21 mg/dL (Ref: 6-20) [abnormal]
+Creatinine: 1.1 mg/dL (Ref: 0.5-1.2)
+Alanine Aminotransferase (ALT): 8 IU/L (Ref: 0-40)
+Estimated GFR (MDRD equation):
+Anion Gap: 12 mEq/L (Ref: 8-20)
+
+Discharge diagnoses (ICD): 2851, 53240, 53560, 7200

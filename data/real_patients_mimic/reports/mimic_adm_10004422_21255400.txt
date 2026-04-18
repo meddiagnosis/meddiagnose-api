@@ -1,0 +1,74 @@
+Laboratory Report - MIMIC-IV Demo (De-identified)
+Patient ID: 10004422 | Admission: 21255400 | Age: 78 | Gender: M
+Source: Beth Israel Deaconess Medical Center (de-identified)
+
+Laboratory Results
+--------------------------------------------------
+Nitrite:
+Epithelial Cells: 0 #/hpf
+Urine Color:
+Ketone:  mg/dL
+Hyaline Casts: 3 #/lpf (Ref: 0-0) [abnormal]
+Specific Gravity: 1.021   (Ref: 1.001-1.035)
+Urine Appearance:
+Leukocytes:
+Glucose:  mg/dL
+pH: 5.5 units (Ref: 5-8)
+Bacteria:
+Bilirubin:  mg/dL
+WBC: 1 #/hpf (Ref: 0-5)
+Urine Mucous:
+Urobilinogen:  mg/dL (Ref: 0.2-1)
+Yeast: NONE
+Protein:  mg/dL
+Blood:
+RBC: 3 #/hpf (Ref: 0-2) [abnormal]
+PT: 11.5 sec (Ref: 9.4-12.5)
+INR(PT): 1.1  (Ref: 0.9-1.1)
+PTT: 31.2 sec (Ref: 25-36.5)
+Creatinine: 0.8 mg/dL (Ref: 0.5-1.2)
+Potassium: 4.4 mEq/L (Ref: 3.3-5.1)
+Magnesium: 2.2 mg/dL (Ref: 1.6-2.6)
+Phosphate: 3.5 mg/dL (Ref: 2.7-4.5)
+Glucose: ___ mg/dL (Ref: 70-100)
+Sodium: 140 mEq/L (Ref: 133-145)
+Calcium, Total: 8.9 mg/dL (Ref: 8.4-10.3)
+Urea Nitrogen: 20 mg/dL (Ref: 6-20)
+Anion Gap: 13 mEq/L (Ref: 8-20)
+Chloride: 103 mEq/L (Ref: 96-108)
+Bicarbonate: 28 mEq/L (Ref: 22-32)
+MCV: 92 fL (Ref: 82-98)
+Red Blood Cells: 4.32 m/uL (Ref: 4.6-6.2) [abnormal]
+Platelet Count: 192 K/uL (Ref: 150-440)
+White Blood Cells: 7.9 K/uL (Ref: 4-11)
+MCH: 31.3 pg (Ref: 27-32)
+RDW: 12.9 % (Ref: 10.5-15.5)
+MCHC: 33.9 % (Ref: 31-35)
+Hematocrit: 39.9 % (Ref: 40-52) [abnormal]
+Hemoglobin: 13.5 g/dL (Ref: 14-18) [abnormal]
+Cholesterol, Total: 121 mg/dL (Ref: 0-199)
+Cholesterol Ratio (Total/HDL): 2.0 Ratio
+Cholesterol, LDL, Calculated: 43 mg/dL (Ref: 0-129)
+Triglycerides: ___ mg/dL (Ref: 0-149)
+Cholesterol, HDL: 62 mg/dL
+Ventilator: CONTROLLED.
+Specimen Type: ART.
+Intubated: INTUBATED.
+Base Excess: 4 mEq/L
+pO2: 459 mm Hg (Ref: 85-105) [abnormal]
+pCO2: 37 mm Hg (Ref: 35-45)
+pH: 7.47 units (Ref: 7.35-7.45) [abnormal]
+Calculated Total CO2: 28 mEq/L (Ref: 21-30)
+Hemoglobin: 12.3 g/dL (Ref: 14-18) [abnormal]
+Glucose: 103 mg/dL (Ref: 70-105)
+Potassium, Whole Blood: 3.9 mEq/L (Ref: 3.3-5.1)
+Sodium, Whole Blood: 134 mEq/L (Ref: 133-145)
+Free Calcium: 1.10 mmol/L (Ref: 1.12-1.32) [abnormal]
+Chloride, Whole Blood: 104 mEq/L (Ref: 96-108)
+Lactate: 0.8 mmol/L (Ref: 0.5-2)
+Hematocrit, Calculated: 37 %
+Fibrinogen, Functional: 147 mg/dL (Ref: 180-400) [abnormal]
+Oxygen Saturation: 99 %
+Estimated GFR (MDRD equation):
+
+Discharge diagnoses (ICD): E8782, V4582, E8497, 9971, 99811

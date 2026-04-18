@@ -1,0 +1,78 @@
+Laboratory Report - MIMIC-IV Demo (De-identified)
+Patient ID: 10004720 | Admission: 22081550 | Age: 61 | Gender: M
+Source: Beth Israel Deaconess Medical Center (de-identified)
+
+Laboratory Results
+--------------------------------------------------
+Oxygen: 50 %
+PEEP: 5
+Temperature: 35.3
+pO2: 64 mm Hg (Ref: 85-105) [abnormal]
+Assist/Control:
+Intubated: INTUBATED.
+Specimen Type: ART.
+Tidal Volume: 450
+Base Excess: 0 mEq/L
+pCO2: 42 mm Hg (Ref: 35-45)
+Ventilation Rate: 15/0.
+Calculated Total CO2: 26 mEq/L (Ref: 21-30)
+pH: 7.38 units (Ref: 7.35-7.45)
+Free Calcium: 1.17 mmol/L (Ref: 1.12-1.32)
+Lactate: 1.6 mmol/L (Ref: 0.5-2)
+Platelet Count: 555 K/uL (Ref: 150-400) [abnormal]
+Neutrophils: 87.1 % (Ref: 34-71) [abnormal]
+MCH: 29.4 pg (Ref: 26-32)
+White Blood Cells: 15.5 K/uL (Ref: 4-10) [abnormal]
+Absolute Basophil Count: 0.03 K/uL (Ref: 0.01-0.08)
+Red Blood Cells: 4.01 m/uL (Ref: 4.6-6.1) [abnormal]
+Eosinophils: 0.0 % (Ref: 1-7) [abnormal]
+Hematocrit: 36.3 % (Ref: 40-51) [abnormal]
+Absolute Eosinophil Count: 0.00 K/uL (Ref: 0.04-0.54) [abnormal]
+Absolute Neutrophil Count: 13.53 K/uL (Ref: 1.6-6.1) [abnormal]
+RDW: 14.6 % (Ref: 10.5-15.5)
+RDW-SD: 49.1 fL (Ref: 35.1-46.3) [abnormal]
+Absolute Monocyte Count: 1.29 K/uL (Ref: 0.2-0.8) [abnormal]
+Immature Granulocytes: ___ % (Ref: 0-0.6) [abnormal]
+MCV: 91 fL (Ref: 82-98)
+MCHC: 32.5 g/dL (Ref: 32-37)
+Basophils: 0.2 % (Ref: 0-1)
+Monocytes: 8.3 % (Ref: 5-13)
+Absolute Lymphocyte Count: 0.58 K/uL (Ref: 1.2-3.7) [abnormal]
+Hemoglobin: 11.8 g/dL (Ref: 13.7-17.5) [abnormal]
+Lymphocytes: 3.7 % (Ref: 19-53) [abnormal]
+INR(PT): 1.3  (Ref: 0.9-1.1) [abnormal]
+PT: 14.1 sec (Ref: 9.4-12.5) [abnormal]
+PTT: 31.7 sec (Ref: 25-36.5)
+CK-MB Index: 13.4 % (Ref: 0-6) [abnormal]
+Chloride: 99 mEq/L (Ref: 96-108)
+Bilirubin, Total: 0.4 mg/dL (Ref: 0-1.5)
+H: 2
+Phosphate: 4.1 mg/dL (Ref: 2.7-4.5)
+Calcium, Total: 8.4 mg/dL (Ref: 8.4-10.3)
+Sodium: 136 mEq/L (Ref: 133-145)
+Creatine Kinase, MB Isoenzyme: 41 ng/mL (Ref: 0-10) [abnormal]
+Magnesium: 1.9 mg/dL (Ref: 1.6-2.6)
+Anion Gap: ___ mEq/L (Ref: 8-16)
+L: 5
+I: 1
+Creatine Kinase (CK): ___ IU/L (Ref: 47-322)
+Potassium: 4.2 mEq/L (Ref: 3.3-5.1)
+Bicarbonate: 23 mEq/L (Ref: 22-32)
+Glucose: ___ mg/dL (Ref: 70-100) [abnormal]
+Asparate Aminotransferase (AST): 32 IU/L (Ref: 0-40)
+Creatinine: 0.2 mg/dL (Ref: 0.5-1.2) [abnormal]
+Alkaline Phosphatase: 149 IU/L (Ref: 40-130) [abnormal]
+Alanine Aminotransferase (ALT): 13 IU/L (Ref: 0-40)
+Urea Nitrogen: 14 mg/dL (Ref: 6-20)
+Troponin T: ___ ng/mL (Ref: 0-0.01) [abnormal]
+Red Top Hold:
+Albumin: 2.7 g/dL (Ref: 3.5-5.2) [abnormal]
+Lactate Dehydrogenase (LD): 361 IU/L (Ref: 94-250) [abnormal]
+Length of Urine Collection:
+Osmolality, Urine: 860 mOsm/kg
+Creatinine, Urine: 102 mg/dL
+Sodium, Urine:  mEq/L
+Osmolality, Measured: 276 mOsm/kg (Ref: 275-310)
+Ventilator: SPONTANEOUS.
+
+Discharge diagnoses (ICD): Y848, Z66, Z515, W1830XD, Z720

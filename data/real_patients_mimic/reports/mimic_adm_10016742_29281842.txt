@@ -1,0 +1,85 @@
+Laboratory Report - MIMIC-IV Demo (De-identified)
+Patient ID: 10016742 | Admission: 29281842 | Age: 58 | Gender: F
+Source: Beth Israel Deaconess Medical Center (de-identified)
+
+Laboratory Results
+--------------------------------------------------
+MCV: 85 fL (Ref: 82-98)
+MCHC: 31.5 g/dL (Ref: 32-37) [abnormal]
+Hematocrit: 35.5 % (Ref: 34-45)
+RDW-SD: 44.8 fL (Ref: 35.1-46.3)
+Red Blood Cells: 4.19 m/uL (Ref: 3.9-5.2)
+White Blood Cells: 13.2 K/uL (Ref: 4-10) [abnormal]
+Hemoglobin: 11.2 g/dL (Ref: 11.2-15.7)
+Platelet Count: 348 K/uL (Ref: 150-400)
+RDW: 14.5 % (Ref: 10.5-15.5)
+MCH: 26.7 pg (Ref: 26-32)
+PTT: 32.5 sec (Ref: 25-36.5)
+PT: 13.0 sec (Ref: 9.4-12.5) [abnormal]
+INR(PT): 1.2  (Ref: 0.9-1.1) [abnormal]
+Glucose: ___ mg/dL (Ref: 70-100) [abnormal]
+Phosphate: 2.3 mg/dL (Ref: 2.7-4.5) [abnormal]
+Creatinine: 0.3 mg/dL (Ref: 0.4-1.1) [abnormal]
+Chloride: 103 mEq/L (Ref: 96-108)
+Alanine Aminotransferase (ALT): 33 IU/L (Ref: 0-40)
+Bicarbonate: 33 mEq/L (Ref: 22-32) [abnormal]
+Anion Gap: 11 mEq/L (Ref: 8-20)
+Troponin T: ___ ng/mL (Ref: 0-0.01) [abnormal]
+Bilirubin, Total: 0.2 mg/dL (Ref: 0-1.5)
+Calcium, Total: 10.0 mg/dL (Ref: 8.4-10.3)
+Urea Nitrogen: 14 mg/dL (Ref: 6-20)
+Asparate Aminotransferase (AST): 24 IU/L (Ref: 0-40)
+Sodium: 143 mEq/L (Ref: 133-145)
+Magnesium: 2.0 mg/dL (Ref: 1.6-2.6)
+Alkaline Phosphatase: 114 IU/L (Ref: 35-105) [abnormal]
+Potassium: 3.7 mEq/L (Ref: 3.3-5.1)
+Creatine Kinase, MB Isoenzyme: 4 ng/mL (Ref: 0-10)
+L: 8
+I: 1
+H: 6
+Specimen Type: VEN.
+Calculated Total CO2: 35 mEq/L (Ref: 21-30) [abnormal]
+pH: 7.47 units (Ref: 7.35-7.45) [abnormal]
+pO2: ___ mm Hg (Ref: 85-105) [abnormal]
+pCO2: 47 mm Hg (Ref: 35-45) [abnormal]
+Base Excess: 8 mEq/L
+Vancomycin: 7.5 ug/mL (Ref: 10-20) [abnormal]
+Lactate Dehydrogenase (LD): 133 IU/L (Ref: 94-250)
+Absolute Eosinophil Count: 0.62 K/uL (Ref: 0.04-0.54) [abnormal]
+Immature Granulocytes: 0.4 %
+Absolute Lymphocyte Count: 2.80 K/uL (Ref: 1.2-3.7)
+Lymphocytes: 36.1 % (Ref: 19-53)
+Absolute Monocyte Count: 0.65 K/uL (Ref: 0.2-0.8)
+Absolute Basophil Count: 0.09 K/uL (Ref: 0.01-0.08) [abnormal]
+Monocytes: 8.4 % (Ref: 5-13)
+Eosinophils: 8.0 % (Ref: 1-7) [abnormal]
+Basophils: 1.2 % (Ref: 0-1) [abnormal]
+Neutrophils: 45.9 % (Ref: 34-71)
+Absolute Neutrophil Count: 3.56 K/uL (Ref: 1.6-6.1)
+Length of Urine Collection:
+Uhold: HOLD.
+Urea Nitrogen, Urine: 183 mg/dL
+Creatinine, Urine: 16 mg/dL
+Sodium, Urine: 43 mEq/L
+Nitrite:
+Bilirubin:  mg/dL
+RBC: 1 #/hpf (Ref: 0-2)
+Specific Gravity: 1.008   (Ref: 1.001-1.035)
+pH: 6.5 units (Ref: 5-8)
+Glucose:  mg/dL
+Ketone:  mg/dL
+Leukocytes:
+Urine Color:
+Blood:
+Bacteria:
+Urobilinogen:  mg/dL (Ref: 0.2-1)
+Epithelial Cells: 0 #/hpf
+Protein:  mg/dL
+Urine Appearance:
+Yeast: NONE
+WBC: 1 #/hpf (Ref: 0-5)
+Osmolality, Urine: 196 mOsm/kg
+Eosinophils:
+Lactate: 1.1 mmol/L (Ref: 0.5-2)
+
+Discharge diagnoses (ICD): D721, J95851, N179, G1221, B965

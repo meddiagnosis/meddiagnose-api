@@ -1,0 +1,26 @@
+Upper GI & Metabolic Panel
+Patient: Kabir Malhotra | DOB: 1975-08-14 | Male
+Lab: Dr. Lal PathLabs | Date: 2025-03-11
+Referring: Dr. Arjun Patel
+
+=== LIVER FUNCTION ===
+ALT: 28 U/L (Ref: 7-56)
+AST: 26 U/L (Ref: 10-40)
+ALP: 72 U/L (Ref: 44-147)
+Bilirubin Total: 0.9 mg/dL (Ref: 0.1-1.2)
+Albumin: 4.2 g/dL (Ref: 3.5-5.0)
+
+=== LIPID ===
+Triglycerides: 178 mg/dL (Ref: <150) [Mild elevation]
+
+=== RENAL ===
+Creatinine: 1.1 mg/dL (Ref: 0.7-1.3)
+eGFR: 88 mL/min/1.73m2
+
+=== H. PYLORI (Stool Antigen) ===
+H. pylori Antigen: Negative
+
+Impression: LFT normal. No H. pylori. Clinical picture suggests GERD.
+Clinical: Heartburn after meals, acid regurgitation, chest discomfort, bloating.
+Allergies: Codeine, Morphine - AVOID opioid analgesics.
+Recommend: PPI trial, lifestyle modification. Consider endoscopy if no improvement.

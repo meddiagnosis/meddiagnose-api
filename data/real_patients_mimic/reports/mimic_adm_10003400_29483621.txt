@@ -1,0 +1,88 @@
+Laboratory Report - MIMIC-IV Demo (De-identified)
+Patient ID: 10003400 | Admission: 29483621 | Age: 72 | Gender: F
+Source: Beth Israel Deaconess Medical Center (de-identified)
+
+Laboratory Results
+--------------------------------------------------
+Hemoglobin: 9.0 g/dL (Ref: 12-16) [abnormal]
+RDW: 20.5 % (Ref: 10.5-15.5) [abnormal]
+Platelet Count: 111 K/uL (Ref: 150-440) [abnormal]
+White Blood Cells: 3.2 K/uL (Ref: 4-11) [abnormal]
+MCV: 88 fL (Ref: 82-98)
+Red Blood Cells: 3.06 m/uL (Ref: 4.2-5.4) [abnormal]
+Hematocrit: 26.9 % (Ref: 36-48) [abnormal]
+MCH: 29.4 pg (Ref: 27-32)
+MCHC: 33.4 % (Ref: 31-35)
+Albumin: 2.6 g/dL (Ref: 3.5-5.2) [abnormal]
+INR(PT): 2.6  (Ref: 0.9-1.1) [abnormal]
+PTT: 28.8 sec (Ref: 25-36.5)
+PT: 27.7 sec (Ref: 9.4-12.5) [abnormal]
+Calcium, Total: 6.7 mg/dL (Ref: 8.4-10.3) [abnormal]
+Glucose: ___ mg/dL (Ref: 70-100)
+Creatinine: 0.8 mg/dL (Ref: 0.4-1.1)
+Bicarbonate: 24 mEq/L (Ref: 22-32)
+Anion Gap: 12 mEq/L (Ref: 8-20)
+Sodium: 145 mEq/L (Ref: 133-145)
+Chloride: 112 mEq/L (Ref: 96-108) [abnormal]
+Urea Nitrogen: 11 mg/dL (Ref: 6-20)
+Phosphate: 1.7 mg/dL (Ref: 2.7-4.5) [abnormal]
+Magnesium: 1.7 mg/dL (Ref: 1.6-2.6)
+Potassium: ___ mEq/L (Ref: 3.3-5.1) [abnormal]
+Lactate: ___ mmol/L (Ref: 0.5-2)
+Platelet Smear:
+Vitamin B12: 597 pg/mL (Ref: 240-900)
+Eosinophils: 3 % (Ref: 0-4)
+Basophils: 1 % (Ref: 0-2)
+Metamyelocytes: 1 % (Ref: 0-0) [abnormal]
+Myelocytes: 0 % (Ref: 0-0)
+Bands: 5 % (Ref: 0-5)
+Lymphocytes: 10 % (Ref: 18-42) [abnormal]
+Neutrophils: 54 % (Ref: 50-70)
+Monocytes: 26 % (Ref: 2-11) [abnormal]
+Atypical Lymphocytes: 0 % (Ref: 0-0)
+Carcinoembyronic Antigen (CEA): ___ ng/mL (Ref: 0-4) [abnormal]
+Ovalocytes:
+Polychromasia:
+Microcytes:
+Anisocytosis:
+Hypochromia:
+Macrocytes:
+Poikilocytosis:
+Reticulocyte Count, Automated: 1.0 % (Ref: 1.2-3.2) [abnormal]
+Immunoglobulin G: 485 mg/dL (Ref: 700-1600) [abnormal]
+Immunoglobulin A: 65 mg/dL (Ref: 70-400) [abnormal]
+Immunofixation:
+Folate: 6.1 ng/mL (Ref: 2-20)
+Protein, Total: 4.4 g/dL (Ref: 6.4-8.3) [abnormal]
+Inpatient Hematology/Oncology Smear:
+Immunoglobulin M: 20 mg/dL (Ref: 40-230) [abnormal]
+Protein Electrophoresis:
+WBC:  #/hpf (Ref: 0-5)
+Epithelial Cells: 13 #/hpf
+Specific Gravity: 1.038   (Ref: 1.001-1.035) [abnormal]
+Urobilinogen:  mg/dL (Ref: 0.2-1)
+RBC: 46 #/hpf (Ref: 0-2) [abnormal]
+Ketone:  mg/dL
+Nitrite:
+Protein: 100 mg/dL
+pH: 6.0 units (Ref: 5-8)
+Glucose:  mg/dL
+Blood:
+Urine Color:
+Leukocytes:
+Bacteria:
+Urine Appearance:
+Yeast: FEW
+Bilirubin:  mg/dL
+WBC Clumps:
+Fibrinogen, Functional: 432 mg/dL (Ref: 180-400) [abnormal]
+Schistocytes:
+Teardrop Cells:
+Iron Binding Capacity, Total: 165 ug/dL (Ref: 260-470) [abnormal]
+Ferritin: 423 ng/mL (Ref: 13-150) [abnormal]
+Transferrin: 127 mg/dL (Ref: 200-360) [abnormal]
+Iron: 35 ug/dL (Ref: 30-160)
+Bite Cells:
+Estimated GFR (MDRD equation):
+
+Discharge diagnoses (ICD): 4589, 27800, E9478, E8490, V5861

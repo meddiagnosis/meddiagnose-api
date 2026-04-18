@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+*.egg
+
+# Environment & Secrets
+.env
+.env.prod
+*.env.local
+google-play-service-account.json
+*-service-account.json
+*.pem
+*.key
+
+# Uploads
+uploads/*
+!uploads/.gitkeep
+
+# IDE
+.cursor/
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Database
+*.db
+*.sqlite3
+
+# Test cache
+.pytest_cache/
+
+# Logs
+*.log

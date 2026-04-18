@@ -1,0 +1,102 @@
+Laboratory Report - MIMIC-IV Demo (De-identified)
+Patient ID: 10014354 | Admission: 29600294 | Age: 60 | Gender: M
+Source: Beth Israel Deaconess Medical Center (de-identified)
+
+Laboratory Results
+--------------------------------------------------
+Immunoglobulin G: 537 mg/dL (Ref: 700-1600) [abnormal]
+Hemoglobin: 10.2 g/dL (Ref: 13.7-17.5) [abnormal]
+RDW-SD: 49.5 fL (Ref: 35.1-46.3) [abnormal]
+White Blood Cells: 15.7 K/uL (Ref: 4-10) [abnormal]
+MCH: 27.7 pg (Ref: 26-32)
+Hematocrit: 32.0 % (Ref: 40-51) [abnormal]
+MCHC: 31.9 g/dL (Ref: 32-37) [abnormal]
+Platelet Count: 201 K/uL (Ref: 150-400)
+MCV: 87 fL (Ref: 82-98)
+RDW: 15.4 % (Ref: 10.5-15.5)
+Red Blood Cells: 3.68 m/uL (Ref: 4.6-6.1) [abnormal]
+Glucose: ___ mg/dL (Ref: 70-100) [abnormal]
+Potassium: 4.4 mEq/L (Ref: 3.3-5.1)
+H: 0
+Bicarbonate: 23 mEq/L (Ref: 22-32)
+Sodium: ___ mEq/L (Ref: 135-147)
+Magnesium: 2.1 mg/dL (Ref: 1.6-2.6)
+Urea Nitrogen: 14 mg/dL (Ref: 6-20)
+Anion Gap: ___ mEq/L (Ref: 10-18)
+I: 1
+L: 10
+Creatinine: 1.0 mg/dL (Ref: 0.5-1.2)
+Calcium, Total: 8.8 mg/dL (Ref: 8.4-10.3)
+Phosphate: 3.8 mg/dL (Ref: 2.7-4.5)
+INR(PT): 1.1  (Ref: 0.9-1.1)
+PT: 12.4 sec (Ref: 9.4-12.5)
+PTT: 30.1 sec (Ref: 25-36.5)
+Influenza A by PCR:
+Influenza B by PCR:
+Chloride: 91 mEq/L (Ref: 96-108) [abnormal]
+Bilirubin, Total: 0.4 mg/dL (Ref: 0-1.5)
+Alanine Aminotransferase (ALT): 14 IU/L (Ref: 0-40)
+Estimated GFR (MDRD equation):
+Alkaline Phosphatase: 83 IU/L (Ref: 40-130)
+Lactate Dehydrogenase (LD): 248 IU/L (Ref: 94-250)
+Asparate Aminotransferase (AST): 13 IU/L (Ref: 0-40)
+Basophils: 1 % (Ref: 0-1)
+Myelocytes: 0 % (Ref: 0-0)
+Absolute Monocyte Count: 0.41 K/uL (Ref: 0.2-0.8)
+Absolute Eosinophil Count: 0.00 K/uL (Ref: 0.04-0.54) [abnormal]
+Absolute Lymphocyte Count: 10.56 K/uL (Ref: 1.2-3.7) [abnormal]
+Absolute Basophil Count: 0.20 K/uL (Ref: 0.01-0.08) [abnormal]
+Monocytes: 2 % (Ref: 5-13) [abnormal]
+Absolute Neutrophil Count: 8.93 K/uL (Ref: 1.6-6.1) [abnormal]
+Eosinophils: 0 % (Ref: 1-7)
+Platelet Smear:  N/A
+Neutrophils: 44 % (Ref: 34-71)
+Metamyelocytes: 1 % (Ref: 0-0) [abnormal]
+Lymphocytes: 52 % (Ref: 19-53)
+Bands: 0 % (Ref: 0-5)
+Atypical Lymphocytes: 0 % (Ref: 0-0)
+Poikilocytosis:  N/A
+Microcytes:  N/A
+Hypochromia:  N/A
+Macrocytes:  N/A
+Anisocytosis:  N/A
+Polychromasia:  N/A
+Ovalocytes:  N/A [abnormal]
+Schistocytes:  N/A [abnormal]
+NTproBNP: ___ pg/mL (Ref: 0-177) [abnormal]
+Thyroid Stimulating Hormone: 7.4 uIU/mL (Ref: 0.27-4.2) [abnormal]
+Specimen Type: MIX.
+Lactate: 1.9 mmol/L (Ref: 0.5-2)
+Osmolality, Measured: 267 mOsm/kg (Ref: 275-310) [abnormal]
+Base Excess: -3 mEq/L
+pH: 7.34 units (Ref: 7.35-7.45) [abnormal]
+Calculated Total CO2: 24 mEq/L (Ref: 21-30)
+pCO2: 42 mm Hg (Ref: 35-45)
+pO2: ___ mm Hg (Ref: 85-105) [abnormal]
+Oxygen Saturation: 53 %
+Length of Urine Collection:
+Osmolality, Urine: 384 mOsm/kg
+Sodium, Urine:  mEq/L
+Nitrite:  N/A
+WBC:  #/hpf (Ref: 0-5) [abnormal]
+Urine Appearance:  N/A [abnormal]
+Bilirubin:  N/A
+Ketone:  mg/dL (Ref: 0-0)
+Urine Color:  N/A
+Specific Gravity: 1.025   (Ref: 1.001-1.035)
+Epithelial Cells: 0 #/hpf
+Leukocytes:  N/A [abnormal]
+Yeast: MANY /hpf [abnormal]
+Blood:  N/A [abnormal]
+Bacteria:  /hpf [abnormal]
+Protein: 30 mg/dL (Ref: 0-0) [abnormal]
+Glucose:  mg/dL (Ref: 0-0)
+pH: 5.5 units (Ref: 5-8)
+RBC: 48 #/hpf (Ref: 0-2) [abnormal]
+Urobilinogen: 2 mg/dL (Ref: 0.2-1) [abnormal]
+Hyaline Casts: 48 #/lpf (Ref: 0-0) [abnormal]
+Creatinine, Urine: 226 mg/dL
+Urea Nitrogen, Urine: 345 mg/dL
+Teardrop Cells:  N/A [abnormal]
+
+Discharge diagnoses (ICD): I4892, I5032, Z6836, C9110, E785

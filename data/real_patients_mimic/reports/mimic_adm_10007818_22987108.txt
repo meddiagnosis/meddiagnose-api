@@ -1,0 +1,171 @@
+Laboratory Report - MIMIC-IV Demo (De-identified)
+Patient ID: 10007818 | Admission: 22987108 | Age: 69 | Gender: M
+Source: Beth Israel Deaconess Medical Center (de-identified)
+
+Laboratory Results
+--------------------------------------------------
+PT: 14.3 sec (Ref: 9.4-12.5) [abnormal]
+PTT: 38.5 sec (Ref: 25-36.5) [abnormal]
+INR(PT): 1.3  (Ref: 0.9-1.1) [abnormal]
+MCH: 30.6 pg (Ref: 26-32)
+Hemoglobin: 11.7 g/dL (Ref: 13.7-17.5) [abnormal]
+Platelet Count: 177 K/uL (Ref: 150-400)
+RDW: 15.3 % (Ref: 10.5-15.5)
+MCHC: 32.9 g/dL (Ref: 32-37)
+RDW-SD: 52.3 fL (Ref: 35.1-46.3) [abnormal]
+Red Blood Cells: 3.82 m/uL (Ref: 4.6-6.1) [abnormal]
+White Blood Cells: 8.6 K/uL (Ref: 4-10)
+MCV: 93 fL (Ref: 82-98)
+Hematocrit: 35.6 % (Ref: 40-51) [abnormal]
+Sodium: 125 mEq/L (Ref: 133-145) [abnormal]
+Bicarbonate: 21 mEq/L (Ref: 22-32) [abnormal]
+Chloride: 93 mEq/L (Ref: 96-108) [abnormal]
+Phosphate: 3.6 mg/dL (Ref: 2.7-4.5)
+Calcium, Total: 9.6 mg/dL (Ref: 8.4-10.3)
+Potassium: 5.2 mEq/L (Ref: 3.3-5.1) [abnormal]
+Bilirubin, Total: 1.2 mg/dL (Ref: 0-1.5)
+Alanine Aminotransferase (ALT): 22 IU/L (Ref: 0-40)
+Glucose: ___ mg/dL (Ref: 70-100) [abnormal]
+Alkaline Phosphatase: 84 IU/L (Ref: 40-130)
+Albumin: 3.6 g/dL (Ref: 3.5-5.2)
+Asparate Aminotransferase (AST): 45 IU/L (Ref: 0-40) [abnormal]
+Urea Nitrogen: 68 mg/dL (Ref: 6-20) [abnormal]
+Anion Gap: 16 mEq/L (Ref: 8-20)
+Creatinine: 2.0 mg/dL (Ref: 0.5-1.2) [abnormal]
+Magnesium: 2.1 mg/dL (Ref: 1.6-2.6)
+Estimated GFR (MDRD equation):
+Lactate Dehydrogenase (LD): 135 IU/L (Ref: 94-250)
+Total Nucleated Cells, Ascites: 268 #/uL (Ref: 0-0) [abnormal]
+Polys: 2 % (Ref: 0-0) [abnormal]
+Lymphocytes: 10 % (Ref: 0-0) [abnormal]
+Mesothelial Cell: 1 % (Ref: 0-0) [abnormal]
+Macrophage: 86 % (Ref: 0-0) [abnormal]
+Other: ___ % (Ref: 0-0) [abnormal]
+Monocytes: 0 % (Ref: 0-0)
+Albumin, Ascites: 0.8 g/dL
+RBC, Ascites: 9400 #/uL (Ref: 0-0) [abnormal]
+HIV Screen:
+ARCH-1: 0.09
+Length of Urine Collection:
+Creatinine, Urine: 142 mg/dL
+Potassium, Urine: 37 mEq/L
+Urea Nitrogen, Urine: 533 mg/dL
+Chloride, Urine:  mEq/L
+Sodium, Urine:  mEq/L
+Osmolality, Urine: 378 mOsm/kg
+25-OH Vitamin D: ___ ng/mL (Ref: 30-60) [abnormal]
+Parathyroid Hormone: 17 pg/mL (Ref: 15-65)
+Protein Electrophoresis:
+Immunofixation:
+Protein, Total: 7.1 g/dL (Ref: 6.4-8.3)
+Immunoglobulin M: 59 mg/dL (Ref: 40-230)
+Immunoglobulin G: 762 mg/dL (Ref: 700-1600)
+Immunoglobulin A: 319 mg/dL (Ref: 70-400)
+Prot. Electrophoresis, Urine:
+Total Protein, Urine: 8 mg/dL
+Total Protein, Ascites: 3.5 g/dL
+Ketone:  mg/dL
+Specific Gravity: 1.017   (Ref: 1.001-1.035)
+Blood:
+Yeast: NONE
+Urine Color:
+pH: 5.5 units (Ref: 5-8)
+WBC: 2 #/hpf (Ref: 0-5)
+Hyaline Casts: 3 #/lpf (Ref: 0-0) [abnormal]
+Glucose:  mg/dL
+Urine Mucous:
+Bacteria:
+Urobilinogen:  mg/dL (Ref: 0.2-1)
+Nitrite:
+RBC: 1 #/hpf (Ref: 0-2)
+Leukocytes:
+Protein:  mg/dL
+Bilirubin:  mg/dL
+Epithelial Cells:  #/hpf
+Urine Appearance:
+Hepatitis C Virus Antibody:
+Hepatitis B Virus Core Antibody:
+Hepatitis B Surface Antigen:
+Hepatitis B Surface Antibody:
+Creatine Kinase (CK): ___ IU/L (Ref: 47-322) [abnormal]
+Creatine Kinase, MB Isoenzyme: 1 ng/mL (Ref: 0-10)
+Troponin T: ___ ng/mL (Ref: 0-0.01) [abnormal]
+Fibrinogen, Functional: 257 mg/dL (Ref: 180-400)
+Eosinophils: 0.3 % (Ref: 1-7) [abnormal]
+Absolute Eosinophil Count: 0.04 K/uL (Ref: 0.04-0.54)
+Lymphocytes: 9.6 % (Ref: 19-53) [abnormal]
+Absolute Monocyte Count: 1.10 K/uL (Ref: 0.2-0.8) [abnormal]
+Monocytes: 9.0 % (Ref: 5-13)
+Absolute Basophil Count: 0.04 K/uL (Ref: 0.01-0.08)
+Basophils: 0.3 % (Ref: 0-1)
+Absolute Lymphocyte Count: 1.18 K/uL (Ref: 1.2-3.7) [abnormal]
+Immature Granulocytes: 0.8 %
+Absolute Neutrophil Count: 9.82 K/uL (Ref: 1.6-6.1) [abnormal]
+Neutrophils: 80.0 % (Ref: 34-71) [abnormal]
+Specimen Type: VEN.
+Calculated Total CO2: 17 mEq/L (Ref: 21-30) [abnormal]
+pH: ___ units (Ref: 7.35-7.45) [abnormal]
+pCO2: 46 mm Hg (Ref: 35-45) [abnormal]
+Base Excess: -14 mEq/L
+pO2: ___ mm Hg (Ref: 85-105) [abnormal]
+Hematocrit, Calculated: 24 %
+Hemoglobin: 7.9 g/dL (Ref: 14-18) [abnormal]
+Lactate: 7.3 mmol/L (Ref: 0.5-2) [abnormal]
+Blue Top Hold: HOLD.  DISCARD GREATER THAN 24 HRS OLD.
+Free Calcium: 1.17 mmol/L (Ref: 1.12-1.32)
+Bands: 3 % (Ref: 0-5)
+Myelocytes: 0 % (Ref: 0-0)
+Metamyelocytes: 3 % (Ref: 0-0) [abnormal]
+Atypical Lymphocytes: 0 % (Ref: 0-0)
+Platelet Smear:
+Echinocytes:
+Ovalocytes:
+Polychromasia:
+Anisocytosis:
+Hypochromia:
+Poikilocytosis:
+Microcytes:
+Schistocytes:
+Acanthocytes:
+Macrocytes:
+Chloride, Whole Blood: 105 mEq/L (Ref: 96-108)
+Glucose: 154 mg/dL (Ref: 70-105) [abnormal]
+Potassium, Whole Blood: 4.0 mEq/L (Ref: 3.3-5.1)
+Sodium, Whole Blood: 133 mEq/L (Ref: 133-145)
+Oxygen: 60 %
+PEEP: 5
+Ventilation Rate: 20/.
+Tidal Volume: 500
+Assist/Control:
+Temperature: 34.4
+Intubated: INTUBATED.
+Haptoglobin: 22 mg/dL (Ref: 30-200) [abnormal]
+Basophils: 1 % (Ref: 0-0) [abnormal]
+Amylase, Ascites: 20 IU/L
+Lactate Dehydrogenase, Ascites: 98 IU/L
+Oxygen Saturation: 76 %
+Ventilator: CONTROLLED.
+Bilirubin, Direct: 6.0 mg/dL (Ref: 0-0.3) [abnormal]
+Thyroxine (T4): 2.5 ug/dL (Ref: 4.6-12) [abnormal]
+Thyroid Stimulating Hormone: 0.92 uIU/mL (Ref: 0.27-4.2)
+Red Top Hold:
+Nucleated Red Cells: 1.1 % (Ref: 0-0) [abnormal]
+Vancomycin: 12.3 ug/mL (Ref: 10-20)
+Lipase: 131 IU/L (Ref: 0-60) [abnormal]
+Glucose, Ascites: 202 mg/dL
+Atypical Lymphocytes: ___ % (Ref: 0-0) [abnormal]
+Hematocrit, Ascites: ___ % (Ref: 0-0) [abnormal]
+Polys: 90 % (Ref: 0-0) [abnormal]
+Lymphocytes: 1 % (Ref: 0-0) [abnormal]
+Monos: 2 % (Ref: 0-0) [abnormal]
+Other Cell: ___ % (Ref: 0-0) [abnormal]
+Target Cells:
+Teardrop Cells:
+D-Dimer:  ng/mL (Ref: 0-500)
+Required O2: 84
+Alveolar-arterial Gradient: 505 mm Hg
+Bilirubin, Indirect: 8.8 mg/dL
+Tobramycin: 1.8 ug/mL (Ref: 6-10) [abnormal]
+Triglycerides: ___ mg/dL (Ref: 0-149) [abnormal]
+
+Discharge diagnoses (ICD): R627, B9561, A4151, K661, K7201

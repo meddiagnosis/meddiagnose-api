@@ -1,0 +1,32 @@
+Laboratory Report - MIMIC-IV Demo (De-identified)
+Patient ID: 10004457 | Admission: 25559382 | Age: 65 | Gender: M
+Source: Beth Israel Deaconess Medical Center (de-identified)
+
+Laboratory Results
+--------------------------------------------------
+Anion Gap: 11 mEq/L (Ref: 10-18)
+Albumin: 3.9 g/dL (Ref: 3.5-5.2)
+I: 1
+Potassium: 5.0 mEq/L (Ref: 3.5-5.4)
+Estimated GFR (MDRD equation):
+Chloride: 102 mEq/L (Ref: 96-108)
+Lactate Dehydrogenase (LD): 176 IU/L (Ref: 94-250)
+Alanine Aminotransferase (ALT): 17 IU/L (Ref: 0-40)
+H: 25
+Glucose: ___ mg/dL (Ref: 70-100) [abnormal]
+Sodium: 140 mEq/L (Ref: 135-147)
+Alkaline Phosphatase: 48 IU/L (Ref: 40-130)
+Asparate Aminotransferase (AST): 18 IU/L (Ref: 0-40)
+Urea Nitrogen: 18 mg/dL (Ref: 6-20)
+L: 19
+Bicarbonate: 27 mEq/L (Ref: 22-32)
+Creatinine: 1.1 mg/dL (Ref: 0.5-1.2)
+Bilirubin, Total: 0.3 mg/dL (Ref: 0-1.5)
+Cholesterol Ratio (Total/HDL): 5.1 Ratio
+Cholesterol, Total: 283 mg/dL (Ref: 0-199) [abnormal]
+Cholesterol, HDL: 55 mg/dL (Ref: 41-999)
+Cholesterol, LDL, Measured: 227 mg/dL (Ref: 0-129) [abnormal]
+Triglycerides: 115 mg/dL (Ref: 0-149)
+Cholesterol, LDL, Calculated: ___ mg/dL (Ref: 0-129) [abnormal]
+
+Discharge diagnoses (ICD): J45909, Z8571, R21, I25110, I5022

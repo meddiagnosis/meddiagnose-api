@@ -1,0 +1,52 @@
+Laboratory Report - MIMIC-IV Demo (De-identified)
+Patient ID: 10005866 | Admission: 26158160 | Age: 57 | Gender: M
+Source: Beth Israel Deaconess Medical Center (de-identified)
+
+Laboratory Results
+--------------------------------------------------
+Blue Top Hold: HOLD.  DISCARD GREATER THAN 24 HRS OLD.
+PTT: 34.5 sec (Ref: 25-36.5)
+PT: 15.3 sec (Ref: 9.4-12.5) [abnormal]
+INR(PT): 1.4  (Ref: 0.9-1.1) [abnormal]
+Anion Gap: 15 mEq/L (Ref: 8-20)
+Estimated GFR (MDRD equation):
+Alkaline Phosphatase: 67 IU/L (Ref: 40-130)
+Albumin: 3.0 g/dL (Ref: 3.5-5.2) [abnormal]
+Chloride: 89 mEq/L (Ref: 96-108) [abnormal]
+Alanine Aminotransferase (ALT): 17 IU/L (Ref: 0-40)
+Urea Nitrogen: 16 mg/dL (Ref: 6-20)
+Bilirubin, Total: 2.6 mg/dL (Ref: 0-1.5) [abnormal]
+Bicarbonate: 23 mEq/L (Ref: 22-32)
+Lipase: 14 IU/L (Ref: 0-60)
+Glucose: ___ mg/dL (Ref: 70-100) [abnormal]
+Potassium: 4.4 mEq/L (Ref: 3.3-5.1)
+Asparate Aminotransferase (AST): 49 IU/L (Ref: 0-40) [abnormal]
+Creatinine: 1.0 mg/dL (Ref: 0.5-1.2)
+Hemoglobin: 12.2 g/dL (Ref: 14-18) [abnormal]
+Platelet Count: 325 K/uL (Ref: 150-440)
+Red Blood Cells: 3.62 m/uL (Ref: 4.6-6.2) [abnormal]
+Basophils: 0.2 % (Ref: 0-2)
+Eosinophils: 0.4 % (Ref: 0-4)
+MCV: 107 fL (Ref: 82-98) [abnormal]
+Lymphocytes: 6.3 % (Ref: 18-42) [abnormal]
+MCH: 33.6 pg (Ref: 27-32) [abnormal]
+RDW: 13.6 % (Ref: 10.5-15.5)
+Neutrophils: 82.8 % (Ref: 50-70) [abnormal]
+White Blood Cells: 15.8 K/uL (Ref: 4-11) [abnormal]
+Hematocrit: 38.8 % (Ref: 40-52) [abnormal]
+MCHC: 31.3 % (Ref: 31-35)
+Monocytes: 10.2 % (Ref: 2-11)
+Sodium: ___ mEq/L (Ref: 133-145) [abnormal]
+Lactate: 2.7 mmol/L (Ref: 0.5-2) [abnormal]
+Phosphate: 3.4 mg/dL (Ref: 2.7-4.5)
+Calcium, Total: 7.7 mg/dL (Ref: 8.4-10.3) [abnormal]
+Magnesium: 1.6 mg/dL (Ref: 1.6-2.6)
+Total Nucleated Cells, Ascites: 1305 #/uL (Ref: 0-0) [abnormal]
+Mesothelial Cell: 1 % (Ref: 0-0) [abnormal]
+Atypical Lymphocytes: 1 % (Ref: 0-0) [abnormal]
+Polys: ___ % (Ref: 0-0) [abnormal]
+Monocytes: 18 % (Ref: 0-0) [abnormal]
+Lymphocytes: ___ % (Ref: 0-0) [abnormal]
+RBC, Ascites: 59000 #/uL (Ref: 0-0) [abnormal]
+
+Discharge diagnoses (ICD): 30503, 07054, 5723, 5531, 3051

@@ -1,0 +1,41 @@
+Laboratory Report - MIMIC-IV Demo (De-identified)
+Patient ID: 10005866 | Admission: 23514107 | Age: 57 | Gender: M
+Source: Beth Israel Deaconess Medical Center (de-identified)
+
+Laboratory Results
+--------------------------------------------------
+Anion Gap: ___ mEq/L (Ref: 8-16)
+I: 3
+Bicarbonate: 23 mEq/L (Ref: 22-32)
+Potassium: 3.7 mEq/L (Ref: 3.3-5.1)
+Glucose: ___ mg/dL (Ref: 70-100)
+H: 5
+Alanine Aminotransferase (ALT): 20 IU/L (Ref: 0-40)
+Magnesium: 1.5 mg/dL (Ref: 1.6-2.6) [abnormal]
+Sodium: 136 mEq/L (Ref: 133-145)
+Asparate Aminotransferase (AST): 72 IU/L (Ref: 0-40) [abnormal]
+Phosphate: 3.2 mg/dL (Ref: 2.7-4.5)
+Chloride: 102 mEq/L (Ref: 96-108)
+Urea Nitrogen: 8 mg/dL (Ref: 6-20)
+Alkaline Phosphatase: 103 IU/L (Ref: 40-130)
+Creatinine: 0.7 mg/dL (Ref: 0.5-1.2)
+Bilirubin, Total: 2.9 mg/dL (Ref: 0-1.5) [abnormal]
+Calcium, Total: 7.7 mg/dL (Ref: 8.4-10.3) [abnormal]
+L: 13
+Hematocrit: 37.9 % (Ref: 40-51) [abnormal]
+MCHC: 33.8 g/dL (Ref: 32-37)
+RDW: 15.6 % (Ref: 10.5-15.5) [abnormal]
+Red Blood Cells: 3.69 m/uL (Ref: 4.6-6.1) [abnormal]
+MCV: 103 fL (Ref: 82-98) [abnormal]
+Platelet Count: 104 K/uL (Ref: 150-400) [abnormal]
+White Blood Cells: 5.6 K/uL (Ref: 4-10)
+Hemoglobin: 12.8 g/dL (Ref: 13.7-17.5) [abnormal]
+RDW-SD: 57.9 fL (Ref: 35.1-46.3) [abnormal]
+MCH: 34.7 pg (Ref: 26-32) [abnormal]
+INR(PT): 1.6  (Ref: 0.9-1.1) [abnormal]
+PT: 17.1 sec (Ref: 9.4-12.5) [abnormal]
+Lactate: ___ mmol/L (Ref: 0.5-2)
+Specimen Type: VEN.
+Albumin: 2.2 g/dL (Ref: 3.5-5.2) [abnormal]
+
+Discharge diagnoses (ICD): K766, I81, F17210, K565, I8510

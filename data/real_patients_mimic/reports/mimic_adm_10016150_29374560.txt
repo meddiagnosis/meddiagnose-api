@@ -1,0 +1,87 @@
+Laboratory Report - MIMIC-IV Demo (De-identified)
+Patient ID: 10016150 | Admission: 29374560 | Age: 69 | Gender: M
+Source: Beth Israel Deaconess Medical Center (de-identified)
+
+Laboratory Results
+--------------------------------------------------
+Green Top Hold (plasma): HOLD.  DISCARD GREATER THAN 4 HOURS OLD.
+Red Top Hold:
+PTT: 46.2 sec (Ref: 25-36.5) [abnormal]
+INR(PT): 1.2  (Ref: 0.9-1.1) [abnormal]
+PT: 13.5 sec (Ref: 9.4-12.5) [abnormal]
+RDW: 13.1 % (Ref: 10.5-15.5)
+Basophils: 0.5 % (Ref: 0-2)
+Eosinophils: 1.4 % (Ref: 0-4)
+Hematocrit: 45.5 % (Ref: 40-52)
+Lymphocytes: 20.4 % (Ref: 18-42)
+MCV: 93 fL (Ref: 82-98)
+White Blood Cells: 5.4 K/uL (Ref: 4-11)
+Red Blood Cells: 4.92 m/uL (Ref: 4.6-6.2)
+Platelet Count: 136 K/uL (Ref: 150-440) [abnormal]
+MCH: 32.0 pg (Ref: 27-32)
+MCHC: 34.6 % (Ref: 31-35)
+Hemoglobin: 15.8 g/dL (Ref: 14-18)
+Neutrophils: 71.0 % (Ref: 50-70) [abnormal]
+Monocytes: 6.7 % (Ref: 2-11)
+Creatine Kinase (CK): ___ IU/L (Ref: 47-322)
+Troponin T:  ng/mL (Ref: 0-0.01)
+Creatine Kinase, MB Isoenzyme: 3 ng/mL (Ref: 0-10)
+Glucose: ___ mg/dL (Ref: 70-100) [abnormal]
+Creatinine: 0.9 mg/dL (Ref: 0.5-1.2)
+Estimated GFR (MDRD equation):
+Sodium: 139 mEq/L (Ref: 133-145)
+Calcium, Total: 9.0 mg/dL (Ref: 8.4-10.3)
+Anion Gap: 16 mEq/L (Ref: 8-20)
+Bicarbonate: 24 mEq/L (Ref: 22-32)
+Potassium: 4.1 mEq/L (Ref: 3.3-5.1)
+Chloride: 103 mEq/L (Ref: 96-108)
+Magnesium: 1.7 mg/dL (Ref: 1.6-2.6)
+Phosphate: 2.8 mg/dL (Ref: 2.7-4.5)
+Urea Nitrogen: 20 mg/dL (Ref: 6-20)
+Length of Urine Collection:
+Leukocytes:
+Bilirubin:  mg/dL
+Urobilinogen:  mg/dL (Ref: 0.2-1)
+Nitrite:
+Urine Color:
+Ketone: 150 mg/dL
+Protein: 30 mg/dL
+Blood:
+Urine Appearance:
+Specific Gravity: 1.031   (Ref: 1.001-1.035)
+pH: 5.5 units (Ref: 5-8)
+Glucose: 70 mg/dL
+Opiate Screen, Urine: NEG
+Methadone, Urine: NEG
+Barbiturate Screen, Urine: NEG
+Amphetamine Screen, Urine: NEG
+Benzodiazepine Screen, Urine: NEG
+Cocaine, Urine: NEG
+Acetaminophen:  ug/mL (Ref: 10-30)
+Ethanol:  mg/dL (Ref: 10-10)
+Barbiturate Screen: NEG
+Salicylate:  mg/dL (Ref: 2-25)
+Alkaline Phosphatase: 51 IU/L (Ref: 40-130)
+Alanine Aminotransferase (ALT): 22 IU/L (Ref: 0-40)
+Lactate Dehydrogenase (LD): 226 IU/L (Ref: 94-250)
+Asparate Aminotransferase (AST): 15 IU/L (Ref: 0-40)
+Bilirubin, Total: 2.1 mg/dL (Ref: 0-1.5) [abnormal]
+Benzodiazepine Screen: NEG
+Albumin: 4.1 g/dL (Ref: 3.5-5.2)
+Tricyclic Antidepressant Screen: NEG
+Cholesterol, Total: 142 mg/dL (Ref: 0-199)
+Thyroid Stimulating Hormone: 1.0 uIU/mL (Ref: 0.27-4.2)
+Triglycerides: ___ mg/dL (Ref: 0-149) [abnormal]
+Cholesterol, HDL: 36 mg/dL
+Cholesterol Ratio (Total/HDL): 3.9 Ratio
+Cholesterol, LDL, Calculated: 72 mg/dL (Ref: 0-129)
+% Hemoglobin A1c: ___ % (Ref: 4.8-5.9) [abnormal]
+eAG: ___ mg/dL (Ref: 91-123) [abnormal]
+Bacteria:
+WBC:  #/hpf (Ref: 0-5)
+RBC:  #/hpf (Ref: 0-2)
+Epithelial Cells: 0 #/hpf
+Urine Mucous:
+Yeast: NONE
+
+Discharge diagnoses (ICD): E8497, 4254, 5859, 3569, E8790

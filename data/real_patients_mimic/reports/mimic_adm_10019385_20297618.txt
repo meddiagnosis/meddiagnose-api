@@ -1,0 +1,95 @@
+Laboratory Report - MIMIC-IV Demo (De-identified)
+Patient ID: 10019385 | Admission: 20297618 | Age: 44 | Gender: M
+Source: Beth Israel Deaconess Medical Center (de-identified)
+
+Laboratory Results
+--------------------------------------------------
+Phosphate: 4.2 mg/dL (Ref: 2.7-4.5)
+H: 10
+I: 1
+L: 9
+White Blood Cells: 7.7 K/uL (Ref: 4-10)
+Hematocrit: 46.4 % (Ref: 40-51)
+MCHC: 33.4 g/dL (Ref: 32-37)
+MCV: 89 fL (Ref: 82-98)
+Platelet Count: 173 K/uL (Ref: 150-400)
+RDW-SD: 44.9 fL (Ref: 35.1-46.3)
+RDW: 13.8 % (Ref: 10.5-15.5)
+MCH: 29.8 pg (Ref: 26-32)
+Red Blood Cells: 5.21 m/uL (Ref: 4.6-6.1)
+Hemoglobin: 15.5 g/dL (Ref: 13.7-17.5)
+Magnesium: 2.2 mg/dL (Ref: 1.6-2.6)
+Calcium, Total: 9.4 mg/dL (Ref: 8.4-10.3)
+Anion Gap: 15 mEq/L (Ref: 8-20)
+Glucose: ___ mg/dL (Ref: 70-100) [abnormal]
+Estimated GFR (MDRD equation):
+Sodium: 138 mEq/L (Ref: 133-145)
+Creatinine: 0.8 mg/dL (Ref: 0.5-1.2)
+Potassium: 4.5 mEq/L (Ref: 3.3-5.1)
+Chloride: 102 mEq/L (Ref: 96-108)
+Urea Nitrogen: 16 mg/dL (Ref: 6-20)
+Bicarbonate: 26 mEq/L (Ref: 22-32)
+eAG: ___ mg/dL (Ref: 68-126) [abnormal]
+% Hemoglobin A1c: ___ % (Ref: 4-6) [abnormal]
+INR(PT): 0.9  (Ref: 0.9-1.1)
+PT: 10.0 sec (Ref: 9.4-12.5)
+PTT: ___ sec (Ref: 25-36.5) [abnormal]
+Troponin T:  ng/mL (Ref: 0-0.01)
+Creatine Kinase, MB Isoenzyme: 3 ng/mL (Ref: 0-10)
+Albumin: 4.5 g/dL (Ref: 3.5-5.2)
+Alkaline Phosphatase: 79 IU/L (Ref: 40-130)
+Alanine Aminotransferase (ALT): 46 IU/L (Ref: 0-40) [abnormal]
+Asparate Aminotransferase (AST): 24 IU/L (Ref: 0-40)
+Bilirubin, Total: 0.4 mg/dL (Ref: 0-1.5)
+Ketone:  mg/dL
+Leukocytes:
+Urobilinogen: 2 mg/dL (Ref: 0.2-1) [abnormal]
+Nitrite:
+Urine Appearance:
+Protein:  mg/dL
+pH: 7.0 units (Ref: 5-8)
+Blood:
+Bilirubin:  mg/dL
+Glucose:  mg/dL
+Specific Gravity: 1.015   (Ref: 1.001-1.035)
+Urine Color:
+pCO2: 43 mm Hg (Ref: 35-45)
+Base Excess: 0 mEq/L
+Intubated: INTUBATED.
+pO2: 194 mm Hg (Ref: 85-105) [abnormal]
+pH: 7.38 units (Ref: 7.35-7.45)
+Calculated Total CO2: 26 mEq/L (Ref: 21-30)
+Specimen Type: ART.
+Ventilator: CONTROLLED.
+Chloride, Whole Blood: 101 mEq/L (Ref: 96-108)
+Glucose: 125 mg/dL (Ref: 70-105) [abnormal]
+Potassium, Whole Blood: 5.0 mEq/L (Ref: 3.3-5.1)
+Free Calcium: 1.14 mmol/L (Ref: 1.12-1.32)
+Sodium, Whole Blood: 135 mEq/L (Ref: 133-145)
+Hematocrit, Calculated: 48 %
+Hemoglobin: 16.0 g/dL (Ref: 14-18)
+Lactate: 1.5 mmol/L (Ref: 0.5-2)
+Fibrinogen, Functional: 190 mg/dL (Ref: 180-400)
+Lymphocytes: 30 % (Ref: 19-53)
+Monocytes: 3 % (Ref: 5-13) [abnormal]
+Hypochromia:
+Neutrophils: 64 % (Ref: 34-71)
+Metamyelocytes: 2 % (Ref: 0-0) [abnormal]
+Absolute Neutrophil Count: 8.77 K/uL (Ref: 1.6-6.1) [abnormal]
+Anisocytosis:
+Bands: 0 % (Ref: 0-5)
+Basophils: 0 % (Ref: 0-1)
+Eosinophils: 1 % (Ref: 1-7)
+Absolute Monocyte Count: 0.41 K/uL (Ref: 0.2-0.8)
+Poikilocytosis:
+Absolute Basophil Count: 0.00 K/uL (Ref: 0.01-0.08) [abnormal]
+Absolute Eosinophil Count: 0.14 K/uL (Ref: 0.04-0.54)
+Platelet Smear:
+Myelocytes: 0 % (Ref: 0-0)
+Polychromasia:
+Microcytes:
+Atypical Lymphocytes: 0 % (Ref: 0-0)
+Absolute Lymphocyte Count: 4.11 K/uL (Ref: 1.2-3.7) [abnormal]
+Macrocytes:
+
+Discharge diagnoses (ICD): F17200, E785, Z955, I25110, F419

@@ -1,0 +1,126 @@
+Laboratory Report - MIMIC-IV Demo (De-identified)
+Patient ID: 10004733 | Admission: 27411876 | Age: 51 | Gender: M
+Source: Beth Israel Deaconess Medical Center (de-identified)
+
+Laboratory Results
+--------------------------------------------------
+PTT: 34.1 sec (Ref: 25-36.5)
+PT: 14.6 sec (Ref: 9.4-12.5) [abnormal]
+INR(PT): 1.3  (Ref: 0.9-1.1) [abnormal]
+Bicarbonate: 24 mEq/L (Ref: 22-32)
+Estimated GFR (MDRD equation):
+Glucose: ___ mg/dL (Ref: 70-100)
+Calcium, Total: 9.5 mg/dL (Ref: 8.4-10.3)
+Urea Nitrogen: 44 mg/dL (Ref: 6-20) [abnormal]
+Potassium: 3.7 mEq/L (Ref: 3.3-5.1)
+Anion Gap: 17 mEq/L (Ref: 8-20)
+Magnesium: 2.2 mg/dL (Ref: 1.6-2.6)
+Chloride: 109 mEq/L (Ref: 96-108) [abnormal]
+Phosphate: 3.5 mg/dL (Ref: 2.7-4.5)
+Creatinine: 3.4 mg/dL (Ref: 0.5-1.2) [abnormal]
+Sodium: 146 mEq/L (Ref: 133-145) [abnormal]
+Eosinophils: 3.8 % (Ref: 0-4)
+White Blood Cells: 7.4 K/uL (Ref: 4-11)
+RDW: 16.2 % (Ref: 10.5-15.5) [abnormal]
+MCH: 29.6 pg (Ref: 27-32)
+MCV: 92 fL (Ref: 82-98)
+Neutrophils: 81.8 % (Ref: 50-70) [abnormal]
+Hematocrit: 30.9 % (Ref: 40-52) [abnormal]
+MCHC: 32.3 % (Ref: 31-35)
+Basophils: 0.3 % (Ref: 0-2)
+Lymphocytes: 8.8 % (Ref: 18-42) [abnormal]
+Hemoglobin: 10.0 g/dL (Ref: 14-18) [abnormal]
+Monocytes: 5.3 % (Ref: 2-11)
+Platelet Count: 173 K/uL (Ref: 150-440)
+Red Blood Cells: 3.37 m/uL (Ref: 4.6-6.2) [abnormal]
+Specimen Type: VEN.
+Lactate: 0.8 mmol/L (Ref: 0.5-2)
+Urine Appearance:
+Transitional Epithelial Cells:  #/hpf
+Urine Color:
+Glucose:  mg/dL
+Epithelial Cells: 0 #/hpf
+Yeast: NONE
+Nitrite:
+WBC: 17 #/hpf (Ref: 0-5) [abnormal]
+Blood:
+Specific Gravity: 1.020   (Ref: 1.001-1.035)
+RBC: 1 #/hpf (Ref: 0-2)
+pH: 6.0 units (Ref: 5-8)
+Protein: 100 mg/dL
+Leukocytes:
+Urine Mucous:
+Bilirubin:  mg/dL
+Bacteria:
+Ketone:  mg/dL
+Urobilinogen: 2 mg/dL (Ref: 0.2-1) [abnormal]
+pO2: 100 mm Hg (Ref: 85-105)
+Base Excess: 0 mEq/L
+pH: 7.43 units (Ref: 7.35-7.45)
+Calculated Total CO2: 26 mEq/L (Ref: 21-30)
+Intubated: INTUBATED.
+pCO2: 38 mm Hg (Ref: 35-45)
+C-Reactive Protein: ___ mg/L (Ref: 0-5) [abnormal]
+Anti-Neutrophil Cytoplasmic Antibody: ___
+Anti-Nuclear Antibody: ___
+C3: 156 mg/dL (Ref: 90-180)
+C4: 45 mg/dL (Ref: 10-40) [abnormal]
+% Hemoglobin A1c: ___ % (Ref: 4.8-5.9)
+eAG: ___ mg/dL (Ref: 91-123)
+Anticardiolipin Antibody IgG: ___ GPL (Ref: 0-15)
+Anticardiolipin Antibody IgM: ___ MPL (Ref: 0-12.5)
+Ammonia: 56 umol/L (Ref: 10-60)
+Thyroid Stimulating Hormone: 1.4 uIU/mL (Ref: 0.27-4.2)
+Cholesterol, Total: 123 mg/dL (Ref: 0-199)
+Triglycerides: ___ mg/dL (Ref: 0-149) [abnormal]
+Cholesterol, LDL, Calculated: 46 mg/dL (Ref: 0-129)
+Cholesterol Ratio (Total/HDL): 8.2 Ratio
+Cholesterol, HDL: 15 mg/dL
+Blue Top Hold: HOLD.  DISCARD GREATER THAN 24 HRS OLD.
+Lupus Anticoagulant: NEG
+Vancomycin: 44.3 ug/mL (Ref: 10-20) [abnormal]
+Asparate Aminotransferase (AST): 53 IU/L (Ref: 0-40) [abnormal]
+Albumin: 2.9 g/dL (Ref: 3.5-5.2) [abnormal]
+Lactate Dehydrogenase (LD): 184 IU/L (Ref: 94-250)
+Bilirubin, Total: 1.1 mg/dL (Ref: 0-1.5)
+Alkaline Phosphatase: 113 IU/L (Ref: 40-130)
+Alanine Aminotransferase (ALT): 46 IU/L (Ref: 0-40) [abnormal]
+Haptoglobin: 294 mg/dL (Ref: 30-200) [abnormal]
+Hepatitis C Virus Antibody:
+Hepatitis B Virus Core Antibody:
+Hepatitis B Surface Antibody:
+Amorphous Crystals:
+Hepatitis B Surface Antigen:
+Voided Specimen:
+Problem Specimen:
+Hyaline Casts: 3 #/lpf (Ref: 0-0) [abnormal]
+Creatine Kinase (CK): ___ IU/L (Ref: 47-322)
+Creatine Kinase, MB Isoenzyme: 1 ng/mL (Ref: 0-10)
+Troponin T: ___ ng/mL (Ref: 0-0.01) [abnormal]
+Length of Urine Collection:
+Osmolality, Urine: 421 mOsm/kg
+Potassium, Urine: 19 mEq/L
+Protein/Creatinine Ratio: 1.7 mg/mg (Ref: 0-0.2) [abnormal]
+Chloride, Urine: 93 mEq/L
+Sodium, Urine: 117 mEq/L
+Magnesium, Urine: 2.6 mg/dL
+Total Protein, Urine: 129 mg/dL
+Creatinine, Urine: 77 mg/dL
+Phosphate, Urine: ___ mg/dL
+Blood, Occult:
+Hypochromia:
+Macrocytes:
+Polychromasia:
+Ovalocytes:
+Microcytes:
+Anisocytosis:
+Fragmented Cells:
+Poikilocytosis:
+Ferritin: 498 ng/mL (Ref: 30-400) [abnormal]
+Iron: 37 ug/dL (Ref: 45-160) [abnormal]
+Reticulocyte Count, Automated: 1.7 % (Ref: 1.2-3.2)
+D-Dimer: ___ ng/mL (Ref: 0-500) [abnormal]
+Protein, Total: 6.4 g/dL (Ref: 6.4-8.3)
+Globulin: 3.1 g/dL (Ref: 2-4)
+
+Discharge diagnoses (ICD): 5849, 78722, 2760, E8798, 5859

@@ -1,0 +1,68 @@
+Laboratory Report - MIMIC-IV Demo (De-identified)
+Patient ID: 10014354 | Admission: 24980601 | Age: 60 | Gender: M
+Source: Beth Israel Deaconess Medical Center (de-identified)
+
+Laboratory Results
+--------------------------------------------------
+L: 20
+Estimated GFR (MDRD equation):
+Calcium, Total: 9.0 mg/dL (Ref: 8.4-10.3)
+Asparate Aminotransferase (AST): 34 IU/L (Ref: 0-40)
+Glucose: ___ mg/dL (Ref: 70-100) [abnormal]
+Alanine Aminotransferase (ALT): 31 IU/L (Ref: 0-40)
+H: 2
+Bicarbonate: 23 mEq/L (Ref: 22-32)
+Creatinine: 1.0 mg/dL (Ref: 0.5-1.2)
+Phosphate: 3.6 mg/dL (Ref: 2.7-4.5)
+Magnesium: 2.0 mg/dL (Ref: 1.6-2.6)
+Sodium: 134 mEq/L (Ref: 135-147) [abnormal]
+Urea Nitrogen: 18 mg/dL (Ref: 6-20)
+Potassium: 4.3 mEq/L (Ref: 3.5-5.4)
+Anion Gap: 14 mEq/L (Ref: 10-18)
+Chloride: 97 mEq/L (Ref: 96-108)
+I: 0
+Thyroxine (T4), Free: 0.7 ng/dL (Ref: 0.93-1.7) [abnormal]
+Thyroid Stimulating Hormone: 28 uIU/mL (Ref: 0.27-4.2) [abnormal]
+Absolute Neutrophil Count: 4.47 K/uL (Ref: 1.6-6.1)
+Lymphocytes: 32 % (Ref: 19-53)
+Hypochromia:  N/A [abnormal]
+Macrocytes:  N/A [abnormal]
+Monocytes: 10 % (Ref: 5-13)
+Spherocytes:  N/A [abnormal]
+Atypical Lymphocytes: 1 % (Ref: 0-0) [abnormal]
+Absolute Eosinophil Count: 0.26 K/uL (Ref: 0.04-0.54)
+Eosinophils: 3 % (Ref: 1-7)
+Schistocytes:  N/A [abnormal]
+Platelet Smear:  N/A
+Microcytes:  N/A [abnormal]
+Absolute Lymphocyte Count: 2.84 K/uL (Ref: 1.2-3.7)
+Anisocytosis:  N/A [abnormal]
+Teardrop Cells:  N/A [abnormal]
+Absolute Basophil Count: 0.17 K/uL (Ref: 0.01-0.08) [abnormal]
+Polychromasia:  N/A [abnormal]
+Basophils: 2 % (Ref: 0-1) [abnormal]
+Neutrophils: ___ % (Ref: 34-71)
+RBC Morphology:  N/A [abnormal]
+Absolute Monocyte Count: 0.86 K/uL (Ref: 0.2-0.8) [abnormal]
+Ovalocytes:  N/A [abnormal]
+Poikilocytosis:  N/A [abnormal]
+INR(PT): 1.1  (Ref: 0.9-1.1)
+PTT: 52.2 sec (Ref: 25-36.5) [abnormal]
+PT: 12.0 sec (Ref: 9.4-12.5)
+Vitamin B12: 513 pg/mL (Ref: 240-900)
+MCHC: 30.4 g/dL (Ref: 32-37) [abnormal]
+MCH: 26.5 pg (Ref: 26-32)
+Platelet Count: 159 K/uL (Ref: 150-400)
+RDW-SD: 46.7 fL (Ref: 35.1-46.3) [abnormal]
+Red Blood Cells: 3.59 m/uL (Ref: 4.6-6.1) [abnormal]
+Hematocrit: 31.2 % (Ref: 40-51) [abnormal]
+Hemoglobin: 9.5 g/dL (Ref: 13.7-17.5) [abnormal]
+RDW: 14.6 % (Ref: 10.5-15.5)
+White Blood Cells: 8.6 K/uL (Ref: 4-10)
+MCV: 87 fL (Ref: 82-98)
+Uric Acid: 6.9 mg/dL (Ref: 3.4-7)
+Alkaline Phosphatase: 90 IU/L (Ref: 40-130)
+Lactate Dehydrogenase (LD): 190 IU/L (Ref: 94-250)
+Bilirubin, Total: 0.3 mg/dL (Ref: 0-1.5)
+
+Discharge diagnoses (ICD): Z6837, F09, H409, R740, F325

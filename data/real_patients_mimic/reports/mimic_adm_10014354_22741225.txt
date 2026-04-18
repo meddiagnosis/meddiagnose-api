@@ -1,0 +1,101 @@
+Laboratory Report - MIMIC-IV Demo (De-identified)
+Patient ID: 10014354 | Admission: 22741225 | Age: 60 | Gender: M
+Source: Beth Israel Deaconess Medical Center (de-identified)
+
+Laboratory Results
+--------------------------------------------------
+Length of Urine Collection:
+Leukocytes:
+Yeast: NONE
+RBC: 0 #/hpf (Ref: 0-2)
+Urine Appearance:
+pH: 6.5 units (Ref: 5-8)
+Bilirubin:  mg/dL
+Bacteria:
+Epithelial Cells: 0 #/hpf
+Protein: 30 mg/dL
+Urobilinogen:  mg/dL (Ref: 0.2-1)
+WBC: 0 #/hpf (Ref: 0-5)
+Nitrite:
+Glucose:  mg/dL
+Blood:
+Ketone:  mg/dL
+Urine Color:
+Specific Gravity: 1.020   (Ref: 1.001-1.035)
+Barbiturate Screen, Urine: NEG
+Benzodiazepine Screen, Urine: NEG
+Oxycodone: NEG
+Methadone, Urine: NEG
+Opiate Screen, Urine: POS
+Amphetamine Screen, Urine: NEG
+Cocaine, Urine: NEG
+Metamyelocytes: 0 % (Ref: 0-0)
+Atypical Lymphocytes: 0 % (Ref: 0-0)
+Absolute Basophil Count: 0.00 K/uL (Ref: 0.01-0.08) [abnormal]
+Bands: 0 % (Ref: 0-5)
+Absolute Lymphocyte Count: 57.41 K/uL (Ref: 1.2-3.7) [abnormal]
+Neutrophils: ___ % (Ref: 34-71) [abnormal]
+Absolute Eosinophil Count: 0.00 K/uL (Ref: 0.04-0.54) [abnormal]
+Lymphocytes: 92 % (Ref: 19-53) [abnormal]
+Platelet Smear:
+Myelocytes: 0 % (Ref: 0-0)
+Absolute Monocyte Count: 0.62 K/uL (Ref: 0.2-0.8)
+Absolute Neutrophil Count: 4.37 K/uL (Ref: 1.6-6.1)
+Monocytes: 1 % (Ref: 5-13) [abnormal]
+Eosinophils: 0 % (Ref: 1-7)
+Basophils: 0 % (Ref: 0-1)
+Hypochromia:
+Macrocytes:
+Microcytes:
+Polychromasia:
+Echinocytes:
+Poikilocytosis:
+Ovalocytes:
+Anisocytosis:
+Phosphate: 3.9 mg/dL (Ref: 2.7-4.5)
+Bicarbonate: 23 mEq/L (Ref: 22-32)
+Anion Gap: 16 mEq/L (Ref: 8-20)
+Magnesium: 1.8 mg/dL (Ref: 1.6-2.6)
+Bilirubin, Total: 0.2 mg/dL (Ref: 0-1.5)
+Urea Nitrogen: 13 mg/dL (Ref: 6-20)
+Tricyclic Antidepressant Screen: NEG
+Chloride: 100 mEq/L (Ref: 96-108)
+Alkaline Phosphatase: 32 IU/L (Ref: 40-130) [abnormal]
+Salicylate:  mg/dL (Ref: 2-25)
+Benzodiazepine Screen: NEG
+Sodium: 134 mEq/L (Ref: 133-145)
+Troponin T:  ng/mL (Ref: 0-0.01)
+Alanine Aminotransferase (ALT): ___ IU/L (Ref: 0-40)
+Calcium, Total: 8.8 mg/dL (Ref: 8.4-10.3)
+Asparate Aminotransferase (AST): ___ IU/L (Ref: 0-40)
+Creatinine: 1.1 mg/dL (Ref: 0.5-1.2)
+Barbiturate Screen: NEG
+Ethanol:  mg/dL (Ref: 10-10)
+Potassium: ___ mEq/L (Ref: 3.3-5.1)
+Glucose: ___ mg/dL (Ref: 70-100) [abnormal]
+Acetaminophen:  ug/mL (Ref: 10-30)
+Cholesterol, HDL: 24 mg/dL
+Cholesterol, LDL, Calculated: 30 mg/dL (Ref: 0-129)
+Cholesterol Ratio (Total/HDL): 4.2 Ratio
+Cholesterol, Total: 100 mg/dL (Ref: 0-199)
+Thyroid Stimulating Hormone: 20 uIU/mL (Ref: 0.27-4.2) [abnormal]
+Triglycerides: ___ mg/dL (Ref: 0-149) [abnormal]
+Hematocrit: 27.8 % (Ref: 40-51) [abnormal]
+MCH: 27.2 pg (Ref: 26-32)
+White Blood Cells: 62.4 K/uL (Ref: 4-10) [abnormal]
+MCV: 89 fL (Ref: 82-98)
+MCHC: 30.6 g/dL (Ref: 32-37) [abnormal]
+Hemoglobin: 8.5 g/dL (Ref: 13.7-17.5) [abnormal]
+Red Blood Cells: 3.12 m/uL (Ref: 4.6-6.1) [abnormal]
+RDW: 14.3 % (Ref: 10.5-15.5)
+Platelet Count: 240 K/uL (Ref: 150-400)
+RDW-SD: 45.2 fL (Ref: 35.1-46.3)
+PT: 10.8 sec (Ref: 9.4-12.5)
+INR(PT): 1.0  (Ref: 0.9-1.1)
+PTT: 30.5 sec (Ref: 25-36.5)
+eAG: ___ mg/dL (Ref: 91-123) [abnormal]
+% Hemoglobin A1c: ___ % (Ref: 4.8-5.9) [abnormal]
+Thyroxine (T4), Free: 1.1 ng/dL (Ref: 0.93-1.7)
+Triiodothyronine (T3): 93 ng/dL (Ref: 80-200)
+
+Discharge diagnoses (ICD): C9110, M25512, J449, Z950, I10

@@ -1,0 +1,74 @@
+Laboratory Report - MIMIC-IV Demo (De-identified)
+Patient ID: 10014354 | Admission: 26228185 | Age: 60 | Gender: M
+Source: Beth Israel Deaconess Medical Center (de-identified)
+
+Laboratory Results
+--------------------------------------------------
+Alkaline Phosphatase: 91 IU/L (Ref: 40-130)
+Creatinine: 1.3 mg/dL (Ref: 0.5-1.2) [abnormal]
+Bilirubin, Total: 0.2 mg/dL (Ref: 0-1.5)
+Anion Gap: 14 mEq/L (Ref: 10-18)
+Asparate Aminotransferase (AST): 51 IU/L (Ref: 0-40) [abnormal]
+Phosphate: 3.7 mg/dL (Ref: 2.7-4.5)
+L: 21
+H: 2
+Urea Nitrogen: 25 mg/dL (Ref: 6-20) [abnormal]
+Sodium: 133 mEq/L (Ref: 135-147) [abnormal]
+Glucose: ___ mg/dL (Ref: 70-100) [abnormal]
+Bicarbonate: 19 mEq/L (Ref: 22-32) [abnormal]
+Magnesium: 2.0 mg/dL (Ref: 1.6-2.6)
+Chloride: 100 mEq/L (Ref: 96-108)
+I: 0
+Alanine Aminotransferase (ALT): 59 IU/L (Ref: 0-40) [abnormal]
+Potassium: 4.4 mEq/L (Ref: 3.5-5.4)
+Calcium, Total: 8.2 mg/dL (Ref: 8.4-10.3) [abnormal]
+Absolute Lymphocyte Count: 6.10 K/uL (Ref: 1.2-3.7) [abnormal]
+Monocytes: 8 % (Ref: 5-13)
+Absolute Eosinophil Count: 0.00 K/uL (Ref: 0.04-0.54) [abnormal]
+Absolute Neutrophil Count: 5.59 K/uL (Ref: 1.6-6.1)
+Eosinophils: 0 % (Ref: 1-7) [abnormal]
+Lymphocytes: 48 % (Ref: 19-53)
+Neutrophils: 44 % (Ref: 34-71)
+Absolute Basophil Count: 0.00 K/uL (Ref: 0.01-0.08) [abnormal]
+Basophils: 0 % (Ref: 0-1)
+Poikilocytosis:  N/A [abnormal]
+Absolute Monocyte Count: 1.02 K/uL (Ref: 0.2-0.8) [abnormal]
+RBC Morphology:  N/A [abnormal]
+Platelet Smear:  N/A [abnormal]
+Ovalocytes:  N/A [abnormal]
+PTT: 31.8 sec (Ref: 25-36.5)
+INR(PT): 1.1  (Ref: 0.9-1.1)
+PT: 11.5 sec (Ref: 9.4-12.5)
+MCV: 85 fL (Ref: 82-98)
+Red Blood Cells: 3.43 m/uL (Ref: 4.6-6.1) [abnormal]
+Platelet Count: 126 K/uL (Ref: 150-400) [abnormal]
+MCHC: 30.1 g/dL (Ref: 32-37) [abnormal]
+Hemoglobin: 8.8 g/dL (Ref: 13.7-17.5) [abnormal]
+White Blood Cells: 12.7 K/uL (Ref: 4-10) [abnormal]
+Hematocrit: 29.2 % (Ref: 40-51) [abnormal]
+MCH: 25.7 pg (Ref: 26-32) [abnormal]
+RDW-SD: 52.3 fL (Ref: 35.1-46.3) [abnormal]
+RDW: 16.8 % (Ref: 10.5-15.5) [abnormal]
+Spherocytes:  N/A [abnormal]
+Anisocytosis:  N/A [abnormal]
+Microcytes:  N/A [abnormal]
+Hypochromia:  N/A [abnormal]
+Teardrop Cells:  N/A [abnormal]
+Polychromasia:  N/A [abnormal]
+Schistocytes:  N/A [abnormal]
+Albumin: 3.7 g/dL (Ref: 3.5-5.2)
+Lactate Dehydrogenase (LD): 254 IU/L (Ref: 94-250) [abnormal]
+Estimated GFR (MDRD equation):
+Elliptocytes:  N/A [abnormal]
+Atypical Lymphocytes: ___ % (Ref: 0-0)
+Myelocytes: 0 % (Ref: 0-0)
+Bands: 0 % (Ref: 0-5)
+Metamyelocytes: 0 % (Ref: 0-0)
+Lactate: 0.9 mmol/L (Ref: 0.5-2)
+Specimen Type: MIX.
+Uric Acid: 6.7 mg/dL (Ref: 3.4-7)
+Nucleated Red Cells: 0.2 % (Ref: 0-0) [abnormal]
+Macrocytes:  N/A [abnormal]
+Prostate Specific Antigen: ___ ng/mL (Ref: 0-4)
+
+Discharge diagnoses (ICD): D696, Z950, D509, E785, F329

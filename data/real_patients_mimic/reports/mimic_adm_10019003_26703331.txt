@@ -1,0 +1,92 @@
+Laboratory Report - MIMIC-IV Demo (De-identified)
+Patient ID: 10019003 | Admission: 26703331 | Age: 65 | Gender: F
+Source: Beth Israel Deaconess Medical Center (de-identified)
+
+Laboratory Results
+--------------------------------------------------
+Bands: 5 % (Ref: 0-5)
+Poikilocytosis:  N/A
+Absolute Monocyte Count: 14.88 K/uL (Ref: 0.2-0.8) [abnormal]
+Anisocytosis:  N/A
+Polychromasia:  N/A
+Monocytes: 24 % (Ref: 5-13) [abnormal]
+Microcytes:  N/A
+Hypochromia:  N/A
+Absolute Neutrophil Count: 44.64 K/uL (Ref: 1.6-6.1) [abnormal]
+Atypical Lymphocytes: 0 % (Ref: 0-0)
+Myelocytes: 1 % (Ref: 0-0) [abnormal]
+Absolute Eosinophil Count: 0.00 K/uL (Ref: 0.04-0.54) [abnormal]
+Eosinophils: 0 % (Ref: 1-7)
+Absolute Basophil Count: 0.00 K/uL (Ref: 0.01-0.08) [abnormal]
+Metamyelocytes: 0 % (Ref: 0-0)
+Macrocytes:  N/A [abnormal]
+Absolute Lymphocyte Count: 1.86 K/uL (Ref: 1.2-3.7)
+Neutrophils: 67 % (Ref: 34-71)
+Basophils: 0 % (Ref: 0-1)
+Platelet Smear:  N/A [abnormal]
+Lymphocytes: 3 % (Ref: 19-53) [abnormal]
+Phosphate: 6.6 mg/dL (Ref: 2.7-4.5) [abnormal]
+L: 6
+Alanine Aminotransferase (ALT): 7 IU/L (Ref: 0-40)
+Bicarbonate: 20 mEq/L (Ref: 22-32) [abnormal]
+Asparate Aminotransferase (AST): 27 IU/L (Ref: 0-40)
+Magnesium: 1.9 mg/dL (Ref: 1.6-2.6)
+Anion Gap: ___ mEq/L (Ref: 10-18)
+Potassium: ___ mEq/L (Ref: 3.5-5.4)
+Glucose: ___ mg/dL (Ref: 70-100)
+Creatinine: 1.2 mg/dL (Ref: 0.4-1.1) [abnormal]
+Urea Nitrogen: 19 mg/dL (Ref: 6-20)
+H: 21
+Sodium: ___ mEq/L (Ref: 135-147)
+Uric Acid: 13.8 mg/dL (Ref: 2.4-5.7) [abnormal]
+Bilirubin, Total: 0.4 mg/dL (Ref: 0-1.5)
+I: 1
+Alkaline Phosphatase: 61 IU/L (Ref: 35-105)
+Albumin: 3.4 g/dL (Ref: 3.5-5.2) [abnormal]
+Estimated GFR (MDRD equation):
+Chloride: 102 mEq/L (Ref: 96-108)
+Lactate Dehydrogenase (LD): 981 IU/L (Ref: 94-250) [abnormal]
+Calcium, Total: 7.7 mg/dL (Ref: 8.4-10.3) [abnormal]
+PT: 15.8 sec (Ref: 9.4-12.5) [abnormal]
+PTT: 28.8 sec (Ref: 25-36.5)
+INR(PT): 1.5  (Ref: 0.9-1.1) [abnormal]
+White Blood Cells: 62.0 K/uL (Ref: 4-10) [abnormal]
+Platelet Count: 23 K/uL (Ref: 150-400) [abnormal]
+Hematocrit: 25.3 % (Ref: 34-45) [abnormal]
+MCV: 113 fL (Ref: 82-98) [abnormal]
+RDW: 22.4 % (Ref: 10.5-15.5) [abnormal]
+MCHC: 29.2 g/dL (Ref: 32-37) [abnormal]
+RDW-SD: 89.2 fL (Ref: 35.1-46.3) [abnormal]
+MCH: 33.0 pg (Ref: 26-32) [abnormal]
+Red Blood Cells: 2.24 m/uL (Ref: 3.9-5.2) [abnormal]
+Hemoglobin: 7.4 g/dL (Ref: 11.2-15.7) [abnormal]
+Nucleated Red Cells: 2 % (Ref: 0-0) [abnormal]
+Teardrop Cells:  N/A [abnormal]
+Basophilic Stippling:  N/A [abnormal]
+Pappenheimer Bodies:  N/A [abnormal]
+Ovalocytes:  N/A [abnormal]
+Fibrinogen, Functional: 259 mg/dL (Ref: 180-400)
+Glucose:  mg/dL (Ref: 0-0)
+Yeast: NONE /hpf
+Epithelial Cells: 0 #/hpf
+Protein: 100 mg/dL (Ref: 0-0) [abnormal]
+Urobilinogen:  mg/dL (Ref: 0.2-1)
+WBC Clumps:  /hpf [abnormal]
+Leukocytes:  N/A [abnormal]
+WBC: 99 #/hpf (Ref: 0-5) [abnormal]
+Urine Mucous:  /hpf [abnormal]
+Bacteria:  /hpf [abnormal]
+pH: 6.0 units (Ref: 5-8)
+Ketone:  mg/dL (Ref: 0-0)
+RBC: 9 #/hpf (Ref: 0-2) [abnormal]
+Blood:  N/A [abnormal]
+Urine Color:  N/A
+Specific Gravity: 1.022   (Ref: 1.001-1.035)
+Nitrite:  N/A
+Urine Appearance:  N/A [abnormal]
+Bilirubin:  N/A
+Schistocytes:  N/A [abnormal]
+Spherocytes:  N/A [abnormal]
+Bite Cells:  N/A [abnormal]
+
+Discharge diagnoses (ICD): J9601, E119, J449, E039, K7581

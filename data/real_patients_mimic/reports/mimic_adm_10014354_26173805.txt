@@ -1,0 +1,54 @@
+Laboratory Report - MIMIC-IV Demo (De-identified)
+Patient ID: 10014354 | Admission: 26173805 | Age: 60 | Gender: M
+Source: Beth Israel Deaconess Medical Center (de-identified)
+
+Laboratory Results
+--------------------------------------------------
+eAG: ___ mg/dL (Ref: 68-126) [abnormal]
+% Hemoglobin A1c: ___ % (Ref: 4-6) [abnormal]
+White Blood Cells: 5.2 K/uL (Ref: 4-10)
+Immature Granulocytes: 0.2 % (Ref: 0-0.6)
+Absolute Monocyte Count: 0.66 K/uL (Ref: 0.2-0.8)
+Absolute Eosinophil Count: 0.00 K/uL (Ref: 0.04-0.54) [abnormal]
+Neutrophils: 52.1 % (Ref: 34-71)
+Hemoglobin: 11.2 g/dL (Ref: 13.7-17.5) [abnormal]
+Red Blood Cells: 3.60 m/uL (Ref: 4.6-6.1) [abnormal]
+Platelet Count: 143 K/uL (Ref: 150-400) [abnormal]
+Eosinophils: 0.0 % (Ref: 1-7) [abnormal]
+Absolute Neutrophil Count: 2.72 K/uL (Ref: 1.6-6.1)
+MCHC: 33.4 g/dL (Ref: 32-37)
+RDW-SD: 45.4 fL (Ref: 35.1-46.3)
+RDW: 13.2 % (Ref: 10.5-15.5)
+Absolute Basophil Count: 0.01 K/uL (Ref: 0.01-0.08)
+Lymphocytes: 34.9 % (Ref: 19-53)
+Monocytes: 12.6 % (Ref: 5-13)
+Absolute Lymphocyte Count: 1.82 K/uL (Ref: 1.2-3.7)
+MCH: 31.1 pg (Ref: 26-32)
+Basophils: 0.2 % (Ref: 0-1)
+Hematocrit: 33.5 % (Ref: 40-51) [abnormal]
+MCV: 93 fL (Ref: 82-98)
+PT: 12.5 sec (Ref: 9.4-12.5)
+INR(PT): 1.2  (Ref: 0.9-1.1) [abnormal]
+PTT: 31.0 sec (Ref: 25-36.5)
+L: 14
+Bilirubin, Total: 0.5 mg/dL (Ref: 0-1.5)
+Thyroxine (T4): 6.9 ug/dL (Ref: 4.6-12)
+Calcium, Total: 9.2 mg/dL (Ref: 8.4-10.3)
+Sodium: ___ mEq/L (Ref: 135-147) [abnormal]
+Glucose: ___ mg/dL (Ref: 70-100) [abnormal]
+I: 1
+Phosphate: 3.3 mg/dL (Ref: 2.7-4.5)
+Creatinine: 0.9 mg/dL (Ref: 0.5-1.2)
+Thyroid Stimulating Hormone: 12 uIU/mL (Ref: 0.27-4.2) [abnormal]
+Alkaline Phosphatase: 90 IU/L (Ref: 40-130)
+Alanine Aminotransferase (ALT): 47 IU/L (Ref: 0-40) [abnormal]
+Chloride: 97 mEq/L (Ref: 96-108)
+Anion Gap: ___ mEq/L (Ref: 10-18)
+Magnesium: 2.0 mg/dL (Ref: 1.6-2.6)
+Potassium: ___ mEq/L (Ref: 3.5-5.4)
+H: 12
+Asparate Aminotransferase (AST): 53 IU/L (Ref: 0-40) [abnormal]
+Urea Nitrogen: 11 mg/dL (Ref: 6-20)
+Bicarbonate: 23 mEq/L (Ref: 22-32)
+
+Discharge diagnoses (ICD): Z794, E1142, Z8547, R61, F419

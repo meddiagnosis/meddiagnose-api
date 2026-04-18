@@ -1,0 +1,17 @@
+Laboratory Report - MIMIC-IV Demo (De-identified)
+Patient ID: 10002930 | Admission: 23688993 | Age: 48 | Gender: F
+Source: Beth Israel Deaconess Medical Center (de-identified)
+
+Laboratory Results
+--------------------------------------------------
+Vitamin B12: 406 pg/mL (Ref: 240-900)
+Folate: 15.9 ng/mL (Ref: 2-20)
+Thyroid Stimulating Hormone: 0.70 uIU/mL (Ref: 0.27-4.2)
+Alanine Aminotransferase (ALT): 43 IU/L (Ref: 0-40) [abnormal]
+Bilirubin, Total: 0.4 mg/dL (Ref: 0-1.5)
+Human Chorionic Gonadotropin:  mIU/mL (Ref: 0-100000)
+Alkaline Phosphatase: 72 IU/L (Ref: 35-105)
+Asparate Aminotransferase (AST): 64 IU/L (Ref: 0-40) [abnormal]
+Creatine Kinase (CK): ___ IU/L (Ref: 29-201)
+
+Discharge diagnoses (ICD): V6284, 30560, 311, 30500, V08

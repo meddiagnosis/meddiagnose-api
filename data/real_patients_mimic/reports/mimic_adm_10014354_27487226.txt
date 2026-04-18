@@ -1,0 +1,142 @@
+Laboratory Report - MIMIC-IV Demo (De-identified)
+Patient ID: 10014354 | Admission: 27487226 | Age: 60 | Gender: M
+Source: Beth Israel Deaconess Medical Center (de-identified)
+
+Laboratory Results
+--------------------------------------------------
+L: 12
+Chloride: 91 mEq/L (Ref: 96-108) [abnormal]
+PTT: 33.6 sec (Ref: 25-36.5)
+Phosphate: 4.1 mg/dL (Ref: 2.7-4.5)
+I: 0
+Sodium: ___ mEq/L (Ref: 135-147) [abnormal]
+Calcium, Total: 8.4 mg/dL (Ref: 8.4-10.3)
+Bicarbonate: 21 mEq/L (Ref: 22-32) [abnormal]
+H: 74
+Magnesium: 2.1 mg/dL (Ref: 1.6-2.6)
+PT: 12.5 sec (Ref: 9.4-12.5)
+Urea Nitrogen: 35 mg/dL (Ref: 6-20) [abnormal]
+Creatinine: 1.7 mg/dL (Ref: 0.5-1.2) [abnormal]
+INR(PT): 1.2  (Ref: 0.9-1.1) [abnormal]
+Glucose: ___ mg/dL (Ref: 70-100) [abnormal]
+Potassium: 5.7 mEq/L (Ref: 3.3-5.1) [abnormal]
+Anion Gap: ___ mEq/L (Ref: 10-18)
+Bands: 1 % (Ref: 0-5)
+Absolute Monocyte Count: 2.21 K/uL (Ref: 0.2-0.8) [abnormal]
+Basophils: 0 % (Ref: 0-1)
+Absolute Eosinophil Count: 0.00 K/uL (Ref: 0.04-0.54) [abnormal]
+Absolute Neutrophil Count: 22.98 K/uL (Ref: 1.6-6.1) [abnormal]
+Metamyelocytes: 0 % (Ref: 0-0)
+Absolute Basophil Count: 0.00 K/uL (Ref: 0.01-0.08) [abnormal]
+Eosinophils: 0 % (Ref: 1-7)
+Myelocytes: 0 % (Ref: 0-0)
+Neutrophils: ___ % (Ref: 34-71)
+Lymphocytes: 43 % (Ref: 19-53)
+Monocytes: 5 % (Ref: 5-13)
+Atypical Lymphocytes: 0 % (Ref: 0-0)
+Absolute Lymphocyte Count: 19.01 K/uL (Ref: 1.2-3.7) [abnormal]
+Platelet Smear:  N/A
+Anisocytosis:  N/A
+Poikilocytosis:  N/A [abnormal]
+Macrocytes:  N/A
+Ovalocytes:  N/A [abnormal]
+Polychromasia:  N/A [abnormal]
+Microcytes:  N/A
+Hypochromia:  N/A
+NTproBNP: ___ pg/mL (Ref: 0-177) [abnormal]
+MCH: 30.0 pg (Ref: 26-32)
+MCV: 90 fL (Ref: 82-98)
+RDW-SD: 49.1 fL (Ref: 35.1-46.3) [abnormal]
+RDW: 14.9 % (Ref: 10.5-15.5)
+MCHC: 33.2 g/dL (Ref: 32-37)
+Hematocrit: 32.2 % (Ref: 40-51) [abnormal]
+Red Blood Cells: 3.57 m/uL (Ref: 4.6-6.1) [abnormal]
+White Blood Cells: ___ K/uL (Ref: 4-10) [abnormal]
+Platelet Count: 323 K/uL (Ref: 150-400)
+Hemoglobin: 10.7 g/dL (Ref: 13.7-17.5) [abnormal]
+Troponin T:  ng/mL (Ref: 0-0.01)
+Potassium, Whole Blood: 5.4 mEq/L (Ref: 3.3-5.1) [abnormal]
+Lactate: 2.2 mmol/L (Ref: 0.5-2) [abnormal]
+Red Top Hold:
+Green Top Hold (plasma): HOLD.  DISCARD GREATER THAN 4 HOURS OLD.
+Albumin: 3.4 g/dL (Ref: 3.5-5.2) [abnormal]
+Alkaline Phosphatase: 43 IU/L (Ref: 40-130)
+Asparate Aminotransferase (AST): 18 IU/L (Ref: 0-40)
+Lipase: 25 IU/L (Ref: 0-60)
+Bilirubin, Total: 0.3 mg/dL (Ref: 0-1.5)
+Alanine Aminotransferase (ALT): 20 IU/L (Ref: 0-40)
+Specimen Type: VEN.
+Base Excess: -1 mEq/L
+pH: 7.37 units (Ref: 7.35-7.45)
+pO2: ___ mm Hg (Ref: 85-105) [abnormal]
+Oxygen Saturation: 49 %
+pCO2: 42 mm Hg (Ref: 35-45)
+Calculated Total CO2: 25 mEq/L (Ref: 21-30)
+Length of Urine Collection:
+Uhold: HOLD.
+Blood:  N/A
+Urine Color:  N/A
+Urobilinogen:  mg/dL (Ref: 0.2-1)
+Glucose:  mg/dL (Ref: 0-0)
+Protein:  mg/dL (Ref: 0-0)
+Bilirubin:  N/A
+Ketone:  mg/dL (Ref: 0-0)
+Urine Appearance:  N/A
+Specific Gravity: 1.013   (Ref: 1.001-1.035)
+pH: 6.5 units (Ref: 5-8)
+Nitrite:  N/A
+Leukocytes:  N/A
+Creatine Kinase, MB Isoenzyme: 1 ng/mL (Ref: 0-10)
+Thyroid Stimulating Hormone: 5.4 uIU/mL (Ref: 0.27-4.2) [abnormal]
+Uric Acid: 6.1 mg/dL (Ref: 3.4-7)
+WBC Clumps:  /hpf [abnormal]
+RBC:  #/hpf (Ref: 0-2) [abnormal]
+Epithelial Cells:  #/hpf
+Bacteria:  /hpf [abnormal]
+Yeast: NONE /hpf
+WBC: 36 #/hpf (Ref: 0-5) [abnormal]
+Urine Mucous:  /hpf [abnormal]
+Hyaline Casts: 3 #/lpf (Ref: 0-0) [abnormal]
+Urea Nitrogen, Urine: 814 mg/dL
+Potassium, Urine: 59 mEq/L
+Creatinine, Urine: 147 mg/dL
+Sodium, Urine:  mEq/L
+Osmolality, Measured: 288 mOsm/kg (Ref: 275-310)
+Teardrop Cells:  N/A [abnormal]
+Echinocytes:  N/A [abnormal]
+Lactate Dehydrogenase (LD): 262 IU/L (Ref: 94-250) [abnormal]
+Osmolality, Urine: 432 mOsm/kg
+Creatine Kinase (CK): ___ IU/L (Ref: 47-322)
+Estimated GFR (MDRD equation):
+Nucleated Red Cells: 1 % (Ref: 0-0) [abnormal]
+Schistocytes:  N/A [abnormal]
+C-Reactive Protein: 16.0 mg/L (Ref: 0-5) [abnormal]
+EDTA Hold:
+Bite Cells:  N/A [abnormal]
+Acanthocytes:  N/A [abnormal]
+Bands: 1 % (Ref: 0-0) [abnormal]
+Monos: 4 % (Ref: 0-0) [abnormal]
+Lymphocytes: 68 % (Ref: 0-0) [abnormal]
+Polys: ___ % (Ref: 0-0) [abnormal]
+Total Nucleated Cells, Other: 2667 #/uL (Ref: 0-0) [abnormal]
+Hematocrit, Other Fluid: ___ % (Ref: 0-0) [abnormal]
+LD, Body Fluid: 859 IU/L
+Albumin, Body Fluid: 2.9 g/dL
+Glucose, Body Fluid: 198 mg/dL
+Total Protein, Body Fluid: 4.9 g/dL
+Chloride, Urine: 85 mEq/L
+Anti-Nuclear Antibody: ___ N/A
+Anti-Smooth Muscle Antibody:  N/A
+Anti-Mitochondrial Antibody: ___ N/A
+Hepatitis C Virus Antibody:  N/A
+Hepatitis B Surface Antibody:  N/A
+HPE1: 0.417
+Hepatitis B Virus Core Antibody:  N/A
+HPE7: 0.035
+HPE4:
+HPE2:
+HPE3: 1.90
+Hepatitis B Surface Antigen:  N/A
+Hepatitis A Virus Antibody: ___ N/A
+
+Discharge diagnoses (ICD): I4892, N179, E1142, Z8673, I314

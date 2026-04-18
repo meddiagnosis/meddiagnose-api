@@ -1,0 +1,1206 @@
+{
+  "patients": [
+    {
+      "user_email": "mimic_10000032_adm22595853@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10000032_22595853.txt",
+      "symptoms": "Patient age 52, F. Lab results from hospitalization (admission 22595853).",
+      "clinical_notes": "De-identified EHR data. ICD codes: 496, 5715, 5723",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10000032_adm22841357@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10000032_22841357.txt",
+      "symptoms": "Patient age 52, F. Lab results from hospitalization (admission 22841357).",
+      "clinical_notes": "De-identified EHR data. ICD codes: 2761, V08, 2875",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10000032_adm25742920@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10000032_25742920.txt",
+      "symptoms": "Patient age 52, F. Lab results from hospitalization (admission 25742920).",
+      "clinical_notes": "De-identified EHR data. ICD codes: 3051, 78791, V08",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10000032_adm29079034@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10000032_29079034.txt",
+      "symptoms": "Patient age 52, F. Lab results from hospitalization (admission 29079034).",
+      "clinical_notes": "De-identified EHR data. ICD codes: 29680, 78959, 7994",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10001217_adm24597018@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10001217_24597018.txt",
+      "symptoms": "Patient age 55, F. Lab results from hospitalization (admission 24597018).",
+      "clinical_notes": "De-identified EHR data. ICD codes: V168, V161, 04109",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10001217_adm27703517@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10001217_27703517.txt",
+      "symptoms": "Patient age 55, F. Lab results from hospitalization (admission 27703517).",
+      "clinical_notes": "De-identified EHR data. ICD codes: 340, 3485, 3240",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10001725_adm25563031@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10001725_25563031.txt",
+      "symptoms": "Patient age 46, F. Lab results from hospitalization (admission 25563031).",
+      "clinical_notes": "De-identified EHR data. ICD codes: 49390, 7291, 6185",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10002428_adm20321825@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10002428_20321825.txt",
+      "symptoms": "Patient age 80, F. Lab results from hospitalization (admission 20321825).",
+      "clinical_notes": "De-identified EHR data. ICD codes: 4019, 29281, 4240",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10002428_adm23473524@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10002428_23473524.txt",
+      "symptoms": "Patient age 80, F. Lab results from hospitalization (admission 23473524).",
+      "clinical_notes": "De-identified EHR data. ICD codes: V707, 00845, 5990",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10002428_adm25797028@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10002428_25797028.txt",
+      "symptoms": "Patient age 80, F. Lab results from hospitalization (admission 25797028).",
+      "clinical_notes": "De-identified EHR data. ICD codes: 5990, 7102, 2449",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10002428_adm28295257@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10002428_28295257.txt",
+      "symptoms": "Patient age 80, F. Lab results from hospitalization (admission 28295257).",
+      "clinical_notes": "De-identified EHR data. ICD codes: M8008XA, E43, Z681",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10002428_adm28662225@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10002428_28662225.txt",
+      "symptoms": "Patient age 80, F. Lab results from hospitalization (admission 28662225).",
+      "clinical_notes": "De-identified EHR data. ICD codes: E9478, 2762, 5845",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10002428_adm28676446@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10002428_28676446.txt",
+      "symptoms": "Patient age 80, F. Lab results from hospitalization (admission 28676446).",
+      "clinical_notes": "De-identified EHR data. ICD codes: 4019, 7102, 2724",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10002495_adm24982426@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10002495_24982426.txt",
+      "symptoms": "Patient age 81, M. Lab results from hospitalization (admission 24982426).",
+      "clinical_notes": "De-identified EHR data. ICD codes: R310, N179, Z7901",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10002930_adm23688993@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10002930_23688993.txt",
+      "symptoms": "Patient age 48, F. Lab results from hospitalization (admission 23688993).",
+      "clinical_notes": "De-identified EHR data. ICD codes: V6284, 30560, 311",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10002930_adm25282382@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10002930_25282382.txt",
+      "symptoms": "Patient age 48, F. Lab results from hospitalization (admission 25282382).",
+      "clinical_notes": "De-identified EHR data. ICD codes: V620, 07070, V6284",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10002930_adm25696644@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10002930_25696644.txt",
+      "symptoms": "Patient age 48, F. Lab results from hospitalization (admission 25696644).",
+      "clinical_notes": "De-identified EHR data. ICD codes: 30500, V600, 30590",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10002930_adm25922998@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10002930_25922998.txt",
+      "symptoms": "Patient age 48, F. Lab results from hospitalization (admission 25922998).",
+      "clinical_notes": "De-identified EHR data. ICD codes: F10239, F1110, R45851",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10002930_adm28697806@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10002930_28697806.txt",
+      "symptoms": "Patient age 48, F. Lab results from hospitalization (admission 28697806).",
+      "clinical_notes": "De-identified EHR data. ICD codes: E162, Z21, B1920",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10003046_adm26048429@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10003046_26048429.txt",
+      "symptoms": "Patient age 64, M. Lab results from hospitalization (admission 26048429).",
+      "clinical_notes": "De-identified EHR data. ICD codes: 1505, 53081, 53085",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10003400_adm20214994@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10003400_20214994.txt",
+      "symptoms": "Patient age 72, F. Lab results from hospitalization (admission 20214994).",
+      "clinical_notes": "De-identified EHR data. ICD codes: 99859, 42731, 81600",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10003400_adm22390287@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10003400_22390287.txt",
+      "symptoms": "Patient age 72, F. Lab results from hospitalization (admission 22390287).",
+      "clinical_notes": "De-identified EHR data. ICD codes: 40390, 5921, 5853",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10003400_adm23559586@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10003400_23559586.txt",
+      "symptoms": "Patient age 72, F. Lab results from hospitalization (admission 23559586).",
+      "clinical_notes": "De-identified EHR data. ICD codes: E669, N179, D696",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10003400_adm26090619@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10003400_26090619.txt",
+      "symptoms": "Patient age 72, F. Lab results from hospitalization (admission 26090619).",
+      "clinical_notes": "De-identified EHR data. ICD codes: V5861, E9342, 7919",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10003400_adm26467376@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10003400_26467376.txt",
+      "symptoms": "Patient age 72, F. Lab results from hospitalization (admission 26467376).",
+      "clinical_notes": "De-identified EHR data. ICD codes: 5853, E9320, V5861",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10003400_adm27296885@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10003400_27296885.txt",
+      "symptoms": "Patient age 72, F. Lab results from hospitalization (admission 27296885).",
+      "clinical_notes": "De-identified EHR data. ICD codes: 71536, 40390, 27800",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10003400_adm29483621@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10003400_29483621.txt",
+      "symptoms": "Patient age 72, F. Lab results from hospitalization (admission 29483621).",
+      "clinical_notes": "De-identified EHR data. ICD codes: 4589, 27800, E9478",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10004235_adm22187210@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10004235_22187210.txt",
+      "symptoms": "Patient age 47, M. Lab results from hospitalization (admission 22187210).",
+      "clinical_notes": "De-identified EHR data. ICD codes: 29900, 42731, V5861",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10004235_adm24181354@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10004235_24181354.txt",
+      "symptoms": "Patient age 47, M. Lab results from hospitalization (admission 24181354).",
+      "clinical_notes": "De-identified EHR data. ICD codes: 42731, 51881, 75169",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10004235_adm25970245@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10004235_25970245.txt",
+      "symptoms": "Patient age 47, M. Lab results from hospitalization (admission 25970245).",
+      "clinical_notes": "De-identified EHR data. ICD codes: 57512, V8535, 42789",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10004422_adm21255400@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10004422_21255400.txt",
+      "symptoms": "Patient age 78, M. Lab results from hospitalization (admission 21255400).",
+      "clinical_notes": "De-identified EHR data. ICD codes: E8782, V4582, E8497",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10004457_adm21039249@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10004457_21039249.txt",
+      "symptoms": "Patient age 65, M. Lab results from hospitalization (admission 21039249).",
+      "clinical_notes": "De-identified EHR data. ICD codes: V8741, V153, 4019",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10004457_adm23251352@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10004457_23251352.txt",
+      "symptoms": "Patient age 65, M. Lab results from hospitalization (admission 23251352).",
+      "clinical_notes": "De-identified EHR data. ICD codes: V1582, V1079, 41401",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10004457_adm25559382@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10004457_25559382.txt",
+      "symptoms": "Patient age 65, M. Lab results from hospitalization (admission 25559382).",
+      "clinical_notes": "De-identified EHR data. ICD codes: J45909, Z8571, R21",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10004457_adm28108313@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10004457_28108313.txt",
+      "symptoms": "Patient age 65, M. Lab results from hospitalization (admission 28108313).",
+      "clinical_notes": "De-identified EHR data. ICD codes: Z8546, I2510, E785",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10004457_adm28723315@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10004457_28723315.txt",
+      "symptoms": "Patient age 65, M. Lab results from hospitalization (admission 28723315).",
+      "clinical_notes": "De-identified EHR data. ICD codes: V153, 2749, 41401",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10004720_adm22081550@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10004720_22081550.txt",
+      "symptoms": "Patient age 61, M. Lab results from hospitalization (admission 22081550).",
+      "clinical_notes": "De-identified EHR data. ICD codes: Y848, Z66, Z515",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10004733_adm27411876@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10004733_27411876.txt",
+      "symptoms": "Patient age 51, M. Lab results from hospitalization (admission 27411876).",
+      "clinical_notes": "De-identified EHR data. ICD codes: 5849, 78722, 2760",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10005348_adm25239799@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10005348_25239799.txt",
+      "symptoms": "Patient age 76, M. Lab results from hospitalization (admission 25239799).",
+      "clinical_notes": "De-identified EHR data. ICD codes: 311, 4241, 4019",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10005348_adm29176490@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10005348_29176490.txt",
+      "symptoms": "Patient age 76, M. Lab results from hospitalization (admission 29176490).",
+      "clinical_notes": "De-identified EHR data. ICD codes: 2724, V5866, 4019",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10005348_adm29496232@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10005348_29496232.txt",
+      "symptoms": "Patient age 76, M. Lab results from hospitalization (admission 29496232).",
+      "clinical_notes": "De-identified EHR data. ICD codes: 2752, 78820, 4580",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10005817_adm20626031@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10005817_20626031.txt",
+      "symptoms": "Patient age 66, M. Lab results from hospitalization (admission 20626031).",
+      "clinical_notes": "De-identified EHR data. ICD codes: V707, V8741, 42732",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10005817_adm28661809@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10005817_28661809.txt",
+      "symptoms": "Patient age 66, M. Lab results from hospitalization (admission 28661809).",
+      "clinical_notes": "De-identified EHR data. ICD codes: C7B8, Z9981, I129",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10005866_adm20364112@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10005866_20364112.txt",
+      "symptoms": "Patient age 57, M. Lab results from hospitalization (admission 20364112).",
+      "clinical_notes": "De-identified EHR data. ICD codes: K766, K660, Z515",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10005866_adm21636229@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10005866_21636229.txt",
+      "symptoms": "Patient age 57, M. Lab results from hospitalization (admission 21636229).",
+      "clinical_notes": "De-identified EHR data. ICD codes: Z6820, K7031, K660",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10005866_adm22589518@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10005866_22589518.txt",
+      "symptoms": "Patient age 57, M. Lab results from hospitalization (admission 22589518).",
+      "clinical_notes": "De-identified EHR data. ICD codes: E872, R188, E871",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10005866_adm23514107@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10005866_23514107.txt",
+      "symptoms": "Patient age 57, M. Lab results from hospitalization (admission 23514107).",
+      "clinical_notes": "De-identified EHR data. ICD codes: K766, I81, F17210",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10005866_adm26134779@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10005866_26134779.txt",
+      "symptoms": "Patient age 57, M. Lab results from hospitalization (admission 26134779).",
+      "clinical_notes": "De-identified EHR data. ICD codes: F17210, K766, M47818",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10005866_adm26158160@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10005866_26158160.txt",
+      "symptoms": "Patient age 57, M. Lab results from hospitalization (admission 26158160).",
+      "clinical_notes": "De-identified EHR data. ICD codes: 30503, 07054, 5723",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10005866_adm27167814@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10005866_27167814.txt",
+      "symptoms": "Patient age 57, M. Lab results from hospitalization (admission 27167814).",
+      "clinical_notes": "De-identified EHR data. ICD codes: R339, D62, T17990A",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10005909_adm20199380@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10005909_20199380.txt",
+      "symptoms": "Patient age 40, F. Lab results from hospitalization (admission 20199380).",
+      "clinical_notes": "De-identified EHR data. ICD codes: I9751, I871, Y838",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10006053_adm22942076@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10006053_22942076.txt",
+      "symptoms": "Patient age 52, M. Lab results from hospitalization (admission 22942076).",
+      "clinical_notes": "De-identified EHR data. ICD codes: 45620, 5845, 5712",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10006580_adm24159665@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10006580_24159665.txt",
+      "symptoms": "Patient age 63, F. Lab results from hospitalization (admission 24159665).",
+      "clinical_notes": "De-identified EHR data. ICD codes: 2749, 71690, V5867",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10007058_adm22954658@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10007058_22954658.txt",
+      "symptoms": "Patient age 48, M. Lab results from hospitalization (admission 22954658).",
+      "clinical_notes": "De-identified EHR data. ICD codes: Z23, I214, K219",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10007795_adm20285402@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10007795_20285402.txt",
+      "symptoms": "Patient age 53, F. Lab results from hospitalization (admission 20285402).",
+      "clinical_notes": "De-identified EHR data. ICD codes: 00845, 1179, V103",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10007795_adm22051341@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10007795_22051341.txt",
+      "symptoms": "Patient age 53, F. Lab results from hospitalization (admission 22051341).",
+      "clinical_notes": "De-identified EHR data. ICD codes: 33819, 24900, V443",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10007795_adm25135483@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10007795_25135483.txt",
+      "symptoms": "Patient age 53, F. Lab results from hospitalization (admission 25135483).",
+      "clinical_notes": "De-identified EHR data. ICD codes: 1179, 2859, 2720",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10007795_adm27962747@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10007795_27962747.txt",
+      "symptoms": "Patient age 53, F. Lab results from hospitalization (admission 27962747).",
+      "clinical_notes": "De-identified EHR data. ICD codes: V851, 3051, 2720",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10007795_adm28477357@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10007795_28477357.txt",
+      "symptoms": "Patient age 53, F. Lab results from hospitalization (admission 28477357).",
+      "clinical_notes": "De-identified EHR data. ICD codes: 5184, V5867, 2869",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10007818_adm22987108@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10007818_22987108.txt",
+      "symptoms": "Patient age 69, M. Lab results from hospitalization (admission 22987108).",
+      "clinical_notes": "De-identified EHR data. ICD codes: R627, B9561, A4151",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10007928_adm20338077@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10007928_20338077.txt",
+      "symptoms": "Patient age 59, F. Lab results from hospitalization (admission 20338077).",
+      "clinical_notes": "De-identified EHR data. ICD codes: 53240, 53010, 2769",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10008287_adm22168393@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10008287_22168393.txt",
+      "symptoms": "Patient age 43, F. Lab results from hospitalization (admission 22168393).",
+      "clinical_notes": "De-identified EHR data. ICD codes: G40909, Z85850, D1802",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10008454_adm20291550@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10008454_20291550.txt",
+      "symptoms": "Patient age 26, F. Lab results from hospitalization (admission 20291550).",
+      "clinical_notes": "De-identified EHR data. ICD codes: 80704, V5861, 5990",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10009035_adm28324362@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10009035_28324362.txt",
+      "symptoms": "Patient age 28, M. Lab results from hospitalization (admission 28324362).",
+      "clinical_notes": "De-identified EHR data. ICD codes: 4240, V4589, 5121",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10009049_adm22995465@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10009049_22995465.txt",
+      "symptoms": "Patient age 56, M. Lab results from hospitalization (admission 22995465).",
+      "clinical_notes": "De-identified EHR data. ICD codes: 4829, 99592, 2768",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10009628_adm25926192@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10009628_25926192.txt",
+      "symptoms": "Patient age 58, M. Lab results from hospitalization (admission 25926192).",
+      "clinical_notes": "De-identified EHR data. ICD codes: 36201, 2724, 42731",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10010471_adm21322534@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10010471_21322534.txt",
+      "symptoms": "Patient age 89, F. Lab results from hospitalization (admission 21322534).",
+      "clinical_notes": "De-identified EHR data. ICD codes: Z7682, N186, E039",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10010471_adm29842315@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10010471_29842315.txt",
+      "symptoms": "Patient age 89, F. Lab results from hospitalization (admission 29842315).",
+      "clinical_notes": "De-identified EHR data. ICD codes: Z87891, I214, Z9981",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10010867_adm22196214@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10010867_22196214.txt",
+      "symptoms": "Patient age 28, F. Lab results from hospitalization (admission 22196214).",
+      "clinical_notes": "De-identified EHR data. ICD codes: E041, Y92488, V8609XS",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10010867_adm22429197@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10010867_22429197.txt",
+      "symptoms": "Patient age 28, F. Lab results from hospitalization (admission 22429197).",
+      "clinical_notes": "De-identified EHR data. ICD codes: J95851, S22049A, Z781",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10010867_adm22950920@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10010867_22950920.txt",
+      "symptoms": "Patient age 28, F. Lab results from hospitalization (admission 22950920).",
+      "clinical_notes": "De-identified EHR data. ICD codes: Z981, V499XXA, Z6833",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10011398_adm27505812@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10011398_27505812.txt",
+      "symptoms": "Patient age 67, M. Lab results from hospitalization (admission 27505812).",
+      "clinical_notes": "De-identified EHR data. ICD codes: 5641, 60000, V1301",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10012552_adm27089790@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10012552_27089790.txt",
+      "symptoms": "Patient age 78, M. Lab results from hospitalization (admission 27089790).",
+      "clinical_notes": "De-identified EHR data. ICD codes: 41401, 53081, 4019",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10012853_adm20457729@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10012853_20457729.txt",
+      "symptoms": "Patient age 91, F. Lab results from hospitalization (admission 20457729).",
+      "clinical_notes": "De-identified EHR data. ICD codes: J449, I739, E119",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10012853_adm22539296@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10012853_22539296.txt",
+      "symptoms": "Patient age 91, F. Lab results from hospitalization (admission 22539296).",
+      "clinical_notes": "De-identified EHR data. ICD codes: 5853, V8521, 2724",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10012853_adm26369609@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10012853_26369609.txt",
+      "symptoms": "Patient age 91, F. Lab results from hospitalization (admission 26369609).",
+      "clinical_notes": "De-identified EHR data. ICD codes: 4280, 42731, 5990",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10012853_adm27882036@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10012853_27882036.txt",
+      "symptoms": "Patient age 91, F. Lab results from hospitalization (admission 27882036).",
+      "clinical_notes": "De-identified EHR data. ICD codes: J398, M109, I82622",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10013049_adm22675517@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10013049_22675517.txt",
+      "symptoms": "Patient age 52, M. Lab results from hospitalization (admission 22675517).",
+      "clinical_notes": "De-identified EHR data. ICD codes: V173, 53550, 2127",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10014078_adm25809882@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10014078_25809882.txt",
+      "symptoms": "Patient age 60, F. Lab results from hospitalization (admission 25809882).",
+      "clinical_notes": "De-identified EHR data. ICD codes: 1369, 3453, 4019",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10014354_adm22502504@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10014354_22502504.txt",
+      "symptoms": "Patient age 60, M. Lab results from hospitalization (admission 22502504).",
+      "clinical_notes": "De-identified EHR data. ICD codes: C6292, I2510, R0789",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10014354_adm22508257@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10014354_22508257.txt",
+      "symptoms": "Patient age 60, M. Lab results from hospitalization (admission 22508257).",
+      "clinical_notes": "De-identified EHR data. ICD codes: H409, F419, E039",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10014354_adm22741225@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10014354_22741225.txt",
+      "symptoms": "Patient age 60, M. Lab results from hospitalization (admission 22741225).",
+      "clinical_notes": "De-identified EHR data. ICD codes: C9110, M25512, J449",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10014354_adm23132022@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10014354_23132022.txt",
+      "symptoms": "Patient age 60, M. Lab results from hospitalization (admission 23132022).",
+      "clinical_notes": "De-identified EHR data. ICD codes: I309, Z6836, Z7984",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10014354_adm24357615@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10014354_24357615.txt",
+      "symptoms": "Patient age 60, M. Lab results from hospitalization (admission 24357615).",
+      "clinical_notes": "De-identified EHR data. ICD codes: I480, M109, Z794",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10014354_adm24980601@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10014354_24980601.txt",
+      "symptoms": "Patient age 60, M. Lab results from hospitalization (admission 24980601).",
+      "clinical_notes": "De-identified EHR data. ICD codes: Z6837, F09, H409",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10014354_adm26013492@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10014354_26013492.txt",
+      "symptoms": "Patient age 60, M. Lab results from hospitalization (admission 26013492).",
+      "clinical_notes": "De-identified EHR data. ICD codes: N179, E1121, E861",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10014354_adm26173805@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10014354_26173805.txt",
+      "symptoms": "Patient age 60, M. Lab results from hospitalization (admission 26173805).",
+      "clinical_notes": "De-identified EHR data. ICD codes: Z794, E1142, Z8547",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10014354_adm26228185@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10014354_26228185.txt",
+      "symptoms": "Patient age 60, M. Lab results from hospitalization (admission 26228185).",
+      "clinical_notes": "De-identified EHR data. ICD codes: D696, Z950, D509",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10014354_adm26486158@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10014354_26486158.txt",
+      "symptoms": "Patient age 60, M. Lab results from hospitalization (admission 26486158).",
+      "clinical_notes": "De-identified EHR data. ICD codes: Z955, Z7901, M7989",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10014354_adm26722126@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10014354_26722126.txt",
+      "symptoms": "Patient age 60, M. Lab results from hospitalization (admission 26722126).",
+      "clinical_notes": "De-identified EHR data. ICD codes: E119, Z950, E785",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10014354_adm27487226@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10014354_27487226.txt",
+      "symptoms": "Patient age 60, M. Lab results from hospitalization (admission 27487226).",
+      "clinical_notes": "De-identified EHR data. ICD codes: I4892, N179, E1142",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10014354_adm27494880@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10014354_27494880.txt",
+      "symptoms": "Patient age 60, M. Lab results from hospitalization (admission 27494880).",
+      "clinical_notes": "De-identified EHR data. ICD codes: Z7902, G4733, Z950",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10014354_adm27562275@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10014354_27562275.txt",
+      "symptoms": "Patient age 60, M. Lab results from hospitalization (admission 27562275).",
+      "clinical_notes": "De-identified EHR data. ICD codes: Z7901, E1165, E785",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10014354_adm28335091@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10014354_28335091.txt",
+      "symptoms": "Patient age 60, M. Lab results from hospitalization (admission 28335091).",
+      "clinical_notes": "De-identified EHR data. ICD codes: E119, I214, C9110",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10014354_adm29600294@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10014354_29600294.txt",
+      "symptoms": "Patient age 60, M. Lab results from hospitalization (admission 29600294).",
+      "clinical_notes": "De-identified EHR data. ICD codes: I4892, I5032, Z6836",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10014354_adm29757856@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10014354_29757856.txt",
+      "symptoms": "Patient age 60, M. Lab results from hospitalization (admission 29757856).",
+      "clinical_notes": "De-identified EHR data. ICD codes: Z8547, N183, I252",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10014354_adm29780751@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10014354_29780751.txt",
+      "symptoms": "Patient age 60, M. Lab results from hospitalization (admission 29780751).",
+      "clinical_notes": "De-identified EHR data. ICD codes: Z8673, C6292, Z955",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10014729_adm23300884@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10014729_23300884.txt",
+      "symptoms": "Patient age 21, F. Lab results from hospitalization (admission 23300884).",
+      "clinical_notes": "De-identified EHR data. ICD codes: 99832, 33812, E8782",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10014729_adm28889419@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10014729_28889419.txt",
+      "symptoms": "Patient age 21, F. Lab results from hospitalization (admission 28889419).",
+      "clinical_notes": "De-identified EHR data. ICD codes: E8495, 49390, E8798",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10015272_adm27993466@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10015272_27993466.txt",
+      "symptoms": "Patient age 78, F. Lab results from hospitalization (admission 27993466).",
+      "clinical_notes": "De-identified EHR data. ICD codes: I82412, Z9181, I82432",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10015860_adm20790339@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10015860_20790339.txt",
+      "symptoms": "Patient age 53, M. Lab results from hospitalization (admission 20790339).",
+      "clinical_notes": "De-identified EHR data. ICD codes: 3572, 40390, 5853",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10015860_adm20854119@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10015860_20854119.txt",
+      "symptoms": "Patient age 53, M. Lab results from hospitalization (admission 20854119).",
+      "clinical_notes": "De-identified EHR data. ICD codes: 0380, 2720, 27800",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10015860_adm22413744@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10015860_22413744.txt",
+      "symptoms": "Patient age 53, M. Lab results from hospitalization (admission 22413744).",
+      "clinical_notes": "De-identified EHR data. ICD codes: I129, B356, E11621",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10015860_adm22607171@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10015860_22607171.txt",
+      "symptoms": "Patient age 53, M. Lab results from hospitalization (admission 22607171).",
+      "clinical_notes": "De-identified EHR data. ICD codes: N179, E1121, E1165",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10015860_adm24698912@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10015860_24698912.txt",
+      "symptoms": "Patient age 53, M. Lab results from hospitalization (admission 24698912).",
+      "clinical_notes": "De-identified EHR data. ICD codes: D329, E1122, E1165",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10015860_adm25085565@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10015860_25085565.txt",
+      "symptoms": "Patient age 53, M. Lab results from hospitalization (admission 25085565).",
+      "clinical_notes": "De-identified EHR data. ICD codes: 0380, 28529, V707",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10015860_adm25103777@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10015860_25103777.txt",
+      "symptoms": "Patient age 53, M. Lab results from hospitalization (admission 25103777).",
+      "clinical_notes": "De-identified EHR data. ICD codes: T827XXA, N186, E875",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10015860_adm26352758@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10015860_26352758.txt",
+      "symptoms": "Patient age 53, M. Lab results from hospitalization (admission 26352758).",
+      "clinical_notes": "De-identified EHR data. ICD codes: E1142, S72145A, W010XXA",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10015860_adm27670224@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10015860_27670224.txt",
+      "symptoms": "Patient age 53, M. Lab results from hospitalization (admission 27670224).",
+      "clinical_notes": "De-identified EHR data. ICD codes: V1581, 27800, 5859",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10015860_adm28196804@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10015860_28196804.txt",
+      "symptoms": "Patient age 53, M. Lab results from hospitalization (admission 28196804).",
+      "clinical_notes": "De-identified EHR data. ICD codes: K219, T82868A, Y713",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10015860_adm28236161@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10015860_28236161.txt",
+      "symptoms": "Patient age 53, M. Lab results from hospitalization (admission 28236161).",
+      "clinical_notes": "De-identified EHR data. ICD codes: V1582, 2720, 70715",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10015860_adm28613200@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10015860_28613200.txt",
+      "symptoms": "Patient age 53, M. Lab results from hospitalization (admission 28613200).",
+      "clinical_notes": "De-identified EHR data. ICD codes: 70715, V5867, 25080",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10015931_adm22130791@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10015931_22130791.txt",
+      "symptoms": "Patient age 87, M. Lab results from hospitalization (admission 22130791).",
+      "clinical_notes": "De-identified EHR data. ICD codes: I4891, Z953, Z7901",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10015931_adm24420677@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10015931_24420677.txt",
+      "symptoms": "Patient age 87, M. Lab results from hospitalization (admission 24420677).",
+      "clinical_notes": "De-identified EHR data. ICD codes: Z794, N400, Z7902",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10015931_adm28157142@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10015931_28157142.txt",
+      "symptoms": "Patient age 87, M. Lab results from hospitalization (admission 28157142).",
+      "clinical_notes": "De-identified EHR data. ICD codes: I5023, E1122, I350",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10016150_adm29374560@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10016150_29374560.txt",
+      "symptoms": "Patient age 69, M. Lab results from hospitalization (admission 29374560).",
+      "clinical_notes": "De-identified EHR data. ICD codes: E8497, 4254, 5859",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10016742_adm27568122@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10016742_27568122.txt",
+      "symptoms": "Patient age 58, F. Lab results from hospitalization (admission 27568122).",
+      "clinical_notes": "De-identified EHR data. ICD codes: Z434, G1221, J9809",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10016742_adm28506150@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10016742_28506150.txt",
+      "symptoms": "Patient age 58, F. Lab results from hospitalization (admission 28506150).",
+      "clinical_notes": "De-identified EHR data. ICD codes: I959, G1221, R569",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10016742_adm29281842@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10016742_29281842.txt",
+      "symptoms": "Patient age 58, F. Lab results from hospitalization (admission 29281842).",
+      "clinical_notes": "De-identified EHR data. ICD codes: D721, J95851, N179",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10016810_adm20973395@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10016810_20973395.txt",
+      "symptoms": "Patient age 66, F. Lab results from hospitalization (admission 20973395).",
+      "clinical_notes": "De-identified EHR data. ICD codes: 4589, V5866, 3051",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10017492_adm27417763@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10017492_27417763.txt",
+      "symptoms": "Patient age 84, M. Lab results from hospitalization (admission 27417763).",
+      "clinical_notes": "De-identified EHR data. ICD codes: 5849, 5990, 4019",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10017492_adm27672872@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10017492_27672872.txt",
+      "symptoms": "Patient age 84, M. Lab results from hospitalization (admission 27672872).",
+      "clinical_notes": "De-identified EHR data. ICD codes: 43310, 5990, 78469",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10018081_adm21027282@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10018081_21027282.txt",
+      "symptoms": "Patient age 79, M. Lab results from hospitalization (admission 21027282).",
+      "clinical_notes": "De-identified EHR data. ICD codes: 5845, 2720, 2724",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10018081_adm23983182@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10018081_23983182.txt",
+      "symptoms": "Patient age 79, M. Lab results from hospitalization (admission 23983182).",
+      "clinical_notes": "De-identified EHR data. ICD codes: V1582, 99859, 56981",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10018081_adm25973915@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10018081_25973915.txt",
+      "symptoms": "Patient age 79, M. Lab results from hospitalization (admission 25973915).",
+      "clinical_notes": "De-identified EHR data. ICD codes: 2760, 78451, 4240",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10018081_adm28861356@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10018081_28861356.txt",
+      "symptoms": "Patient age 79, M. Lab results from hospitalization (admission 28861356).",
+      "clinical_notes": "De-identified EHR data. ICD codes: 5180, V5861, 99830",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10018328_adm23786647@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10018328_23786647.txt",
+      "symptoms": "Patient age 83, F. Lab results from hospitalization (admission 23786647).",
+      "clinical_notes": "De-identified EHR data. ICD codes: I97131, D62, I10",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10018328_adm26706939@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10018328_26706939.txt",
+      "symptoms": "Patient age 83, F. Lab results from hospitalization (admission 26706939).",
+      "clinical_notes": "De-identified EHR data. ICD codes: G4700, I10, W1830XA",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10018423_adm29366372@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10018423_29366372.txt",
+      "symptoms": "Patient age 37, M. Lab results from hospitalization (admission 29366372).",
+      "clinical_notes": "De-identified EHR data. ICD codes: D62, Z8249, E780",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10018501_adm28479513@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10018501_28479513.txt",
+      "symptoms": "Patient age 83, M. Lab results from hospitalization (admission 28479513).",
+      "clinical_notes": "De-identified EHR data. ICD codes: 29181, 85221, 53081",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10018845_adm21101111@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10018845_21101111.txt",
+      "symptoms": "Patient age 91, M. Lab results from hospitalization (admission 21101111).",
+      "clinical_notes": "De-identified EHR data. ICD codes: 5855, 85220, 78451",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10019003_adm21457723@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10019003_21457723.txt",
+      "symptoms": "Patient age 65, F. Lab results from hospitalization (admission 21457723).",
+      "clinical_notes": "De-identified EHR data. ICD codes: D61818, Z86718, R823",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10019003_adm25508812@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10019003_25508812.txt",
+      "symptoms": "Patient age 65, F. Lab results from hospitalization (admission 25508812).",
+      "clinical_notes": "De-identified EHR data. ICD codes: D735, E119, J811",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10019003_adm26226543@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10019003_26226543.txt",
+      "symptoms": "Patient age 65, F. Lab results from hospitalization (admission 26226543).",
+      "clinical_notes": "De-identified EHR data. ICD codes: N179, E7800, R109",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10019003_adm26529390@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10019003_26529390.txt",
+      "symptoms": "Patient age 65, F. Lab results from hospitalization (admission 26529390).",
+      "clinical_notes": "De-identified EHR data. ICD codes: F419, M351, J9811",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10019003_adm26703331@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10019003_26703331.txt",
+      "symptoms": "Patient age 65, F. Lab results from hospitalization (admission 26703331).",
+      "clinical_notes": "De-identified EHR data. ICD codes: J9601, E119, J449",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10019003_adm27525946@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10019003_27525946.txt",
+      "symptoms": "Patient age 65, F. Lab results from hospitalization (admission 27525946).",
+      "clinical_notes": "De-identified EHR data. ICD codes: Z923, J9601, C946",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10019003_adm28003918@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10019003_28003918.txt",
+      "symptoms": "Patient age 65, F. Lab results from hospitalization (admission 28003918).",
+      "clinical_notes": "De-identified EHR data. ICD codes: V103, 311, 6202",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10019003_adm29279905@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10019003_29279905.txt",
+      "symptoms": "Patient age 65, F. Lab results from hospitalization (admission 29279905).",
+      "clinical_notes": "De-identified EHR data. ICD codes: K259, K264, Z87891",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10019172_adm21540783@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10019172_21540783.txt",
+      "symptoms": "Patient age 63, F. Lab results from hospitalization (admission 21540783).",
+      "clinical_notes": "De-identified EHR data. ICD codes: V641, 3051, 42731",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10019172_adm24997044@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10019172_24997044.txt",
+      "symptoms": "Patient age 63, F. Lab results from hospitalization (admission 24997044).",
+      "clinical_notes": "De-identified EHR data. ICD codes: 42731, 4271, 3051",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10019385_adm20297618@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10019385_20297618.txt",
+      "symptoms": "Patient age 44, M. Lab results from hospitalization (admission 20297618).",
+      "clinical_notes": "De-identified EHR data. ICD codes: F17200, E785, Z955",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10019385_adm20611796@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10019385_20611796.txt",
+      "symptoms": "Patient age 44, M. Lab results from hospitalization (admission 20611796).",
+      "clinical_notes": "De-identified EHR data. ICD codes: Z951, Z955, I25119",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10019568_adm28710730@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10019568_28710730.txt",
+      "symptoms": "Patient age 59, F. Lab results from hospitalization (admission 28710730).",
+      "clinical_notes": "De-identified EHR data. ICD codes: 80707, E8490, E8809",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10019777_adm27738145@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10019777_27738145.txt",
+      "symptoms": "Patient age 51, M. Lab results from hospitalization (admission 27738145).",
+      "clinical_notes": "De-identified EHR data. ICD codes: 99674, 1571, 56889",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10019917_adm22585261@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10019917_22585261.txt",
+      "symptoms": "Patient age 44, M. Lab results from hospitalization (admission 22585261).",
+      "clinical_notes": "De-identified EHR data. ICD codes: 2851, 53240, 53560",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10020187_adm24104168@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10020187_24104168.txt",
+      "symptoms": "Patient age 63, F. Lab results from hospitalization (admission 24104168).",
+      "clinical_notes": "De-identified EHR data. ICD codes: E780, E785, I2510",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10020187_adm26842957@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10020187_26842957.txt",
+      "symptoms": "Patient age 63, F. Lab results from hospitalization (admission 26842957).",
+      "clinical_notes": "De-identified EHR data. ICD codes: Z96651, Z6841, I671",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10020306_adm23052851@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10020306_23052851.txt",
+      "symptoms": "Patient age 74, F. Lab results from hospitalization (admission 23052851).",
+      "clinical_notes": "De-identified EHR data. ICD codes: N170, L0591, G4733",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    },
+    {
+      "user_email": "mimic_10020306_adm26332470@demo.meddiagnose",
+      "lab_report": "reports/mimic_adm_10020306_26332470.txt",
+      "symptoms": "Patient age 74, F. Lab results from hospitalization (admission 26332470).",
+      "clinical_notes": "De-identified EHR data. ICD codes: I509, I2510, E7800",
+      "expected_diagnosis": "",
+      "source": "MIMIC-IV Demo (PhysioNet)"
+    }
+  ],
+  "source": "MIMIC-IV Clinical Database Demo v2.2",
+  "license": "ODbL 1.0"
+}

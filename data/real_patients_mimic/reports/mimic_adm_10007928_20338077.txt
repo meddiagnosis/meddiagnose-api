@@ -1,0 +1,81 @@
+Laboratory Report - MIMIC-IV Demo (De-identified)
+Patient ID: 10007928 | Admission: 20338077 | Age: 59 | Gender: F
+Source: Beth Israel Deaconess Medical Center (de-identified)
+
+Laboratory Results
+--------------------------------------------------
+Leukocytes:
+Protein: 30 mg/dL
+Blood:
+Yeast: NONE
+Granular Casts: 13 #/lpf (Ref: 0-0) [abnormal]
+Specific Gravity: 1.013   (Ref: 1.001-1.035)
+pH: 5.5 units (Ref: 5-8)
+Urobilinogen: 2 mg/dL (Ref: 0.2-1) [abnormal]
+Epithelial Cells: 1 #/hpf
+Glucose:  mg/dL
+Urine Appearance:
+Ketone: 40 mg/dL
+Bilirubin:  mg/dL
+Urine Mucous:
+Nitrite:
+Bacteria:
+Urine Color:
+WBC:  #/hpf (Ref: 0-5)
+RBC: 5 #/hpf (Ref: 0-2) [abnormal]
+Hyaline Casts: 8 #/lpf (Ref: 0-0) [abnormal]
+Microcytes:
+Polychromasia:
+Anisocytosis:
+Macrocytes:
+Poikilocytosis:
+Hypochromia:
+INR(PT): 1.3  (Ref: 0.9-1.1) [abnormal]
+PTT: 28.6 sec (Ref: 25-36.5)
+PT: 13.6 sec (Ref: 9.4-12.5) [abnormal]
+Neutrophils: 85.4 % (Ref: 50-70) [abnormal]
+MCV: 89 fL (Ref: 82-98)
+Basophils: 0.1 % (Ref: 0-2)
+Eosinophils: 0.3 % (Ref: 0-4)
+MCH: 30.4 pg (Ref: 27-32)
+MCHC: 34.1 % (Ref: 31-35)
+Platelet Count: 157 K/uL (Ref: 150-440)
+White Blood Cells: 10.3 K/uL (Ref: 4-11)
+Red Blood Cells: 3.71 m/uL (Ref: 4.2-5.4) [abnormal]
+Lymphocytes: 8.1 % (Ref: 18-42) [abnormal]
+RDW: 11.9 % (Ref: 10.5-15.5)
+Monocytes: 6.0 % (Ref: 2-11)
+Hematocrit: 33.2 % (Ref: 36-48) [abnormal]
+Hemoglobin: 11.3 g/dL (Ref: 12-16) [abnormal]
+Bicarbonate: 22 mEq/L (Ref: 22-32)
+Urea Nitrogen: 16 mg/dL (Ref: 6-20)
+Glucose: ___ mg/dL (Ref: 70-100) [abnormal]
+Potassium: 3.3 mEq/L (Ref: 3.3-5.1)
+Alanine Aminotransferase (ALT): 39 IU/L (Ref: 0-40)
+Calcium, Total: 7.6 mg/dL (Ref: 8.4-10.3) [abnormal]
+Sodium: 132 mEq/L (Ref: 133-145) [abnormal]
+Asparate Aminotransferase (AST): 30 IU/L (Ref: 0-40)
+Bilirubin, Total: 0.5 mg/dL (Ref: 0-1.5)
+Anion Gap: 13 mEq/L (Ref: 8-20)
+Creatinine: 0.8 mg/dL (Ref: 0.4-1.1)
+Phosphate: 2.7 mg/dL (Ref: 2.7-4.5)
+Magnesium: 2.0 mg/dL (Ref: 1.6-2.6)
+Alkaline Phosphatase: 50 IU/L (Ref: 35-105)
+Chloride: 100 mEq/L (Ref: 96-108)
+Lactate: 0.9 mmol/L (Ref: 0.5-2)
+EDTA Hold:
+Salicylate:  mg/dL (Ref: 2-25)
+Albumin: 2.0 g/dL (Ref: 3.5-5.2) [abnormal]
+Blood Parasite Smear: NEGATIVE
+pH: 7.43 units (Ref: 7.35-7.45)
+Calculated Total CO2: 16 mEq/L (Ref: 21-30) [abnormal]
+Specimen Type: ART.
+pCO2: 24 mm Hg (Ref: 35-45) [abnormal]
+pO2: 60 mm Hg (Ref: 85-105) [abnormal]
+Base Excess: -5 mEq/L
+Free Calcium: ___ mmol/L (Ref: 1.12-1.32) [abnormal]
+Red Top Hold:
+Blue Top Hold: HOLD.  DISCARD GREATER THAN 24 HRS OLD.
+Lactate Dehydrogenase (LD): ___ IU/L (Ref: 94-250) [abnormal]
+
+Discharge diagnoses (ICD): 53240, 53010, 2769, 99592, 79902

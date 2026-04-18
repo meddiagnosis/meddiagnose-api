@@ -1,0 +1,43 @@
+Laboratory Report - MIMIC-IV Demo (De-identified)
+Patient ID: 10015860 | Admission: 20854119 | Age: 53 | Gender: M
+Source: Beth Israel Deaconess Medical Center (de-identified)
+
+Laboratory Results
+--------------------------------------------------
+Blue Top Hold: HOLD.  DISCARD GREATER THAN 24 HRS OLD.
+Light Green Top Hold: ___
+Eosinophils: 0.2 % (Ref: 0-4)
+Red Blood Cells: 3.76 m/uL (Ref: 4.6-6.2) [abnormal]
+Basophils: 0.3 % (Ref: 0-2)
+Hematocrit: 30.9 % (Ref: 40-52) [abnormal]
+RDW: 13.2 % (Ref: 10.5-15.5)
+Monocytes: 4.6 % (Ref: 2-11)
+Hemoglobin: 10.6 g/dL (Ref: 14-18) [abnormal]
+MCV: 82 fL (Ref: 82-98)
+White Blood Cells: 17.7 K/uL (Ref: 4-11) [abnormal]
+Platelet Count: 513 K/uL (Ref: 150-440) [abnormal]
+MCHC: 34.5 % (Ref: 31-35)
+MCH: 28.3 pg (Ref: 27-32)
+Neutrophils: 90.0 % (Ref: 50-70) [abnormal]
+Lymphocytes: 4.9 % (Ref: 18-42) [abnormal]
+Estimated GFR (MDRD equation):
+Sodium: 126 mEq/L (Ref: 133-145) [abnormal]
+Anion Gap: 17 mEq/L (Ref: 8-20)
+Creatinine: 2.1 mg/dL (Ref: 0.5-1.2) [abnormal]
+Chloride: 91 mEq/L (Ref: 96-108) [abnormal]
+Potassium: 5.1 mEq/L (Ref: 3.3-5.1)
+Bicarbonate: 23 mEq/L (Ref: 22-32)
+Urea Nitrogen: 32 mg/dL (Ref: 6-20) [abnormal]
+Glucose: ___ mg/dL (Ref: 70-100) [abnormal]
+Lactate: 1.4 mmol/L (Ref: 0.5-2)
+C-Reactive Protein: ___ mg/L (Ref: 0-5) [abnormal]
+Sedimentation Rate: ___ mm/hr (Ref: 0-15) [abnormal]
+PT: 13.9 sec (Ref: 9.4-12.5) [abnormal]
+PTT: 26.8 sec (Ref: 25-36.5)
+INR(PT): 1.3  (Ref: 0.9-1.1) [abnormal]
+Magnesium: 1.6 mg/dL (Ref: 1.6-2.6)
+Phosphate: 3.8 mg/dL (Ref: 2.7-4.5)
+Calcium, Total: 7.8 mg/dL (Ref: 8.4-10.3) [abnormal]
+Vancomycin: 11.8 ug/mL (Ref: 10-20)
+
+Discharge diagnoses (ICD): 0380, 2720, 27800, 5853, 70715

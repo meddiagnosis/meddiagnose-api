@@ -1,0 +1,32 @@
+Laboratory Report - MIMIC-IV Demo (De-identified)
+Patient ID: 10012853 | Admission: 22539296 | Age: 91 | Gender: F
+Source: Beth Israel Deaconess Medical Center (de-identified)
+
+Laboratory Results
+--------------------------------------------------
+RDW-SD: 49.4 fL (Ref: 35.1-46.3) [abnormal]
+Platelet Count: 375 K/uL (Ref: 150-400)
+RDW: 17.3 % (Ref: 10.5-15.5) [abnormal]
+Hematocrit: 29.5 % (Ref: 34-45) [abnormal]
+MCHC: 31.2 g/dL (Ref: 32-37) [abnormal]
+Hemoglobin: 9.2 g/dL (Ref: 11.2-15.7) [abnormal]
+White Blood Cells: 6.4 K/uL (Ref: 4-10)
+MCV: 79 fL (Ref: 82-98) [abnormal]
+MCH: 24.5 pg (Ref: 26-32) [abnormal]
+Red Blood Cells: 3.75 m/uL (Ref: 3.9-5.2) [abnormal]
+Anion Gap: 14 mEq/L (Ref: 8-20)
+Potassium: 3.3 mEq/L (Ref: 3.3-5.1)
+Urea Nitrogen: 28 mg/dL (Ref: 6-20) [abnormal]
+Sodium: 138 mEq/L (Ref: 133-145)
+Chloride: 101 mEq/L (Ref: 96-108)
+Bicarbonate: 26 mEq/L (Ref: 22-32)
+Glucose: ___ mg/dL (Ref: 70-100)
+Creatinine: 1.1 mg/dL (Ref: 0.4-1.1)
+INR(PT): 3.0  (Ref: 0.9-1.1) [abnormal]
+PTT: 34.2 sec (Ref: 25-36.5)
+PT: 33.4 sec (Ref: 9.4-12.5) [abnormal]
+Calcium, Total: 8.8 mg/dL (Ref: 8.4-10.3)
+Phosphate: 2.5 mg/dL (Ref: 2.7-4.5) [abnormal]
+Magnesium: 1.7 mg/dL (Ref: 1.6-2.6)
+
+Discharge diagnoses (ICD): 5853, V8521, 2724, 5589, 73300

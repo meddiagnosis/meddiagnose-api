@@ -1,0 +1,61 @@
+Laboratory Report - MIMIC-IV Demo (De-identified)
+Patient ID: 10018328 | Admission: 23786647 | Age: 83 | Gender: F
+Source: Beth Israel Deaconess Medical Center (de-identified)
+
+Laboratory Results
+--------------------------------------------------
+H: 3
+I: 1
+Troponin T:  ng/mL (Ref: 0-0.01)
+L: 7
+PT: 12.1 sec (Ref: 9.4-12.5)
+INR(PT): 1.1  (Ref: 0.9-1.1)
+PTT: 25.0 sec (Ref: 25-36.5)
+Chloride: 108 mEq/L (Ref: 96-108)
+Anion Gap: 13 mEq/L (Ref: 8-20)
+Glucose: ___ mg/dL (Ref: 70-100) [abnormal]
+Urea Nitrogen: 9 mg/dL (Ref: 6-20)
+Estimated GFR (MDRD equation):
+Potassium: 3.2 mEq/L (Ref: 3.3-5.1) [abnormal]
+Phosphate: 3.7 mg/dL (Ref: 2.7-4.5)
+Creatinine: 0.6 mg/dL (Ref: 0.4-1.1)
+Sodium: 140 mEq/L (Ref: 133-145)
+Calcium, Total: 7.6 mg/dL (Ref: 8.4-10.3) [abnormal]
+Magnesium: 1.6 mg/dL (Ref: 1.6-2.6)
+Bicarbonate: 22 mEq/L (Ref: 22-32)
+Red Blood Cells: 3.09 m/uL (Ref: 3.9-5.2) [abnormal]
+RDW-SD: 43.2 fL (Ref: 35.1-46.3)
+MCV: 88 fL (Ref: 82-98)
+MCH: 28.5 pg (Ref: 26-32)
+Platelet Count: 200 K/uL (Ref: 150-400)
+Hemoglobin: 8.8 g/dL (Ref: 11.2-15.7) [abnormal]
+MCHC: 32.4 g/dL (Ref: 32-37)
+RDW: 13.4 % (Ref: 10.5-15.5)
+Hematocrit: 27.2 % (Ref: 34-45) [abnormal]
+White Blood Cells: 17.8 K/uL (Ref: 4-10) [abnormal]
+Urine Appearance:
+Bilirubin:  mg/dL
+Blood:
+Nitrite:
+Protein:  mg/dL
+Urine Color:
+pH: 6.0 units (Ref: 5-8)
+Leukocytes:
+Urobilinogen:  mg/dL (Ref: 0.2-1)
+Glucose:  mg/dL
+Specific Gravity: 1.048   (Ref: 1.001-1.035) [abnormal]
+Ketone: 10 mg/dL
+Creatine Kinase (CK): ___ IU/L (Ref: 29-201)
+Creatine Kinase, MB Isoenzyme: 1 ng/mL (Ref: 0-10)
+Specimen Type: ART.
+pCO2: 33 mm Hg (Ref: 35-45) [abnormal]
+Lactate: 0.9 mmol/L (Ref: 0.5-2)
+pH: 7.46 units (Ref: 7.35-7.45) [abnormal]
+pO2: 60 mm Hg (Ref: 85-105) [abnormal]
+Calculated Total CO2: 24 mEq/L (Ref: 21-30)
+Base Excess: 0 mEq/L
+Free Calcium: 1.06 mmol/L (Ref: 1.12-1.32) [abnormal]
+Green Top Hold (plasma): HOLD.  DISCARD GREATER THAN 4 HOURS OLD.
+Intubated: NOT INTUBATED.
+
+Discharge diagnoses (ICD): I97131, D62, I10, I9752, J942

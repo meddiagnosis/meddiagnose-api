@@ -1,0 +1,54 @@
+Laboratory Report - MIMIC-IV Demo (De-identified)
+Patient ID: 10004235 | Admission: 25970245 | Age: 47 | Gender: M
+Source: Beth Israel Deaconess Medical Center (de-identified)
+
+Laboratory Results
+--------------------------------------------------
+Specimen Type: ART.
+Intubated: INTUBATED.
+pCO2: 43 mm Hg (Ref: 35-45)
+Base Excess: -4 mEq/L
+pH: 7.30 units (Ref: 7.35-7.45) [abnormal]
+pO2: 258 mm Hg (Ref: 85-105) [abnormal]
+Calculated Total CO2: 22 mEq/L (Ref: 21-30)
+Free Calcium: 1.25 mmol/L (Ref: 1.12-1.32)
+Hemoglobin: 13.3 g/dL (Ref: 14-18) [abnormal]
+Potassium, Whole Blood: 4.3 mEq/L (Ref: 3.3-5.1)
+Lactate: 1.5 mmol/L (Ref: 0.5-2)
+Chloride, Whole Blood: 109 mEq/L (Ref: 96-108) [abnormal]
+Hematocrit, Calculated: 40 %
+Glucose: 134 mg/dL (Ref: 70-105) [abnormal]
+Sodium, Whole Blood: 144 mEq/L (Ref: 133-145)
+Oxygen Saturation: 99 %
+PT: 11.0 sec (Ref: 9.4-12.5)
+PTT: 26.4 sec (Ref: 25-36.5)
+INR(PT): 1.0  (Ref: 0.9-1.1)
+MCHC: 32.6 % (Ref: 31-35)
+Red Blood Cells: 4.30 m/uL (Ref: 4.6-6.2) [abnormal]
+Hemoglobin: 11.8 g/dL (Ref: 14-18) [abnormal]
+RDW: 15.0 % (Ref: 10.5-15.5)
+MCV: 84 fL (Ref: 82-98)
+Platelet Count: 265 K/uL (Ref: 150-440)
+Hematocrit: 36.0 % (Ref: 40-52) [abnormal]
+White Blood Cells: 17.1 K/uL (Ref: 4-11) [abnormal]
+MCH: 27.3 pg (Ref: 27-32)
+Calcium, Total: 9.3 mg/dL (Ref: 8.4-10.3)
+Creatinine: 1.5 mg/dL (Ref: 0.5-1.2) [abnormal]
+Anion Gap: 22 mEq/L (Ref: 8-20) [abnormal]
+Bilirubin, Total: 0.8 mg/dL (Ref: 0-1.5)
+Phosphate: 3.3 mg/dL (Ref: 2.7-4.5)
+Urea Nitrogen: 17 mg/dL (Ref: 6-20)
+Chloride: 107 mEq/L (Ref: 96-108)
+Magnesium: 1.6 mg/dL (Ref: 1.6-2.6)
+Sodium: 142 mEq/L (Ref: 133-145)
+Alanine Aminotransferase (ALT): 120 IU/L (Ref: 0-40) [abnormal]
+Glucose: ___ mg/dL (Ref: 70-100) [abnormal]
+Alkaline Phosphatase: 91 IU/L (Ref: 40-130)
+Bicarbonate: 17 mEq/L (Ref: 22-32) [abnormal]
+Asparate Aminotransferase (AST): 140 IU/L (Ref: 0-40) [abnormal]
+Potassium: 4.1 mEq/L (Ref: 3.3-5.1)
+Estimated GFR (MDRD equation):
+Albumin: 3.5 g/dL (Ref: 3.5-5.2)
+RDW-SD: 44.0 fL (Ref: 35.1-46.3)
+
+Discharge diagnoses (ICD): 57512, V8535, 42789, 27800, 2749

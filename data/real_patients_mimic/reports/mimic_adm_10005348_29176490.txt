@@ -1,0 +1,17 @@
+Laboratory Report - MIMIC-IV Demo (De-identified)
+Patient ID: 10005348 | Admission: 29176490 | Age: 76 | Gender: M
+Source: Beth Israel Deaconess Medical Center (de-identified)
+
+Laboratory Results
+--------------------------------------------------
+Sodium: 136 mEq/L (Ref: 133-145)
+Chloride: 104 mEq/L (Ref: 96-108)
+Potassium: 3.5 mEq/L (Ref: 3.3-5.1)
+Troponin T:  ng/mL (Ref: 0-0.01)
+Platelet Count: 230 K/uL (Ref: 150-440)
+Hematocrit: 35.9 % (Ref: 40-52) [abnormal]
+Urea Nitrogen: 18 mg/dL (Ref: 6-20)
+Creatinine: 0.9 mg/dL (Ref: 0.5-1.2)
+Estimated GFR (MDRD equation):
+
+Discharge diagnoses (ICD): 2724, V5866, 4019, 4139, 41401

@@ -1,0 +1,37 @@
+Laboratory Report - MIMIC-IV Demo (De-identified)
+Patient ID: 10015860 | Admission: 28196804 | Age: 53 | Gender: M
+Source: Beth Israel Deaconess Medical Center (de-identified)
+
+Laboratory Results
+--------------------------------------------------
+RDW-SD: 56.5 fL (Ref: 35.1-46.3) [abnormal]
+MCH: 27.4 pg (Ref: 26-32)
+MCV: 92 fL (Ref: 82-98)
+Hematocrit: 42.9 % (Ref: 40-51)
+MCHC: 29.8 g/dL (Ref: 32-37) [abnormal]
+RDW: 16.8 % (Ref: 10.5-15.5) [abnormal]
+Hemoglobin: 12.8 g/dL (Ref: 13.7-17.5) [abnormal]
+Platelet Count: 258 K/uL (Ref: 150-400)
+Red Blood Cells: 4.67 m/uL (Ref: 4.6-6.1)
+White Blood Cells: 7.6 K/uL (Ref: 4-10)
+Sodium: 140 mEq/L (Ref: 135-147)
+Calcium, Total: 10.2 mg/dL (Ref: 8.4-10.3)
+Creatinine: ___ mg/dL (Ref: 0.5-1.2) [abnormal]
+L: 3
+Glucose: ___ mg/dL (Ref: 70-100) [abnormal]
+Anion Gap: 20 mEq/L (Ref: 10-18) [abnormal]
+Urea Nitrogen: 44 mg/dL (Ref: 6-20) [abnormal]
+Potassium: 5.3 mEq/L (Ref: 3.5-5.4)
+Magnesium: 1.7 mg/dL (Ref: 1.6-2.6)
+I: 0
+Phosphate: 4.6 mg/dL (Ref: 2.7-4.5) [abnormal]
+Chloride: 92 mEq/L (Ref: 96-108) [abnormal]
+H: 7
+Bicarbonate: 28 mEq/L (Ref: 22-32)
+PT: 11.4 sec (Ref: 9.4-12.5)
+PTT: 28.5 sec (Ref: 25-36.5)
+INR(PT): 1.1  (Ref: 0.9-1.1)
+Red Top Hold:
+Vancomycin: 10.4 ug/mL (Ref: 10-20)
+
+Discharge diagnoses (ICD): K219, T82868A, Y713, Z95820, L03114

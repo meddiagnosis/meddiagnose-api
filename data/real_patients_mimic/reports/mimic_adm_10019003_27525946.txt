@@ -1,0 +1,103 @@
+Laboratory Report - MIMIC-IV Demo (De-identified)
+Patient ID: 10019003 | Admission: 27525946 | Age: 65 | Gender: F
+Source: Beth Israel Deaconess Medical Center (de-identified)
+
+Laboratory Results
+--------------------------------------------------
+Hematocrit: 22.5 % (Ref: 34-45) [abnormal]
+Platelet Count: 154 K/uL (Ref: 150-400)
+MCHC: 31.1 g/dL (Ref: 32-37) [abnormal]
+RDW: 19.7 % (Ref: 10.5-15.5) [abnormal]
+RDW-SD: 67.0 fL (Ref: 35.1-46.3) [abnormal]
+White Blood Cells: 51.9 K/uL (Ref: 4-10) [abnormal]
+Red Blood Cells: 2.29 m/uL (Ref: 3.9-5.2) [abnormal]
+MCV: 98 fL (Ref: 82-98)
+Hemoglobin: 7.0 g/dL (Ref: 11.2-15.7) [abnormal]
+MCH: 30.6 pg (Ref: 26-32)
+Alkaline Phosphatase: 37 IU/L (Ref: 35-105)
+Creatinine: 0.8 mg/dL (Ref: 0.4-1.1)
+Calcium, Total: 8.6 mg/dL (Ref: 8.4-10.3)
+Asparate Aminotransferase (AST): 54 IU/L (Ref: 0-40) [abnormal]
+Phosphate: 3.1 mg/dL (Ref: 2.7-4.5)
+Magnesium: 1.8 mg/dL (Ref: 1.6-2.6)
+Urea Nitrogen: 24 mg/dL (Ref: 6-20) [abnormal]
+Bilirubin, Total: 0.4 mg/dL (Ref: 0-1.5)
+Lactate Dehydrogenase (LD): 714 IU/L (Ref: 94-250) [abnormal]
+Potassium: 3.9 mEq/L (Ref: 3.3-5.1)
+Alanine Aminotransferase (ALT): 26 IU/L (Ref: 0-40)
+Sodium: 143 mEq/L (Ref: 133-145)
+Chloride: 113 mEq/L (Ref: 96-108) [abnormal]
+Glucose: ___ mg/dL (Ref: 70-100)
+Anion Gap: 14 mEq/L (Ref: 8-20)
+Bicarbonate: 23 mEq/L (Ref: 22-32)
+Ventilation Rate: /22.
+Specimen Type: ART.
+Tidal Volume: 550
+Oxygen: 40 %
+PEEP: 5
+Intubated: INTUBATED.
+Base Excess: -1 mEq/L
+pCO2: 37 mm Hg (Ref: 35-45)
+Calculated Total CO2: 23 mEq/L (Ref: 21-30)
+pO2: 87 mm Hg (Ref: 85-105)
+pH: 7.39 units (Ref: 7.35-7.45)
+Specific Gravity: 1.022   (Ref: 1.001-1.035)
+pH: 5.0 units (Ref: 5-8)
+Blood:
+Glucose:  mg/dL
+Nitrite:
+Urine Appearance:
+WBC: 3 #/hpf (Ref: 0-5)
+Bacteria:
+Urine Color:
+RBC: 29 #/hpf (Ref: 0-2) [abnormal]
+Protein: 30 mg/dL
+Uric Acid Crystals:
+Urobilinogen:  mg/dL (Ref: 0.2-1)
+Ketone:  mg/dL
+Leukocytes:
+Yeast: NONE
+Epithelial Cells: 0 #/hpf
+Bilirubin:  mg/dL
+Lactate: 0.7 mmol/L (Ref: 0.5-2)
+Temperature: 38.9
+Hematocrit, Calculated: 19 %
+Hemoglobin: 6.2 g/dL (Ref: 12-16) [abnormal]
+PT: 12.3 sec (Ref: 9.4-12.5)
+PTT: 27.3 sec (Ref: 25-36.5)
+INR(PT): 1.1  (Ref: 0.9-1.1)
+Ventilator: SPONTANEOUS.
+Platelet Smear:
+Schistocytes:
+Polychromasia:
+Microcytes:
+Echinocytes:
+Macrocytes:
+Teardrop Cells:
+Hypochromia:
+Anisocytosis:
+Ovalocytes:
+Poikilocytosis:
+Blasts: ___ % (Ref: 0-0) [abnormal]
+Bands: 3 % (Ref: 0-5)
+Monocytes: 1 % (Ref: 5-13) [abnormal]
+Absolute Eosinophil Count: 0.58 K/uL (Ref: 0.04-0.54) [abnormal]
+Atypical Lymphocytes: 0 % (Ref: 0-0)
+Absolute Basophil Count: 0.58 K/uL (Ref: 0.01-0.08) [abnormal]
+Metamyelocytes: 2 % (Ref: 0-0) [abnormal]
+Myelocytes: 4 % (Ref: 0-0) [abnormal]
+Absolute Neutrophil Count: 49.30 K/uL (Ref: 1.6-6.1) [abnormal]
+Neutrophils: ___ % (Ref: 34-71) [abnormal]
+Absolute Lymphocyte Count: 2.32 K/uL (Ref: 1.2-3.7)
+Nucleated Red Cells: 2 % (Ref: 0-0) [abnormal]
+Basophils: 1 % (Ref: 0-1)
+Absolute Monocyte Count: 0.58 K/uL (Ref: 0.2-0.8)
+Promyelocytes: 1 % (Ref: 0-0) [abnormal]
+Eosinophils: ___ % (Ref: 1-7)
+Other Cells: ___ % (Ref: 0-0)
+Lymphocytes: 4 % (Ref: 19-53) [abnormal]
+Vancomycin: 15.4 ug/mL (Ref: 10-20)
+Basophilic Stippling:
+Estimated GFR (MDRD equation):
+
+Discharge diagnoses (ICD): Z923, J9601, C946, Z853, R6521

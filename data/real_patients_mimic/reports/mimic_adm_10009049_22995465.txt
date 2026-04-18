@@ -1,0 +1,71 @@
+Laboratory Report - MIMIC-IV Demo (De-identified)
+Patient ID: 10009049 | Admission: 22995465 | Age: 56 | Gender: M
+Source: Beth Israel Deaconess Medical Center (de-identified)
+
+Laboratory Results
+--------------------------------------------------
+Red Top Hold:
+Magnesium: 1.7 mg/dL (Ref: 1.6-2.6)
+Chloride: 101 mEq/L (Ref: 96-108)
+Sodium: 136 mEq/L (Ref: 133-145)
+Anion Gap: 14 mEq/L (Ref: 8-20)
+Potassium: 3.9 mEq/L (Ref: 3.3-5.1)
+Bicarbonate: 25 mEq/L (Ref: 22-32)
+Creatinine: 1.5 mg/dL (Ref: 0.5-1.2) [abnormal]
+Urea Nitrogen: 27 mg/dL (Ref: 6-20) [abnormal]
+Glucose: ___ mg/dL (Ref: 70-100) [abnormal]
+PT: 16.4 sec (Ref: 9.4-12.5) [abnormal]
+INR(PT): 1.5  (Ref: 0.9-1.1) [abnormal]
+PTT: 33.6 sec (Ref: 25-36.5)
+Fibrinogen, Functional: 815 mg/dL (Ref: 180-400) [abnormal]
+Red Blood Cells: 4.33 m/uL (Ref: 4.6-6.2) [abnormal]
+Platelet Count: 133 K/uL (Ref: 150-440) [abnormal]
+RDW: 12.6 % (Ref: 10.5-15.5)
+MCHC: 33.3 % (Ref: 31-35)
+MCV: 94 fL (Ref: 82-98)
+MCH: 31.3 pg (Ref: 27-32)
+Hematocrit: 40.8 % (Ref: 40-52)
+Hemoglobin: 13.6 g/dL (Ref: 14-18) [abnormal]
+White Blood Cells: 9.4 K/uL (Ref: 4-11)
+Urine Appearance:
+Nitrite:
+Blood:
+Urobilinogen:  mg/dL (Ref: 0.2-1)
+Bilirubin:  mg/dL
+Leukocytes:
+Ketone:  mg/dL
+Protein: 100 mg/dL
+Glucose:  mg/dL
+Urine Color:
+Specific Gravity: 1.028   (Ref: 1.001-1.035)
+pH: 6.0 units (Ref: 5-8)
+Problem Specimen:
+Length of Urine Collection:
+Osmolality, Urine: 969 mOsm/kg
+Fibrin Degradation Products: 10-40 ug/mL (Ref: 0-10) [abnormal]
+Sodium, Urine: 10 mEq/L
+Potassium, Urine:  mEq/L
+Chloride, Urine: 38 mEq/L
+Calcium, Total: 7.1 mg/dL (Ref: 8.4-10.3) [abnormal]
+Phosphate: 1.4 mg/dL (Ref: 2.7-4.5) [abnormal]
+Epithelial Cells: 0 #/hpf
+Urine Mucous:
+RBC: 7 #/hpf (Ref: 0-2) [abnormal]
+WBC: 3 #/hpf (Ref: 0-5)
+Yeast: NONE
+Bacteria:
+Monocytes: 2.8 % (Ref: 2-11)
+Neutrophils: 91.6 % (Ref: 50-70) [abnormal]
+Eosinophils: 0.8 % (Ref: 0-4)
+Basophils: 0.2 % (Ref: 0-2)
+Lymphocytes: 4.7 % (Ref: 18-42) [abnormal]
+Lactate: ___ mmol/L (Ref: 0.5-2)
+Haptoglobin: 290 mg/dL (Ref: 30-200) [abnormal]
+Bilirubin, Direct: 0.1 mg/dL (Ref: 0-0.3)
+Bilirubin, Indirect: 0.2 mg/dL
+Bilirubin, Total: 0.3 mg/dL (Ref: 0-1.5)
+Asparate Aminotransferase (AST): 22 IU/L (Ref: 0-40)
+Lactate Dehydrogenase (LD): 228 IU/L (Ref: 94-250)
+Vancomycin: 11.5 ug/mL (Ref: 10-20)
+
+Discharge diagnoses (ICD): 4829, 99592, 2768, 0388, 78791

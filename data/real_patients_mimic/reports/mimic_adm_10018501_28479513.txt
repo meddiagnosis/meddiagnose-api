@@ -1,0 +1,32 @@
+Laboratory Report - MIMIC-IV Demo (De-identified)
+Patient ID: 10018501 | Admission: 28479513 | Age: 83 | Gender: M
+Source: Beth Israel Deaconess Medical Center (de-identified)
+
+Laboratory Results
+--------------------------------------------------
+Creatine Kinase (CK): ___ IU/L (Ref: 47-322)
+Urea Nitrogen: 20 mg/dL (Ref: 6-20)
+Potassium: 3.7 mEq/L (Ref: 3.3-5.1)
+Anion Gap: 13 mEq/L (Ref: 8-20)
+Phosphate: 2.0 mg/dL (Ref: 2.7-4.5) [abnormal]
+Chloride: 104 mEq/L (Ref: 96-108)
+Calcium, Total: 9.4 mg/dL (Ref: 8.4-10.3)
+Bicarbonate: 27 mEq/L (Ref: 22-32)
+Sodium: 140 mEq/L (Ref: 133-145)
+Creatinine: 1.4 mg/dL (Ref: 0.5-1.2) [abnormal]
+Magnesium: 1.7 mg/dL (Ref: 1.6-2.6)
+Glucose: ___ mg/dL (Ref: 70-100) [abnormal]
+MCH: 33.2 pg (Ref: 27-32) [abnormal]
+Platelet Count: 144 K/uL (Ref: 150-440) [abnormal]
+Hemoglobin: 13.5 g/dL (Ref: 14-18) [abnormal]
+MCHC: 34.8 % (Ref: 31-35)
+RDW: 13.2 % (Ref: 10.5-15.5)
+Hematocrit: 38.9 % (Ref: 40-52) [abnormal]
+MCV: 95 fL (Ref: 82-98)
+Red Blood Cells: 4.08 m/uL (Ref: 4.6-6.2) [abnormal]
+White Blood Cells: 8.1 K/uL (Ref: 4-11)
+INR(PT): 1.0  (Ref: 0.9-1.1)
+PT: 11.0 sec (Ref: 9.4-12.5)
+PTT: 40.0 sec (Ref: 25-36.5) [abnormal]
+
+Discharge diagnoses (ICD): 29181, 85221, 53081, E8150, 2749

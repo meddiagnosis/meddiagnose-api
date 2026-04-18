@@ -1,0 +1,77 @@
+Laboratory Report - MIMIC-IV Demo (De-identified)
+Patient ID: 10005866 | Admission: 20364112 | Age: 57 | Gender: M
+Source: Beth Israel Deaconess Medical Center (de-identified)
+
+Laboratory Results
+--------------------------------------------------
+Glucose: ___ mg/dL (Ref: 70-100) [abnormal]
+Potassium: 4.2 mEq/L (Ref: 3.3-5.1)
+I: 2
+Sodium: ___ mEq/L (Ref: 135-147)
+Asparate Aminotransferase (AST): 33 IU/L (Ref: 0-40)
+H: 5
+INR(PT): 2.1  (Ref: 0.9-1.1) [abnormal]
+Calcium, Total: 6.8 mg/dL (Ref: 8.4-10.3) [abnormal]
+Chloride: 108 mEq/L (Ref: 96-108)
+Creatinine: 0.6 mg/dL (Ref: 0.5-1.2)
+PT: 23.1 sec (Ref: 9.4-12.5) [abnormal]
+Urea Nitrogen: 17 mg/dL (Ref: 6-20)
+PTT: 40.5 sec (Ref: 25-36.5) [abnormal]
+Alkaline Phosphatase: 62 IU/L (Ref: 40-130)
+Anion Gap: ___ mEq/L (Ref: 10-18)
+Phosphate: 3.7 mg/dL (Ref: 2.7-4.5)
+Bilirubin, Total: 2.1 mg/dL (Ref: 0-1.5) [abnormal]
+Alanine Aminotransferase (ALT): 15 IU/L (Ref: 0-40)
+Magnesium: 1.7 mg/dL (Ref: 1.6-2.6)
+Bicarbonate: 19 mEq/L (Ref: 22-32) [abnormal]
+L: 6
+Red Blood Cells: 2.72 m/uL (Ref: 4.6-6.1) [abnormal]
+RDW-SD: 57.3 fL (Ref: 35.1-46.3) [abnormal]
+MCH: 34.6 pg (Ref: 26-32) [abnormal]
+MCV: 106 fL (Ref: 82-98) [abnormal]
+Hematocrit: ___ % (Ref: 40-51) [abnormal]
+MCHC: 32.5 g/dL (Ref: 32-37)
+Platelet Count: 216 K/uL (Ref: 150-400)
+White Blood Cells: 22.8 K/uL (Ref: 4-10) [abnormal]
+Hemoglobin: 9.4 g/dL (Ref: 13.7-17.5) [abnormal]
+RDW: 14.9 % (Ref: 10.5-15.5)
+Lactate: ___ mmol/L (Ref: 0.5-2)
+Absolute Eosinophil Count: 0.01 K/uL (Ref: 0.04-0.54) [abnormal]
+Absolute Basophil Count: 0.01 K/uL (Ref: 0.01-0.08)
+Neutrophils: 81.6 % (Ref: 34-71) [abnormal]
+Absolute Neutrophil Count: 9.80 K/uL (Ref: 1.6-6.1) [abnormal]
+Immature Granulocytes: ___ % (Ref: 0-0.6) [abnormal]
+Basophils: 0.1 % (Ref: 0-1)
+Absolute Lymphocyte Count: 0.82 K/uL (Ref: 1.2-3.7) [abnormal]
+Absolute Monocyte Count: 1.26 K/uL (Ref: 0.2-0.8) [abnormal]
+Eosinophils: 0.1 % (Ref: 1-7) [abnormal]
+Monocytes: 10.5 % (Ref: 5-13)
+Lymphocytes: 6.8 % (Ref: 19-53) [abnormal]
+Specimen Type: ART.
+Intubated: NOT INTUBATED.
+pH: 7.40 units (Ref: 7.35-7.45)
+Hematocrit, Calculated: 24 %
+Base Excess: -1 mEq/L
+Free Calcium: 1.03 mmol/L (Ref: 1.12-1.32) [abnormal]
+pCO2: 36 mm Hg (Ref: 35-45)
+Calculated Total CO2: 23 mEq/L (Ref: 21-30)
+pO2: 79 mm Hg (Ref: 85-105) [abnormal]
+Hemoglobin: 8.0 g/dL (Ref: 14-18) [abnormal]
+Lipase: 85 IU/L (Ref: 0-60) [abnormal]
+Albumin: 2.7 g/dL (Ref: 3.5-5.2) [abnormal]
+Lactate Dehydrogenase (LD): 167 IU/L (Ref: 94-250)
+Vancomycin: 15.7 ug/mL (Ref: 10-20)
+Creatine Kinase, MB Isoenzyme: 4 ng/mL (Ref: 0-10)
+Creatine Kinase (CK): ___ IU/L (Ref: 47-322)
+Troponin T:  ng/mL (Ref: 0-0.01)
+Estimated GFR (MDRD equation):
+Triglycerides: 36 mg/dL (Ref: 0-149)
+Platelet Smear:  N/A [abnormal]
+Monocytes: 0 % (Ref: 0-0)
+Lymphocytes: 2 % (Ref: 0-0) [abnormal]
+Polys: 83 % (Ref: 0-0) [abnormal]
+Macrophage: ___ % (Ref: 0-0) [abnormal]
+Total Nucleated Cells, Ascites: 2194 #/uL (Ref: 0-0) [abnormal]
+RBC, Ascites: 5770 #/uL (Ref: 0-0) [abnormal]
+
+Discharge diagnoses (ICD): K766, K660, Z515, D688, Z66

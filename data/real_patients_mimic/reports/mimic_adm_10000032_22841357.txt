@@ -1,0 +1,54 @@
+Laboratory Report - MIMIC-IV Demo (De-identified)
+Patient ID: 10000032 | Admission: 22841357 | Age: 52 | Gender: F
+Source: Beth Israel Deaconess Medical Center (de-identified)
+
+Laboratory Results
+--------------------------------------------------
+Nitrite:
+RBC: 1 #/hpf (Ref: 0-2)
+Bilirubin:  mg/dL
+Specific Gravity: 1.023   (Ref: 1.001-1.035)
+Glucose:  mg/dL
+Transitional Epithelial Cells:  #/hpf
+Epithelial Cells: 5 #/hpf
+Bacteria:
+Blood:
+pH: 6.0 units (Ref: 5-8)
+Urine Appearance:
+Yeast: NONE
+Leukocytes:
+Urine Color:
+Urobilinogen:  mg/dL (Ref: 0.2-1)
+Ketone:  mg/dL
+Urine Mucous:
+Protein:  mg/dL
+WBC: 13 #/hpf (Ref: 0-5) [abnormal]
+Phosphate: 3.3 mg/dL (Ref: 2.7-4.5)
+Asparate Aminotransferase (AST): 158 IU/L (Ref: 0-40) [abnormal]
+Urea Nitrogen: 29 mg/dL (Ref: 6-20) [abnormal]
+Bilirubin, Total: 1.2 mg/dL (Ref: 0-1.5)
+Albumin: 2.7 g/dL (Ref: 3.5-5.2) [abnormal]
+Creatinine: 0.3 mg/dL (Ref: 0.4-1.1) [abnormal]
+Glucose: ___ mg/dL (Ref: 70-100)
+Chloride: 92 mEq/L (Ref: 96-108) [abnormal]
+Calcium, Total: 7.8 mg/dL (Ref: 8.4-10.3) [abnormal]
+Alkaline Phosphatase: 110 IU/L (Ref: 35-105) [abnormal]
+Bicarbonate: 25 mEq/L (Ref: 22-32)
+Magnesium: 1.9 mg/dL (Ref: 1.6-2.6)
+Potassium: 5.2 mEq/L (Ref: 3.3-5.1) [abnormal]
+Alanine Aminotransferase (ALT): 117 IU/L (Ref: 0-40) [abnormal]
+Anion Gap: 14 mEq/L (Ref: 8-20)
+Sodium: 126 mEq/L (Ref: 133-145) [abnormal]
+White Blood Cells: 6.6 K/uL (Ref: 4-11)
+RDW: 15.7 % (Ref: 10.5-15.5) [abnormal]
+Hematocrit: 35.5 % (Ref: 36-48) [abnormal]
+Platelet Count: 137 K/uL (Ref: 150-440) [abnormal]
+Hemoglobin: 12.4 g/dL (Ref: 12-16)
+Red Blood Cells: 3.60 m/uL (Ref: 4.2-5.4) [abnormal]
+MCV: 99 fL (Ref: 82-98) [abnormal]
+MCHC: 35.0 % (Ref: 31-35)
+MCH: 34.5 pg (Ref: 27-32) [abnormal]
+PT: 16.3 sec (Ref: 9.4-12.5) [abnormal]
+INR(PT): 1.5  (Ref: 0.9-1.1) [abnormal]
+
+Discharge diagnoses (ICD): 2761, V08, 2875, 3051, 5715

@@ -1,0 +1,33 @@
+FROM nvidia/cuda:12.4.1-runtime-ubuntu22.04
+
+ENV PYTHONDONTWRITEBYTECODE=1 \
+    PYTHONUNBUFFERED=1 \
+    DEBIAN_FRONTEND=noninteractive
+
+RUN apt-get update && apt-get install -y --no-install-recommends \
+    python3.12 python3.12-venv python3-pip curl libpq-dev && \
+    rm -rf /var/lib/apt/lists/*
+
+WORKDIR /app
+
+COPY requirements.txt .
+COPY requirements-gpu.txt .
+RUN pip3 install --no-cache-dir -r requirements.txt -r requirements-gpu.txt
+
+COPY . .
+
+RUN adduser --disabled-password --gecos '' gpuuser && \
+    mkdir -p /app/uploads && chown -R gpuuser:gpuuser /app
+USER gpuuser
+
+EXPOSE 8001
+
+HEALTHCHECK --interval=30s --timeout=10s --retries=3 \
+    CMD curl -f http://localhost:8001/health || exit 1
+
+CMD ["gunicorn", "app.inference_worker:app", \
+     "-w", "1", \
+     "-k", "uvicorn.workers.UvicornWorker", \
+     "--bind", "0.0.0.0:8001", \
+     "--timeout", "300", \
+     "--graceful-timeout", "60"]

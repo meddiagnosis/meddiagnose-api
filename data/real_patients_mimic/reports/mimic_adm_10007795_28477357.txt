@@ -1,0 +1,85 @@
+Laboratory Report - MIMIC-IV Demo (De-identified)
+Patient ID: 10007795 | Admission: 28477357 | Age: 53 | Gender: F
+Source: Beth Israel Deaconess Medical Center (de-identified)
+
+Laboratory Results
+--------------------------------------------------
+MCHC: 31.3 % (Ref: 31-35)
+Basophils: 0.4 % (Ref: 0-2)
+RDW: 13.9 % (Ref: 10.5-15.5)
+Red Blood Cells: 3.28 m/uL (Ref: 4.2-5.4) [abnormal]
+Hematocrit: 29.2 % (Ref: 36-48) [abnormal]
+Platelet Count: 304 K/uL (Ref: 150-440)
+Eosinophils: 4.2 % (Ref: 0-4) [abnormal]
+Monocytes: 11.6 % (Ref: 2-11) [abnormal]
+White Blood Cells: 3.7 K/uL (Ref: 4-11) [abnormal]
+Lymphocytes: 23.3 % (Ref: 18-42)
+MCV: 89 fL (Ref: 82-98)
+Neutrophils: 60.5 % (Ref: 50-70)
+Hemoglobin: 9.1 g/dL (Ref: 12-16) [abnormal]
+MCH: 27.8 pg (Ref: 27-32)
+Magnesium: 1.6 mg/dL (Ref: 1.6-2.6)
+Asparate Aminotransferase (AST): 30 IU/L (Ref: 0-40)
+Sodium: 139 mEq/L (Ref: 133-145)
+Lipase: 73 IU/L (Ref: 0-60) [abnormal]
+Creatinine: 0.3 mg/dL (Ref: 0.4-1.1) [abnormal]
+Urea Nitrogen: 5 mg/dL (Ref: 6-20) [abnormal]
+Alanine Aminotransferase (ALT): 24 IU/L (Ref: 0-40)
+Glucose: ___ mg/dL (Ref: 70-100)
+Phosphate: 3.9 mg/dL (Ref: 2.7-4.5)
+Potassium: 3.4 mEq/L (Ref: 3.3-5.1)
+Calcium, Total: 8.7 mg/dL (Ref: 8.4-10.3)
+Bicarbonate: 28 mEq/L (Ref: 22-32)
+Lactate Dehydrogenase (LD): 154 IU/L (Ref: 94-250)
+Anion Gap: 12 mEq/L (Ref: 8-20)
+Alkaline Phosphatase: 93 IU/L (Ref: 35-105)
+Estimated GFR (MDRD equation):
+Chloride: 102 mEq/L (Ref: 96-108)
+Bilirubin, Total: 0.3 mg/dL (Ref: 0-1.5)
+PT: 13.9 sec (Ref: 9.4-12.5) [abnormal]
+INR(PT): 1.3  (Ref: 0.9-1.1) [abnormal]
+PTT: 23.5 sec (Ref: 25-36.5) [abnormal]
+Triglycerides: ___ mg/dL (Ref: 0-149)
+Amylase, Body Fluid: 26800 IU/L
+Miscellaneous, Body Fluid:
+Carcinoembyronic Antigen (CEA):  ng/mL (Ref: 0-4)
+Specific Gravity: 1.012   (Ref: 1.001-1.035)
+Bacteria:
+Blood:
+pH: 7.0 units (Ref: 5-8)
+Glucose:  mg/dL
+Transitional Epithelial Cells:  #/hpf
+Urine Color:
+WBC: 7 #/hpf (Ref: 0-5) [abnormal]
+Nitrite:
+RBC: 2 #/hpf (Ref: 0-2)
+Urine Mucous:
+Urine Appearance:
+Urobilinogen:  mg/dL (Ref: 0.2-1)
+Epithelial Cells: 2 #/hpf
+Bilirubin:  mg/dL
+Leukocytes:
+Protein:  mg/dL
+Ketone:  mg/dL
+Yeast: NONE
+Problem Specimen:
+Voided Specimen:
+Vancomycin: 14.3 ug/mL (Ref: 10-20)
+Albumin: 2.4 g/dL (Ref: 3.5-5.2) [abnormal]
+NTproBNP: ___ pg/mL (Ref: 0-192) [abnormal]
+Creatine Kinase, MB Isoenzyme: 1 ng/mL (Ref: 0-10)
+Troponin T:  ng/mL (Ref: 0-0.01)
+Creatine Kinase (CK): ___ IU/L (Ref: 29-201) [abnormal]
+Metamyelocytes: 1 % (Ref: 0-0) [abnormal]
+Atypical Lymphocytes: 0 % (Ref: 0-0)
+Myelocytes: 1 % (Ref: 0-0) [abnormal]
+Bands: 0 % (Ref: 0-5)
+Anisocytosis:
+Poikilocytosis:
+Hypochromia:
+Polychromasia:
+Macrocytes:
+Microcytes:
+Platelet Smear:
+
+Discharge diagnoses (ICD): 5184, V5867, 2869, 5180, 28529

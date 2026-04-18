@@ -1,0 +1,82 @@
+Laboratory Report - MIMIC-IV Demo (De-identified)
+Patient ID: 10014078 | Admission: 25809882 | Age: 60 | Gender: F
+Source: Beth Israel Deaconess Medical Center (de-identified)
+
+Laboratory Results
+--------------------------------------------------
+Length of Urine Collection:
+Methadone, Urine: NEG
+Amphetamine Screen, Urine: NEG
+Cocaine, Urine: NEG
+Barbiturate Screen, Urine: NEG
+Opiate Screen, Urine: NEG
+Benzodiazepine Screen, Urine: POS
+Urine Appearance:
+Ketone:  mg/dL
+Urine Color:
+Bilirubin:  mg/dL
+Protein:  mg/dL
+Hyaline Casts: 4 #/lpf (Ref: 0-0) [abnormal]
+Urobilinogen:  mg/dL (Ref: 0.2-1)
+Nitrite:
+pH: 5.0 units (Ref: 5-8)
+Glucose:  mg/dL
+Epithelial Cells:  #/hpf
+Specific Gravity: 1.014   (Ref: 1.001-1.035)
+Yeast: NONE
+Leukocytes:
+WBC: 2 #/hpf (Ref: 0-5)
+Bacteria:
+Urine Mucous:
+Blood:
+RBC: 5 #/hpf (Ref: 0-2) [abnormal]
+Magnesium: 1.6 mg/dL (Ref: 1.6-2.6)
+Bicarbonate: 21 mEq/L (Ref: 22-32) [abnormal]
+Glucose: ___ mg/dL (Ref: 70-100) [abnormal]
+Creatinine: 0.6 mg/dL (Ref: 0.4-1.1)
+Sodium: 139 mEq/L (Ref: 133-145)
+Calcium, Total: 8.1 mg/dL (Ref: 8.4-10.3) [abnormal]
+Potassium: 3.5 mEq/L (Ref: 3.3-5.1)
+Anion Gap: 15 mEq/L (Ref: 8-20)
+Phosphate: 2.8 mg/dL (Ref: 2.7-4.5)
+Urea Nitrogen: 8 mg/dL (Ref: 6-20)
+Chloride: 107 mEq/L (Ref: 96-108)
+RDW: 13.7 % (Ref: 10.5-15.5)
+White Blood Cells: 6.9 K/uL (Ref: 4-11)
+Platelet Count: 201 K/uL (Ref: 150-440)
+Hemoglobin: 11.5 g/dL (Ref: 12-16) [abnormal]
+Red Blood Cells: 4.32 m/uL (Ref: 4.2-5.4)
+Hematocrit: 32.9 % (Ref: 36-48) [abnormal]
+MCH: 26.6 pg (Ref: 27-32) [abnormal]
+MCHC: 34.9 % (Ref: 31-35)
+MCV: 76 fL (Ref: 82-98) [abnormal]
+Monocytes: 0 %
+Macrophage: 21 %
+Lymphs: 52 %
+Polys: 27 %
+RBC, CSF: 1 #/uL (Ref: 0-0) [abnormal]
+Total Nucleated Cells, CSF: ___ #/uL
+Glucose, CSF: 66 mg/dL
+Total Protein, CSF: 75 mg/dL (Ref: 15-45) [abnormal]
+Osmolality, Measured: 296 mOsm/kg (Ref: 275-310)
+Calculated Total CO2: 21 mEq/L (Ref: 21-30)
+pCO2: 35 mm Hg (Ref: 35-45)
+pH: 7.37 units (Ref: 7.35-7.45)
+Specimen Type: ART.
+Free Calcium: 1.05 mmol/L (Ref: 1.12-1.32) [abnormal]
+pO2: 144 mm Hg (Ref: 85-105) [abnormal]
+Base Excess: -3 mEq/L
+Lactate: 0.8 mmol/L (Ref: 0.5-2)
+Osmolality, Urine: 306 mOsm/kg
+Bicarbonate, Urine:  mEq/L
+Chloride, Urine: 75 mEq/L
+Potassium, Urine: 41 mEq/L
+Urea Nitrogen, Urine: 208 mg/dL
+Creatinine, Urine: 37 mg/dL
+Sodium, Urine: 59 mEq/L
+Phenytoin: 13.8 ug/mL (Ref: 10-20)
+Urine tube, held: HOLD.  SPECIMEN TO BE HELD 48 HOURS AND DISCARDED.
+Albumin: 3.5 g/dL (Ref: 3.5-5.2)
+Vancomycin: 5.2 ug/mL (Ref: 10-20) [abnormal]
+
+Discharge diagnoses (ICD): 1369, 3453, 4019, 34830, 2724

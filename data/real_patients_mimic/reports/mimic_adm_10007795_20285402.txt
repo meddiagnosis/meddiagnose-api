@@ -1,0 +1,33 @@
+Laboratory Report - MIMIC-IV Demo (De-identified)
+Patient ID: 10007795 | Admission: 20285402 | Age: 53 | Gender: F
+Source: Beth Israel Deaconess Medical Center (de-identified)
+
+Laboratory Results
+--------------------------------------------------
+Calcium, Total: 8.7 mg/dL (Ref: 8.4-10.3)
+Urea Nitrogen: 8 mg/dL (Ref: 6-20)
+Glucose: ___ mg/dL (Ref: 70-100)
+Bicarbonate: 29 mEq/L (Ref: 22-32)
+Magnesium: 1.8 mg/dL (Ref: 1.6-2.6)
+Anion Gap: 12 mEq/L (Ref: 8-20)
+Chloride: 99 mEq/L (Ref: 96-108)
+Sodium: 136 mEq/L (Ref: 133-145)
+Phosphate: 3.4 mg/dL (Ref: 2.7-4.5)
+Creatinine: 0.4 mg/dL (Ref: 0.4-1.1)
+Potassium: 3.6 mEq/L (Ref: 3.3-5.1)
+Platelet Count: 276 K/uL (Ref: 150-440)
+Red Blood Cells: 3.74 m/uL (Ref: 4.2-5.4) [abnormal]
+MCH: 27.7 pg (Ref: 27-32)
+Hemoglobin: 10.4 g/dL (Ref: 12-16) [abnormal]
+MCV: 83 fL (Ref: 82-98)
+MCHC: 33.4 % (Ref: 31-35)
+Hematocrit: 31.1 % (Ref: 36-48) [abnormal]
+RDW: 15.8 % (Ref: 10.5-15.5) [abnormal]
+INR(PT): 1.3  (Ref: 0.9-1.1) [abnormal]
+PT: 14.5 sec (Ref: 9.4-12.5) [abnormal]
+PTT: 28.3 sec (Ref: 25-36.5)
+White Blood Cells: 12.5 K/uL (Ref: 4-11) [abnormal]
+Albumin: 3.0 g/dL (Ref: 3.5-5.2) [abnormal]
+Vancomycin:  ug/mL (Ref: 10-20)
+
+Discharge diagnoses (ICD): 00845, 1179, V103, 04109, 2720

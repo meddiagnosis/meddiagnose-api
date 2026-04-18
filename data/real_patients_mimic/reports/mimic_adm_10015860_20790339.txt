@@ -1,0 +1,60 @@
+Laboratory Report - MIMIC-IV Demo (De-identified)
+Patient ID: 10015860 | Admission: 20790339 | Age: 53 | Gender: M
+Source: Beth Israel Deaconess Medical Center (de-identified)
+
+Laboratory Results
+--------------------------------------------------
+Blue Top Hold: HOLD.  DISCARD GREATER THAN 24 HRS OLD.
+Light Green Top Hold: ___
+Albumin: 3.8 g/dL (Ref: 3.5-5.2)
+Lipase: 171 IU/L (Ref: 0-60) [abnormal]
+Phosphate: 2.8 mg/dL (Ref: 2.7-4.5)
+Urea Nitrogen: 47 mg/dL (Ref: 6-20) [abnormal]
+Bilirubin, Total: 0.6 mg/dL (Ref: 0-1.5)
+Magnesium: 1.6 mg/dL (Ref: 1.6-2.6)
+Glucose: ___ mg/dL (Ref: 70-100) [abnormal]
+Creatinine: 2.7 mg/dL (Ref: 0.5-1.2) [abnormal]
+Bicarbonate: 21 mEq/L (Ref: 22-32) [abnormal]
+Alanine Aminotransferase (ALT): 21 IU/L (Ref: 0-40)
+Potassium: 5.3 mEq/L (Ref: 3.3-5.1) [abnormal]
+Chloride: 91 mEq/L (Ref: 96-108) [abnormal]
+Calcium, Total: 9.2 mg/dL (Ref: 8.4-10.3)
+Sodium: 127 mEq/L (Ref: 133-145) [abnormal]
+Alkaline Phosphatase: 123 IU/L (Ref: 40-130)
+Asparate Aminotransferase (AST): 25 IU/L (Ref: 0-40)
+Estimated GFR (MDRD equation):
+Anion Gap: 20 mEq/L (Ref: 8-20)
+C-Reactive Protein: ___ mg/L (Ref: 0-5) [abnormal]
+Lymphocytes: 3.7 % (Ref: 18-42) [abnormal]
+Hemoglobin: 10.5 g/dL (Ref: 14-18) [abnormal]
+MCV: 83 fL (Ref: 82-98)
+MCHC: 34.7 % (Ref: 31-35)
+White Blood Cells: 11.9 K/uL (Ref: 4-11) [abnormal]
+Neutrophils: 92.2 % (Ref: 50-70) [abnormal]
+Red Blood Cells: 3.67 m/uL (Ref: 4.6-6.2) [abnormal]
+Eosinophils: 0.6 % (Ref: 0-4)
+Basophils: 0.7 % (Ref: 0-2)
+RDW: 14.0 % (Ref: 10.5-15.5)
+Monocytes: 2.8 % (Ref: 2-11)
+MCH: 28.7 pg (Ref: 27-32)
+Hematocrit: 30.3 % (Ref: 40-52) [abnormal]
+Platelet Count: 262 K/uL (Ref: 150-440)
+Base Excess: 0 mEq/L
+pH: 7.49 units (Ref: 7.35-7.45) [abnormal]
+Calculated Total CO2: 21 mEq/L (Ref: 21-30)
+pCO2: 27 mm Hg (Ref: 35-45) [abnormal]
+pO2: ___ mm Hg (Ref: 85-105) [abnormal]
+Specimen Type: VEN.
+Lactate: 2.4 mmol/L (Ref: 0.5-2) [abnormal]
+INR(PT): 1.2  (Ref: 0.9-1.1) [abnormal]
+PT: 13.1 sec (Ref: 9.4-12.5) [abnormal]
+PTT: 28.3 sec (Ref: 25-36.5)
+Length of Urine Collection:
+Osmolality, Urine: 400 mOsm/kg
+Potassium, Urine: 33 mEq/L
+Creatinine, Urine: 84 mg/dL
+Sodium, Urine: 46 mEq/L
+Chloride, Urine: 37 mEq/L
+Urea Nitrogen, Urine: 506 mg/dL
+
+Discharge diagnoses (ICD): 3572, 40390, 5853, 5849, 78701

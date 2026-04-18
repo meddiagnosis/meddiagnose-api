@@ -1,0 +1,26 @@
+Metabolic Panel & CBC (Migraine Workup)
+Patient: Nisha Reddy | DOB: 2002-02-17 | Female
+Lab: Metropolis Healthcare | Date: 2025-03-13
+Referring: Dr. Priya Mehta
+
+=== COMPLETE BLOOD COUNT ===
+Hemoglobin: 12.8 g/dL (Ref: 12-16)
+RBC: 4.6 M/uL (Ref: 4.5-5.5)
+WBC: 7,200 /uL (Ref: 4000-11000)
+Platelets: 265,000 /uL
+
+=== METABOLIC PANEL ===
+FBS: 88 mg/dL (Ref: 70-100)
+Creatinine: 0.7 mg/dL (Ref: 0.6-1.2)
+Electrolytes: Within normal limits
+
+=== THYROID ===
+TSH: 2.4 mIU/L (Ref: 0.4-4.0)
+Free T4: 1.2 ng/dL (Ref: 0.8-1.8)
+
+=== VITAMIN D ===
+25-OH Vitamin D: 32 ng/mL (Ref: 30-100) [Low-normal]
+
+Impression: All labs within normal limits. No metabolic cause for headache identified.
+Clinical: Severe unilateral headache, nausea, photophobia, phonophobia - classic migraine.
+Recommend: Triptan for acute attacks. Consider prophylactic if frequent. Rule out secondary causes if red flags.

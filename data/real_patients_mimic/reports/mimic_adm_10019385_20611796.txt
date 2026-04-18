@@ -1,0 +1,62 @@
+Laboratory Report - MIMIC-IV Demo (De-identified)
+Patient ID: 10019385 | Admission: 20611796 | Age: 44 | Gender: M
+Source: Beth Israel Deaconess Medical Center (de-identified)
+
+Laboratory Results
+--------------------------------------------------
+Green Top Hold (plasma): HOLD.  DISCARD GREATER THAN 4 HOURS OLD.
+L: 18
+I: 0
+H: 7
+Troponin T:  ng/mL (Ref: 0-0.01)
+Creatinine: 1.1 mg/dL (Ref: 0.5-1.2)
+Urea Nitrogen: 17 mg/dL (Ref: 6-20)
+Chloride: 102 mEq/L (Ref: 96-108)
+Potassium: ___ mEq/L (Ref: 3.3-5.1) [abnormal]
+Estimated GFR (MDRD equation):
+Glucose: ___ mg/dL (Ref: 70-100) [abnormal]
+Bicarbonate: 24 mEq/L (Ref: 22-32)
+Sodium: 138 mEq/L (Ref: 133-145)
+Anion Gap: 17 mEq/L (Ref: 8-20)
+Microcytes:
+Poikilocytosis:
+Metamyelocytes: 0 % (Ref: 0-0)
+Absolute Neutrophil Count: 6.22 K/uL (Ref: 1.6-6.1) [abnormal]
+Eosinophils: 2 % (Ref: 1-7)
+Polychromasia:
+Macrocytes:
+Absolute Monocyte Count: 0.92 K/uL (Ref: 0.2-0.8) [abnormal]
+Basophils: 0 % (Ref: 0-1)
+Atypical Lymphocytes: 0 % (Ref: 0-0)
+Absolute Lymphocyte Count: 2.86 K/uL (Ref: 1.2-3.7)
+Monocytes: 9 % (Ref: 5-13)
+Anisocytosis:
+Myelocytes: 0 % (Ref: 0-0)
+Lymphocytes: 28 % (Ref: 19-53)
+Bands: 0 % (Ref: 0-5)
+Platelet Smear:
+Absolute Basophil Count: 0.00 K/uL (Ref: 0.01-0.08) [abnormal]
+Hypochromia:
+Absolute Eosinophil Count: 0.20 K/uL (Ref: 0.04-0.54)
+Neutrophils: 61 % (Ref: 34-71)
+PTT: 27.2 sec (Ref: 25-36.5)
+INR(PT): 1.1  (Ref: 0.9-1.1)
+PT: 12.4 sec (Ref: 9.4-12.5)
+MCH: 28.8 pg (Ref: 26-32)
+Red Blood Cells: 3.85 m/uL (Ref: 4.6-6.1) [abnormal]
+Hemoglobin: 11.1 g/dL (Ref: 13.7-17.5) [abnormal]
+RDW-SD: 44.8 fL (Ref: 35.1-46.3)
+MCHC: 31.4 g/dL (Ref: 32-37) [abnormal]
+Platelet Count: 392 K/uL (Ref: 150-400)
+RDW: 13.3 % (Ref: 10.5-15.5)
+MCV: 92 fL (Ref: 82-98)
+Hematocrit: 35.4 % (Ref: 40-51) [abnormal]
+White Blood Cells: 10.2 K/uL (Ref: 4-10) [abnormal]
+Potassium, Whole Blood: ___ mEq/L (Ref: 3.3-5.1)
+Calcium, Total: 9.3 mg/dL (Ref: 8.4-10.3)
+Creatine Kinase, MB Isoenzyme: 2 ng/mL (Ref: 0-10)
+Phosphate: 4.8 mg/dL (Ref: 2.7-4.5) [abnormal]
+Magnesium: 1.9 mg/dL (Ref: 1.6-2.6)
+Creatine Kinase (CK): ___ IU/L (Ref: 47-322)
+
+Discharge diagnoses (ICD): Z951, Z955, I25119, E785, Z8249

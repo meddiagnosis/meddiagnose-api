@@ -1,0 +1,65 @@
+Laboratory Report - MIMIC-IV Demo (De-identified)
+Patient ID: 10017492 | Admission: 27672872 | Age: 84 | Gender: M
+Source: Beth Israel Deaconess Medical Center (de-identified)
+
+Laboratory Results
+--------------------------------------------------
+Urobilinogen:  mg/dL (Ref: 0.2-1)
+Leukocytes:
+Bacteria:
+Urine Color:
+Bilirubin:  mg/dL
+Urine Mucous:
+Yeast: NONE
+Protein:  mg/dL
+RBC: 10 #/hpf (Ref: 0-2) [abnormal]
+WBC: 18 #/hpf (Ref: 0-5) [abnormal]
+Specific Gravity: 1.010   (Ref: 1.001-1.035)
+pH: 7.5 units (Ref: 5-8)
+Blood:
+Ketone:  mg/dL
+Glucose:  mg/dL
+Urine Appearance:
+Epithelial Cells: 1 #/hpf
+Nitrite:
+Hemoglobin: 12.9 g/dL (Ref: 14-18) [abnormal]
+Hematocrit: 36.2 % (Ref: 40-52) [abnormal]
+MCH: 32.3 pg (Ref: 27-32) [abnormal]
+MCV: 90 fL (Ref: 82-98)
+White Blood Cells: 9.1 K/uL (Ref: 4-11)
+Platelet Count: 304 K/uL (Ref: 150-440)
+RDW: 13.6 % (Ref: 10.5-15.5)
+MCHC: 35.7 % (Ref: 31-35) [abnormal]
+Red Blood Cells: 4.00 m/uL (Ref: 4.6-6.2) [abnormal]
+Folate:  ng/mL (Ref: 2-20)
+Vitamin B12: 509 pg/mL (Ref: 240-900)
+PTT: 28.4 sec (Ref: 22-35)
+INR(PT): 1.1  (Ref: 0.9-1.1)
+PT: 13.4 sec (Ref: 10.4-13.4)
+Potassium: 5.0 mEq/L (Ref: 3.3-5.1)
+Phosphate: 3.1 mg/dL (Ref: 2.7-4.5)
+Calcium, Total: 8.7 mg/dL (Ref: 8.4-10.3)
+Magnesium: 2.0 mg/dL (Ref: 1.6-2.6)
+Glucose: ___ mg/dL (Ref: 70-100)
+Sodium: 136 mEq/L (Ref: 133-145)
+Anion Gap: 14 mEq/L (Ref: 8-20)
+Creatinine: 1.3 mg/dL (Ref: 0.5-1.2) [abnormal]
+Urea Nitrogen: 22 mg/dL (Ref: 6-20) [abnormal]
+Bicarbonate: 23 mEq/L (Ref: 22-32)
+Chloride: 104 mEq/L (Ref: 96-108)
+Length of Urine Collection:
+Potassium, Urine: 51 mEq/L
+Chloride, Urine: 195 mEq/L
+Sodium, Urine: 189 mEq/L
+Protein/Creatinine Ratio: 0.3 Ratio (Ref: 0-0.2) [abnormal]
+Creatinine, Urine: 69 mg/dL
+Total Protein, Urine: 18 mg/dL
+Glucose, CSF: 58 mg/dL
+Total Protein, CSF: 40 mg/dL (Ref: 15-45)
+Lymphs: 68 %
+Monocytes: 32 %
+Polys: ___ %
+RBC, CSF: 1 #/uL (Ref: 0-0) [abnormal]
+Total Nucleated Cells, CSF: ___ #/uL
+
+Discharge diagnoses (ICD): 43310, 5990, 78469, 78830, 2859

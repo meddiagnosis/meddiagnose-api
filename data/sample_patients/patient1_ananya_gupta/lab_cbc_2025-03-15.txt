@@ -1,0 +1,22 @@
+Complete Blood Count (CBC) & Basic Metabolic Panel
+Patient: Ananya Gupta | DOB: 1995-01-20 | Female
+Lab: City Diagnostics | Date: 2025-03-15
+Referring: Dr. Priya Mehta
+
+=== COMPLETE BLOOD COUNT ===
+Hemoglobin (Hb): 11.8 g/dL (Ref: 12-16) [LOW]
+RBC: 4.2 M/uL (Ref: 4.5-5.5) [LOW]
+WBC: 12,500 /uL (Ref: 4000-11000) [HIGH]
+Platelets: 245,000 /uL (Ref: 150000-400000)
+Neutrophils: 78%
+Lymphocytes: 18%
+ESR: 28 mm/hr (Ref: 0-20) [HIGH]
+
+=== METABOLIC PANEL ===
+FBS (Fasting Blood Sugar): 95 mg/dL (Ref: 70-100)
+Creatinine: 0.8 mg/dL (Ref: 0.6-1.2)
+BUN: 14 mg/dL (Ref: 7-20)
+
+Impression: Leukocytosis with neutrophilia, mild anemia. Elevated ESR.
+Clinical correlation: Fever, fatigue, body ache - suggests viral/bacterial infection.
+Allergies: Penicillin, Sulfa drugs - AVOID in prescriptions.

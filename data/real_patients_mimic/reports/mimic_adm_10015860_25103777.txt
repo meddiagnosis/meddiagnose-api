@@ -1,0 +1,79 @@
+Laboratory Report - MIMIC-IV Demo (De-identified)
+Patient ID: 10015860 | Admission: 25103777 | Age: 53 | Gender: M
+Source: Beth Israel Deaconess Medical Center (de-identified)
+
+Laboratory Results
+--------------------------------------------------
+Hepatitis B Surface Antibody:  N/A
+HPE3: 1.79
+Hepatitis B Surface Antigen:  N/A
+HPE2:
+Hepatitis B Virus Core Antibody:  N/A
+HPE1: 0.435
+Vancomycin: 15.2 ug/mL (Ref: 10-20)
+Red Blood Cells: 3.59 m/uL (Ref: 4.6-6.1) [abnormal]
+Hematocrit: 31.7 % (Ref: 40-51) [abnormal]
+RDW: 13.0 % (Ref: 10.5-15.5)
+MCH: 28.7 pg (Ref: 26-32)
+MCV: 88 fL (Ref: 82-98)
+Hemoglobin: 10.3 g/dL (Ref: 13.7-17.5) [abnormal]
+White Blood Cells: 9.5 K/uL (Ref: 4-10)
+Platelet Count: 194 K/uL (Ref: 150-400)
+MCHC: 32.5 g/dL (Ref: 32-37)
+RDW-SD: 41.5 fL (Ref: 35.1-46.3)
+PTT: 25.1 sec (Ref: 25-36.5)
+PT: 9.8 sec (Ref: 9.4-12.5)
+INR(PT): 0.9  (Ref: 0.9-1.1)
+Creatinine: 6.3 mg/dL (Ref: 0.5-1.2) [abnormal]
+Bilirubin, Total: 0.2 mg/dL (Ref: 0-1.5)
+Albumin: 3.3 g/dL (Ref: 3.5-5.2) [abnormal]
+Calcium, Total: 9.1 mg/dL (Ref: 8.4-10.3)
+Magnesium: 2.1 mg/dL (Ref: 1.6-2.6)
+Anion Gap: ___ mEq/L (Ref: 10-18)
+H: 3
+Chloride: 94 mEq/L (Ref: 96-108) [abnormal]
+Asparate Aminotransferase (AST): 18 IU/L (Ref: 0-40)
+I: 0
+Alkaline Phosphatase: 95 IU/L (Ref: 40-130)
+L: 19
+Sodium: ___ mEq/L (Ref: 135-147)
+Lactate Dehydrogenase (LD): 212 IU/L (Ref: 94-250)
+Potassium: 5.2 mEq/L (Ref: 3.3-5.1) [abnormal]
+Glucose: ___ mg/dL (Ref: 70-100) [abnormal]
+Phosphate: 3.9 mg/dL (Ref: 2.7-4.5)
+Bicarbonate: 26 mEq/L (Ref: 22-32)
+Alanine Aminotransferase (ALT): 22 IU/L (Ref: 0-40)
+Urea Nitrogen: 53 mg/dL (Ref: 6-20) [abnormal]
+Potassium, Whole Blood: ___ mEq/L (Ref: 3.3-5.1)
+Urine Mucous:  /hpf [abnormal]
+pH: 8.0 units (Ref: 5-8)
+Epithelial Cells: 0 #/hpf
+Ketone:  mg/dL (Ref: 0-0)
+Specific Gravity: 1.011   (Ref: 1.001-1.035)
+Urine Color:  N/A
+Bacteria:  /hpf
+Blood:  N/A
+Urobilinogen:  mg/dL (Ref: 0.2-1)
+Protein: 300 mg/dL (Ref: 0-0) [abnormal]
+Leukocytes:  N/A
+Nitrite:  N/A
+Urine Appearance:  N/A
+WBC:  #/hpf (Ref: 0-5)
+RBC: 0 #/hpf (Ref: 0-2)
+Bilirubin:  N/A
+Glucose: 300 mg/dL (Ref: 0-0) [abnormal]
+Yeast: NONE /hpf
+Absolute Monocyte Count: 1.03 K/uL (Ref: 0.2-0.8) [abnormal]
+Neutrophils: 56.3 % (Ref: 34-71)
+Absolute Eosinophil Count: 0.35 K/uL (Ref: 0.04-0.54)
+Absolute Neutrophil Count: 5.36 K/uL (Ref: 1.6-6.1)
+Monocytes: 10.8 % (Ref: 5-13)
+Basophils: 0.8 % (Ref: 0-1)
+Eosinophils: 3.7 % (Ref: 1-7)
+Immature Granulocytes: ___ % (Ref: 0-0.6) [abnormal]
+Absolute Basophil Count: 0.08 K/uL (Ref: 0.01-0.08)
+Absolute Lymphocyte Count: 2.60 K/uL (Ref: 1.2-3.7)
+Lymphocytes: 27.3 % (Ref: 19-53)
+C-Reactive Protein: 11.5 mg/L (Ref: 0-5) [abnormal]
+
+Discharge diagnoses (ICD): T827XXA, N186, E875, I330, Z89421

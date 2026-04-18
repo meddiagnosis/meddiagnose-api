@@ -1,0 +1,59 @@
+Laboratory Report - MIMIC-IV Demo (De-identified)
+Patient ID: 10016742 | Admission: 28506150 | Age: 58 | Gender: F
+Source: Beth Israel Deaconess Medical Center (de-identified)
+
+Laboratory Results
+--------------------------------------------------
+Creatine Kinase (CK): ___ IU/L (Ref: 29-201)
+L: 8
+H: 6
+I: 1
+Creatine Kinase, MB Isoenzyme: 5 ng/mL (Ref: 0-10)
+Troponin T: ___ ng/mL (Ref: 0-0.01) [abnormal]
+Magnesium: 1.9 mg/dL (Ref: 1.6-2.6)
+Potassium: 3.8 mEq/L (Ref: 3.3-5.1)
+Anion Gap: 13 mEq/L (Ref: 8-20)
+Bicarbonate: 25 mEq/L (Ref: 22-32)
+Calcium, Total: 9.0 mg/dL (Ref: 8.4-10.3)
+Creatinine: 0.5 mg/dL (Ref: 0.4-1.1)
+Phosphate: 2.6 mg/dL (Ref: 2.7-4.5) [abnormal]
+Urea Nitrogen: 24 mg/dL (Ref: 6-20) [abnormal]
+Sodium: 142 mEq/L (Ref: 133-145)
+Glucose: ___ mg/dL (Ref: 70-100) [abnormal]
+Chloride: 108 mEq/L (Ref: 96-108)
+Hemoglobin: 9.6 g/dL (Ref: 11.2-15.7) [abnormal]
+Platelet Count: 469 K/uL (Ref: 150-400) [abnormal]
+MCHC: 31.5 g/dL (Ref: 32-37) [abnormal]
+MCV: 84 fL (Ref: 82-98)
+RDW-SD: 44.2 fL (Ref: 35.1-46.3)
+MCH: 26.4 pg (Ref: 26-32)
+RDW: 14.6 % (Ref: 10.5-15.5)
+Hematocrit: 30.5 % (Ref: 34-45) [abnormal]
+Red Blood Cells: 3.63 m/uL (Ref: 3.9-5.2) [abnormal]
+White Blood Cells: 9.7 K/uL (Ref: 4-10)
+Absolute Eosinophil Count: 0.46 K/uL (Ref: 0.04-0.54)
+Basophils: 0.5 % (Ref: 0-1)
+Absolute Neutrophil Count: 11.91 K/uL (Ref: 1.6-6.1) [abnormal]
+Absolute Monocyte Count: 0.50 K/uL (Ref: 0.2-0.8)
+Neutrophils: 75.2 % (Ref: 34-71) [abnormal]
+Monocytes: 3.2 % (Ref: 5-13) [abnormal]
+Lymphocytes: 17.8 % (Ref: 19-53) [abnormal]
+Immature Granulocytes: 0.4 %
+Absolute Lymphocyte Count: 2.81 K/uL (Ref: 1.2-3.7)
+Absolute Basophil Count: 0.08 K/uL (Ref: 0.01-0.08)
+Eosinophils: 2.9 % (Ref: 1-7)
+Reticulocyte Count, Automated: 1.6 % (Ref: 0.4-2)
+Reticulocyte Count, Absolute: 0.05 m/uL (Ref: 0.02-0.1)
+Lactate Dehydrogenase (LD): 204 IU/L (Ref: 94-250)
+Bilirubin, Total: 0.3 mg/dL (Ref: 0-1.5)
+Estimated GFR (MDRD equation):
+Iron: 13 ug/dL (Ref: 30-160) [abnormal]
+Ferritin: 279 ng/mL (Ref: 13-150) [abnormal]
+Iron Binding Capacity, Total: 226 ug/dL (Ref: 260-470) [abnormal]
+Transferrin: 174 mg/dL (Ref: 200-360) [abnormal]
+Haptoglobin: 200 mg/dL (Ref: 30-200)
+PT: 12.9 sec (Ref: 9.4-12.5) [abnormal]
+INR(PT): 1.2  (Ref: 0.9-1.1) [abnormal]
+PTT: 36.3 sec (Ref: 25-36.5)
+
+Discharge diagnoses (ICD): I959, G1221, R569, I10, I319

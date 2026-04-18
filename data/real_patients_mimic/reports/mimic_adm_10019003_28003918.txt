@@ -1,0 +1,34 @@
+Laboratory Report - MIMIC-IV Demo (De-identified)
+Patient ID: 10019003 | Admission: 28003918 | Age: 65 | Gender: F
+Source: Beth Israel Deaconess Medical Center (de-identified)
+
+Laboratory Results
+--------------------------------------------------
+RDW: 14.8 % (Ref: 10.5-15.5)
+MCHC: 33.9 % (Ref: 31-35)
+Neutrophils: 73.2 % (Ref: 50-70) [abnormal]
+Eosinophils: 0.3 % (Ref: 0-4)
+Hemoglobin: 11.3 g/dL (Ref: 12-16) [abnormal]
+Lymphocytes: 17.7 % (Ref: 18-42) [abnormal]
+Platelet Count: 170 K/uL (Ref: 150-440)
+MCV: 95 fL (Ref: 82-98)
+Monocytes: 8.5 % (Ref: 2-11)
+Basophils: 0.3 % (Ref: 0-2)
+MCH: 32.3 pg (Ref: 27-32) [abnormal]
+Hematocrit: 33.3 % (Ref: 36-48) [abnormal]
+White Blood Cells: 10.3 K/uL (Ref: 4-11)
+Red Blood Cells: 3.50 m/uL (Ref: 4.2-5.4) [abnormal]
+Phosphate: 2.5 mg/dL (Ref: 2.7-4.5) [abnormal]
+Calcium, Total: 8.4 mg/dL (Ref: 8.4-10.3)
+Urea Nitrogen: 14 mg/dL (Ref: 6-20)
+Magnesium: 2.2 mg/dL (Ref: 1.6-2.6)
+Sodium: 141 mEq/L (Ref: 133-145)
+Creatinine: 1.1 mg/dL (Ref: 0.4-1.1)
+Bicarbonate: 30 mEq/L (Ref: 22-32)
+Potassium: 4.6 mEq/L (Ref: 3.3-5.1)
+Glucose: ___ mg/dL (Ref: 70-100) [abnormal]
+Anion Gap: 13 mEq/L (Ref: 8-20)
+Estimated GFR (MDRD equation):
+Chloride: 103 mEq/L (Ref: 96-108)
+
+Discharge diagnoses (ICD): V103, 311, 6202, 2724, 4019

@@ -1,0 +1,77 @@
+Laboratory Report - MIMIC-IV Demo (De-identified)
+Patient ID: 10017492 | Admission: 27417763 | Age: 84 | Gender: M
+Source: Beth Israel Deaconess Medical Center (de-identified)
+
+Laboratory Results
+--------------------------------------------------
+Urine Appearance:
+Protein: 30 mg/dL
+Specific Gravity: 1.011   (Ref: 1.001-1.035)
+Yeast: NONE
+Glucose:  mg/dL
+Leukocytes:
+Urine Color:
+WBC: 68 #/hpf (Ref: 0-5) [abnormal]
+Bacteria:
+Bilirubin:  mg/dL
+Ketone:  mg/dL
+Blood:
+WBC Clumps:
+Hyaline Casts: 10 #/lpf (Ref: 0-0) [abnormal]
+Epithelial Cells: 0 #/hpf
+pH: 5.5 units (Ref: 5-8)
+Urobilinogen:  mg/dL (Ref: 0.2-1)
+Nitrite:
+Urine Mucous:
+RBC: 14 #/hpf (Ref: 0-2) [abnormal]
+PT: 11.1 sec (Ref: 9.4-12.5)
+INR(PT): 1.0  (Ref: 0.9-1.1)
+PTT: 23.7 sec (Ref: 25-36.5) [abnormal]
+Potassium: 4.7 mEq/L (Ref: 3.3-5.1)
+Creatine Kinase (CK): ___ IU/L (Ref: 47-322)
+Magnesium: 2.5 mg/dL (Ref: 1.6-2.6)
+Chloride: 114 mEq/L (Ref: 96-108) [abnormal]
+Phosphate: 3.9 mg/dL (Ref: 2.7-4.5)
+Creatinine: 2.4 mg/dL (Ref: 0.5-1.2) [abnormal]
+Bicarbonate: 23 mEq/L (Ref: 22-32)
+Sodium: 149 mEq/L (Ref: 133-145) [abnormal]
+Anion Gap: 17 mEq/L (Ref: 8-20)
+Urea Nitrogen: 81 mg/dL (Ref: 6-20) [abnormal]
+Calcium, Total: 9.0 mg/dL (Ref: 8.4-10.3)
+Glucose: ___ mg/dL (Ref: 70-100) [abnormal]
+Hemoglobin: 8.4 g/dL (Ref: 14-18) [abnormal]
+MCV: 98 fL (Ref: 82-98)
+Platelet Count: 357 K/uL (Ref: 150-440)
+Hematocrit: 26.8 % (Ref: 40-52) [abnormal]
+Red Blood Cells: 2.72 m/uL (Ref: 4.6-6.2) [abnormal]
+MCH: 30.8 pg (Ref: 27-32)
+MCHC: 31.3 % (Ref: 31-35)
+RDW: 13.8 % (Ref: 10.5-15.5)
+White Blood Cells: 6.6 K/uL (Ref: 4-11)
+Thyroid Stimulating Hormone: 16 uIU/mL (Ref: 0.27-4.2) [abnormal]
+Length of Urine Collection:
+Osmolality, Urine: 477 mOsm/kg
+Calcium, Urine: ___ mg/dL
+Sodium, Urine: 40 mEq/L
+Creatinine, Urine: 56 mg/dL
+Chloride, Urine: 56 mEq/L
+Potassium, Urine: 51 mEq/L
+Bicarbonate, Urine:  mEq/L
+Thyroxine (T4), Free: 1.0 ng/dL (Ref: 0.93-1.7)
+Albumin: 3.2 g/dL (Ref: 3.5-5.2) [abnormal]
+Ferritin: 299 ng/mL (Ref: 30-400)
+Transferrin: 181 mg/dL (Ref: 200-360) [abnormal]
+Iron: 29 ug/dL (Ref: 45-160) [abnormal]
+Iron Binding Capacity, Total: 235 ug/dL (Ref: 260-470) [abnormal]
+Estimated GFR (MDRD equation):
+Temperature: 37.6
+Intubated: NOT INTUBATED.
+Specimen Type: VEN.
+Calculated Total CO2: 23 mEq/L (Ref: 21-30)
+pH: 7.27 units (Ref: 7.35-7.45) [abnormal]
+pCO2: 49 mm Hg (Ref: 35-45) [abnormal]
+Base Excess: -4 mEq/L
+pO2: 70 mm Hg (Ref: 85-105) [abnormal]
+Lactate: ___ mmol/L (Ref: 0.5-2) [abnormal]
+
+Discharge diagnoses (ICD): 5849, 5990, 4019, 79902, 78830
